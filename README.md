@@ -1,10 +1,13 @@
 # Fundraising Buddy
 
-A searchable investor database and fundraising workspace, maintained with Claude Code or Codex.
+This is a work-in-progress. The goal of this project is to provide a knowledge database and a workspace for a fundraising process. Contains a starter investor database that can be maintained with any AI model to help coordinate pitching, feedback, and correspondence with investors.
+
+<img width="1329" height="1035" alt="Screenshot 2026-10-03 at 14 36 42" src="https://github.com/user-attachments/assets/0059f9d1-f169-4e8f-9bd7-b1094155008d" />
+
 
 ## Product direction
 
-Build a large, well-sourced database of funds, contacts, and investment information, present it in a useful web application, and help a company generate lists of investors to approach. The linked wiki and fundraising workflows should support the work from initial research through outreach, meetings, follow-ups, and round tracking.
+Build a well-sourced database of funds, contacts, and investment information, present it in a useful web application, and help a company generate lists of investors to approach. The linked wiki and fundraising workflows should support the work from initial research through outreach, meetings, follow-ups, and round tracking.
 
 The core journey is: describe a company and its round, discover suitable investors, review the evidence and relevant contacts, save a prospect list, then track conversations and next actions in the private workspace.
 
