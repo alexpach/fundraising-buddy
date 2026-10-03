@@ -1,0 +1,34 @@
+name: fundraising-buddy
+services:
+  viewer:
+    build: .
+    image: fundraising-buddy:local
+    user: "${FB_UID:-10001}:${FB_GID:-10001}"
+    ports:
+      - "127.0.0.1:10013:10013"
+    volumes:
+      - type: bind
+        source: ./workspace
+        target: /app/workspace
+        read_only: true
+        bind:
+          create_host_path: false
+      - type: bind
+        source: ./workspace/shortlists
+        target: /app/workspace/shortlists
+        bind:
+          create_host_path: false
+    read_only: true
+    tmpfs:
+      - /tmp:size=16m,mode=1777
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:10013/api/catalog', timeout=5).close()"]
+      interval: 30s
+      timeout: 10s
+      start_period: 10s
+      retries: 3

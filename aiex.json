@@ -1,0 +1,6 @@
+{
+  "emoji": "💸",
+  "pages": [
+    { "label": "fundraising-buddy", "url": "http://localhost:10013/" }
+  ]
+}

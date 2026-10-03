@@ -1,0 +1,14 @@
+# Allowlist build inputs. Never send a workspace, credentials, or caches to Docker.
+**
+!Dockerfile
+!pyproject.toml
+!uv.lock
+!README.md
+!LICENSE
+!src/
+!src/**
+!data/
+!data/public/
+!data/public/**
+**/__pycache__/
+**/*.pyc

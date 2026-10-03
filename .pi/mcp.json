@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "spectrum-ui": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@spectrumui/mcp@0.1.1"
+      ],
+      "exposure": "direct",
+      "description": "Browse, search, and retrieve Spectrum UI components; component installation requires an explicit request."
+    }
+  }
+}

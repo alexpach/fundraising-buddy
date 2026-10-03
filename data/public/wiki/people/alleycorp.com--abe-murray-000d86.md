@@ -1,0 +1,11 @@
+# Abe Murray
+
+[[public/firms/alleycorp.com|Firm profile]]
+
+Role: General Partner
+
+Focus: Not recorded
+
+## Public sources
+
+- [Source](https://alleycorp.com/team/)

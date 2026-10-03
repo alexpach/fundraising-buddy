@@ -1,0 +1,19 @@
+name: fundraising-buddy-tests
+services:
+  test-viewer:
+    build: .
+    image: fundraising-buddy:test
+    command: ["python3", "tools/test_viewer.py"]
+    ports:
+      - "127.0.0.1:${FB_TEST_PORT:-10015}:${FB_TEST_PORT:-10015}"
+    volumes:
+      - ./tools/test_viewer.py:/app/tools/test_viewer.py:ro
+    environment:
+      FB_TEST_PORT: ${FB_TEST_PORT:-10015}
+    read_only: true
+    tmpfs:
+      - /app/tmp:uid=10001,gid=10001,mode=0700
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
