@@ -1,5 +1,5 @@
 ---
-jev-score: 55
+jev-score: 69
 ---
 
 # Greensoil PropTech Ventures
@@ -10,18 +10,20 @@ Domain: gspv.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/greensoil-proptech-ventures), as of 2026-04-19)
-- **Stages:** series-a, series-b ([source](https://www.crunchbase.com/organization/greensoil-proptech-ventures), as of 2026-04-19)
 - **Geographies:** us, global ([source](https://www.crunchbase.com/organization/greensoil-proptech-ventures), as of 2026-04-19)
-- **Sectors:** proptech, climate, built-environment, energy, construction-tech ([source](https://www.crunchbase.com/organization/greensoil-proptech-ventures), as of 2026-04-19)
-- **Leads rounds:** unknown ([source](https://www.gspv.vc), as of not recorded)
 - **About:** Greensoil PropTech Ventures is a Canadian venture capital firm focused on "digitizing and decarbonizing the built environment," with roots in real estate and a first fund launched in 2015. The team invests across proptech, construction tech, building decarbonization, solar/storage, and indoor environmental quality in North America and internationally. ([source](https://www.crunchbase.com/organization/greensoil-proptech-ventures), as of 2026-04-19)
+- **Type:** venture capital ([source](https://www.gspv.vc/news/greensoil-proptech-ventures-announces-initial-closing-of-its-usd-100-million-fund-ii-backed-by-institutional-and-real-estate-investors), as of 2021-03-15)
+- **Investment strategies:** PropTech, ClimateTech, built environment technology ([source](https://www.gspv.vc/news/greensoil-proptech-ventures-announces-initial-closing-of-its-usd-100-million-fund-ii-backed-by-institutional-and-real-estate-investors), as of 2021-03-15)
+- **Stages:** early-stage, mid-stage, series A ([source](https://www.gspv.vc/news/greensoil-proptech-ventures-announces-initial-closing-of-its-usd-100-million-fund-ii-backed-by-institutional-and-real-estate-investors), as of 2021-03-15)
+- **Sectors:** PropTech, Built environment, ClimateTech, Electrification, Robotics ([source](https://www.gspv.vc/news/greensoil-proptech-ventures-announces-initial-closing-of-its-usd-100-million-fund-ii-backed-by-institutional-and-real-estate-investors), as of 2021-03-15)
+- **Leads rounds:** yes ([source](https://www.gspv.vc/news/why-we-invested-in-tulu), as of 2025-12-08)
+- **AUM:** Approximately USD 150 million (as of 2023-09-12) ([source](https://www.gspv.vc/news/why-we-invested-in-qflow-wsbgg), as of 2023-09-12)
 
 ## Portfolio
 
@@ -42,3 +44,7 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 - [Source](https://www.crunchbase.com/organization/greensoil-proptech-ventures)
 - [Source](https://www.gspv.vc)
+- [Source](https://www.gspv.vc/company-building)
+- [Source](https://www.gspv.vc/news/greensoil-proptech-ventures-announces-initial-closing-of-its-usd-100-million-fund-ii-backed-by-institutional-and-real-estate-investors)
+- [Source](https://www.gspv.vc/news/why-we-invested-in-qflow-wsbgg)
+- [Source](https://www.gspv.vc/news/why-we-invested-in-tulu)

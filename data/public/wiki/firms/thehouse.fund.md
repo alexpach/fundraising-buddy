@@ -1,5 +1,5 @@
 ---
-jev-score: 12
+jev-score: 24
 ---
 
 # The House Fund
@@ -10,15 +10,14 @@ Domain: thehouse.fund
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://thehouse.fund), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://thehouse.fund), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://thehouse.fund), as of not recorded)
+- **Type:** venture capital ([source](https://news.berkeley.edu/2016/04/22/the-house-fund/), as of 2016-04-22)
+- **Stages:** pre-seed, seed, Series A, later stage ([source](https://news.berkeley.edu/2016/04/22/the-house-fund/), as of 2016-04-22)
 
 ## Portfolio
 
@@ -29,4 +28,7 @@ Not recorded.
 
 ## Sources
 
+- [Source](https://news.berkeley.edu/2016/04/22/the-house-fund/)
 - [Source](https://thehouse.fund)
+- [Source](https://thehouse.fund/)
+- [Source](https://thehousefund.medium.com/zachary-hargreaves-founders-fund-investor-joins-the-house-fund-to-invest-billion-in-berkeley-startups-480ceee6e1fe)

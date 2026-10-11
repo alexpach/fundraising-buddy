@@ -1,5 +1,5 @@
 ---
-jev-score: 73
+jev-score: 82
 ---
 
 # Goodwater Capital
@@ -14,14 +14,15 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.goodwatercap.com/), as of None)
 - **HQ:** Burlingame, California, United States ([source](https://linkedin.com/company/goodwater-capital), as of None)
 - **Founded:** 2014 ([source](https://linkedin.com/company/goodwater-capital), as of None)
-- **Stages:** any ([source](https://www.goodwatercap.com/), as of None)
-- **Sectors:** housing, healthcare, food, financial services, transportation, education, entertainment ([source](https://goodwatercap.com/insights/announcement/fund-v-announcement), as of 2023-07)
-- **Leads rounds:** maybe ([source](https://www.goodwatercap.com/), as of 2026-02)
 - **Latest fund:** $1 billion in new funds announced July 25, 2023 ([source](https://goodwatercap.com/insights/announcement/fund-v-announcement), as of 2023-07)
 - **Thesis quote:** We only invest in founders building digital utilities to solve everyday consumer problems. ([source](https://goodwatercap.com/insights/announcement/fund-v-announcement), as of 2023-07)
+- **Type:** venture capital ([source](https://www.goodwatercap.com/), as of not recorded)
+- **Investment strategies:** consumer and prosumer technology venture investing ([source](https://www.goodwatercap.com/), as of not recorded)
+- **Stages:** seed, early stage, growth stage, IPO ([source](https://www.goodwatercap.com/perspectives/fund-v-announcement), as of 2023-07-25)
+- **Sectors:** housing, healthcare, food, financial services, transportation, education, entertainment ([source](https://www.goodwatercap.com/perspectives/fund-v-announcement), as of 2023-07-25)
+- **Leads rounds:** yes ([source](https://www.goodwatercap.com/perspectives/investing-in-the-future-of-womens-health), as of 2026-02-02)
 
 ## Portfolio
 
@@ -54,4 +55,6 @@ Research date: 2026-10-03
 - [Source](https://goodwatercap.com/insights/announcement/fund-v-announcement)
 - [Source](https://linkedin.com/company/goodwater-capital)
 - [Source](https://www.goodwatercap.com/)
+- [Source](https://www.goodwatercap.com/perspectives/fund-v-announcement)
+- [Source](https://www.goodwatercap.com/perspectives/investing-in-the-future-of-womens-health)
 - [Source](https://www.goodwatercap.com/team/chi-hua-chien)

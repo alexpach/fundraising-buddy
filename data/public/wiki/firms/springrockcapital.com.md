@@ -1,5 +1,5 @@
 ---
-jev-score: 53
+jev-score: 49
 ---
 
 # Spring Rock Capital
@@ -10,17 +10,19 @@ Domain: springrockcapital.com
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** pe ([source](https://altss.com/profile/spring-rock-capital), as of 2026-06)
 - **HQ:** Western Springs, Illinois ([source](https://www.linkedin.com/company/spring-rock-capital), as of None)
 - **Founded:** 2009 ([source](https://springrockcapital.com/overview/), as of None)
-- **Sectors:** security, software, technology-enabled business services, niche manufacturing and service businesses ([source](https://www.linkedin.com/company/spring-rock-capital), as of None)
 - **Legal name:** Spring Rock Capital LLC ([source](https://www.linkedin.com/company/spring-rock-capital), as of None)
 - **Offices:** Western Springs, IL (HQ); Elk Grove Village, IL ([source](https://www.linkedin.com/company/spring-rock-capital), as of None)
-- **Leads rounds:** unknown ([source](https://springrockcapital.com), as of not recorded)
+- **Type:** private equity; venture capital ([source](https://springrockcapital.com/), as of not recorded)
+- **Investment strategies:** opportunistic investing ([source](https://springrockcapital.com/), as of not recorded)
+- **Investment instruments:** debt, equity ([source](https://springrockcapital.com/), as of not recorded)
+- **Stages:** early stage ([source](https://springrockcapital.com/), as of not recorded)
+- **Sectors:** Security, Information Technology, Software, Tech-Enabled Business Services, Niche Manufacturing ([source](https://springrockcapital.com/what-we-do/), as of not recorded)
 
 ## Portfolio
 
@@ -42,8 +44,10 @@ Research date: 2026-09-20
 
 - [Source](https://altss.com/profile/spring-rock-capital)
 - [Source](https://springrockcapital.com)
+- [Source](https://springrockcapital.com/)
 - [Source](https://springrockcapital.com/our-team)
 - [Source](https://springrockcapital.com/overview/)
+- [Source](https://springrockcapital.com/what-we-do/)
 - [Source](https://www.businesswire.com/news/home/20241114122246/en/SwiftConnect-Raises-%2437-Million-of-Financing-in-Series-B-Round)
 - [Source](https://www.cbinsights.com/investor/spring-rock-capital)
 - [Source](https://www.linkedin.com/company/spring-rock-capital)

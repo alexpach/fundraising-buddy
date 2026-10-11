@@ -1,8 +1,8 @@
 ---
-jev-score: 14
+jev-score: 33
 ---
 
-# Plural Platform
+# Plural
 
 [Website](https://www.pluralplatform.com/)
 
@@ -10,15 +10,16 @@ Domain: pluralplatform.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://pluralplatform.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://pluralplatform.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://www.pluralplatform.com/), as of not recorded)
+- **Type:** venture capital ([source](https://www.pluralplatform.com/features/why-we-invested-in-proxima-fusion), as of 2023-05-29)
+- **Stages:** pre-seed, seed, Series A ([source](https://www.pluralplatform.com/features/150m-series-A), as of not recorded)
+- **Sectors:** robotics, hardware ([source](https://www.pluralplatform.com/features/why-we-invested-in-upside-robotics), as of 2026-02-11)
+- **Leads rounds:** yes ([source](https://www.pluralplatform.com/features/why-we-invested-in-proxima-fusion), as of 2023-05-29)
 
 ## Portfolio
 
@@ -30,3 +31,6 @@ Not recorded.
 ## Sources
 
 - [Source](https://www.pluralplatform.com/)
+- [Source](https://www.pluralplatform.com/features/150m-series-A)
+- [Source](https://www.pluralplatform.com/features/why-we-invested-in-proxima-fusion)
+- [Source](https://www.pluralplatform.com/features/why-we-invested-in-upside-robotics)

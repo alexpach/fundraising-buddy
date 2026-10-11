@@ -1,5 +1,5 @@
 ---
-jev-score: 55
+jev-score: 49
 ---
 
 # SGH Capital
@@ -10,16 +10,19 @@ Domain: sghcapital.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://sghcapital.com), as of 2026-08)
 - **Founded:** 2014 ([source](https://sghcapital.com), as of 2026-08)
 - **Geographies:** us, europe ([source](https://sghcapital.com), as of 2026-08)
 - **Thesis quote:** We deploy capital in early and mid-stage disruptive companies, across the US and western Europe. ([source](https://sghcapital.com), as of 2026-08)
 - **Coinvestors:** Amity Ventures (SGH/Growth partner) ([source](https://ceoworld.biz/2024/11/08/alexandre-azoulay-a-global-tech-investor-at-forefront-of-emerging-ai-blockchain-interface/), as of 2024-11)
-- **Leads rounds:** unknown ([source](https://sghcapital.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.sghcapital.com/), as of not recorded)
+- **Investment strategies:** fund-of-funds ([source](https://www.sghcapital.com/), as of not recorded)
+- **Investment instruments:** equity, venture debt ([source](https://www.sghcapital.com/), as of not recorded)
+- **Stages:** seed, mid-stage ([source](https://www.sghcapital.com/), as of not recorded)
+- **Sectors:** technology ([source](https://www.sghcapital.com/), as of not recorded)
 
 ## Portfolio
 
@@ -45,3 +48,4 @@ Research date: 2026-08-26
 - [Source](https://ceoworld.biz/2024/11/08/alexandre-azoulay-a-global-tech-investor-at-forefront-of-emerging-ai-blockchain-interface/)
 - [Source](https://sghcapital.com)
 - [Source](https://sghcapital.com/portfolio)
+- [Source](https://www.sghcapital.com/)

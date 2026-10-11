@@ -1,5 +1,5 @@
 ---
-jev-score: 51
+jev-score: 61
 ---
 
 # Align Ventures
@@ -10,18 +10,18 @@ Domain: align.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://align.vc), as of 2026-06-11)
-- **Stages:** seed, series-a, growth ([source](https://align.vc), as of 2026-06-11)
 - **Geographies:** us ([source](https://align.vc), as of 2026-06-11)
-- **Sectors:** consumer, brands, ai, robotics ([source](https://align.vc), as of 2026-06-11)
-- **Leads rounds:** yes ([source](https://align.vc), as of not recorded)
 - **About:** Align Ventures (align.vc) is a US venture firm founded in 2016 by Ben Bryce, investing first in consumer brands and "select technologies that reshape culture... from AI to robotics". It is often the first venture check and then supports companies across the capital stack with follow-on capital, secondary liquidity and a sizable SPV/co-investment network (separate fund and co-invest portals); it ta ([source](https://align.vc), as of 2026-06-11)
+- **Type:** venture capital ([source](https://align.vc/), as of not recorded)
+- **Investment strategies:** early-stage venture investing ([source](https://align.vc/), as of not recorded)
+- **Sectors:** consumer brands, robotics, select culture-shaping technologies ([source](https://align.vc/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.prnewswire.com/news-releases/scout-ai-raises-100m-series-a-to-build-the-ai-brain-for-unmanned-warfare-302756871.html), as of 2026-04-29)
 
 ## Portfolio
 
@@ -42,3 +42,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://align.vc)
+- [Source](https://align.vc/)
+- [Source](https://www.prnewswire.com/news-releases/scout-ai-raises-100m-series-a-to-build-the-ai-brain-for-unmanned-warfare-302756871.html)

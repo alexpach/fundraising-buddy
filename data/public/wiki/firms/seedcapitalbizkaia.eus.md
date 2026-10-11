@@ -1,8 +1,8 @@
 ---
-jev-score: 24
+jev-score: 37
 ---
 
-# Seed Capital Bizkaia
+# Seed Capital Bizkaia, Sociedad Gestora de Entidades de Inversión de Tipo Cerrado S.A. (S.G.E.I.C.)
 
 [Website](https://www.seedcapitalbizkaia.eus/en/)
 
@@ -10,16 +10,19 @@ Domain: seedcapitalbizkaia.eus
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Stages:** seed, growth ([source](https://www.seedcapitalbizkaia.eus/en/), as of 2026-08-06)
 - **Geographies:** spain ([source](https://www.seedcapitalbizkaia.eus/en/), as of 2026-08-06)
-- **Sectors:** generalist, industrial ([source](https://www.seedcapitalbizkaia.eus/en/), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://www.seedcapitalbizkaia.eus/en/), as of not recorded)
+- **Type:** public investment company; closed-ended investment fund manager ([source](https://www.seedcapitalbizkaia.eus/en/seed-capital-bizkaia/), as of not recorded)
+- **Investment strategies:** seed investing, social impact investing, fund of funds ([source](https://www.seedcapitalbizkaia.eus/en/seed-capital-bizkaia/), as of not recorded)
+- **Legal structure:** provincial public company, closed-ended investment fund manager ([source](https://www.seedcapitalbizkaia.eus/en/seed-capital-bizkaia/), as of not recorded)
+- **Investment instruments:** capital contributions, loans, fund investments ([source](https://www.seedcapitalbizkaia.eus/en/seed-capital-bizkaia/), as of not recorded)
+- **Stages:** seed, development ([source](https://www.seedcapitalbizkaia.eus/en/investment-policy/), as of not recorded)
+- **Sectors:** information and communication technologies, life sciences, renewable energy, generalist, subject to exclusions ([source](https://www.seedcapitalbizkaia.eus/en/investment-policy/fund-i/), as of not recorded)
 
 ## Portfolio
 
@@ -35,3 +38,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.seedcapitalbizkaia.eus/en/)
+- [Source](https://www.seedcapitalbizkaia.eus/en/investment-policy/)
+- [Source](https://www.seedcapitalbizkaia.eus/en/investment-policy/fund-i/)
+- [Source](https://www.seedcapitalbizkaia.eus/en/seed-capital-bizkaia/)

@@ -1,5 +1,5 @@
 ---
-jev-score: 15
+jev-score: 16
 ---
 
 # Akira Financial

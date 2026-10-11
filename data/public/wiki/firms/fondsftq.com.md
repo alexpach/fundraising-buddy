@@ -1,5 +1,5 @@
 ---
-jev-score: 39
+jev-score: 52
 ---
 
 # Fonds de solidarité FTQ
@@ -10,18 +10,17 @@ Domain: fondsftq.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://www.fondsftq.com), as of 2026-08-07)
-- **Stages:** growth ([source](https://www.fondsftq.com), as of 2026-08-07)
 - **Geographies:** canada ([source](https://www.fondsftq.com), as of 2026-08-07)
-- **AUM:** 23.7B ([source](https://www.fondsftq.com), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.fondsftq.com), as of not recorded)
 - **About:** Fonds de solidarité FTQ is a labour-sponsored development capital fund based in Montréal, Québec, capitalized by union-member RRSP+ savings. With $23.7B net assets (2026 fiscal results), it is the largest development-capital investor network in Québec, deploying across all stages (venture through buyout/growth equity) and virtually all sectors in Canadian (mostly Québec) businesses ([source](https://www.fondsftq.com), as of 2026-08-07)
+- **Type:** venture capital; development capital ([source](https://www.fondsftq.com/fr-ca/salle-de-presse/communiques/2026/20260623-resultats-financiers-2025-2026), as of 2026-06-23)
+- **Investment strategies:** venture capital, development capital ([source](https://www.fondsftq.com/fr-ca/salle-de-presse/communiques/2026/20260623-resultats-financiers-2025-2026), as of 2026-06-23)
+- **Stages:** startup, research and development, growth ([source](https://www.fondsftq.com/fr-ca/entreprise/accompagnement/faq/solutions/capital-risque), as of not recorded)
 
 ## Portfolio
 
@@ -35,3 +34,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.fondsftq.com)
+- [Source](https://www.fondsftq.com/fr-ca/entreprise/accompagnement/faq/solutions/capital-developpement)
+- [Source](https://www.fondsftq.com/fr-ca/entreprise/accompagnement/faq/solutions/capital-risque)
+- [Source](https://www.fondsftq.com/fr-ca/salle-de-presse/communiques/2026/20260623-resultats-financiers-2025-2026)

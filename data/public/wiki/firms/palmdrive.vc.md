@@ -1,5 +1,5 @@
 ---
-jev-score: 45
+jev-score: 43
 ---
 
 # Palm Drive Capital
@@ -10,13 +10,15 @@ Domain: palmdrive.vc
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Stages:** pre-seed, seed ([source](https://palmdrive.vc/), as of None)
 - **Offices:** New York, San Francisco ([source](https://palmdrive.vc/), as of None)
-- **Leads rounds:** no ([source](https://www.palmdrive.vc), as of 2026-08-14)
+- **Type:** early-stage investment manager ([source](https://palmdrive.vc/founders/), as of not recorded)
+- **Investment strategies:** early-stage investing ([source](https://palmdrive.vc/founders/), as of not recorded)
+- **Legal structure:** registered investment adviser ([source](https://palmdrive.vc/founders/), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://palmdrive.vc/founders/), as of not recorded)
 
 ## Portfolio
 
@@ -44,3 +46,4 @@ Research date: 2026-10-03
 ## Sources
 
 - [Source](https://palmdrive.vc/)
+- [Source](https://palmdrive.vc/founders/)

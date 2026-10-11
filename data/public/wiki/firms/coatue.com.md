@@ -1,8 +1,8 @@
 ---
-jev-score: 67
+jev-score: 73
 ---
 
-# Coatue Management
+# Coatue Management, L.L.C.
 
 [Website](https://coatue.com)
 
@@ -10,22 +10,26 @@ Domain: coatue.com
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.coatue.com/), as of None)
 - **HQ:** New York, NY ([source](https://www.coatue.com/), as of None)
 - **Founded:** 1999 ([source](https://coatuectek.com/why-ctek), as of None)
 - **Geographies:** us, europe, apac ([source](https://www.coatue.com/), as of None)
-- **Sectors:** technology, innovation, AI ([source](https://coatuectek.com/why-ctek), as of None)
-- **AUM:** $70 billion ([source](https://www.bloomberg.com/news/articles/2026-03-20/laffont-s-70-billion-coatue-looks-to-launch-new-ai-tech-fund), as of 2026-03)
 - **Legal name:** Coatue Management, L.L.C. ([source](https://www.coatue.com/), as of None)
 - **Offices:** New York, Menlo Park, San Francisco, Hong Kong, London ([source](https://www.coatue.com/), as of None)
 - **Latest fund:** June 1, 2025 (CTEK first close) ([source](https://coatuectek.com/why-ctek), as of 2025-06)
 - **Thesis quote:** We study the evolution of technology and invest in the ideas reshaping it. ([source](https://coatuectek.com/why-ctek), as of None)
 - **Coinvestors:** Bezos Expeditions, DFO Management, LLC ([source](https://www.coatue.com/ctek/blog/press/expanding-access-to-innovation-introducing-ctek), as of 2025-05)
-- **Leads rounds:** unknown ([source](https://coatue.com), as of not recorded)
+- **Type:** multi-strategy investment manager; venture investor ([source](https://www.coatue.com/), as of not recorded)
+- **Investment strategies:** venture capital, growth investing, tactical debt and equity capital solutions, public equities, long/short and long-biased strategies ([source](https://www.coatue.com/), as of not recorded)
+- **Legal structure:** investment manager managing public and private investment strategies ([source](https://www.coatue.com/), as of not recorded)
+- **Investment instruments:** private equity, public equity, debt ([source](https://www.coatue.com/), as of not recorded)
+- **Stages:** seed, early stage, late stage ([source](https://www.coatue.com/), as of not recorded)
+- **Sectors:** Technology ([source](https://www.coatue.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.coatue.com/blog/perspective/supabase-built-for-the-agentic-era), as of 2026-06-04)
+- **AUM:** Lower bound (over): USD 73 billion (as of 2025-12-31) ([source](https://www.coatue.com/ctek/documents/Coatue_CTEK_Main_Q2-2026.pdf), as of 2025-12-31)
 
 ## Portfolio
 
@@ -52,5 +56,8 @@ Research date: 2026-09-20
 - [Source](https://coatuectek.com/why-ctek)
 - [Source](https://www.bloomberg.com/news/articles/2026-03-20/laffont-s-70-billion-coatue-looks-to-launch-new-ai-tech-fund)
 - [Source](https://www.coatue.com/)
+- [Source](https://www.coatue.com/blog/perspective/supabase-built-for-the-agentic-era)
 - [Source](https://www.coatue.com/ctek/blog/press/expanding-access-to-innovation-introducing-ctek)
+- [Source](https://www.coatue.com/ctek/documents/Coatue_CTEK_Main_Q2-2026.pdf)
 - [Source](https://www.coatue.com/portfolio)
+- [Source](https://www.coatue.com/privates-portfolio)

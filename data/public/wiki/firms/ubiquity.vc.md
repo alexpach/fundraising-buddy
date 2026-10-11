@@ -1,5 +1,5 @@
 ---
-jev-score: 86
+jev-score: 85
 ---
 
 # Ubiquity Ventures
@@ -10,21 +10,22 @@ Domain: ubiquity.vc
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://ubiquity.vc/thesis), as of 2026-09)
 - **HQ:** Palo Alto, California, USA ([source](https://www.finsmes.com/2021/06/ubiquity-ventures-closes-fund-2-at-over-50m.html), as of 2021-06)
 - **Founded:** 2017 ([source](https://ubiquity.vc/team), as of 2026-09)
-- **Stages:** pre-seed, seed ([source](https://ubiquity.vc/thesis), as of 2026-09)
-- **Sectors:** software beyond the screen, agri-tech, robotics, space, healthcare, climate tech ([source](https://ubiquity.vc/thesis), as of 2026-09)
 - **Check size min:** $1M ([source](https://ubiquity.vc/thesis), as of 2026-09)
 - **Check size max:** $3M ([source](https://ubiquity.vc/thesis), as of 2026-09)
 - **Latest fund:** $75 million Fund III announced 2024-01-30 ([source](https://www.ubqt.vc/p/announcing-75-million-ubiquity-fund-3), as of 2024-01)
 - **Thesis quote:** Seed-stage venture capital for technical founders building software that reaches the real physical world. ([source](https://ubiquity.vc/thesis), as of 2026-09)
 - **Exclusions:** Physical systems with sound software fundamentals and a real path to revenue. Not moonshots. Not SaaS. ([source](https://ubiquity.vc/thesis), as of 2026-09)
-- **Leads rounds:** unknown ([source](https://ubiquity.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.nerdyandearly.com/p/announcing-75-million-ubiquity-fund-3), as of 2024-01-30)
+- **Investment strategies:** seed-stage deeptech investing, software beyond the screen ([source](https://www.nerdyandearly.com/p/announcing-75-million-ubiquity-fund-3), as of 2024-01-30)
+- **Stages:** pre-seed, seed ([source](https://www.ubiquity.vc/thesis), as of not recorded)
+- **Sectors:** agri-tech, robotics, space, healthcare, climate tech ([source](https://www.ubiquity.vc/thesis), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.ubiquity.vc/thesis), as of not recorded)
 
 ## Portfolio
 
@@ -51,5 +52,7 @@ Research date: 2026-10-03
 - [Source](https://ubiquity.vc/team)
 - [Source](https://ubiquity.vc/thesis)
 - [Source](https://www.finsmes.com/2021/06/ubiquity-ventures-closes-fund-2-at-over-50m.html)
+- [Source](https://www.nerdyandearly.com/p/announcing-75-million-ubiquity-fund-3)
 - [Source](https://www.ubiquity.vc/)
+- [Source](https://www.ubiquity.vc/thesis)
 - [Source](https://www.ubqt.vc/p/announcing-75-million-ubiquity-fund-3)

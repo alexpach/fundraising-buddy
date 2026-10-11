@@ -1,5 +1,5 @@
 ---
-jev-score: 84
+jev-score: 86
 ---
 
 # Red River West
@@ -10,21 +10,23 @@ Domain: redriverwest.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://redriverwest.com/), as of None)
 - **HQ:** Paris, France ([source](https://redriverwest.com/legal), as of None)
-- **Stages:** Series A & B (Red), Pre-seed & seed (&gt;commit) ([source](https://redriverwest.com/), as of None)
 - **Geographies:** europe, us ([source](https://redriverwest.com/), as of None)
-- **Sectors:** European tech, commercial open source (&gt;commit), developer tools and infrastructure ([source](https://redriverwest.com/), as of None)
 - **Check size min:** EUR 5M (Red fund) ([source](https://redriverwest.com/growth-fund), as of None)
 - **Check size max:** EUR 20M (Red fund) ([source](https://redriverwest.com/growth-fund), as of None)
 - **Legal name:** RRW SAS ([source](https://redriverwest.com/legal), as of None)
 - **Thesis quote:** Red is an early-growth venture capital fund investing €5–20M in outstanding European tech companies with the ambition to win the US market ([source](https://redriverwest.com/growth-fund), as of None)
 - **LPs:** Family offices incl. Colam Entreprendre, Bouygues, Dan and Marc Vogel (first fund, 2017) ([source](https://www.pemagazine.fr/ndg5oq-premier-closing-a-100-me-pour-red-river-west/), as of 2017-06)
-- **Leads rounds:** unknown ([source](https://redriverwest.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.redriverwest.com/), as of not recorded)
+- **Investment strategies:** early growth, early-stage venture capital ([source](https://www.redriverwest.com/), as of not recorded)
+- **Legal structure:** société par actions simplifiée (SAS) ([source](https://www.redriverwest.com/), as of not recorded)
+- **Stages:** pre-seed, seed, Series A, Series B ([source](https://www.redriverwest.com/), as of not recorded)
+- **Sectors:** European technology, commercial open source, developer tools, infrastructure ([source](https://www.redriverwest.com/growth-fund), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.redriverwest.com/portfolio/veesion), as of 2025-04)
 
 ## Portfolio
 
@@ -64,3 +66,8 @@ Research date: 2026-10-03
 - [Source](https://redriverwest.com/portfolio)
 - [Source](https://redriverwest.com/team)
 - [Source](https://www.pemagazine.fr/ndg5oq-premier-closing-a-100-me-pour-red-river-west/)
+- [Source](https://www.redriverwest.com/)
+- [Source](https://www.redriverwest.com/growth-fund)
+- [Source](https://www.redriverwest.com/legal)
+- [Source](https://www.redriverwest.com/portfolio/veesion)
+- [Source](https://www.redriverwest.com/team)

@@ -1,5 +1,5 @@
 ---
-jev-score: 72
+jev-score: 71
 ---
 
 # World Innovation Lab

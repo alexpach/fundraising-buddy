@@ -1,5 +1,5 @@
 ---
-jev-score: 46
+jev-score: 53
 ---
 
 # Riot Ventures
@@ -10,18 +10,18 @@ Domain: riot.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/riot-ventures), as of 2026-06-08)
-- **Stages:** pre-seed, seed, growth ([source](https://www.crunchbase.com/organization/riot-ventures), as of 2026-06-08)
 - **Geographies:** us ([source](https://www.crunchbase.com/organization/riot-ventures), as of 2026-06-08)
-- **Sectors:** ai, enterprise, security, defense, energy, robotics, autonomy, aerospace, hardware, physical-ai, deep-tech, dual-use ([source](https://www.crunchbase.com/organization/riot-ventures), as of 2026-06-08)
-- **Leads rounds:** unknown ([source](https://riot.vc), as of not recorded)
 - **About:** Riot Ventures is a Venice, California-based venture capital firm. Its public materials emphasize Pre-Seed, seed, growth investing, and focus areas include ai, enterprise, security, defense. ([source](https://www.crunchbase.com/organization/riot-ventures), as of 2026-06-08)
+- **Type:** venture capital ([source](https://riot.vc/partners/will-coffield), as of not recorded)
+- **Stages:** pre-seed, growth ([source](https://riot.vc/partners/meghan-moreland), as of not recorded)
+- **Sectors:** defense, aerospace, logistics, advanced manufacturing ([source](https://riot.vc/partners/will-coffield), as of not recorded)
+- **Leads rounds:** yes ([source](https://riot.vc/partners/meghan-moreland), as of not recorded)
 
 ## Portfolio
 
@@ -42,4 +42,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://riot.vc)
+- [Source](https://riot.vc/partners/meghan-moreland)
+- [Source](https://riot.vc/partners/will-coffield)
 - [Source](https://www.crunchbase.com/organization/riot-ventures)

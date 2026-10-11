@@ -1,5 +1,5 @@
 ---
-jev-score: 74
+jev-score: 73
 ---
 
 # AIX Ventures
@@ -10,19 +10,20 @@ Domain: aixventures.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.aixventures.com/faq), as of 2026-08)
-- **Stages:** pre-seed, seed, series-a ([source](https://www.aixventures.com/faq), as of 2026-08)
-- **Sectors:** Consumer, Developer Tools & Data, Healthcare/Life Sciences, Manufacturing & Warehousing, SaaS ([source](https://www.aixventures.com/faq), as of 2026-08)
 - **Check size min:** $1M ([source](https://www.aixventures.com/faq), as of 2026-08)
 - **Check size max:** $5M ([source](https://www.aixventures.com/faq), as of 2026-08)
-- **Leads rounds:** yes ([source](https://www.aixventures.com/faq), as of 2026-08)
 - **Latest fund:** Fund II, $202M, announced February 13, 2024 ([source](https://aixventures.com/fund-news), as of 2024-02)
 - **Thesis quote:** AIX is a new kind of venture firm where leaders in AI push the field forward together. As active practitioners ourselves, we invest in early-stage companies and founders who are developing and advancing the technology alongside us. ([source](https://aixventures.com/about), as of 2026-08)
 - **Coinvestors:** Bain Capital Ventures, Foundation Capital, Khosla Ventures, Lux Capital, Village Global, Vintage IP ([source](https://aixventures.com/fund-news), as of 2022-03)
+- **Type:** venture capital ([source](https://www.aixventures.com/faq), as of not recorded)
+- **Investment strategies:** AI-focused early-stage investing ([source](https://www.aixventures.com/faq), as of not recorded)
+- **Stages:** pre-seed, seed, Series A ([source](https://www.aixventures.com/faq), as of not recorded)
+- **Sectors:** Consumer, Developer Tools & Data, Healthcare/Life Sciences, Manufacturing & Warehousing, SaaS ([source](https://www.aixventures.com/faq), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.aixventures.com/faq), as of not recorded)
 
 ## Portfolio
 
@@ -57,4 +58,6 @@ Research date: 2026-08-26
 - [Source](https://aixventures.com/about)
 - [Source](https://aixventures.com/fund-news)
 - [Source](https://aixventures.com/portfolio/category/Early+Stage)
+- [Source](https://www.aixventures.com/)
 - [Source](https://www.aixventures.com/faq)
+- [Source](https://www.aixventures.com/fund-news)

@@ -1,5 +1,5 @@
 ---
-jev-score: 69
+jev-score: 70
 ---
 
 # Bullhound Capital
@@ -14,12 +14,14 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://bullhoundcapital.com/articles/bullhound-capital-invests-in-ai-robotics-pioneer-sereact), as of 2026-04)
-- **Stages:** later stages of venture ([source](https://bullhoundcapital.com/articles/gp-bullhound-fund-vi-leads-e23-million-funding-round-in-sesame/), as of 2024-05)
-- **Sectors:** AI, quantum, robotics, deeptech, dual-use, software, entertainment ([source](https://bullhoundcapital.com/articles/bullhound-capital-invests-in-ai-robotics-pioneer-sereact), as of 2026-04)
 - **Offices:** 13 offices worldwide ([source](https://bullhoundcapital.com/articles/bullhound-capital-invests-in-ai-robotics-pioneer-sereact), as of 2026-04)
-- **Leads rounds:** maybe ([source](https://bullhoundcapital.com/articles/gp-bullhound-fund-vi-leads-e23-million-funding-round-in-sesame/), as of 2024-05)
 - **Thesis quote:** Fund VII targets a concentrated, high-touch portfolio of 10 to 12 category-leading deeptech companies ([source](https://bullhoundcapital.com/articles/bullhound-capital-invests-in-ai-robotics-pioneer-sereact), as of 2026-04)
+- **Type:** venture capital ([source](https://bullhoundcapital.com/articles/bullhound-capital-invests-in-ai-robotics-pioneer-sereact), as of 2026-04)
+- **Investment strategies:** later-stage venture ([source](https://bullhoundcapital.com/articles/bullhound-capital-invests-in-ai-robotics-pioneer-sereact), as of 2026-04)
+- **Investment instruments:** equity ([source](https://bullhoundcapital.com/articles/bullhound-capital-invests-in-ai-robotics-pioneer-sereact), as of 2026-04)
+- **Stages:** later stages of venture ([source](https://bullhoundcapital.com/articles/gp-bullhound-fund-vi-leads-e23-million-funding-round-in-sesame/), as of 2024-05)
+- **Sectors:** AI, deep tech, robotics, quantum, entertainment, software ([source](https://bullhoundcapital.com/articles/bullhound-capital-invests-in-ai-robotics-pioneer-sereact), as of 2026-04)
+- **Leads rounds:** yes ([source](https://bullhoundcapital.com/articles/gp-bullhound-fund-vi-leads-e23-million-funding-round-in-sesame/), as of 2024-05)
 
 ## Portfolio
 

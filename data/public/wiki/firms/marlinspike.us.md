@@ -1,8 +1,8 @@
 ---
-jev-score: 51
+jev-score: 47
 ---
 
-# Marlinspike
+# Marlinspike Partners
 
 [Website](https://marlinspike.us/)
 
@@ -10,18 +10,17 @@ Domain: marlinspike.us
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/marlinspike), as of 2026-06-08)
-- **Stages:** series-a, series-b ([source](https://www.crunchbase.com/organization/marlinspike), as of 2026-06-08)
 - **Geographies:** us ([source](https://www.crunchbase.com/organization/marlinspike), as of 2026-06-08)
-- **Sectors:** defense, dual-use, aerospace, ai, autonomy, robotics, cybersecurity, hardware, physical-ai, space ([source](https://www.crunchbase.com/organization/marlinspike), as of 2026-06-08)
-- **Leads rounds:** unknown ([source](https://marlinspike.us/), as of not recorded)
 - **About:** Marlinspike is a defense- and dual-use-focused venture capital firm based in Arlington, VA, backing companies with pioneering technologies that serve national security needs and meaningful commercial markets. Sectors include aerospace, AI/ML, autonomy and robotics, and cybersecurity. ([source](https://www.crunchbase.com/organization/marlinspike), as of 2026-06-08)
+- **Type:** venture capital ([source](https://marlinspike.us/media/), as of 2024-11-22)
+- **Investment strategies:** dual-use investing ([source](https://marlinspike.us/media/), as of 2024-11-22)
+- **Sectors:** defense, dual-use, aerospace, AI & machine learning, autonomy & robotics, cybersecurity ([source](https://marlinspike.us/), as of not recorded)
 
 ## Portfolio
 
@@ -40,4 +39,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://marlinspike.us/)
+- [Source](https://marlinspike.us/media/)
 - [Source](https://www.crunchbase.com/organization/marlinspike)

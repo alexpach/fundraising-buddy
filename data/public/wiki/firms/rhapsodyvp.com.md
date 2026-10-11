@@ -1,5 +1,5 @@
 ---
-jev-score: 60
+jev-score: 61
 ---
 
 # Rhapsody Venture Partners
@@ -10,17 +10,18 @@ Domain: rhapsodyvp.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://rhapsodyvp.com/), as of None)
-- **Stages:** seed ([source](https://rhapsodyvp.com/), as of None)
-- **Sectors:** hard science, industrial problems, physics, chemistry, applied sciences ([source](https://rhapsodyvp.com/), as of None)
 - **Check size min:** $500K ([source](https://rhapsodyvp.com/), as of None)
 - **Check size max:** $2MM ([source](https://rhapsodyvp.com/), as of None)
-- **Leads rounds:** yes ([source](https://rhapsodyvp.com/), as of None)
 - **Thesis quote:** We invest exclusively in hard science startups addressing industrial problems. ([source](https://rhapsodyvp.com/), as of None)
+- **Type:** venture capital ([source](https://rhapsodyvp.com/), as of not recorded)
+- **Investment strategies:** hard science venture investing, startup co-creation ([source](https://rhapsodyvp.com/), as of not recorded)
+- **Stages:** seed ([source](https://rhapsodyvp.com/), as of not recorded)
+- **Sectors:** hard science, industrial problems, physics, chemistry, applied sciences, agriculture, manufacturing, electronics ([source](https://rhapsodyvp.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://rhapsodyvp.com/), as of not recorded)
 
 ## Portfolio
 
@@ -45,3 +46,4 @@ Research date: 2026-10-03
 
 - [Source](https://rhapsodyvp.com/)
 - [Source](https://rhapsodyvp.com/portfolio)
+- [Source](https://rhapsodyvp.com/portfolio/)

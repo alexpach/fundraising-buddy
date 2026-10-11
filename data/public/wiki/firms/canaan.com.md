@@ -1,8 +1,8 @@
 ---
-jev-score: 72
+jev-score: 70
 ---
 
-# Canaan Partners
+# Canaan
 
 [Website](https://canaan.com)
 
@@ -10,17 +10,20 @@ Domain: canaan.com
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://canaan.com/latest/announcing-canaan-xiii), as of 2023-04)
 - **HQ:** No HQ designated; offices in Stamford CT, New York NY, Menlo Park CA ([source](https://canaan.com/contact), as of None)
-- **Stages:** seed, series-a ([source](https://canaan.com/latest/announcing-canaan-xiii), as of 2023-04)
 - **Offices:** Stamford, CT, New York, NY, Menlo Park, CA ([source](https://canaan.com/contact), as of None)
 - **Latest fund:** Canaan XIII $650M plus $200M additional commitments, announced April 6, 2023 ([source](https://canaan.com/latest/announcing-canaan-xiii), as of 2023-04)
 - **Thesis quote:** We back founders who make the impossible inevitable. ([source](https://canaan.com/), as of None)
-- **Leads rounds:** unknown ([source](https://canaan.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.canaan.com/news/announcing-canaan-xiii), as of 2023-04)
+- **Investment strategies:** early-stage venture investing ([source](https://www.canaan.com/news/announcing-canaan-xiii), as of 2023-04)
+- **Stages:** seed, Series A ([source](https://www.canaan.com/news/announcing-canaan-xiii), as of 2023-04)
+- **Sectors:** technology, healthcare ([source](https://www.canaan.com/news/announcing-canaan-xiii), as of 2023-04)
+- **Leads rounds:** yes ([source](https://www.canaan.com/news/b8228e2f-a235-4eb3-b34b-17950cd1f0c5), as of 2026-07)
+- **AUM:** USD 6.8 billion (as of 2023-04) ([source](https://www.canaan.com/news/announcing-canaan-xiii), as of 2023-04)
 
 ## Portfolio
 
@@ -57,3 +60,6 @@ Research date: 2026-10-02
 - [Source](https://canaan.com/)
 - [Source](https://canaan.com/contact)
 - [Source](https://canaan.com/latest/announcing-canaan-xiii)
+- [Source](https://canaan.com/news/the-next-breakthrough-in-migraine-treatment-has-already-begun-why-we-invested-in-vedana-therapeutics)
+- [Source](https://www.canaan.com/news/announcing-canaan-xiii)
+- [Source](https://www.canaan.com/news/b8228e2f-a235-4eb3-b34b-17950cd1f0c5)

@@ -1,5 +1,5 @@
 ---
-jev-score: 83
+jev-score: 86
 ---
 
 # Evercurious VC
@@ -14,17 +14,19 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.evercurious.vc/), as of 2026-10)
 - **HQ:** Athens, Greece ([source](https://www.evercurious.vc/), as of 2026-10)
-- **Stages:** pre-seed, seed, series-a ([source](https://www.evercurious.vc/), as of 2026-10)
 - **Geographies:** europe ([source](https://www.evercurious.vc/), as of 2026-10)
 - **Check size min:** €250k ([source](https://www.evercurious.vc/), as of 2026-10)
 - **Check size max:** €750k ([source](https://www.evercurious.vc/), as of 2026-10)
 - **Legal name:** Evercurious VC AEDAKES ([source](https://www.evercurious.vc/), as of 2026)
-- **Leads rounds:** maybe ([source](https://www.evercurious.vc/), as of 2026-10)
 - **Latest fund:** initial target size of €12.5M reached with HDBI as anchor investor ([source](https://www.linkedin.com/feed/update/urn:li:activity:7262362893659111425), as of 2024-11)
 - **Thesis quote:** Our sweet spot lies at the intersection of Hardware and Software. ([source](https://www.evercurious.vc/), as of 2026-10)
 - **LPs:** Hellenic Development Bank of Investments (anchor investor) ([source](https://www.linkedin.com/feed/update/urn:li:activity:7262362893659111425), as of 2024-11)
+- **Type:** venture capital ([source](https://www.evercurious.vc/), as of not recorded)
+- **Investment strategies:** hardware and software ([source](https://www.evercurious.vc/), as of not recorded)
+- **Stages:** pre-seed, seed, Series A ([source](https://www.evercurious.vc/), as of not recorded)
+- **Sectors:** Life sciences, Food & Agriculture, Manufacturing, Advanced Materials, Mobility & Logistics, Robotics, Climate & Energy ([source](https://www.evercurious.vc/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.evercurious.vc/), as of not recorded)
 
 ## Portfolio
 

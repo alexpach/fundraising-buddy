@@ -10,17 +10,18 @@ Domain: hiro.capital
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
 - **HQ:** London, UK and Luxembourg ([source](https://www.prnewswire.com/news-releases/hiro-capital-welcomes-sir-nick-clegg-as-general-partner-and-launches-hiro-iii-european-scaleup-vc-fund-with-new-advisory-board-of-global-leaders-including-yann-lecun-302638029.html), as of 2025-12)
 - **Founded:** 2018 ([source](https://startuprise.co.uk/hiro-capital-snaps-up-nick-clegg-and-yann-lecun-as-launches-fund), as of 2025-12)
-- **Stages:** series-a, series-b, series-c, growth ([source](https://hiro.capital/working-with-hiro/), as of 2026-08)
-- **Sectors:** AI, Spatial Computing, Autonomy, Robotics, Longevity, Augmentation, Games, Simulation, Space & Defense ([source](https://hiro.capital/working-with-hiro/), as of 2026-08)
 - **Thesis quote:** Today, we are in the early stages of a Cambrian explosion of new technologies, powered by next generation AI and Spatial Computing and by the accelerating convergence of computing into the physical world and onto the human body. ([source](https://hiro.capital/working-with-hiro/), as of 2026-08)
 - **Exclusions:** Does not invest in toxic or addictive tech or content ([source](https://hiro.capital/working-with-hiro/), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://hiro.capital), as of not recorded)
+- **Type:** venture capital ([source](https://hiro.capital/), as of not recorded)
+- **Investment strategies:** multi-stage investing ([source](https://hiro.capital/), as of not recorded)
+- **Stages:** Series A, Series B, Series C, Scaleup ([source](https://hiro.capital/working-with-hiro), as of not recorded)
+- **Sectors:** AI, Spatial Computing, Autonomy, Robotics, Longevity, Augmentation, Games, Simulation, Space & Defense ([source](https://hiro.capital/working-with-hiro), as of not recorded)
 
 ## Portfolio
 
@@ -56,7 +57,9 @@ Research date: 2026-08-26
 ## Sources
 
 - [Source](https://hiro.capital)
+- [Source](https://hiro.capital/)
 - [Source](https://hiro.capital/companies/)
+- [Source](https://hiro.capital/working-with-hiro)
 - [Source](https://hiro.capital/working-with-hiro/)
 - [Source](https://startuprise.co.uk/hiro-capital-snaps-up-nick-clegg-and-yann-lecun-as-launches-fund)
 - [Source](https://www.prnewswire.com/news-releases/hiro-capital-welcomes-sir-nick-clegg-as-general-partner-and-launches-hiro-iii-european-scaleup-vc-fund-with-new-advisory-board-of-global-leaders-including-yann-lecun-302638029.html)

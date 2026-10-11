@@ -1,5 +1,5 @@
 ---
-jev-score: 58
+jev-score: 54
 ---
 
 # Almaz Capital
@@ -14,12 +14,12 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://en.wikipedia.org/wiki/Almaz_Capital), as of None)
 - **Founded:** 2008 ([source](https://en.wikipedia.org/wiki/Almaz_Capital), as of None)
-- **Stages:** early stage ([source](https://en.wikipedia.org/wiki/Almaz_Capital), as of None)
-- **Sectors:** deep tech, b2b software, AI/ML, Blockchain, IoT and Edge Computing, Cybersecurity ([source](https://en.wikipedia.org/wiki/Almaz_Capital), as of None)
 - **Offices:** Portola Valley (CA) and Berlin ([source](https://almazcapital.com/our-team), as of None)
-- **Leads rounds:** unknown ([source](https://almazcapital.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.ebrd.com/home/work-with-us/projects/psd/49887.html), as of 2019-01-21)
+- **Investment strategies:** early-stage technology investing ([source](https://www.ebrd.com/home/work-with-us/projects/psd/49887.html), as of 2019-01-21)
+- **Investment instruments:** equity, equity-related investments ([source](https://www.ebrd.com/home/work-with-us/projects/psd/49887.html), as of 2019-01-21)
+- **Stages:** early stage ([source](https://www.ebrd.com/home/work-with-us/projects/psd/49887.html), as of 2019-01-21)
 
 ## Portfolio
 
@@ -56,5 +56,7 @@ Research date: 2026-10-03
 
 - [Source](https://almazcapital.com)
 - [Source](https://almazcapital.com/our-team)
+- [Source](https://almazcapital.com/our-team/)
 - [Source](https://almazcapital.com/portfolio.html)
 - [Source](https://en.wikipedia.org/wiki/Almaz_Capital)
+- [Source](https://www.ebrd.com/home/work-with-us/projects/psd/49887.html)

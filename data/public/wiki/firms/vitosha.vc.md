@@ -1,5 +1,5 @@
 ---
-jev-score: 87
+jev-score: 85
 ---
 
 # Vitosha Ventures (formerly Vitosha Venture Partners)

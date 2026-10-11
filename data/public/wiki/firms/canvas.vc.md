@@ -1,5 +1,5 @@
 ---
-jev-score: 64
+jev-score: 68
 ---
 
 # Canvas Ventures
@@ -14,13 +14,14 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://canvas.vc/), as of None)
 - **Founded:** 2013 ([source](https://canvas.vc/team-member/rebecca-lynn), as of None)
-- **Stages:** series-a, series-b ([source](https://canvas.vc/), as of None)
-- **Sectors:** AI, digital health, fintech ([source](https://canvas.vc/), as of None)
-- **Leads rounds:** yes ([source](https://canvas.vc/), as of None)
 - **Latest fund:** CV3, $350 million ([source](https://www.prnewswire.com/news-releases/canvas-ventures-closes-third-fund-at-350-million-to-offer-visionary-founders-early-stage-capital-and-go-to-market-expertise-proven-to-accelerate-growth-301258500.html), as of 2021-03)
 - **Thesis quote:** Canvas is an early-stage VC firm investing in AI transforming digital health and fintech. ([source](https://canvas.vc/), as of None)
+- **Type:** venture capital ([source](https://canvas.vc/), as of not recorded)
+- **Investment strategies:** early-stage venture investing, thesis-driven investing ([source](https://canvas.vc/), as of not recorded)
+- **Stages:** Series A, Series B ([source](https://canvas.vc/), as of not recorded)
+- **Sectors:** AI, digital health, fintech, marketplaces, logistics ([source](https://canvas.vc/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.prnewswire.com/news-releases/canvas-ventures-closes-third-fund-at-350-million-to-offer-visionary-founders-early-stage-capital-and-go-to-market-expertise-proven-to-accelerate-growth-301258500.html), as of 2021-03)
 
 ## Portfolio
 
@@ -51,4 +52,5 @@ Research date: 2026-10-03
 - [Source](https://canvas.vc/)
 - [Source](https://canvas.vc/portfolio)
 - [Source](https://canvas.vc/team-member/rebecca-lynn)
+- [Source](https://www.canvas.vc/portfolio)
 - [Source](https://www.prnewswire.com/news-releases/canvas-ventures-closes-third-fund-at-350-million-to-offer-visionary-founders-early-stage-capital-and-go-to-market-expertise-proven-to-accelerate-growth-301258500.html)

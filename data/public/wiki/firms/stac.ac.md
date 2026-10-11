@@ -1,5 +1,5 @@
 ---
-jev-score: 42
+jev-score: 41
 ---
 
 # STAC Invest

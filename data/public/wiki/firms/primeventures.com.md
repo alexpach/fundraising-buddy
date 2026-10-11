@@ -1,5 +1,5 @@
 ---
-jev-score: 47
+jev-score: 50
 ---
 
 # Prime Ventures
@@ -10,18 +10,19 @@ Domain: primeventures.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/prime-technology-ventures), as of 2026-04-20)
-- **Stages:** series-c, late ([source](https://www.crunchbase.com/organization/prime-technology-ventures), as of 2026-04-20)
 - **Geographies:** global, europe ([source](https://www.crunchbase.com/organization/prime-technology-ventures), as of 2026-04-20)
-- **Sectors:** ai, fintech, consumer, security, healthcare, marketplace, saas, enterprise ([source](https://www.crunchbase.com/organization/prime-technology-ventures), as of 2026-04-20)
-- **Leads rounds:** unknown ([source](https://primeventures.com), as of not recorded)
 - **About:** Prime Ventures is a North Holland, Netherlands-based venture capital firm founded in 1999. Its public materials emphasize Series C, late-stage investing, and focus areas include ai, fintech, consumer, security. ([source](https://www.crunchbase.com/organization/prime-technology-ventures), as of 2026-04-20)
+- **Type:** venture capital ([source](https://www.primeventures.com/scaling-together/), as of not recorded)
+- **Investment strategies:** venture capital ([source](https://www.primeventures.com/scaling-together/), as of not recorded)
+- **Stages:** Series A, Series B, Series C ([source](https://www.primeventures.com/scaling-together/), as of not recorded)
+- **Sectors:** Marketplaces, SaaS, Fintech, Consumer, Deeptech ([source](https://www.primeventures.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.primeventures.com/relationships/holidu/), as of not recorded)
 
 ## Portfolio
 
@@ -42,3 +43,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 - [Source](https://primeventures.com)
 - [Source](https://www.crunchbase.com/organization/prime-technology-ventures)
+- [Source](https://www.primeventures.com/)
+- [Source](https://www.primeventures.com/relationships/holidu/)
+- [Source](https://www.primeventures.com/scaling-together/)

@@ -1,8 +1,8 @@
 ---
-jev-score: 89
+jev-score: 91
 ---
 
-# CRB Health Tech SGEIC
+# CRB Health Tech
 
 [Website](https://crbhealthtech.com)
 
@@ -14,12 +14,9 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://crbhealthtech.com), as of None)
 - **HQ:** Madrid and Barcelona, Spain ([source](https://crbhealthtech.com), as of None)
 - **Founded:** 2008 ([source](https://crbhealthtech.com), as of None)
-- **Stages:** seed, series-a ([source](https://crbhealthtech.com), as of None)
 - **Geographies:** europe ([source](https://crbhealthtech.com), as of None)
-- **Sectors:** biotech, medical devices, digital health ([source](https://crbhealthtech.com), as of None)
 - **Check size min:** EUR 500k ([source](https://crbhealthtech.com), as of None)
 - **Check size max:** EUR 4-5M per company (initial tickets 500k-1.5M) ([source](https://crbhealthtech.com), as of None)
 - **Legal name:** CRB Health Tech, S.G.E.I.C., S.A. ([source](https://cdti.es/en/node/25301), as of None)
@@ -27,7 +24,11 @@ Research date: 2026-10-03
 - **Latest fund:** CRB Digital Health Tech III closed at EUR 50 million, exceeding original EUR 30 million target ([source](https://innonurse.info/post/816387733285158912/crb-health-tech-closes-50-million-digital-health), as of 2026-05)
 - **Thesis quote:** Fund III's investment thesis is centered on the convergence of digital technologies and healthcare. ([source](https://crbhealthtech.com), as of None)
 - **LPs:** CDTI Innovation (Innvierte) committed EUR 10 million to CRB Digital Health III ([source](https://cdti.es/en/node/25301), as of 2026-04)
-- **Leads rounds:** unknown ([source](https://crbhealthtech.com), as of not recorded)
+- **Type:** venture capital ([source](https://crbhealthtech.com/crb-health-tech-realiza-el-primer-cierre-de-su-fondo-en-salud-digital-con-sanitas-como-inversor-de-referencia/), as of 2024-09)
+- **Investment strategies:** health technology and life sciences investing ([source](https://crbhealthtech.com/crb-health-tech-realiza-el-primer-cierre-de-su-fondo-en-salud-digital-con-sanitas-como-inversor-de-referencia/), as of 2024-09)
+- **Investment instruments:** equity ([source](https://crbhealthtech.com/crb-health-tech-realiza-el-primer-cierre-de-su-fondo-en-salud-digital-con-sanitas-como-inversor-de-referencia/), as of 2024-09)
+- **Stages:** seed, series A ([source](https://crbhealthtech.com/), as of not recorded)
+- **Sectors:** biotech, medical devices, digital health ([source](https://crbhealthtech.com/), as of not recorded)
 
 ## Portfolio
 
@@ -64,4 +65,5 @@ Research date: 2026-10-03
 - [Source](https://crbhealthtech.com)
 - [Source](https://crbhealthtech.com/)
 - [Source](https://crbhealthtech.com/crb-desinvierte-en-health-in-code-y-culmina-un-ciclo-completo-de-creacion-de-valor-en-innovacion-sanitaria/)
+- [Source](https://crbhealthtech.com/crb-health-tech-realiza-el-primer-cierre-de-su-fondo-en-salud-digital-con-sanitas-como-inversor-de-referencia/)
 - [Source](https://innonurse.info/post/816387733285158912/crb-health-tech-closes-50-million-digital-health)

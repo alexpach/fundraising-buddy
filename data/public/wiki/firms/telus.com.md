@@ -1,5 +1,5 @@
 ---
-jev-score: 5
+jev-score: 4
 ---
 
 # Telus

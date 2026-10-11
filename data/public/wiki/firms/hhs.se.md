@@ -1,5 +1,5 @@
 ---
-jev-score: 35
+jev-score: 29
 ---
 
 # SSE Ventures
@@ -10,17 +10,16 @@ Domain: hhs.se
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/sse-ventures-4f9a), as of 2026-08-06)
-- **Stages:** pre-seed, seed ([source](https://www.crunchbase.com/organization/sse-ventures-4f9a), as of 2026-08-06)
 - **Geographies:** sweden ([source](https://www.crunchbase.com/organization/sse-ventures-4f9a), as of 2026-08-06)
-- **Sectors:** generalist ([source](https://www.crunchbase.com/organization/sse-ventures-4f9a), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://www.hhs.se/en/outreach/sse-initiatives/sse-business-lab/sse-ventures/), as of not recorded)
+- **Type:** venture capital ([source](https://www.hhs.se/community/sse-ventures/), as of not recorded)
+- **Investment strategies:** early-stage ([source](https://www.hhs.se/community/sse-ventures/), as of not recorded)
+- **Stages:** early-stage ([source](https://www.hhs.se/community/sse-ventures/), as of not recorded)
 
 ## Portfolio
 
@@ -37,4 +36,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.crunchbase.com/organization/sse-ventures-4f9a)
+- [Source](https://www.hhs.se/community/sse-ventures/)
 - [Source](https://www.hhs.se/en/outreach/sse-initiatives/sse-business-lab/sse-ventures/)

@@ -1,8 +1,8 @@
 ---
-jev-score: 58
+jev-score: 64
 ---
 
-# DCM Ventures
+# DCM
 
 [Website](https://dcm.com)
 
@@ -10,15 +10,18 @@ Domain: dcm.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://en.wikipedia.org/wiki/DCM_Ventures), as of 2026-04)
 - **Founded:** 1996 ([source](https://en.wikipedia.org/wiki/DCM_Ventures), as of 2026-04)
 - **Geographies:** us, apac, global ([source](https://en.wikipedia.org/wiki/DCM_Ventures), as of 2026-04)
-- **Leads rounds:** yes ([source](https://www.dcm.com/about), as of 2026-04)
 - **Thesis quote:** Early-stage investor focused on overlooked sectors and unconventional founders ([source](https://www.dcm.com/), as of 2026-04)
+- **Type:** venture capital ([source](https://www.dcm.com/about), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://www.dcm.com/about), as of not recorded)
+- **Stages:** early stage ([source](https://www.dcm.com/about), as of not recorded)
+- **Sectors:** vertical SaaS, fintech, AI applications, consumer internet, enterprise SaaS ([source](https://www.dcm.com/about), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.dcm.com/about), as of not recorded)
 
 ## Portfolio
 
@@ -47,3 +50,4 @@ Research date: 2026-08-26
 - [Source](https://en.wikipedia.org/wiki/DCM_Ventures)
 - [Source](https://www.dcm.com/)
 - [Source](https://www.dcm.com/about)
+- [Source](https://www.dcm.com/team/david--chao)

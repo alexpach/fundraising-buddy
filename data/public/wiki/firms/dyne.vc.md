@@ -1,5 +1,5 @@
 ---
-jev-score: 62
+jev-score: 67
 ---
 
 # DYNE Ventures
@@ -10,14 +10,15 @@ Domain: dyne.vc
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Sectors:** maritime, dual-use, defense, national security ([source](https://www.dyne.vc/), as of 2026-08)
 - **Check size max:** $5M ([source](https://www.marinn.ai/post/dyne-ventures), as of 2026-08)
 - **Thesis quote:** DYNE Ventures backs early-stage founders developing critical dual-use technologies for national security and defense ,  with a focus on advancing capabilities in the maritime domain. ([source](https://www.dyne.vc/), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://dyne.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.dyne.vc/), as of not recorded)
+- **Investment strategies:** early-stage maritime dual-use technology investing ([source](https://www.dyne.vc/), as of not recorded)
+- **Sectors:** dual-use, defense, national security, maritime ([source](https://www.dyne.vc/), as of not recorded)
 
 ## Portfolio
 

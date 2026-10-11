@@ -1,5 +1,5 @@
 ---
-jev-score: 44
+jev-score: 49
 ---
 
 # Visionaries Club
@@ -10,18 +10,19 @@ Domain: visionaries.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://visionaries.vc/), as of 2026-08-07)
-- **Stages:** seed, series-a ([source](https://visionaries.vc/), as of 2026-08-07)
 - **Geographies:** europe ([source](https://visionaries.vc/), as of 2026-08-07)
-- **Sectors:** b2b-saas, ai, climate-tech ([source](https://visionaries.vc/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://visionaries.vc/), as of not recorded)
 - **About:** Visionaries Club is a European early-stage VC with offices in Berlin and London, focused on B2B tools and AI, backed by leading European digital founders and family-business entrepreneurs. It also runs a separate climate-deep-tech vehicle, the Visionaries Tomorrow Fund ([source](https://visionaries.vc/), as of 2026-08-07)
+- **Type:** venture capital ([source](https://visionaries.vc/), as of 2026-09-23)
+- **Investment strategies:** early-stage venture capital ([source](https://visionaries.vc/), as of 2026-09-23)
+- **Stages:** pre-seed, early-stage ([source](https://visionaries.vc/editorial/tacto-ai-why-we-love-to-back-founders-before-day-one), as of not recorded)
+- **Sectors:** B2B tools, AI ([source](https://visionaries.vc/), as of 2026-09-23)
+- **Leads rounds:** yes ([source](https://visionaries.vc/editorial/tacto-ai-why-we-love-to-back-founders-before-day-one), as of not recorded)
 
 ## Portfolio
 
@@ -37,3 +38,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://visionaries.vc/)
+- [Source](https://visionaries.vc/editorial/tacto-ai-why-we-love-to-back-founders-before-day-one)

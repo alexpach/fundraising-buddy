@@ -1,8 +1,8 @@
 ---
-jev-score: 79
+jev-score: 80
 ---
 
-# DeepTech & Climate Fonds - DTCF
+# DeepTech & Climate Fonds (DTCF)
 
 [Website](https://dtcf.de)
 
@@ -14,15 +14,17 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://dtcf.de/dtcf-and-htgf-to-form-a-new-public-private-investment-platform/), as of 2025-11)
-- **Stages:** growth ([source](https://dtcf.de/portfolio/), as of None)
-- **Sectors:** Industry & Automation, Advanced Computing & Security, Sustainable Tech & Climate Solutions, Life Sciences & HealthTech ([source](https://dtcf.de/portfolio/), as of None)
 - **Check size max:** EUR 50M per company ([source](https://dtcf.de/about-us/), as of None)
 - **Legal name:** DeepTech & Climate Fonds Management GmbH ([source](https://dtcf.de/imprint/), as of None)
 - **Offices:** Berlin, Bonn, Munich ([source](https://dtcf.de/), as of None)
 - **Thesis quote:** We invest in the ideas that take time: companies with long development cycles, deep technology roots, and bold visions. ([source](https://dtcf.de/about-us/), as of None)
 - **LPs:** Funded by the German Future Fund and the ERP Special Fund ([source](https://dtcf.de/), as of None)
-- **Leads rounds:** unknown ([source](https://dtcf.de), as of not recorded)
+- **Type:** venture capital ([source](https://dtcf.de/dtcf-and-htgf-to-form-a-new-public-private-investment-platform/), as of 2025-11)
+- **Investment strategies:** growth investment ([source](https://dtcf.de/dtcf-and-htgf-to-form-a-new-public-private-investment-platform/), as of 2025-11)
+- **Investment instruments:** equity ([source](https://dtcf.de/dtcf-and-htgf-to-form-a-new-public-private-investment-platform/), as of 2025-11)
+- **Stages:** early growth, Series A+ ([source](https://dtcf.de/about-us/), as of not recorded)
+- **Sectors:** Advanced Computing & Security, Life Sciences & HealthTech, New Industry & Automation, Sustainable Tech & Climate Solutions ([source](https://dtcf.de/about-us/), as of not recorded)
+- **AUM:** EUR 1 billion (date not reported) ([source](https://dtcf.de/about-us/), as of not recorded)
 
 ## Portfolio
 

@@ -1,5 +1,5 @@
 ---
-jev-score: 59
+jev-score: 62
 ---
 
 # ICONIQ Capital
@@ -10,15 +10,17 @@ Domain: iconiq.com
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://iconiqcapital.com/growth/insights/iconiq-growth-raises-5-75b-to-support-the-next-generation-of-exceptional-founders), as of 2024-07)
-- **Stages:** any ([source](https://iconiqcapital.com/growth/insights/iconiq-growth-raises-5-75b-to-support-the-next-generation-of-exceptional-founders), as of 2024-07)
-- **Sectors:** AI, Consumer, Enterprise, Fintech, Frontier ([source](https://iconiqcapital.com/growth/companies), as of None)
-- **Leads rounds:** maybe ([source](https://iconiqcapital.com/growth/insights/iconiq-growth-raises-5-75b-to-support-the-next-generation-of-exceptional-founders), as of 2024-07)
 - **Latest fund:** $5.75B seventh flagship fund announced ([source](https://iconiqcapital.com/growth/insights/iconiq-growth-raises-5-75b-to-support-the-next-generation-of-exceptional-founders), as of 2024-07)
+- **Type:** venture capital ([source](https://www.iconiq.com/news/iconiq-growth-raises-5-75b-to-support-the-next-generation-of-exceptional-founders), as of 2024-07)
+- **Investment strategies:** venture and growth direct investing ([source](https://www.iconiq.com/news/iconiq-growth-raises-5-75b-to-support-the-next-generation-of-exceptional-founders), as of 2024-07)
+- **Stages:** early inflection point of product-market fit, IPO and beyond ([source](https://www.iconiq.com/news/iconiq-growth-raises-5-75b-to-support-the-next-generation-of-exceptional-founders), as of 2024-07)
+- **Sectors:** AI, Consumer, Enterprise, Fintech, Frontier ([source](https://www.iconiq.com/growth/companies), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.iconiq.com/news/iconiq-growth-raises-5-75b-to-support-the-next-generation-of-exceptional-founders), as of 2024-07)
+- **AUM:** Lower bound (over): USD 100 billion (date not reported) ([source](https://www.iconiq.com/), as of not recorded)
 
 ## Portfolio
 
@@ -49,3 +51,5 @@ Research date: 2026-10-02
 - [Source](https://iconiqcapital.com/growth/insights/iconiq-growth-raises-5-75b-to-support-the-next-generation-of-exceptional-founders)
 - [Source](https://iconiqcapital.com/growth/insights/iconiq-growths-newest-general-partner-amit-agarwal-on-uncommon-leadership-and-uncommon-outcomes)
 - [Source](https://www.iconiq.com/)
+- [Source](https://www.iconiq.com/growth/companies)
+- [Source](https://www.iconiq.com/news/iconiq-growth-raises-5-75b-to-support-the-next-generation-of-exceptional-founders)

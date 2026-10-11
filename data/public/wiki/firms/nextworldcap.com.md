@@ -1,5 +1,5 @@
 ---
-jev-score: 33
+jev-score: 32
 ---
 
 # NextWorld Capital

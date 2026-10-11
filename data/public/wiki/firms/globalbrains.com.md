@@ -1,8 +1,8 @@
 ---
-jev-score: 68
+jev-score: 71
 ---
 
-# Global Brain
+# Global Brain Corporation
 
 [Website](https://globalbrains.com)
 
@@ -14,16 +14,17 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://globalbrains.com/), as of None)
 - **HQ:** Tokyo, Japan ([source](https://globalbrains.com/en/offices), as of None)
 - **Founded:** 1998 ([source](https://globalbrains.com/en/company), as of None)
-- **Stages:** seed, later stage ([source](https://globalbrains.com/en/investment), as of None)
 - **Check size min:** JPY 30M ([source](https://globalbrains.com/en/investment), as of None)
 - **Check size max:** JPY 5B ([source](https://globalbrains.com/en/investment), as of None)
 - **Legal name:** Global Brain Corporation ([source](https://globalbrains.com/en/company), as of None)
 - **Offices:** Tokyo, Kyoto, San Francisco, New York, London, Berlin, Hong Kong, Bangalore, Seoul, Singapore ([source](https://globalbrains.com/en/offices), as of None)
 - **Thesis quote:** Global Brain is an independent venture capital firm that aims to bring new industries to the society through extensive hands-on support for startups and open innovation with large corporations. ([source](https://globalbrains.com/), as of None)
-- **Leads rounds:** unknown ([source](https://globalbrains.com), as of not recorded)
+- **Type:** venture capital ([source](https://globalbrains.com/en/company), as of not recorded)
+- **Stages:** seed, later stage ([source](https://globalbrains.com/en/investment), as of not recorded)
+- **Sectors:** AI, climate tech, healthcare, enterprise, commerce ([source](https://globalbrains.com/en/investment), as of not recorded)
+- **Leads rounds:** yes ([source](https://globalbrains.com/en/posts/follow-on-investment-in-turing-3), as of 2025-11-17)
 
 ## Portfolio
 
@@ -50,6 +51,8 @@ Research date: 2026-10-03
 - [Source](https://globalbrains.com)
 - [Source](https://globalbrains.com/)
 - [Source](https://globalbrains.com/en/company)
+- [Source](https://globalbrains.com/en/funds/global-brain)
 - [Source](https://globalbrains.com/en/investment)
 - [Source](https://globalbrains.com/en/offices)
 - [Source](https://globalbrains.com/en/portfolio)
+- [Source](https://globalbrains.com/en/posts/follow-on-investment-in-turing-3)

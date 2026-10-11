@@ -1,5 +1,5 @@
 ---
-jev-score: 80
+jev-score: 77
 ---
 
 # Koch Disruptive Technologies
@@ -10,21 +10,20 @@ Domain: kochdisruptivetechnologies.com
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** cvc ([source](https://www.prnewswire.com/news-releases/koch-disruptive-technologies-to-lead-150-million-investment-of-insightec-300571366.html), as of 2017-12)
 - **HQ:** Wichita, Kansas ([source](https://www.prnewswire.com/news-releases/koch-disruptive-technologies-to-lead-150-million-investment-of-insightec-300571366.html), as of 2017-12)
 - **Founded:** 2017 ([source](https://www.axios.com/2017/12/14/koch-tries-its-hand-at-venture-capital-1513277500), as of 2017-12)
-- **Stages:** venture, growth stage ([source](https://kochdisruptivetechnologies.com/portfolio), as of None)
 - **Geographies:** us, israel ([source](https://kochdisruptivetechnologies.com/about), as of None)
-- **Sectors:** Connectivity, Cyber Security, Energy, Enterprise Software, Fintech, Healthcare, Semiconductors, Supply Chain & Manufacturing Tech ([source](https://kochdisruptivetechnologies.com/portfolio), as of None)
-- **AUM:** $4B+ deployed since 2017 (balance-sheet capital, not a raised fund) ([source](https://kochdisruptivetechnologies.com/portfolio), as of None)
 - **Offices:** Israel (KDT Israel team) ([source](https://kochdisruptivetechnologies.com/about), as of None)
 - **Thesis quote:** KDT is driven to help principled entrepreneurs with transformative technologies achieve their potential by leveraging mutually beneficial partnerships that enable their companies and Koch to innovate, scale, and generate profitable growth. ([source](https://kochdisruptivetechnologies.com/), as of 2026-09)
 - **LPs:** None; KDT invests directly from Koch Industries' balance sheet rather than raising a fund from limited partners. ([source](https://venturebeat.com/entrepreneur/what-koch-disruptive-technologies-is-looking-for-in-its-investments/), as of 2018-03)
-- **Leads rounds:** yes ([source](https://kochdisruptivetechnologies.com), as of not recorded)
+- **Type:** corporate venture capital ([source](https://www.kochinc.com/career-opportunities/koch-disruptive-technologies), as of not recorded)
+- **Stages:** seed, late-stage growth ([source](https://www.kochinc.com/career-opportunities/koch-disruptive-technologies), as of not recorded)
+- **Sectors:** Cybersecurity, Semiconductors, Enterprise software, Energy ([source](https://www.kochinc.com/career-opportunities/koch-disruptive-technologies), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.prnewswire.com/news-releases/koch-disruptive-technologies-to-lead-150-million-investment-of-insightec-300571366.html), as of 2017-12)
 
 ## Portfolio
 
@@ -68,4 +67,6 @@ Research date: 2026-09-20
 - [Source](https://kochdisruptivetechnologies.com/portfolio)
 - [Source](https://venturebeat.com/entrepreneur/what-koch-disruptive-technologies-is-looking-for-in-its-investments/)
 - [Source](https://www.axios.com/2017/12/14/koch-tries-its-hand-at-venture-capital-1513277500)
+- [Source](https://www.kochinc.com/career-opportunities/koch-disruptive-technologies)
+- [Source](https://www.kochinc.com/career-opportunities/koch-investment-companies)
 - [Source](https://www.prnewswire.com/news-releases/koch-disruptive-technologies-to-lead-150-million-investment-of-insightec-300571366.html)

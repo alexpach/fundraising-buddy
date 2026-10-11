@@ -10,15 +10,15 @@ Domain: imaginary.co
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.businesswire.com/news/home/20220406006018/en/Imaginary-Ventures-Grows-Funds-Under-Management-to-1-Billion-Announces-500-Million-Fund-III-and-Significant-Team-Growth), as of 2022-04)
 - **Founded:** 2018 ([source](https://www.imaginary.co/about), as of 2026-08)
-- **Sectors:** consumer brands, consumer technology, retail technology ([source](https://www.imaginary.co/about), as of 2026-08)
-- **Leads rounds:** yes ([source](https://www.delimarketnews.com/whats-store/alecs-ice-cream-secures-11m-series-scale-nationwide-expansion-logan-langberg-and-alec-jaffe-comment/deli-staff/mon-10132025-0838/20371), as of 2025-10)
 - **Thesis quote:** Imaginary Ventures is a leading venture capital firm dedicated to building and partnering with iconic, generationally-defining consumer businesses – and select enabling technology businesses ([source](https://www.imaginary.co/about), as of 2026-08)
+- **Type:** venture capital ([source](https://www.imaginary.co/about), as of not recorded)
+- **Sectors:** consumer businesses, enabling technology businesses ([source](https://www.imaginary.co/about), as of not recorded)
+- **Leads rounds:** yes ([source](https://sundaysfordogs.com/blog/sundays-for-dogs-raises-10-million-series-a-led-by-imaginary-ventures-along-with-ryan-reynolds-orlando-bloom-and-the-founders-of-sweetgreen-glossier-and-away), as of 2022-03-16)
 
 ## Portfolio
 
@@ -42,6 +42,7 @@ Research date: 2026-08-26
 ## Sources
 
 - [Source](https://imaginary.co)
+- [Source](https://sundaysfordogs.com/blog/sundays-for-dogs-raises-10-million-series-a-led-by-imaginary-ventures-along-with-ryan-reynolds-orlando-bloom-and-the-founders-of-sweetgreen-glossier-and-away)
 - [Source](https://www.businesswire.com/news/home/20220406006018/en/Imaginary-Ventures-Grows-Funds-Under-Management-to-1-Billion-Announces-500-Million-Fund-III-and-Significant-Team-Growth)
 - [Source](https://www.delimarketnews.com/whats-store/alecs-ice-cream-secures-11m-series-scale-nationwide-expansion-logan-langberg-and-alec-jaffe-comment/deli-staff/mon-10132025-0838/20371)
 - [Source](https://www.imaginary.co/about)

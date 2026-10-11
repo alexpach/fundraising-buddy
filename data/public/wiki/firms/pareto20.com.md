@@ -1,5 +1,5 @@
 ---
-jev-score: 27
+jev-score: 31
 ---
 
 # Pareto Holdings
@@ -10,18 +10,16 @@ Domain: pareto20.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.pareto20.com), as of 2026-08-07)
-- **Stages:** pre-seed, seed ([source](https://www.pareto20.com), as of 2026-08-07)
 - **Geographies:** global ([source](https://www.pareto20.com), as of 2026-08-07)
-- **Sectors:** generalist ([source](https://www.pareto20.com), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.pareto20.com), as of not recorded)
 - **About:** Pareto Holdings is Edward Lando's self-funded early-stage investment/company-building platform ("never raised any outside capital"), HQ'd in the US, operating worldwide, writing pre-seed/seed checks broadly. Lando is widely described as one of the most active angel investors globally ([source](https://www.pareto20.com), as of 2026-08-07)
+- **Type:** venture capital; venture studio ([source](https://www.pareto20.com/team), as of not recorded)
+- **Investment strategies:** early-stage investing ([source](https://www.pareto20.com/team), as of not recorded)
 
 ## Portfolio
 
@@ -35,3 +33,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.pareto20.com)
+- [Source](https://www.pareto20.com/)
+- [Source](https://www.pareto20.com/team)

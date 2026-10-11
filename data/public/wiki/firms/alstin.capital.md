@@ -1,5 +1,5 @@
 ---
-jev-score: 87
+jev-score: 90
 ---
 
 # Alstin Capital
@@ -14,17 +14,18 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://alstin.capital/about-us), as of None)
 - **HQ:** Munich, Germany ([source](https://alstin.capital/about-us), as of None)
-- **Stages:** Late Seed / Series A ([source](https://alstin.capital/), as of 2026-10)
 - **Geographies:** europe ([source](https://alstin.capital/about-us), as of 2026-10)
-- **Sectors:** B2B Software, FinTech, InsurTech, RegTech, Cyber Security, ClimateTech ([source](https://alstin.capital/), as of 2026-10)
 - **Check size min:** EUR 2m ([source](https://alstin.capital/), as of 2026-10)
 - **Check size max:** EUR 8m ([source](https://alstin.capital/), as of 2026-10)
 - **Latest fund:** Alstin III closed at EUR 175 million ([source](https://www.eu-startups.com/2024/12/munich-based-alstin-capital-raises-e175-million-for-alstin-iii-fund-to-fuel-european-b2b-software-growth/), as of 2024-12)
 - **Thesis quote:** We invest in fast-growing Late Seed and Series A B2B software companies across Europe. ([source](https://alstin.capital/about-us), as of 2026-10)
 - **LPs:** Backed by foundations, insurance companies, banks, family offices and high-net-worth individuals ([source](https://www.eu-startups.com/2024/12/munich-based-alstin-capital-raises-e175-million-for-alstin-iii-fund-to-fuel-european-b2b-software-growth/), as of 2024-12)
-- **Leads rounds:** unknown ([source](https://alstin.capital), as of not recorded)
+- **Type:** venture capital ([source](https://alstin.capital/about-us), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://alstin.capital/about-us), as of not recorded)
+- **Stages:** Late Seed, Series A ([source](https://alstin.capital/), as of not recorded)
+- **Sectors:** B2B Software, FinTech, InsurTech, RegTech, Cyber Security, ClimateTech ([source](https://alstin.capital/), as of not recorded)
+- **Leads rounds:** yes ([source](https://alstin.capital/), as of not recorded)
 
 ## Portfolio
 

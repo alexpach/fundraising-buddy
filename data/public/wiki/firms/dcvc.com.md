@@ -1,8 +1,8 @@
 ---
-jev-score: 76
+jev-score: 88
 ---
 
-# DCVC (Data Collective)
+# DCVC
 
 [Website](https://dcvc.com)
 
@@ -10,20 +10,22 @@ Domain: dcvc.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.sec.gov/Archives/edgar/data/2129288/000212928826000002/xslFormDX08/primary_doc.xml), as of 2026-05)
 - **HQ:** Palo Alto, CA ([source](https://www.sec.gov/Archives/edgar/data/2129288/000212928826000002/xslFormDX08/primary_doc.xml), as of 2026-05)
 - **Founded:** 2010 ([source](https://www.dcvc.com/team/zachary-bogue/), as of 2026-08)
 - **Geographies:** us ([source](https://www.sec.gov/Archives/edgar/data/2129288/000212928826000002/xslFormDX08/primary_doc.xml), as of 2026-05)
-- **Sectors:** AI, exa-scale computing, climate, engineering, materials science, robotics, space, water, biology, defense and security ([source](https://www.dcvc.com/about/), as of 2026-08)
-- **AUM:** $4b+ ([source](https://www.dcvc.com/about/), as of 2026-08)
 - **Legal name:** Data Collective ([source](https://www.dcvc.com/about/), as of 2026-08)
 - **Latest fund:** DCVC Bio III closed at $400 million, fall 2024 ([source](https://www.dcvc.com/news-insights/dcvc-bio-iii-closes-at-400-million/), as of 2024-09)
 - **Thesis quote:** DCVC backs entrepreneurs solving trillion-dollar problems to multiply the benefits of capitalism for everyone while reducing its costs. ([source](https://www.dcvc.com/about/), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://dcvc.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.dcvc.com/about/), as of not recorded)
+- **Investment strategies:** deep tech ([source](https://www.dcvc.com/about/), as of not recorded)
+- **Stages:** Series C ([source](https://www.dcvc.com/news-insights/radiant-industries-raises-100-million-dcvc-climate-led-series-c-to-speed-microreactors-to-market/), as of not recorded)
+- **Sectors:** AI, exa-scale computing, climate, engineering, materials science, robotics, space, water, biology, defense and security ([source](https://www.dcvc.com/about/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.dcvc.com/news-insights/radiant-industries-raises-100-million-dcvc-climate-led-series-c-to-speed-microreactors-to-market/), as of not recorded)
+- **AUM:** Lower bound (over): USD 4 billion (date not reported) ([source](https://www.dcvc.com/about/), as of not recorded)
 
 ## Portfolio
 
@@ -85,5 +87,6 @@ Research date: 2026-08-26
 - [Source](https://www.dcvc.com/companies/planet)
 - [Source](https://www.dcvc.com/companies/recursion)
 - [Source](https://www.dcvc.com/news-insights/dcvc-bio-iii-closes-at-400-million/)
+- [Source](https://www.dcvc.com/news-insights/radiant-industries-raises-100-million-dcvc-climate-led-series-c-to-speed-microreactors-to-market/)
 - [Source](https://www.dcvc.com/team/zachary-bogue/)
 - [Source](https://www.sec.gov/Archives/edgar/data/2129288/000212928826000002/xslFormDX08/primary_doc.xml)

@@ -1,5 +1,5 @@
 ---
-jev-score: 72
+jev-score: 84
 ---
 
 # Verve Ventures
@@ -10,7 +10,7 @@ Domain: verve.vc
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
@@ -21,7 +21,10 @@ Research date: 2026-08-26
 - **Legal name:** Verve Capital Partners AG ([source](https://www.verve.vc/), as of 2026-08)
 - **Thesis quote:** For 15 years, Verve Ventures has been successfully investing at the essential intersection of science and enterprise. We are not tourists in deep tech; we are natives. ([source](https://www.verve.vc/team/), as of 2026-08)
 - **LPs:** Family offices, wealth managers, institutions, founders and senior executives ([source](https://www.verve.vc/), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://verve.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.verve.vc/), as of not recorded)
+- **Investment strategies:** deep tech ([source](https://www.verve.vc/), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://www.verve.vc/), as of not recorded)
+- **Sectors:** Energy & Resources, Computing, Health & Bio ([source](https://www.verve.vc/), as of not recorded)
 
 ## Portfolio
 

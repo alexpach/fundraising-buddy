@@ -1,5 +1,5 @@
 ---
-jev-score: 49
+jev-score: 59
 ---
 
 # Manhattan Venture Partners
@@ -10,14 +10,18 @@ Domain: mvp.vc
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Stages:** mid-to-late-stage ([source](https://www.mvp.vc/services), as of None)
-- **Sectors:** technology ([source](https://www.mvp.vc/services), as of None)
 - **Thesis quote:** Investment focus on mid-to-late-stage technology companies backed by top-tier venture firms with a 1-4 year exit horizon ([source](https://www.mvp.vc/services), as of None)
-- **Leads rounds:** unknown ([source](https://mvp.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.mvp.vc/services), as of not recorded)
+- **Investment strategies:** venture secondaries, co-investments ([source](https://www.mvp.vc/services), as of not recorded)
+- **Investment instruments:** equity ([source](https://www.mvp.vc/services), as of not recorded)
+- **Stages:** mid-to-late-stage ([source](https://www.mvp.vc/services), as of not recorded)
+- **Sectors:** technology ([source](https://www.mvp.vc/services), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.mvp.vc/venture-bytes/manhattan-venture-partners-leads-seven-figure-funding-round-for-ipsecure), as of not recorded)
+- **AUM:** Lower bound (over): USD 1 billion (date not reported) ([source](https://www.mvp.vc/services), as of not recorded)
 
 ## Portfolio
 
@@ -53,3 +57,4 @@ Research date: 2026-10-03
 - [Source](https://www.mvp.vc/)
 - [Source](https://www.mvp.vc/portfolio)
 - [Source](https://www.mvp.vc/services)
+- [Source](https://www.mvp.vc/venture-bytes/manhattan-venture-partners-leads-seven-figure-funding-round-for-ipsecure)

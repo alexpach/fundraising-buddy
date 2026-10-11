@@ -1,5 +1,5 @@
 ---
-jev-score: 57
+jev-score: 58
 ---
 
 # Linse Capital
@@ -10,17 +10,18 @@ Domain: linsecapital.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.linsecapital.com/), as of None)
 - **Founded:** 2015 ([source](https://www.businesswire.com/news/home/20221219005033/en/Linse-Capital-Raises-%24700M-to-Back-the-Next-Generation-of-World-leading-Industrial-Technology-Companies), as of 2022-12)
-- **Sectors:** deep tech, energy, mobility, space, robotics, AI ([source](https://www.linsecapital.com/), as of None)
 - **Latest fund:** $700 million raised across Linse Capital Fund I and two co-investment vehicles (announced 2022-12-19) ([source](https://www.businesswire.com/news/home/20221219005033/en/Linse-Capital-Raises-%24700M-to-Back-the-Next-Generation-of-World-leading-Industrial-Technology-Companies), as of 2022-12)
 - **Thesis quote:** We believe concentration trumps diversification. We go all in on a few companies rather than scattering our time and capital across many. ([source](https://www.linsecapital.com/), as of None)
 - **LPs:** Affiliates of Oppenheimer & Co., Daimler Truck, Taiwan Mobile and more than 400 family office investors ([source](https://www.businesswire.com/news/home/20221219005033/en/Linse-Capital-Raises-%24700M-to-Back-the-Next-Generation-of-World-leading-Industrial-Technology-Companies), as of 2022-12)
-- **Leads rounds:** unknown ([source](https://linsecapital.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.linsecapital.com/), as of not recorded)
+- **Investment strategies:** deep tech, growth equity ([source](https://www.linsecapital.com/), as of not recorded)
+- **Investment instruments:** equity ([source](https://www.linsecapital.com/), as of not recorded)
+- **Sectors:** energy, mobility, space, robotics, AI ([source](https://www.linsecapital.com/), as of not recorded)
 
 ## Portfolio
 
@@ -45,6 +46,8 @@ Research date: 2026-10-03
 
 ## Sources
 
+- [Source](https://www.businesswire.com/news/home/20221219005033/en/Linse-Capital-Raises-$700M-to-Back-the-Next-Generation-of-World-leading-Industrial-Technology-Companies)
 - [Source](https://www.businesswire.com/news/home/20221219005033/en/Linse-Capital-Raises-%24700M-to-Back-the-Next-Generation-of-World-leading-Industrial-Technology-Companies)
 - [Source](https://www.linsecapital.com/)
 - [Source](https://www.linsecapital.com/portfolio)
+- [Source](https://www.linsecapital.com/website-social-media-content-disclosures)

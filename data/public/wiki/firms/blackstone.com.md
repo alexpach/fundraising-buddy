@@ -1,8 +1,8 @@
 ---
-jev-score: 73
+jev-score: 72
 ---
 
-# Blackstone
+# Blackstone Inc.
 
 [Website](https://blackstone.com)
 
@@ -10,20 +10,23 @@ Domain: blackstone.com
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** pe ([source](https://www.blackstone.com/), as of 2026-10)
 - **Founded:** 1985 ([source](https://www.blackstone.com/the-firm/our-people/), as of 2026-06)
-- **Sectors:** AI ecosystem, high growth companies ([source](https://blackstone.com/people/jasvinder-khaira-2), as of 2026-07)
-- **AUM:** more than $1.3 trillion (firm-wide, not growth-specific) ([source](https://www.blackstone.com/), as of 2026-10)
 - **Latest fund:** $4.5 billion final close of first BXG fund ([source](https://www.blackstone.com/news/press/blackstone-announces-4-5-billion-final-close-of-blackstone-growth-bxg-fund-largest-first-time-growth-equity-vehicle-in-history), as of 2021-03)
 - **Thesis quote:** N1: unified platform for growth, hybrid, and perpetual private equity investing across the AI ecosystem and the next generation of high growth companies ([source](https://blackstone.com/people/jasvinder-khaira-2), as of 2026-07)
 - **LPs:** family offices, entrepreneurs, endowments, strategic institutional investors, pension funds, high-net-worth individuals (BXG first fund) ([source](https://www.blackstone.com/news/press/blackstone-announces-4-5-billion-final-close-of-blackstone-growth-bxg-fund-largest-first-time-growth-equity-vehicle-in-history), as of 2021-03)
 - **HQ:** New York, NY ([source](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001393818/3eb4e945-463d-4a24-8596-9993ab283e9a.pdf), as of 2026-07)
 - **Legal name:** Blackstone Inc. ([source](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001393818/3eb4e945-463d-4a24-8596-9993ab283e9a.pdf), as of 2026-07)
-- **Leads rounds:** yes ([source](https://blackstone.com), as of not recorded)
+- **Type:** alternative asset manager; growth equity ([source](https://www.blackstone.com/news/press/blackstone-reports-second-quarter-2026-earnings/), as of 2026-07-23)
+- **Investment strategies:** growth equity ([source](https://www.blackstone.com/news/press/blackstone-reports-second-quarter-2026-earnings/), as of 2026-07-23)
+- **Investment instruments:** equity ([source](https://www.blackstone.com/news/press/blackstone-reports-second-quarter-2026-earnings/), as of 2026-07-23)
+- **Stages:** growth ([source](https://www.blackstone.com/news/press/blackstone-announces-4-5-billion-final-close-of-blackstone-growth-bxg-fund-largest-first-time-growth-equity-vehicle-in-history/), as of 2021-03-19)
+- **Sectors:** Financial Services, Enterprise Technologies, Consumer Technologies, Healthcare, Consumer ([source](https://www.blackstone.com/news/press/blackstone-announces-4-5-billion-final-close-of-blackstone-growth-bxg-fund-largest-first-time-growth-equity-vehicle-in-history/), as of 2021-03-19)
+- **Leads rounds:** yes ([source](https://www.blackstone.com/news/press/ginger-announces-100-million-series-e-financing-from-blackstone-to-bring-value-based-mental-healthcare-to-millions-of-employees-and-health-plan-members/), as of 2021-03-24)
+- **AUM:** Lower bound (over): USD 1.3 trillion (as of 2026-06-30) ([source](https://www.blackstone.com/news/press/blackstone-reports-second-quarter-2026-earnings/), as of 2026-06-30)
 
 ## Portfolio
 
@@ -48,9 +51,12 @@ Research date: 2026-10-02
 - [Source](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001393818/3eb4e945-463d-4a24-8596-9993ab283e9a.pdf)
 - [Source](https://www.blackstone.com/)
 - [Source](https://www.blackstone.com/news/press/blackstone-announces-4-5-billion-final-close-of-blackstone-growth-bxg-fund-largest-first-time-growth-equity-vehicle-in-history)
+- [Source](https://www.blackstone.com/news/press/blackstone-announces-4-5-billion-final-close-of-blackstone-growth-bxg-fund-largest-first-time-growth-equity-vehicle-in-history/)
 - [Source](https://www.blackstone.com/news/press/blackstone-growth-announces-strategic-minority-investment-in-property-finder/)
 - [Source](https://www.blackstone.com/news/press/blackstone-growth-bxg-announces-majority-investment-in-supergoop-category-creator-in-spf-innovation-and-everyday-sun-protection/)
+- [Source](https://www.blackstone.com/news/press/blackstone-reports-second-quarter-2026-earnings/)
 - [Source](https://www.blackstone.com/news/press/blackstone-to-invest-in-xpressbees-indias-fastest-growing-express-logistics-company/)
+- [Source](https://www.blackstone.com/news/press/ginger-announces-100-million-series-e-financing-from-blackstone-to-bring-value-based-mental-healthcare-to-millions-of-employees-and-health-plan-members/)
 - [Source](https://www.blackstone.com/the-firm/our-people/)
 - [Source](https://www.fyb.de/en/euro-175-million-series-f-for-pennylane-with-blackstone-growth/)
 - [Source](https://www.nasdaq.com/press-release/blackstone-announces-significant-minority-investment-in-isn-global-leader-in-third)

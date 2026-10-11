@@ -1,5 +1,5 @@
 ---
-jev-score: 65
+jev-score: 75
 ---
 
 # Cycle Capital
@@ -14,15 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://cyclecapital.com/en/), as of None)
 - **HQ:** Montreal, Quebec ([source](https://cyclecapital.com/en/), as of None)
 - **Founded:** 2009 ([source](https://cyclecapital.com/en/), as of None)
-- **Stages:** growth, early ([source](https://cyclecapital.com/en/), as of None)
 - **Geographies:** us, europe ([source](https://cyclecapital.com/en/), as of None)
-- **Sectors:** DeepTech: microelectronics, photonics, digitalization, circularity and new materials, WaterTech ([source](https://cyclecapital.com/en/), as of None)
 - **Thesis quote:** We invest venture capital in innovative, high-performing, cutting-edge companies that do more with less ([source](https://cyclecapital.com/en/investment-2/), as of None)
 - **LPs:** Export Development Canada (Fund IV); L'Oreal anchor (Circular Innovation Fund) ([source](https://cyclecapital.com/en/2022/04/21/cycle-capital-and-demeter-announce-first-close-for-new-circular-innovation-fund-to-scale-breakthrough-circular-solutions), as of 2022-04)
-- **Leads rounds:** unknown ([source](https://cyclecapital.com), as of not recorded)
+- **Type:** venture capital ([source](https://cyclecapital.com/en/investissement/), as of not recorded)
+- **Investment strategies:** venture growth, seed/early-stage ecosystem support, ClimateTech, DeepTech ([source](https://cyclecapital.com/en/investissement/), as of not recorded)
+- **Stages:** venture growth ([source](https://cyclecapital.com/en/2026/), as of 2026-09)
+- **Sectors:** ClimateTech, DeepTech, microelectronics, photonics, internet of things, digitalization, energy efficiency, circularity and new materials, WaterTech ([source](https://cyclecapital.com/en/2026/), as of 2026-09)
+- **Leads rounds:** yes ([source](https://cyclecapital.com/en/2026/), as of 2026-08)
 
 ## Portfolio
 
@@ -57,4 +58,7 @@ Research date: 2026-10-03
 
 - [Source](https://cyclecapital.com/en/)
 - [Source](https://cyclecapital.com/en/2022/04/21/cycle-capital-and-demeter-announce-first-close-for-new-circular-innovation-fund-to-scale-breakthrough-circular-solutions)
+- [Source](https://cyclecapital.com/en/2026/)
+- [Source](https://cyclecapital.com/en/2026/01/28/cycle-capital-leads-new-investment-in-aon3d-to-support-build-out-and-commercialization-of-high-temperature-3d-printers/)
+- [Source](https://cyclecapital.com/en/investissement/)
 - [Source](https://cyclecapital.com/en/investment-2/)

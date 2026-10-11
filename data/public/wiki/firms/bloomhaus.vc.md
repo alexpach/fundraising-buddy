@@ -1,5 +1,5 @@
 ---
-jev-score: 38
+jev-score: 46
 ---
 
 # Bloomhaus Ventures
@@ -10,18 +10,19 @@ Domain: bloomhaus.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.bloomhaus.vc/), as of 2026-08-17)
-- **Stages:** seed, series-a ([source](https://www.bloomhaus.vc/), as of 2026-08-17)
 - **Geographies:** europe, us ([source](https://www.bloomhaus.vc/), as of 2026-08-17)
-- **Sectors:** industrytech, construction-tech, deep-tech ([source](https://www.bloomhaus.vc/), as of 2026-08-17)
-- **Leads rounds:** unknown ([source](https://www.bloomhaus.vc/), as of not recorded)
 - **About:** Bloomhaus (Bloomhaus Ventures AG) is an early-stage venture firm headquartered in Zug, Switzerland with additional presence in Berlin and Silicon Valley, investing in "IndustryTech" , technology addressing industrial and measurement challenges. It is a young and thinly-documented firm; most detail below is sourced from its own portfolio page and one co-investment ([source](https://www.bloomhaus.vc/), as of 2026-08-17)
+- **Type:** venture capital ([source](https://www.bloomhaus.vc/about), as of not recorded)
+- **Investment strategies:** early-stage venture investing, evergreen investing ([source](https://www.bloomhaus.vc/about), as of not recorded)
+- **Legal structure:** evergreen investment structure ([source](https://www.bloomhaus.vc/about), as of not recorded)
+- **Stages:** early-stage, seed ([source](https://www.bloomhaus.vc/about), as of not recorded)
+- **Sectors:** CleanTech, IndustryTech, Digitalization ([source](https://www.bloomhaus.vc/startups), as of not recorded)
 
 ## Portfolio
 
@@ -38,3 +39,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.bloomhaus.vc/)
+- [Source](https://www.bloomhaus.vc/about)
+- [Source](https://www.bloomhaus.vc/startups)
+- [Source](https://www.bloomhaus.vc/story/bloomhaus-ventures-is-backing-swiss-solid-state-battery-pioneer-btry)

@@ -10,16 +10,18 @@ Domain: khoslaventures.com
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.privateequityinternational.com/institution-profiles/khosla-ventures.html), as of None)
 - **Founded:** 2004 ([source](https://www.privateequityinternational.com/institution-profiles/khosla-ventures.html), as of None)
-- **Stages:** pre-seed/seed to Series A ([source](https://www.khoslaventures.com/about), as of None)
 - **Latest fund:** Closed around $4 billion in its most recent vintage (per Dealroom summarizing Bloomberg, July 2026) ([source](https://dealroom.co/news/141179-khosla-ventures-targets-record-5-5b-fund-most-for-early-stage-ai/), as of 2026-07)
 - **Thesis quote:** We are passionate about technology-based economic disruption in many industries. ([source](https://www.khoslaventures.com/about), as of None)
-- **Leads rounds:** unknown ([source](https://khoslaventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.khoslaventures.com/about/how-we-decide), as of not recorded)
+- **Investment strategies:** seed investing, early- to later-stage technology investing ([source](https://www.khoslaventures.com/about/how-we-decide), as of not recorded)
+- **Stages:** pre-seed, seed, Series A, early stage, later stage ([source](https://www.khoslaventures.com/about), as of not recorded)
+- **Sectors:** Consumer, Enterprise, Fintech, Frontier, MedTech & Diagnostics, Digital Health, Therapeutics, Sustainability ([source](https://www.khoslaventures.com/about), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.khoslaventures.com/about), as of not recorded)
 
 ## Portfolio
 
@@ -61,4 +63,5 @@ Research date: 2026-10-02
 - [Source](https://dealroom.co/news/141179-khosla-ventures-targets-record-5-5b-fund-most-for-early-stage-ai/)
 - [Source](https://www.khoslaventures.com/)
 - [Source](https://www.khoslaventures.com/about)
+- [Source](https://www.khoslaventures.com/about/how-we-decide)
 - [Source](https://www.privateequityinternational.com/institution-profiles/khosla-ventures.html)

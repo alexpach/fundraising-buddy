@@ -1,5 +1,5 @@
 ---
-jev-score: 71
+jev-score: 73
 ---
 
 # TX Ventures
@@ -10,19 +10,21 @@ Domain: tx.ventures
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
 - **HQ:** Zurich, Switzerland ([source](https://www.tx.ventures/), as of None)
-- **Stages:** seed, series-a ([source](https://www.tx.ventures/), as of None)
 - **Geographies:** europe ([source](https://www.tx.ventures/), as of None)
-- **Sectors:** Fintech & Insurtech, Proptech, Cybertech, Digital Assets ([source](https://www.tx.ventures/), as of None)
 - **Check size min:** CHF 1.0m ([source](https://www.tx.ventures/), as of None)
 - **Check size max:** CHF 5.0m ([source](https://www.tx.ventures/), as of None)
-- **Leads rounds:** maybe ([source](https://www.tx.ventures/portfolio), as of None)
 - **Thesis quote:** Our mission is to invest in Fintechs democratizing access to financial products, empowering people to gain financial security and improving efficiency as well as sustainability. ([source](https://www.tx.ventures/team), as of None)
 - **LPs:** TX Group ([source](https://www.tx.ventures/team), as of None)
+- **Type:** venture capital ([source](https://www.tx.ventures/), as of not recorded)
+- **Investment strategies:** fintech ([source](https://www.tx.ventures/), as of not recorded)
+- **Stages:** seed, series A ([source](https://www.tx.ventures/), as of not recorded)
+- **Sectors:** Fintech & Insurtech, Proptech, Cybertech, Digital Assets ([source](https://www.tx.ventures/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.tx.ventures/portfolio), as of not recorded)
 
 ## Portfolio
 

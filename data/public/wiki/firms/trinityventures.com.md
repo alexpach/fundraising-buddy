@@ -1,5 +1,5 @@
 ---
-jev-score: 40
+jev-score: 39
 ---
 
 # Trinity Ventures
@@ -10,18 +10,18 @@ Domain: trinityventures.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://trinityventures.com), as of 2026-04-19)
-- **Stages:** seed, series-a ([source](https://trinityventures.com), as of 2026-04-19)
 - **Geographies:** us ([source](https://trinityventures.com), as of 2026-04-19)
-- **Sectors:** saas, enterprise ([source](https://trinityventures.com), as of 2026-04-19)
-- **Leads rounds:** unknown ([source](https://trinityventures.com), as of not recorded)
 - **About:** Trinity Ventures is a Bay Area early-stage investor with over 30 years of experience backing mission-driven entrepreneurs. The firm emphasizes personal engagement from day one and has supported founders of portfolio companies including Starbucks, thredUP, New Relic, Auth0, Weights & Biases, and Outreach. ([source](https://trinityventures.com), as of 2026-04-19)
+- **Type:** venture capital ([source](https://www.trinityventures.com/about), as of not recorded)
+- **Investment strategies:** early-stage investing ([source](https://www.trinityventures.com/about), as of not recorded)
+- **Stages:** early stage ([source](https://www.trinityventures.com/about), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.trinityventures.com/portfolio/arize), as of not recorded)
 
 ## Portfolio
 
@@ -42,3 +42,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://trinityventures.com)
+- [Source](https://www.trinityventures.com/)
+- [Source](https://www.trinityventures.com/about)
+- [Source](https://www.trinityventures.com/portfolio/arize)

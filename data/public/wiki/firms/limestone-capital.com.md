@@ -1,5 +1,5 @@
 ---
-jev-score: 32
+jev-score: 31
 ---
 
 # Limestone Capital AG
@@ -10,17 +10,17 @@ Domain: limestone-capital.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://www.limestone-capital.com/), as of 2026-08-07)
-- **Stages:** growth ([source](https://www.limestone-capital.com/), as of 2026-08-07)
 - **Geographies:** europe ([source](https://www.limestone-capital.com/), as of 2026-08-07)
-- **Sectors:** hospitality, real-estate, travel ([source](https://www.limestone-capital.com/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.limestone-capital.com/), as of not recorded)
+- **Type:** private equity ([source](https://www.limestone-capital.com/), as of not recorded)
+- **Investment strategies:** branded operating platform development, value-add real estate, hospitality asset acquisition and development ([source](https://www.limestone-capital.com/), as of not recorded)
+- **Legal structure:** investment funds, co-investment vehicles ([source](https://www.limestone-capital.com/), as of not recorded)
+- **Sectors:** hospitality, energy and infrastructure, real estate ([source](https://www.limestone-capital.com/), as of not recorded)
 
 ## Portfolio
 
@@ -39,3 +39,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.limestone-capital.com/)
+- [Source](https://www.limestone-capital.com/realestate)

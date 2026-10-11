@@ -1,5 +1,5 @@
 ---
-jev-score: 68
+jev-score: 76
 ---
 
 # Revolution
@@ -10,19 +10,19 @@ Domain: revolution.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://revolution.com/), as of 2026-10)
 - **HQ:** Washington, D.C. ([source](https://www.revolution.com/contact), as of 2026-10)
 - **Founded:** 2005 ([source](https://revolution.com/about), as of None)
-- **Sectors:** sector-agnostic: portfolio spans sectors, stages, and regions ([source](https://www.revolution.com/venture-capital), as of 2026-10)
 - **Check size max:** up to $1 million initial investments (Rise of the Rest Seed Fund only, stated 2017) ([source](https://blog.revolution.com/announcing-the-150-million-rise-of-the-rest-seed-fund-f7880c33532a), as of 2017-12)
 - **Offices:** Washington, D.C. (HQ), San Francisco ([source](https://www.revolution.com/contact), as of 2026-10)
 - **Thesis quote:** we back entrepreneurs shaping both the digital and physical world ([source](https://revolution.com/), as of 2026-10)
 - **LPs:** Rise of the Rest Seed Fund II investors named in 2019 include Jeff Bezos, Sara Blakely, Jim Breyer, Ray Dalio, John Doerr ([source](https://www.revolution.com/press-release/revolutions-rise-of-the-rest-announces-second-150-million-fund-to-invest-in-startups-based-outside-of-silicon-valley-following-faster-than-expected-deployment-of-first-fund), as of 2019-10)
-- **Leads rounds:** unknown ([source](https://revolution.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.revolution.com/venture-capital), as of not recorded)
+- **Investment strategies:** venture-stage investing, growth-stage investing, seed investing ([source](https://www.revolution.com/venture-capital), as of not recorded)
+- **Stages:** Growth, Early, Seed ([source](https://www.revolution.com/venture-capital), as of not recorded)
 
 ## Portfolio
 
@@ -53,6 +53,7 @@ Research date: 2026-10-03
 - [Source](https://revolution.com)
 - [Source](https://revolution.com/)
 - [Source](https://revolution.com/about)
+- [Source](https://www.revolution.com/about)
 - [Source](https://www.revolution.com/contact)
 - [Source](https://www.revolution.com/portfolio)
 - [Source](https://www.revolution.com/press-release/revolutions-rise-of-the-rest-announces-second-150-million-fund-to-invest-in-startups-based-outside-of-silicon-valley-following-faster-than-expected-deployment-of-first-fund)

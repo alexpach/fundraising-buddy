@@ -1,8 +1,8 @@
 ---
-jev-score: 69
+jev-score: 68
 ---
 
-# Almi Invest
+# Almi Invest AB
 
 [Website](https://almi.se)
 
@@ -14,18 +14,19 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://almi.se/en/venture-capital), as of None)
 - **HQ:** Stockholm, Sweden ([source](https://www.almi.se/om-almi/organisation/almi-invest-ab/), as of None)
 - **Founded:** 2009 ([source](https://almi.se/en/venture-capital/invest-together-with-almi-invest), as of None)
-- **Stages:** pre-seed, seed, growth ([source](https://almi.se/en/venture-capital), as of None)
-- **Sectors:** Tech, Life Science, Deep Tech, Industry, Sustainability ([source](https://almi.se/en/venture-capital/invest-together-with-almi-invest), as of None)
 - **Check size min:** SEK 1 million ([source](https://almi.se/en/venture-capital/invest-together-with-almi-invest), as of None)
 - **Legal name:** Almi Invest AB ([source](https://www.almi.se/om-almi/organisation/almi-invest-ab/), as of None)
 - **Offices:** Stockholm, Västra Järnvägsgatan 3, 111 64 Stockholm (head office listed; regional funds have offices across Sweden) ([source](https://www.almi.se/om-almi/organisation/almi-invest-ab/), as of None)
 - **Thesis quote:** We invest in innovative startups in the early stages of growth. ([source](https://almi.se/en/venture-capital), as of None)
 - **Exclusions:** Generally not suitable for consultancy businesses, sole traders or companies primarily seeking loans ([source](https://almi.se/en/venture-capital), as of None)
 - **Coinvestors:** Invests alongside business angels, family offices and other investors ([source](https://almi.se/en/venture-capital), as of None)
-- **Leads rounds:** no ([source](https://almi.se), as of not recorded)
+- **Type:** venture capital ([source](https://www.almi.se/en/venture-capital/invest-together-with-almi-invest), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://www.almi.se/en/venture-capital/invest-together-with-almi-invest), as of not recorded)
+- **Legal structure:** subsidiary ([source](https://www.almi.se/en/venture-capital/invest-together-with-almi-invest), as of not recorded)
+- **Stages:** early-stage, growth ([source](https://www.almi.se/en/venture-capital/invest-together-with-almi-invest), as of not recorded)
+- **Sectors:** Life Science, Industry, Tech, Deep Tech, Sustainability ([source](https://www.almi.se/en/venture-capital/invest-together-with-almi-invest), as of not recorded)
 
 ## Portfolio
 
@@ -56,5 +57,6 @@ Research date: 2026-10-03
 - [Source](https://almi.se)
 - [Source](https://almi.se/en/venture-capital)
 - [Source](https://almi.se/en/venture-capital/invest-together-with-almi-invest)
+- [Source](https://www.almi.se/en/venture-capital/invest-together-with-almi-invest)
 - [Source](https://www.almi.se/en/venture-capital/vara-portfoljbolag/)
 - [Source](https://www.almi.se/om-almi/organisation/almi-invest-ab/)

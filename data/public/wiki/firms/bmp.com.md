@@ -1,8 +1,8 @@
 ---
-jev-score: 72
+jev-score: 77
 ---
 
-# bmp Ventures
+# bmp Ventures AG
 
 [Website](https://bmp.com)
 
@@ -14,17 +14,18 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.bmp.com/en/investment-strategy/), as of None)
 - **HQ:** Berlin, Germany ([source](https://www.bmp.com/en/team/), as of None)
 - **Founded:** 1997 ([source](https://www.bmp.com/en/about-us/), as of None)
-- **Sectors:** Digital Solutions, Industry & Deeptech, Media & Gaming, Life Sciences & eHealth, Cleantech & Planet Positive, Mobility & Automotive, FinTech & LegalTech ([source](https://www.bmp.com/en/investment-strategy/), as of None)
 - **Check size max:** up to €15 million per investment (growth) ([source](https://www.bmp.com/en/investment-strategy/), as of None)
 - **Legal name:** bmp Ventures AG ([source](https://www.bmp.com/en/team/), as of None)
 - **Offices:** Berlin, Magdeburg ([source](https://www.bmp.com/en/team/), as of None)
-- **Leads rounds:** maybe ([source](https://www.bmp.com/en/investment-strategy/), as of None)
 - **Thesis quote:** we focus on sustainable growth, strong teams and entrepreneurial substance ([source](https://www.bmp.com/en/investment-strategy/), as of None)
 - **LPs:** Fund mandates from KfW Bankengruppe, König & Cie., and the German federal states of Brandenburg and Saxony-Anhalt ([source](https://www.bmp.com/en/about-us/), as of None)
 - **Coinvestors:** network of business angels, venture capital firms, family offices, and state and development banks ([source](https://www.bmp.com/en/about-us/), as of None)
+- **Type:** venture capital ([source](https://www.bmp.com/en/investment-strategy/), as of not recorded)
+- **Stages:** pre-seed, seed, series A, growth ([source](https://www.bmp.com/en/investment-strategy/), as of not recorded)
+- **Sectors:** Digital Solutions, Industry & Deeptech, Media & Gaming, Life Sciences & eHealth, Cleantech & Planet Positive, Mobility & Automotive, FinTech & LegalTech ([source](https://www.bmp.com/en/investment-strategy/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.bmp.com/en/about-us/), as of not recorded)
 
 ## Portfolio
 

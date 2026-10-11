@@ -1,5 +1,5 @@
 ---
-jev-score: 55
+jev-score: 54
 ---
 
 # Zimmer Lucas Partners

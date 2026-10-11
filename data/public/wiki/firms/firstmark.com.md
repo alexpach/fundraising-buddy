@@ -1,5 +1,5 @@
 ---
-jev-score: 73
+jev-score: 79
 ---
 
 # FirstMark
@@ -14,13 +14,15 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://firstmark.com/story/announcing-1-1b-in-new-funds), as of 2022-07)
 - **HQ:** New York City ([source](https://firstmark.com/story/announcing-1-1b-in-new-funds), as of 2022-07)
 - **Founded:** 2008 ([source](https://firstmark.com/story/announcing-1-1b-in-new-funds), as of 2022-07)
-- **Sectors:** consumer technology, enterprise technology ([source](https://firstmark.com/story/announcing-1-1b-in-new-funds), as of 2022-07)
-- **Leads rounds:** yes ([source](https://firstmark.com/story/announcing-1-1b-in-new-funds), as of 2022-07)
 - **Latest fund:** FirstMark Capital VI and Opportunity Fund IV, approximately $1.1 billion, announced 2022-07-20 ([source](https://firstmark.com/story/announcing-1-1b-in-new-funds), as of 2022-07)
 - **Thesis quote:** We partner with the world's best entrepreneurs from their earliest days onwards. ([source](https://firstmark.com/story/announcing-1-1b-in-new-funds), as of 2022-07)
+- **Type:** venture capital ([source](https://firstmark.com/), as of not recorded)
+- **Investment strategies:** early-stage venture, growth-stage venture ([source](https://firstmark.com/), as of not recorded)
+- **Stages:** earliest stages, growth phase ([source](https://firstmark.com/story/announcing-1-1b-in-new-funds/), as of 2022-07)
+- **Sectors:** consumer technology, enterprise technology ([source](https://firstmark.com/story/announcing-1-1b-in-new-funds/), as of 2022-07)
+- **Leads rounds:** yes ([source](https://firstmark.com/story/announcing-1-1b-in-new-funds/), as of 2022-07)
 
 ## Portfolio
 
@@ -50,6 +52,8 @@ Research date: 2026-10-03
 
 ## Sources
 
+- [Source](https://firstmark.com/)
 - [Source](https://firstmark.com/portfolio/)
 - [Source](https://firstmark.com/story/announcing-1-1b-in-new-funds)
+- [Source](https://firstmark.com/story/announcing-1-1b-in-new-funds/)
 - [Source](https://firstmark.com/team/)

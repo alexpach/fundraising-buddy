@@ -1,5 +1,5 @@
 ---
-jev-score: 59
+jev-score: 61
 ---
 
 # Accel
@@ -10,17 +10,19 @@ Domain: accel.com
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-03
 
 ## Public research
 
 - **HQ:** Palo Alto, CA (first-listed office on contact page) ([source](https://www.accel.com/contact-us), as of None)
-- **Stages:** Early Stage, Late Stage ([source](https://accel.com/team), as of None)
 - **Geographies:** us, europe, israel, india ([source](https://accel.com/news/our-enduring-commitment-to-investing-at-the-earliest-stages), as of 2026-08)
 - **Offices:** Palo Alto; San Francisco (contact page); team page locations Bay Area, London, Bangalore ([source](https://www.accel.com/contact-us), as of None)
 - **Latest fund:** $3.5 billion across four early-stage vehicles announced 2026-08-11 ([source](https://accel.com/news/our-enduring-commitment-to-investing-at-the-earliest-stages), as of 2026-08)
 - **Thesis quote:** Early-stage founders need investors who can move at their pace ([source](https://accel.com/news/our-enduring-commitment-to-investing-at-the-earliest-stages), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://accel.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.accel.com/news/our-enduring-commitment-to-investing-at-the-earliest-stages), as of 2026-08)
+- **Investment strategies:** early-stage venture, late-stage venture ([source](https://www.accel.com/news/our-enduring-commitment-to-investing-at-the-earliest-stages), as of 2026-08)
+- **Stages:** early stage, late stage ([source](https://www.accel.com/news/our-enduring-commitment-to-investing-at-the-earliest-stages), as of 2026-08)
+- **Leads rounds:** yes ([source](https://www.accel.com/news/accel-leads-depthfirsts-series-a-securing-the-worlds-software), as of 2026-01)
 
 ## Portfolio
 
@@ -44,4 +46,6 @@ Research date: 2026-10-02
 - [Source](https://accel.com/team)
 - [Source](https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/)
 - [Source](https://www.accel.com/contact-us)
+- [Source](https://www.accel.com/news/accel-leads-depthfirsts-series-a-securing-the-worlds-software)
+- [Source](https://www.accel.com/news/our-enduring-commitment-to-investing-at-the-earliest-stages)
 - [Source](https://www.accel.com/news/ourlatestfundearlyinsightandenduringpartnership)

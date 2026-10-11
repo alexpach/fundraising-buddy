@@ -1,5 +1,5 @@
 ---
-jev-score: 43
+jev-score: 42
 ---
 
 # Invenergy Ventures

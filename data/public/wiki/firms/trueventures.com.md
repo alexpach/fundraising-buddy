@@ -1,5 +1,5 @@
 ---
-jev-score: 39
+jev-score: 58
 ---
 
 # True Ventures
@@ -10,18 +10,20 @@ Domain: trueventures.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://trueventures.com), as of 2026-04-19)
-- **Stages:** seed, series-a ([source](https://trueventures.com), as of 2026-04-19)
 - **Geographies:** us ([source](https://trueventures.com), as of 2026-04-19)
-- **Sectors:** ai, saas, hardware, consumer, robotics, frontier-tech ([source](https://trueventures.com), as of 2026-04-19)
-- **Leads rounds:** unknown ([source](https://trueventures.com), as of not recorded)
 - **About:** True Ventures is an early-stage venture firm with offices in San Francisco and Palo Alto, investing in AI and technology startups at Seed and Series A. The firm has been active for over two decades. ([source](https://trueventures.com), as of 2026-04-19)
+- **Type:** venture capital ([source](https://www.trueventures.com/opinions/true-fund-vii-select-fund-iv), as of 2020-10-14)
+- **Investment strategies:** early-stage venture ([source](https://www.trueventures.com/opinions/true-fund-vii-select-fund-iv), as of 2020-10-14)
+- **Stages:** pre-seed, seed, series A ([source](https://www.trueventures.com/pitch), as of not recorded)
+- **Sectors:** AI ([source](https://www.trueventures.com/opinions/concentrate-ai-llm-governance), as of 2026-06-10)
+- **Leads rounds:** yes ([source](https://www.trueventures.com/opinions/concentrate-ai-llm-governance), as of 2026-06-10)
+- **AUM:** USD 2.8 billion (as of 2020-10-14) ([source](https://www.trueventures.com/opinions/true-fund-vii-select-fund-iv), as of 2020-10-14)
 
 ## Portfolio
 
@@ -42,3 +44,7 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://trueventures.com)
+- [Source](https://www.trueventures.com/)
+- [Source](https://www.trueventures.com/opinions/concentrate-ai-llm-governance)
+- [Source](https://www.trueventures.com/opinions/true-fund-vii-select-fund-iv)
+- [Source](https://www.trueventures.com/pitch)

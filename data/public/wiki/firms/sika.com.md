@@ -1,5 +1,5 @@
 ---
-jev-score: 14
+jev-score: 19
 ---
 
 # Sika AG
@@ -10,15 +10,14 @@ Domain: sika.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
 - **Geographies:** global ([source](https://www.sika.com/), as of 2026-08-07)
-- **Sectors:** construction-tech ([source](https://www.sika.com/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.sika.com/), as of not recorded)
+- **Type:** operating company ([source](https://www.sika.com/), as of not recorded)
 
 ## Portfolio
 
@@ -32,3 +31,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.sika.com/)
+- [Source](https://www.sika.com/en/about-us.html)

@@ -2,7 +2,7 @@
 jev-score: 5
 ---
 
-# Sutter Hill
+# Sutter Hill Ventures
 
 [Website](https://shv.com)
 
@@ -10,14 +10,12 @@ Domain: shv.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
+Directory seed only. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://shv.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://shv.com), as of not recorded)
 
 ## Portfolio
 
@@ -28,4 +26,6 @@ Not recorded.
 
 ## Sources
 
+- [Source](https://labs.shv.com/)
 - [Source](https://shv.com)
+- [Source](https://shv.com/)

@@ -1,5 +1,5 @@
 ---
-jev-score: 36
+jev-score: 28
 ---
 
 # New Brunswick Innovation Foundation
@@ -10,17 +10,15 @@ Domain: nbif.ca
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Stages:** seed ([source](https://nbif.ca), as of 2026-08-06)
 - **Geographies:** canada ([source](https://nbif.ca), as of 2026-08-06)
-- **Sectors:** ict, cybersecurity, digital-health, advanced-manufacturing, energy, agritech ([source](https://nbif.ca), as of 2026-08-06)
-- **AUM:** 120M ([source](https://nbif.ca), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://nbif.ca), as of not recorded)
+- **Type:** venture capital firm ([source](https://www.nbif.ca/), as of 2026)
+- **Stages:** early-stage ([source](https://www.nbif.ca/), as of 2026)
 
 ## Portfolio
 
@@ -34,3 +32,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://nbif.ca)
+- [Source](https://www.nbif.ca/)

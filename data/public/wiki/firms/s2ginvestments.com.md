@@ -1,5 +1,5 @@
 ---
-jev-score: 81
+jev-score: 84
 ---
 
 # S2G Investments
@@ -10,21 +10,22 @@ Domain: s2ginvestments.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://s2ginvestments.com/news/s2g-investments-closes-1-billion-solutions-fund-i), as of 2026-05)
 - **HQ:** Chicago, IL ([source](https://s2ginvestments.com/news/s2g-investments-closes-1-billion-solutions-fund-i), as of 2026-05)
 - **Founded:** 2014 ([source](https://s2ginvestments.com/news/s2g-investments-closes-1-billion-solutions-fund-i), as of 2026-05)
 - **Geographies:** us, europe ([source](https://s2ginvestments.com/news/s2g-investments-closes-1-billion-solutions-fund-i), as of 2026-05)
-- **Sectors:** food & agriculture, energy, oceans ([source](https://s2ginvestments.com/news/s2g-investments-closes-1-billion-solutions-fund-i), as of 2026-05)
-- **AUM:** $2.8 billion ([source](https://s2ginvestments.com/news/s2g-investments-closes-1-billion-solutions-fund-i), as of 2026-05)
 - **Offices:** Chicago, San Francisco, Boston ([source](https://s2ginvestments.com/investments), as of 2026-07)
 - **Latest fund:** Solutions Fund I, $1 billion final close, May 12, 2026 ([source](https://s2ginvestments.com/news/s2g-investments-closes-1-billion-solutions-fund-i), as of 2026-05)
 - **Thesis quote:** Between early-stage venture and infrastructure-scale capital lies a financing gap ([source](https://s2ginvestments.com/insights/building-1b-growth-stage-fund), as of 2026-05)
 - **LPs:** pension funds, funds of funds, and family offices across North America, Europe, Asia, and Australia ([source](https://s2ginvestments.com/news/s2g-investments-closes-1-billion-solutions-fund-i), as of 2026-05)
-- **Leads rounds:** unknown ([source](https://s2ginvestments.com), as of not recorded)
+- **Type:** multi-asset investment firm ([source](https://www.s2ginvestments.com/news/s2g-investments-closes-1-billion-solutions-fund-i), as of 2026-05-12)
+- **Investment strategies:** late-stage venture, growth equity, structured finance, infrastructure ([source](https://www.s2ginvestments.com/news/s2g-investments-closes-1-billion-solutions-fund-i), as of 2026-05-12)
+- **Stages:** growth-stage ([source](https://www.s2ginvestments.com/news/s2g-investments-closes-1-billion-solutions-fund-i), as of 2026-05-12)
+- **Sectors:** food & agriculture, energy, oceans ([source](https://www.s2ginvestments.com/), as of not recorded)
+- **AUM:** USD 2.8 billion (as of 2026-05-12) ([source](https://www.s2ginvestments.com/news/s2g-investments-closes-1-billion-solutions-fund-i), as of 2026-05-12)
 
 ## Portfolio
 
@@ -65,3 +66,4 @@ Research date: 2026-10-03
 - [Source](https://s2ginvestments.com/investments)
 - [Source](https://s2ginvestments.com/news/s2g-investments-closes-1-billion-solutions-fund-i)
 - [Source](https://www.s2ginvestments.com/)
+- [Source](https://www.s2ginvestments.com/news/s2g-investments-closes-1-billion-solutions-fund-i)

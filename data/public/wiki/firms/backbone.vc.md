@@ -1,5 +1,5 @@
 ---
-jev-score: 64
+jev-score: 71
 ---
 
 # Backbone Ventures
@@ -14,16 +14,19 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.backbone.vc/), as of None)
 - **HQ:** Zurich and Frankfurt am Main ([source](https://www.backbone.vc/), as of None)
 - **Founded:** 2018 ([source](https://www.backbone.vc/), as of None)
 - **Geographies:** europe ([source](https://www.backbone.vc/focus), as of None)
-- **Sectors:** generalist, B2B to B2C ([source](https://www.backbone.vc/focus), as of None)
 - **Legal name:** BackBone Ventures AG ([source](https://www.backbone.vc/team), as of None)
 - **Offices:** Zurich (Stockerstrasse 14) and Frankfurt (TechQuartier, Platz der Einheit 2) ([source](https://www.backbone.vc/team), as of None)
-- **Leads rounds:** yes ([source](https://www.backbone.vc/focus), as of None)
 - **Latest fund:** Final closing of the 5502 Fund at EUR 20 million, announced 13.03.2024 ([source](https://startupticker.ch/en/news/eur-20-million-for-underrepresented-founders), as of 2024-03)
 - **Thesis quote:** We want to back the best founders as early as possible in their entrepreneurial journey. ([source](https://www.backbone.vc/), as of None)
+- **Type:** early-stage venture capital firm ([source](https://www.backbone.vc/), as of not recorded)
+- **Investment strategies:** pre-seed venture investing ([source](https://www.backbone.vc/), as of not recorded)
+- **Legal structure:** Swiss AG, German GmbH ([source](https://www.backbone.vc/), as of not recorded)
+- **Stages:** pre-seed ([source](https://www.backbone.vc/focus), as of not recorded)
+- **Sectors:** generalist, B2B to B2C ([source](https://www.backbone.vc/focus), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.backbone.vc/focus), as of not recorded)
 
 ## Portfolio
 
@@ -45,6 +48,7 @@ Research date: 2026-10-03
 - [Source](https://startupticker.ch/en/news/eur-20-million-for-underrepresented-founders)
 - [Source](https://www.backbone.vc/)
 - [Source](https://www.backbone.vc/focus)
+- [Source](https://www.backbone.vc/imprint)
 - [Source](https://www.backbone.vc/team)
 - [Source](https://www.linkedin.com/posts/backbone-ventures_excited-to-announce-our-investment-in-activity-7477694538803929089-5GP-)
 - [Source](https://www.linkedin.com/posts/backbone-ventures_mit-diesem-pitchdeck-gabs-die-erste-vc-runde-activity-7245325227964919809-O_4v)

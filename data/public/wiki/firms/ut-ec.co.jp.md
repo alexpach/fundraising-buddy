@@ -1,8 +1,8 @@
 ---
-jev-score: 75
+jev-score: 83
 ---
 
-# The University of Tokyo Edge Capital Partners Co., Ltd. (UTEC)
+# The University of Tokyo Edge Capital Partners Co., Ltd.
 
 [Website](https://ut-ec.co.jp)
 
@@ -10,20 +10,22 @@ Domain: ut-ec.co.jp
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://ut-ec.co.jp/english/about_us/firm_profile), as of 2025-07)
 - **HQ:** Tokyo, Japan (South Clinical Research Bldg. 3F, 7-3-1 Hongo, Bunkyo-ku) ([source](https://ut-ec.co.jp/english/about_us/firm_profile), as of 2025-07)
 - **Founded:** 2004 ([source](https://ut-ec.co.jp/english/about_us/firm_profile), as of 2025-07)
-- **Stages:** pre-incorporation, seed, early stage ([source](https://ut-ec.co.jp/english/about_us/investment_policy), as of None)
-- **Sectors:** deep-tech, science and technology, life science, IT, physical science ([source](https://ut-ec.co.jp/english/about_us/firm_profile), as of 2025-07)
-- **AUM:** JPY 130 billion (approximately USD 1 billion) ([source](https://ut-ec.co.jp/english/about_us/firm_profile), as of 2025-07)
 - **Legal name:** The University of Tokyo Edge Capital Partners Co., Ltd. ([source](https://ut-ec.co.jp/english/about_us/firm_profile), as of 2025-07)
 - **Latest fund:** UTEC 6 Limited Partnership established April 2025; about 46.1 billion yen ([source](https://ut-ec.co.jp/english/about_us/firm_profile), as of 2025-07)
 - **Thesis quote:** We create new industries to solve global issues of humankind by bringing capital, talent, and knowledge, around science and technology ([source](https://ut-ec.co.jp/english/about_us/investment_policy), as of None)
-- **Leads rounds:** unknown ([source](https://ut-ec.co.jp), as of not recorded)
+- **Type:** venture capital ([source](https://www.ut-ec.co.jp/english/about_us/firm_profile), as of 2025-07)
+- **Investment strategies:** science and technology venture investing ([source](https://www.ut-ec.co.jp/english/about_us/firm_profile), as of 2025-07)
+- **Legal structure:** venture capital fund manager, limited partnership funds ([source](https://www.ut-ec.co.jp/english/about_us/firm_profile), as of 2025-07)
+- **Stages:** pre-incorporation, seed, early stage ([source](https://www.ut-ec.co.jp/english/about_us/investment_policy/), as of not recorded)
+- **Sectors:** Healthcare and Life Sciences, Information Technology, Physical Sciences and Engineering ([source](https://www.ut-ec.co.jp/english/about_us/news/utec6/), as of 2025-07-11)
+- **Leads rounds:** yes ([source](https://www.ut-ec.co.jp/english/about_us/investment_policy/), as of not recorded)
+- **AUM:** Approximately JPY 130 billion (as of 2025-07) ([source](https://www.ut-ec.co.jp/english/about_us/firm_profile), as of 2025-07)
 
 ## Portfolio
 
@@ -50,3 +52,6 @@ Research date: 2026-10-03
 - [Source](https://ut-ec.co.jp/english/about_us/investment_policy)
 - [Source](https://ut-ec.co.jp/english/our_team/keisuke_ide)
 - [Source](https://www.ut-ec.co.jp/)
+- [Source](https://www.ut-ec.co.jp/english/about_us/firm_profile)
+- [Source](https://www.ut-ec.co.jp/english/about_us/investment_policy/)
+- [Source](https://www.ut-ec.co.jp/english/about_us/news/utec6/)

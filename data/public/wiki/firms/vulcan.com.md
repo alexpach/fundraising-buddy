@@ -1,5 +1,5 @@
 ---
-jev-score: 21
+jev-score: 20
 ---
 
 # Vulcan Capital

@@ -1,5 +1,5 @@
 ---
-jev-score: 67
+jev-score: 64
 ---
 
 # AME Cloud Ventures
@@ -10,21 +10,20 @@ Domain: amecloudventures.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/ame-cloud-ventures), as of 2026-06-08)
-- **Stages:** seed, series-a, series-b, growth ([source](https://www.crunchbase.com/organization/ame-cloud-ventures), as of 2026-06-08)
 - **Geographies:** us, global, asia ([source](https://www.crunchbase.com/organization/ame-cloud-ventures), as of 2026-06-08)
-- **Sectors:** data-infrastructure, ai, robotics, manufacturing, biotech, aerospace, quantum, mobile, sensors, drones, hardware ([source](https://www.crunchbase.com/organization/ame-cloud-ventures), as of 2026-06-08)
-- **AUM:** 500M ([source](https://www.crunchbase.com/organization/ame-cloud-ventures), as of 2026-06-08)
 - **Check size min:** 1M ([source](https://www.crunchbase.com/organization/ame-cloud-ventures), as of 2026-06-08)
 - **Check size max:** 10M ([source](https://www.crunchbase.com/organization/ame-cloud-ventures), as of 2026-06-08)
-- **Leads rounds:** unknown ([source](https://www.amecloudventures.com), as of not recorded)
 - **About:** AME Cloud Ventures is the venture fund of Jerry Yang, co-founder of Yahoo!, investing in seed to growth-stage technology companies building infrastructure and value chains around data. The firm backs data-driven businesses with deep science or technology differentiation, with an emphasis on companies that create unique data at every layer of the stack , from infrastructure through applications ([source](https://www.crunchbase.com/organization/ame-cloud-ventures), as of 2026-06-08)
+- **Type:** venture capital ([source](https://www.amecloudventures.com/), as of not recorded)
+- **Investment strategies:** data technology investing ([source](https://www.amecloudventures.com/), as of not recorded)
+- **Stages:** seed, later stage ([source](https://www.amecloudventures.com/), as of not recorded)
+- **Sectors:** Data infrastructure, Applications, Mobile, Sensors ([source](https://www.amecloudventures.com/), as of not recorded)
 
 ## Portfolio
 
@@ -45,4 +44,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.amecloudventures.com)
+- [Source](https://www.amecloudventures.com/)
 - [Source](https://www.crunchbase.com/organization/ame-cloud-ventures)

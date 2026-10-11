@@ -1,5 +1,5 @@
 ---
-jev-score: 47
+jev-score: 46
 ---
 
 # MEDICE - The Health Family

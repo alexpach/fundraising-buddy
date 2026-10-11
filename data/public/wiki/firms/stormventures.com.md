@@ -1,5 +1,5 @@
 ---
-jev-score: 43
+jev-score: 61
 ---
 
 # Storm Ventures
@@ -10,18 +10,19 @@ Domain: stormventures.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://stormventures.com), as of 2026-04-26)
-- **Stages:** seed, series-a ([source](https://stormventures.com), as of 2026-04-26)
 - **Geographies:** us, europe, asia ([source](https://stormventures.com), as of 2026-04-26)
-- **Sectors:** saas, enterprise, b2b, security, ai, infrastructure ([source](https://stormventures.com), as of 2026-04-26)
-- **Leads rounds:** unknown ([source](https://stormventures.com), as of not recorded)
 - **About:** Storm Ventures is an early-stage B2B software-focused venture firm founded in 1992 and headquartered in Palo Alto, CA, with additional offices in Berlin and South Korea. The firm has made 200+ investments over more than 30 years, specializing in enterprise software, cybersecurity, and AI. Notable portfolio companies include Workato, Tekion, Talkdesk, Splashtop, and Salesloft. ([source](https://stormventures.com), as of 2026-04-26)
+- **Type:** venture capital ([source](https://www.stormventures.com/), as of not recorded)
+- **Investment strategies:** early-stage B2B enterprise software investing, early revenue B2B SaaS investing ([source](https://www.stormventures.com/), as of not recorded)
+- **Stages:** early stage, early revenue ([source](https://www.stormventures.com/), as of not recorded)
+- **Sectors:** B2B enterprise software, Enterprise infrastructure, Cybersecurity, Artificial intelligence ([source](https://www.stormventures.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.stormventures.com/blog-posts-and-rts/customer-value-is-becoming-infrastructure), as of 2026-09-09)
 
 ## Portfolio
 
@@ -42,3 +43,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://stormventures.com)
+- [Source](https://www.stormventures.com/)
+- [Source](https://www.stormventures.com/blog-posts-and-rts/customer-value-is-becoming-infrastructure)
+- [Source](https://www.stormventures.com/blog-posts-and-rts/storm-ventures-announces-fund-vii-2b7df)

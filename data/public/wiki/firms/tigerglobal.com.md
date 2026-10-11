@@ -1,8 +1,8 @@
 ---
-jev-score: 65
+jev-score: 66
 ---
 
-# Tiger Global Management
+# Tiger Global Management, LLC
 
 [Website](https://tigerglobal.com)
 
@@ -10,21 +10,22 @@ Domain: tigerglobal.com
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** pe ([source](https://tigerglobal.com/ourstrategy), as of None)
 - **HQ:** New York, NY ([source](https://www.tigerglobal.com/), as of None)
 - **Founded:** 2001 ([source](https://tigerglobal.com/ourstory), as of None)
-- **Stages:** any ([source](https://tigerglobal.com/ourstrategy), as of None)
 - **Geographies:** global ([source](https://tigerglobal.com/ourstory), as of None)
-- **Sectors:** innovative approaches to new and existing industries, technology ([source](https://tigerglobal.com/ourstrategy), as of None)
 - **Legal name:** Tiger Global Management, LLC ([source](https://www.tigerglobal.com/), as of None)
 - **Latest fund:** PIP 16 final close about $2.2 billion, reported April 2024 ([source](https://economictimes.indiatimes.com/tech/technology/tiger-global-vc-fund-closes-63-below-target-with-2-2-billion/articleshow/108962553.cms), as of 2024-04)
 - **Thesis quote:** early through late-stage companies that pursue innovative approaches to new and existing industries ([source](https://tigerglobal.com/ourstrategy), as of None)
 - **LPs:** Tiger insiders, including Coleman, expected to be the largest investors in PIP 17 ([source](https://economictimes.indiatimes.com/tech/technology/tiger-global-returns-to-roots-with-smaller-vc-goal/articleshow/125860008.cms), as of 2025-12)
-- **Leads rounds:** unknown ([source](https://tigerglobal.com), as of not recorded)
+- **Type:** investment adviser ([source](https://www.tigerglobal.com/ourstrategy), as of not recorded)
+- **Investment strategies:** public equity, private equity, crossover investing ([source](https://www.tigerglobal.com/ourstrategy), as of not recorded)
+- **Legal structure:** limited liability company ([source](https://www.tigerglobal.com/ourstrategy), as of not recorded)
+- **Investment instruments:** equity ([source](https://www.tigerglobal.com/ourstrategy), as of not recorded)
+- **Stages:** early-stage, late-stage ([source](https://www.tigerglobal.com/ourstrategy), as of not recorded)
 
 ## Portfolio
 
@@ -50,3 +51,4 @@ Research date: 2026-10-02
 - [Source](https://tigerglobal.com/ourstory)
 - [Source](https://tigerglobal.com/ourstrategy)
 - [Source](https://www.tigerglobal.com/)
+- [Source](https://www.tigerglobal.com/ourstrategy)

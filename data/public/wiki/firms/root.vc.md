@@ -1,5 +1,5 @@
 ---
-jev-score: 80
+jev-score: 79
 ---
 
 # Root Ventures
@@ -10,18 +10,20 @@ Domain: root.vc
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://root.vc/), as of None)
 - **HQ:** San Francisco, CA ([source](https://root.vc/), as of None)
-- **Stages:** seed ([source](https://root.vc/), as of None)
-- **Sectors:** deep tech ([source](https://root.vc/), as of None)
-- **Leads rounds:** yes ([source](https://medium.com/root-ventures/root-ventures-fund-iii-ae11386f75bd), as of 2022-08)
 - **Latest fund:** $190M Fund 4 ([source](https://www.newcomer.co/p/exclusive-root-ventures-raises-190), as of 2025-11)
 - **Thesis quote:** As engineers ourselves, we specialize in leading initial funding for founders tackling new technical opportunities. ([source](https://root.vc/), as of None)
 - **LPs:** University of Chicago, Adams Street, State of New Mexico, Loyola, DuPont Trust, Brown Advisory (Fund 4) ([source](https://www.newcomer.co/p/exclusive-root-ventures-raises-190), as of 2025-11)
+- **Type:** venture capital firm ([source](https://root.vc/), as of not recorded)
+- **Investment strategies:** deep tech seed investing, technical founder investing ([source](https://root.vc/), as of not recorded)
+- **Stages:** seed, pre-seed ([source](https://medium.com/root-ventures/root-ventures-fund-iii-ae11386f75bd), as of 2022-08-23)
+- **Sectors:** deep tech ([source](https://root.vc/), as of not recorded)
+- **Leads rounds:** yes ([source](https://medium.com/root-ventures/root-ventures-fund-iii-ae11386f75bd), as of 2022-08-23)
+- **AUM:** USD 325 million (as of 2022-08-23) ([source](https://medium.com/root-ventures/root-ventures-fund-iii-ae11386f75bd), as of 2022-08-23)
 
 ## Portfolio
 

@@ -1,5 +1,5 @@
 ---
-jev-score: 42
+jev-score: 51
 ---
 
 # Mana Ventures
@@ -10,18 +10,18 @@ Domain: manaventures.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.manaventures.vc/), as of 2026-08-07)
-- **Stages:** seed, series-a ([source](https://www.manaventures.vc/), as of 2026-08-07)
 - **Geographies:** us ([source](https://www.manaventures.vc/), as of 2026-08-07)
-- **Sectors:** deep-tech, ai, robotics, space, defense, healthtech, biotech ([source](https://www.manaventures.vc/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.manaventures.vc/), as of not recorded)
 - **About:** Mana Ventures is a US deeptech + AI specialist venture capital firm (led by partner Morgan, per founder testimonials) investing in early-stage (seed/Series A) companies across Artificial Intelligence, Software, Space, HealthTech, BioTech, Robotics, and Autonomy. It runs an AngelList syndicate ("The Collective") and a scout program ([source](https://www.manaventures.vc/), as of 2026-08-07)
+- **Type:** venture capital ([source](https://www.manaventures.vc/scout-program), as of not recorded)
+- **Stages:** seed, series A, series B, series C ([source](https://www.manaventures.vc/scout-program), as of not recorded)
+- **Sectors:** Artificial Intelligence, Software, Space, HealthTech, BioTech, Robotics, Autonomy ([source](https://www.manaventures.vc/), as of not recorded)
+- **Leads rounds:** no ([source](https://www.manaventures.vc/scout-program), as of not recorded)
 
 ## Portfolio
 
@@ -41,3 +41,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.manaventures.vc/)
+- [Source](https://www.manaventures.vc/scout-program)

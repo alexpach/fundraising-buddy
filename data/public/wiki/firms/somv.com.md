@@ -1,5 +1,5 @@
 ---
-jev-score: 60
+jev-score: 58
 ---
 
 # State of Mind Ventures
@@ -10,19 +10,16 @@ Domain: somv.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/state-of-mind-ventures), as of 2026-04-19)
-- **Stages:** seed, series-a ([source](https://www.crunchbase.com/organization/state-of-mind-ventures), as of 2026-04-19)
 - **Geographies:** global ([source](https://www.crunchbase.com/organization/state-of-mind-ventures), as of 2026-04-19)
-- **Sectors:** cybersecurity, ai, big-data, space, automotive, computer-vision, sensors, defense, deep-tech ([source](https://www.crunchbase.com/organization/state-of-mind-ventures), as of 2026-04-19)
-- **AUM:** 200M ([source](https://www.crunchbase.com/organization/state-of-mind-ventures), as of 2026-04-19)
-- **Leads rounds:** unknown ([source](https://www.somv.com), as of not recorded)
 - **About:** State of Mind Ventures (SOMV) is an Israeli seed and early-growth venture firm based in Herzliya, founded in 2014 by Pinhas Buchris (former commander of Unit 8200) and Yuval Baharav. The firm recently launched SOMV 3 (seed) and Momentum (early growth), together totaling $200M. Investment focus spans big data, AI, cybersecurity, sensors, space, automotive and computer vision. ([source](https://www.crunchbase.com/organization/state-of-mind-ventures), as of 2026-04-19)
+- **Type:** venture capital ([source](https://www.somv.com/), as of not recorded)
+- **Stages:** seed ([source](https://www.somv.com/), as of not recorded)
 
 ## Portfolio
 
@@ -44,3 +41,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 - [Source](https://www.crunchbase.com/organization/state-of-mind-ventures)
 - [Source](https://www.somv.com)
+- [Source](https://www.somv.com/)

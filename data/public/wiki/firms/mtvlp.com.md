@@ -1,5 +1,5 @@
 ---
-jev-score: 52
+jev-score: 59
 ---
 
 # Millennium Technology Value Partners
@@ -10,15 +10,19 @@ Domain: mtvlp.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
 - **Founded:** 2002 ([source](https://mtvlp.com/our-story), as of None)
-- **Sectors:** technology, deep tech, emerging technologies ([source](https://mtvlp.com/our-story), as of None)
 - **Thesis quote:** We partner with the world’s most extraordinary technology companies, providing them with the ultimate in flexible capital throughout the lifecycle of their growth. ([source](https://mtvlp.com/our-story), as of None)
 - **LPs:** state and municipal retirement systems, funds of funds, banks and insurance companies, endowments and foundations (TVP II LP base) ([source](https://www.prnewswire.com/news-releases/millennium-technology-value-partners-ii-lp-closes-on-280-million-for-new-fund-92082449.html), as of 2010-04)
-- **Leads rounds:** unknown ([source](https://mtvlp.com), as of not recorded)
+- **Type:** private equity; venture capital ([source](https://www.prnewswire.com/news-releases/millennium-technology-value-partners-ii-lp-closes-on-280-million-for-new-fund-92082449.html), as of 2010-04)
+- **Investment strategies:** growth capital, direct secondary investments, alternative liquidity solutions, special situations ([source](https://www.prnewswire.com/news-releases/millennium-technology-value-partners-ii-lp-closes-on-280-million-for-new-fund-92082449.html), as of 2010-04)
+- **Legal structure:** special purpose vehicles ([source](https://www.prnewswire.com/news-releases/millennium-technology-value-partners-ii-lp-closes-on-280-million-for-new-fund-92082449.html), as of 2010-04)
+- **Investment instruments:** equity ([source](https://www.prnewswire.com/news-releases/millennium-technology-value-partners-ii-lp-closes-on-280-million-for-new-fund-92082449.html), as of 2010-04)
+- **Stages:** start-up, growth ([source](https://mtvlp.com/our-story/), as of not recorded)
+- **Sectors:** technology, deep tech ([source](https://mtvlp.com/our-story/), as of not recorded)
 
 ## Portfolio
 
@@ -43,5 +47,6 @@ Research date: 2026-10-03
 
 - [Source](https://mtvlp.com/)
 - [Source](https://mtvlp.com/our-story)
+- [Source](https://mtvlp.com/our-story/)
 - [Source](https://mtvlp.com/portfolio)
 - [Source](https://www.prnewswire.com/news-releases/millennium-technology-value-partners-ii-lp-closes-on-280-million-for-new-fund-92082449.html)

@@ -1,5 +1,5 @@
 ---
-jev-score: 27
+jev-score: 26
 ---
 
 # Generation Space

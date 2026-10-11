@@ -1,5 +1,5 @@
 ---
-jev-score: 73
+jev-score: 76
 ---
 
 # SquareOne
@@ -10,17 +10,19 @@ Domain: squareone.vc
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://squareone.vc/wp-content/uploads/2022/12/20220612_PR-EN_-New-100m-fund-SquareOne.pdf), as of 2022-12)
 - **HQ:** Berlin ([source](https://squareone.vc/wp-content/uploads/2022/12/20220612_PR-EN_-New-100m-fund-SquareOne.pdf), as of 2022-12)
 - **Founded:** 2010 ([source](https://squareone.vc/wp-content/uploads/2022/12/20220612_PR-EN_-New-100m-fund-SquareOne.pdf), as of 2022-12)
 - **Geographies:** europe ([source](https://squareone.vc/wp-content/uploads/2022/12/20220612_PR-EN_-New-100m-fund-SquareOne.pdf), as of 2022-12)
 - **Thesis quote:** We invest in B2B tech entrepreneurs who are obsessed with solving complex problems in vast markets at pre-seed & seed stage ([source](https://squareone.vc/), as of None)
 - **LPs:** fund of funds, family offices, corporates and founders (e.g. from Instana, Signavio, Workday, Adyen, Staffbase) ([source](https://squareone.vc/wp-content/uploads/2022/12/20220612_PR-EN_-New-100m-fund-SquareOne.pdf), as of 2022-12)
-- **Leads rounds:** unknown ([source](https://squareone.vc), as of not recorded)
+- **Type:** venture capital ([source](https://squareone.vc/wp-content/uploads/2022/12/20220612_PR-EN_-New-100m-fund-SquareOne.pdf), as of 2022-12)
+- **Investment strategies:** early-stage B2B technology investing ([source](https://squareone.vc/wp-content/uploads/2022/12/20220612_PR-EN_-New-100m-fund-SquareOne.pdf), as of 2022-12)
+- **Stages:** pre-seed, seed ([source](https://squareone.vc/), as of not recorded)
+- **Sectors:** B2B enterprise software, SaaS, climate tech, open source, supply chain and procurement, deep tech ([source](https://squareone.vc/wp-content/uploads/2022/12/20220612_PR-EN_-New-100m-fund-SquareOne.pdf), as of 2022-12)
 
 ## Portfolio
 

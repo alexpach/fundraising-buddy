@@ -38,7 +38,7 @@ A `directory` record may still carry `fields`: curated tags (type, stages, geogr
 
 `scores.jev-score` is a completeness score from `tools/jev_score.py`: seven weighted dimensions (mandate 25, capital 15, portfolio 15, provenance 15, identity 10, thesis 10, people 10) judged by TypeSafe's Jev model against fixed ordered levels, composed in code. Per-dimension answers are cached privately under `workspace/cache/jev/`. It needs `TYPESAFE_API_KEY`; other keys under `scores` are left untouched so later scoring methods can be compared side by side.
 
-`leads_rounds` is always one of `yes`, `no`, `maybe`, or `unknown`. It is a judgment from `tools/jev_leads.py`: TypeSafe's Jev model answers one Choice question per firm from the recorded profile only (fields, portfolio, people), never from outside knowledge. A source-stated preference is passed to Jev as a direct statement and keeps its evidence entry; otherwise the evidence entry points at the firm's website and carries no date. A label whose top probability is below 0.5 becomes `unknown`. Raw answers and probabilities are cached privately under `workspace/cache/jev-leads/`, and rerunning only pays for firms whose profile changed. It needs `TYPESAFE_API_KEY`. Treat `maybe` and `unknown` as not established, and never as a mismatch.
+`leads_rounds` is always one of `yes`, `no`, `maybe`, or `unknown`. A sourced lead or co-lead event supports `yes`; `no` requires an explicit policy, not a lack of examples. Existing labels may be legacy model judgments and need revalidation. `tools/jev_leads.py` now writes private proposals only under `workspace/cache/jev-leads/` and cannot overwrite the catalog. It needs `TYPESAFE_API_KEY`. Use the independent source-review workflow in `skills/fb-revalidate-funds/SKILL.md` before promoting corrections. Treat `maybe` and `unknown` as not established, and never as a mismatch.
 
 Each `portfolio` entry has exactly `company`, `sector`, `round`, `date`, `url`, and `as_of`, all strings, empty when unknown except `company` and `url`, which are required. `url` must be a public source link for that specific investment.
 
@@ -60,3 +60,9 @@ The reusable legacy extraction tool is `tools/import_public.py`. It accepts an e
 ## Attribution
 
 Every record retains public reference URLs. The distributed catalog contains selected factual values and our generated structure, not scraped pages, copied biographies, or long excerpts. MIT covers the project's code, documentation, and original compilation; third-party material at linked sources retains its own terms.
+
+## Reviewed catalog updates
+
+The revalidation promotion tool replaces type, stages, sectors, lead activity and firm AUM only after an accepted independent review and a fresh evidence/fingerprint check. High-confidence same-entity or rebrand matches must retain the same domain. Other identities remain pending resolution. Additional list fields `investment_strategies`, `legal_structure`, and `investment_instruments` preserve these distinctions. Each field retains a public source reference; the complete per-item evidence and review remain private. Unsupported audited values are removed, not replaced by guesses.
+
+AUM retains currency, qualifier and effective date (or an explicit missing-date label). Fund sizes, capital raised, total assets and strategy/vehicle assets are not imported as firm AUM. Conflicting capital findings are withheld. Bounds and ranges use explicit labels and remain in the Unknown size group because they do not establish a unique bucket. Unreviewed fields, people and portfolios retain their existing provenance and coverage labels; a partial audit does not promote an entire directory profile to sourced. Old Jev completeness scores are cleared on updated records.

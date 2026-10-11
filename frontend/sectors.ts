@@ -1,5 +1,5 @@
 // Curated display aliases. Original catalog research is never rewritten.
-export const sectorOrder = ["AI", "Robotics & autonomy", "Hardware & electronics", "Semiconductors & computing", "Enterprise software", "Data & cloud infrastructure", "Developer tools", "Cybersecurity", "Fintech & insurance", "Crypto & Web3", "Healthcare", "Biotech & life sciences", "Climate & environment", "Energy", "Industrial & manufacturing", "Materials & chemicals", "Mobility & transportation", "Logistics & supply chain", "Space & aerospace", "Defense & security", "Food & agriculture", "Real estate & construction", "Consumer & retail", "Marketplaces & commerce", "Media & entertainment", "Education & work", "Telecom & connectivity", "Deep tech", "Multi-sector", "Unknown"];
+export const sectorOrder = ["AI", "Robotics", "Autonomy", "Hardware & electronics", "Semiconductors & computing", "Enterprise software", "Data & cloud infrastructure", "Developer tools", "Cybersecurity", "Fintech & insurance", "Crypto & Web3", "Healthcare", "Biotech & life sciences", "Climate & environment", "Energy", "Industrial & manufacturing", "Materials & chemicals", "Mobility & transportation", "Logistics & supply chain", "Space & aerospace", "Defense", "Security", "Food & agriculture", "Real estate & construction", "Consumer & retail", "Marketplaces & commerce", "Media", "Entertainment & games", "Education & work", "Telecom & connectivity", "Deep tech", "Multi-sector", "Unknown"];
 const aliases:Record<string,string[]> = {
   "(aero)space": [
     "Space & aerospace"
@@ -56,7 +56,7 @@ const aliases:Record<string,string[]> = {
   ],
   "ai in the physical world": [
     "AI",
-    "Robotics & autonomy"
+    "Robotics"
   ],
   "ai powered platforms": [
     "AI"
@@ -87,7 +87,7 @@ const aliases:Record<string,string[]> = {
     "Semiconductors & computing"
   ],
   "advanced weapons": [
-    "Defense & security"
+    "Defense"
   ],
   "aerospace": [
     "Space & aerospace"
@@ -115,13 +115,14 @@ const aliases:Record<string,string[]> = {
     "Mobility & transportation"
   ],
   "autonomous machines": [
-    "Robotics & autonomy"
+    "Autonomy"
   ],
   "autonomous technology & robotics": [
-    "Robotics & autonomy"
+    "Robotics",
+    "Autonomy"
   ],
   "autonomy": [
-    "Robotics & autonomy"
+    "Autonomy"
   ],
   "b2b": [
     "Unknown"
@@ -188,7 +189,7 @@ const aliases:Record<string,string[]> = {
     "Data & cloud infrastructure"
   ],
   "c5isr": [
-    "Defense & security"
+    "Defense"
   ],
   "carbon management": [
     "Climate & environment"
@@ -266,7 +267,8 @@ const aliases:Record<string,string[]> = {
   ],
   "cybersecurity & defense": [
     "Cybersecurity",
-    "Defense & security"
+    "Defense",
+    "Security"
   ],
   "cybertech": [
     "Cybersecurity"
@@ -291,13 +293,14 @@ const aliases:Record<string,string[]> = {
     "Deep tech"
   ],
   "defence technologies": [
-    "Defense & security"
+    "Defense"
   ],
   "defense & security": [
-    "Defense & security"
+    "Defense",
+    "Security"
   ],
   "defense tech": [
-    "Defense & security"
+    "Defense"
   ],
   "devtools and infrastructure": [
     "Developer tools"
@@ -330,8 +333,7 @@ const aliases:Record<string,string[]> = {
     "Enterprise software"
   ],
   "digital technologies & agriculture (private equity)": [
-    "Food & agriculture",
-    "Media & entertainment"
+    "Food & agriculture"
   ],
   "digital transformation": [
     "Enterprise software"
@@ -421,12 +423,10 @@ const aliases:Record<string,string[]> = {
     "Fintech & insurance"
   ],
   "food & agriculture": [
-    "Food & agriculture",
-    "Media & entertainment"
+    "Food & agriculture"
   ],
   "food and agriculture": [
-    "Food & agriculture",
-    "Media & entertainment"
+    "Food & agriculture"
   ],
   "food as medicine": [
     "Healthcare",
@@ -452,10 +452,10 @@ const aliases:Record<string,string[]> = {
     "Education & work"
   ],
   "games": [
-    "Media & entertainment"
+    "Entertainment & games"
   ],
   "gaming": [
-    "Media & entertainment"
+    "Entertainment & games"
   ],
   "genomic revolution & biotech": [
     "Biotech & life sciences"
@@ -464,7 +464,7 @@ const aliases:Record<string,string[]> = {
     "Energy"
   ],
   "government & defense": [
-    "Defense & security"
+    "Defense"
   ],
   "hrtech": [
     "Enterprise software",
@@ -531,7 +531,7 @@ const aliases:Record<string,string[]> = {
     "Industrial & manufacturing"
   ],
   "industrial autonomy": [
-    "Robotics & autonomy",
+    "Autonomy",
     "Industrial & manufacturing"
   ],
   "industrial biotechnology": [
@@ -624,7 +624,7 @@ const aliases:Record<string,string[]> = {
     "Healthcare"
   ],
   "machine assist": [
-    "Robotics & autonomy"
+    "Robotics"
   ],
   "manufacturing": [
     "Industrial & manufacturing"
@@ -651,10 +651,11 @@ const aliases:Record<string,string[]> = {
     "Materials & chemicals"
   ],
   "media": [
-    "Media & entertainment"
+    "Media"
   ],
   "media & gaming": [
-    "Media & entertainment"
+    "Media",
+    "Entertainment & games"
   ],
   "medical life sciences health related": [
     "Healthcare",
@@ -705,14 +706,14 @@ const aliases:Record<string,string[]> = {
   ],
   "physical ai": [
     "AI",
-    "Robotics & autonomy"
+    "Robotics"
   ],
   "physical ai & robotics": [
     "AI",
-    "Robotics & autonomy"
+    "Robotics"
   ],
   "physical world intelligence": [
-    "Robotics & autonomy"
+    "Robotics"
   ],
   "planet (sustainability, energy, novel materials, and space utilisation)": [
     "Climate & environment",
@@ -745,10 +746,10 @@ const aliases:Record<string,string[]> = {
     "Industrial & manufacturing"
   ],
   "robotics": [
-    "Robotics & autonomy"
+    "Robotics"
   ],
   "robotics advanced materials": [
-    "Robotics & autonomy",
+    "Robotics",
     "Materials & chemicals"
   ],
   "saas": [
@@ -789,11 +790,11 @@ const aliases:Record<string,string[]> = {
   ],
   "space & defense": [
     "Space & aerospace",
-    "Defense & security"
+    "Defense"
   ],
   "space & defense innovation": [
     "Space & aerospace",
-    "Defense & security"
+    "Defense"
   ],
   "space tech": [
     "Space & aerospace"
@@ -805,7 +806,7 @@ const aliases:Record<string,string[]> = {
     "Semiconductors & computing"
   ],
   "sports": [
-    "Media & entertainment"
+    "Entertainment & games"
   ],
   "supply chain & manufacturing tech": [
     "Industrial & manufacturing",
@@ -834,8 +835,7 @@ const aliases:Record<string,string[]> = {
   ],
   "sustainable agriculture": [
     "Climate & environment",
-    "Food & agriculture",
-    "Media & entertainment"
+    "Food & agriculture"
   ],
   "sustainable food": [
     "Climate & environment",
@@ -898,13 +898,13 @@ const aliases:Record<string,string[]> = {
     "Crypto & Web3"
   ],
   "xr metaverse": [
-    "Media & entertainment"
+    "Entertainment & games"
   ],
   "academic spinouts": [
     "Deep tech"
   ],
   "access control": [
-    "Defense & security"
+    "Security"
   ],
   "activist investing": [
     "Unknown"
@@ -928,8 +928,7 @@ const aliases:Record<string,string[]> = {
     "Food & agriculture"
   ],
   "agriculture": [
-    "Food & agriculture",
-    "Media & entertainment"
+    "Food & agriculture"
   ],
   "agrifood": [
     "Food & agriculture"
@@ -959,7 +958,7 @@ const aliases:Record<string,string[]> = {
     "Deep tech"
   ],
   "aquatic robots": [
-    "Robotics & autonomy"
+    "Robotics"
   ],
   "asset management": [
     "Fintech & insurance"
@@ -984,14 +983,14 @@ const aliases:Record<string,string[]> = {
     "Mobility & transportation"
   ],
   "autonomous systems": [
-    "Robotics & autonomy"
+    "Autonomy"
   ],
   "autonomous driving": [
-    "Robotics & autonomy",
+    "Autonomy",
     "Mobility & transportation"
   ],
   "autonomous vehicles": [
-    "Robotics & autonomy",
+    "Autonomy",
     "Mobility & transportation"
   ],
   "aviation": [
@@ -1191,7 +1190,7 @@ const aliases:Record<string,string[]> = {
     "Consumer & retail"
   ],
   "content": [
-    "Media & entertainment"
+    "Media"
   ],
   "conviction led": [
     "Unknown"
@@ -1200,10 +1199,10 @@ const aliases:Record<string,string[]> = {
     "Consumer & retail"
   ],
   "creative technologies": [
-    "Media & entertainment"
+    "Media"
   ],
   "creator economy": [
-    "Media & entertainment"
+    "Media"
   ],
   "credit": [
     "Unknown"
@@ -1218,7 +1217,7 @@ const aliases:Record<string,string[]> = {
     "Crypto & Web3"
   ],
   "culture": [
-    "Media & entertainment"
+    "Entertainment & games"
   ],
   "data": [
     "Data & cloud infrastructure"
@@ -1260,10 +1259,11 @@ const aliases:Record<string,string[]> = {
     "Deep tech"
   ],
   "defense": [
-    "Defense & security"
+    "Defense"
   ],
   "defense and security": [
-    "Defense & security"
+    "Defense",
+    "Security"
   ],
   "defi": [
     "Crypto & Web3"
@@ -1296,7 +1296,7 @@ const aliases:Record<string,string[]> = {
     "Consumer & retail"
   ],
   "digital media": [
-    "Media & entertainment"
+    "Media"
   ],
   "digital sales and services": [
     "Marketplaces & commerce"
@@ -1323,7 +1323,8 @@ const aliases:Record<string,string[]> = {
     "Multi-sector"
   ],
   "drones": [
-    "Defense & security"
+    "Robotics",
+    "Space & aerospace"
   ],
   "drug discovery": [
     "Biotech & life sciences"
@@ -1335,14 +1336,14 @@ const aliases:Record<string,string[]> = {
     "Biotech & life sciences"
   ],
   "dual use": [
-    "Defense & security"
+    "Defense"
   ],
   "dual use & defence (e2d fund)": [
-    "Defense & security"
+    "Defense"
   ],
   "dual use hardware": [
     "Hardware & electronics",
-    "Defense & security"
+    "Defense"
   ],
   "e commerce and marketplaces": [
     "Marketplaces & commerce"
@@ -1439,7 +1440,7 @@ const aliases:Record<string,string[]> = {
     "Enterprise software"
   ],
   "entertainment": [
-    "Media & entertainment"
+    "Entertainment & games"
   ],
   "ev": [
     "Mobility & transportation"
@@ -1531,7 +1532,7 @@ const aliases:Record<string,string[]> = {
     "Multi-sector"
   ],
   "generative media": [
-    "Media & entertainment"
+    "Media"
   ],
   "generative ai": [
     "AI"
@@ -1549,7 +1550,7 @@ const aliases:Record<string,string[]> = {
     "Energy"
   ],
   "ground robots": [
-    "Robotics & autonomy"
+    "Robotics"
   ],
   "growth capital": [
     "Unknown"
@@ -1607,8 +1608,7 @@ const aliases:Record<string,string[]> = {
     "Unknown"
   ],
   "horticulture": [
-    "Food & agriculture",
-    "Media & entertainment"
+    "Food & agriculture"
   ],
   "hospitality": [
     "Consumer & retail"
@@ -1620,13 +1620,13 @@ const aliases:Record<string,string[]> = {
     "Semiconductors & computing"
   ],
   "human experiences": [
-    "Media & entertainment"
+    "Entertainment & games"
   ],
   "ict": [
     "Telecom & connectivity"
   ],
   "immersive technologies": [
-    "Media & entertainment"
+    "Entertainment & games"
   ],
   "impact": [
     "Unknown"
@@ -1711,7 +1711,7 @@ const aliases:Record<string,string[]> = {
     "Enterprise software"
   ],
   "interactive media": [
-    "Media & entertainment"
+    "Media"
   ],
   "internet": [
     "Unknown"
@@ -1726,7 +1726,7 @@ const aliases:Record<string,string[]> = {
     "Unknown"
   ],
   "it media": [
-    "Media & entertainment"
+    "Media"
   ],
   "it services": [
     "Enterprise software"
@@ -1738,7 +1738,7 @@ const aliases:Record<string,string[]> = {
     "Education & work"
   ],
   "law enforcement tech": [
-    "Defense & security"
+    "Security"
   ],
   "learning": [
     "Education & work"
@@ -1787,7 +1787,7 @@ const aliases:Record<string,string[]> = {
     "Materials & chemicals"
   ],
   "media tech": [
-    "Media & entertainment"
+    "Media"
   ],
   "medical technologies": [
     "Healthcare"
@@ -1816,7 +1816,8 @@ const aliases:Record<string,string[]> = {
     "Fintech & insurance"
   ],
   "national security": [
-    "Defense & security"
+    "Defense",
+    "Security"
   ],
   "network effect businesses": [
     "Unknown"
@@ -1846,7 +1847,7 @@ const aliases:Record<string,string[]> = {
     "Biotech & life sciences"
   ],
   "online entertainment": [
-    "Media & entertainment"
+    "Entertainment & games"
   ],
   "operating partner": [
     "Unknown"
@@ -1876,7 +1877,7 @@ const aliases:Record<string,string[]> = {
     "Deep tech"
   ],
   "physical security": [
-    "Defense & security"
+    "Security"
   ],
   "physics": [
     "Deep tech"
@@ -1938,7 +1939,7 @@ const aliases:Record<string,string[]> = {
     "Unknown"
   ],
   "public safety": [
-    "Defense & security"
+    "Security"
   ],
   "quantitative investing": [
     "Unknown"
@@ -1979,7 +1980,7 @@ const aliases:Record<string,string[]> = {
   ],
   "real world ai": [
     "AI",
-    "Robotics & autonomy"
+    "Robotics"
   ],
   "regional development": [
     "Unknown"
@@ -2024,7 +2025,8 @@ const aliases:Record<string,string[]> = {
     "Biotech & life sciences"
   ],
   "robotics autonomous systems": [
-    "Robotics & autonomy"
+    "Robotics",
+    "Autonomy"
   ],
   "royalty finance": [
     "Fintech & insurance"
@@ -2033,7 +2035,7 @@ const aliases:Record<string,string[]> = {
     "Unknown"
   ],
   "safety": [
-    "Defense & security"
+    "Security"
   ],
   "scalable infrastructure": [
     "Unknown"
@@ -2048,7 +2050,7 @@ const aliases:Record<string,string[]> = {
     "Multi-sector"
   ],
   "security": [
-    "Defense & security"
+    "Security"
   ],
   "selective software and consumer": [
     "Enterprise software",
@@ -2140,10 +2142,10 @@ const aliases:Record<string,string[]> = {
     "Fintech & insurance"
   ],
   "sports and entertainment": [
-    "Media & entertainment"
+    "Entertainment & games"
   ],
   "sports tech": [
-    "Media & entertainment"
+    "Entertainment & games"
   ],
   "storage": [
     "Energy"
@@ -2224,7 +2226,7 @@ const aliases:Record<string,string[]> = {
   ],
   "tmt": [
     "Telecom & connectivity",
-    "Media & entertainment"
+    "Media"
   ],
   "transport mobility": [
     "Mobility & transportation"
@@ -2239,7 +2241,8 @@ const aliases:Record<string,string[]> = {
     "Cybersecurity"
   ],
   "uas": [
-    "Defense & security"
+    "Robotics",
+    "Space & aerospace"
   ],
   "uk smes": [
     "Unknown"
@@ -2267,7 +2270,7 @@ const aliases:Record<string,string[]> = {
     "AI"
   ],
   "vr": [
-    "Media & entertainment"
+    "Entertainment & games"
   ],
   "water": [
     "Climate & environment"
@@ -2292,6 +2295,17 @@ const aliases:Record<string,string[]> = {
   ],
   "workwear": [
     "Consumer & retail"
+  ],
+  "robotics & autonomy": [
+    "Robotics",
+    "Autonomy"
+  ],
+  "media & entertainment": [
+    "Media",
+    "Entertainment & games"
+  ],
+  "entertainment & games": [
+    "Entertainment & games"
   ]
 };
 const normalize=(value:string)=>value.toLowerCase().replace(/[-_/]+/g,' ').replace(/\s+/g,' ').trim();

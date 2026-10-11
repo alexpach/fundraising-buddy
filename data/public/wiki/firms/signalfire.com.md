@@ -1,8 +1,8 @@
 ---
-jev-score: 46
+jev-score: 63
 ---
 
-# Signalfire
+# SignalFire
 
 [Website](https://signalfire.com)
 
@@ -10,18 +10,20 @@ Domain: signalfire.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/signal-fire), as of 2026-04-19)
-- **Stages:** seed, series-a, series-b, series-c ([source](https://www.crunchbase.com/organization/signal-fire), as of 2026-04-19)
 - **Geographies:** us ([source](https://www.crunchbase.com/organization/signal-fire), as of 2026-04-19)
-- **Sectors:** ai, enterprise, fintech, consumer, security, healthcare, frontier-tech, robotics ([source](https://www.crunchbase.com/organization/signal-fire), as of 2026-04-19)
-- **Leads rounds:** unknown ([source](https://signalfire.com), as of not recorded)
 - **About:** Signalfire is a San Francisco, California-based venture capital firm founded in 2015. Its public materials emphasize seed, Series A, Series B, Series C investing, and focus areas include ai, enterprise, fintech, consumer. ([source](https://www.crunchbase.com/organization/signal-fire), as of 2026-04-19)
+- **Type:** venture capital ([source](https://www.signalfire.com/about), as of not recorded)
+- **Investment strategies:** early-stage venture investing ([source](https://www.signalfire.com/about), as of not recorded)
+- **Stages:** pre-seed, seed, series A, series B ([source](https://www.signalfire.com/blog/signalfire-raises-one-billion-in-new-capital), as of 2025-04-07)
+- **Sectors:** Artificial intelligence, Healthcare, Cybersecurity, Infrastructure, Consumer, Enterprise ([source](https://www.signalfire.com/blog/signalfire-raises-one-billion-in-new-capital), as of 2025-04-07)
+- **Leads rounds:** yes ([source](https://www.signalfire.com/blog/vector-investor), as of 2026-05-13)
+- **AUM:** Approximately USD 3 billion (date not reported) ([source](https://www.signalfire.com/about), as of not recorded)
 
 ## Portfolio
 
@@ -43,3 +45,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 - [Source](https://signalfire.com)
 - [Source](https://www.crunchbase.com/organization/signal-fire)
+- [Source](https://www.signalfire.com/about)
+- [Source](https://www.signalfire.com/blog/signalfire-raises-one-billion-in-new-capital)
+- [Source](https://www.signalfire.com/blog/vector-investor)

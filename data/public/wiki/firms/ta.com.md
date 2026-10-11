@@ -10,20 +10,22 @@ Domain: ta.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** pe ([source](https://ta.com/about), as of 2026-08)
 - **HQ:** Boston, Massachusetts ([source](https://ta.com/about), as of 2026-08)
 - **Founded:** 1968 ([source](https://ta.com/about), as of 2026-08)
-- **Stages:** growth ([source](https://wrex.marketminute.com/article/bizwire-2026-3-31-ibase-t-announces-strategic-growth-investment-from-ta-to-accelerate-ai-powered-digital-manufacturing-and-mro-transformation-in-aerospace-and-defense), as of 2026-03)
-- **Sectors:** technology, healthcare, financial services, consumer, business services ([source](https://ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund), as of 2023-06)
 - **Check size min:** $150 million ([source](https://ta.com/approach), as of 2026-08)
 - **Check size max:** $600 million ([source](https://ta.com/approach), as of 2026-08)
 - **Thesis quote:** TA XV will target equity investments in high-quality businesses capable of delivering sustainable growth within the technology, healthcare, financial services, consumer and business services sectors. ([source](https://ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund), as of 2023-06)
 - **LPs:** public and private pension funds, sovereign wealth funds, asset managers, endowments, foundations, family offices and insurance companies ([source](https://ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund), as of 2023-06)
-- **Leads rounds:** unknown ([source](https://ta.com), as of not recorded)
+- **Type:** private equity ([source](https://www.ta.com/about/), as of not recorded)
+- **Investment strategies:** growth investing ([source](https://www.ta.com/about/), as of not recorded)
+- **Investment instruments:** equity ([source](https://www.ta.com/about/), as of not recorded)
+- **Stages:** growth ([source](https://www.ta.com/approach/), as of not recorded)
+- **Sectors:** technology, healthcare, financial services, consumer, business services ([source](https://www.ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund/), as of 2023-06-15)
+- **Leads rounds:** yes ([source](https://www.ta.com/news/ser-welcomes-new-investment-from-ta-to-accelerate-growth/), as of 2024-03-21)
 
 ## Portfolio
 
@@ -58,3 +60,7 @@ Research date: 2026-08-26
 - [Source](https://ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund)
 - [Source](https://ta.com/portfolio)
 - [Source](https://wrex.marketminute.com/article/bizwire-2026-3-31-ibase-t-announces-strategic-growth-investment-from-ta-to-accelerate-ai-powered-digital-manufacturing-and-mro-transformation-in-aerospace-and-defense)
+- [Source](https://www.ta.com/about/)
+- [Source](https://www.ta.com/approach/)
+- [Source](https://www.ta.com/news/ser-welcomes-new-investment-from-ta-to-accelerate-growth/)
+- [Source](https://www.ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund/)

@@ -1,5 +1,5 @@
 ---
-jev-score: 84
+jev-score: 83
 ---
 
 # XAnge
@@ -10,23 +10,24 @@ Domain: xange.vc
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://xange.vc/vision), as of None)
 - **HQ:** Paris ([source](https://xange.vc/), as of None)
 - **Founded:** 2003 ([source](https://xange.vc/vision), as of None)
-- **Stages:** seed, series-b ([source](https://xange.vc/funds), as of None)
 - **Geographies:** europe ([source](https://xange.vc/press/xa05-pr), as of 2025-11)
-- **Sectors:** AI, Deep Tech, Climate Tech, Health Tech, Vertical SaaS ([source](https://xange.vc/funds), as of None)
 - **Check size min:** 1M euros (flagship funds, first check) ([source](https://xange.vc/funds), as of None)
 - **Check size max:** 15M euros (flagship funds, first check) ([source](https://xange.vc/funds), as of None)
 - **Offices:** Paris, Berlin, Brussels ([source](https://xange.vc/vision), as of None)
-- **Leads rounds:** yes ([source](https://xange.vc/funds), as of None)
 - **Latest fund:** XAnge 5 first closing, 200M euros ([source](https://xange.vc/press/xa05-pr), as of 2025-11)
 - **Thesis quote:** Venture into the Future: AI Transformation, Deep Tech, and Sustainable Future ([source](https://xange.vc/press/xa05-pr), as of 2025-11)
 - **LPs:** EIF, Siparex Associes, Bpifrance, CNP, institutional investors and family offices (XAnge 5 first closing) ([source](https://xange.vc/press/xa05-pr), as of 2025-11)
+- **Type:** venture capital ([source](https://xange.vc/press/xa05-pr), as of 2025-11)
+- **Investment strategies:** early-stage European technology investing ([source](https://xange.vc/press/xa05-pr), as of 2025-11)
+- **Sectors:** AI, Deep Tech, Climate Tech, Health Tech, Vertical SaaS ([source](https://xange.vc/funds), as of not recorded)
+- **Leads rounds:** yes ([source](https://xange.vc/funds), as of not recorded)
+- **AUM:** Lower bound (over): EUR 800 million (date not reported) ([source](https://xange.vc/funds), as of not recorded)
 
 ## Portfolio
 

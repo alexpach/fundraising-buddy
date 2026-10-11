@@ -1,5 +1,5 @@
 ---
-jev-score: 39
+jev-score: 52
 ---
 
 # Spark Capital
@@ -10,18 +10,19 @@ Domain: sparkcapital.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://sparkcapital.com), as of 2026-04-26)
-- **Stages:** seed, series-a, series-b, growth ([source](https://sparkcapital.com), as of 2026-04-26)
 - **Geographies:** us ([source](https://sparkcapital.com), as of 2026-04-26)
-- **Sectors:** consumer, enterprise, saas, marketplace, fintech ([source](https://sparkcapital.com), as of 2026-04-26)
-- **Leads rounds:** unknown ([source](https://sparkcapital.com), as of not recorded)
 - **About:** Spark Capital is a San Francisco-based venture firm that invests across early and growth stages. The firm backs a broad range of technology companies with notable early bets including Twitter at Series B. ([source](https://sparkcapital.com), as of 2026-04-26)
+- **Type:** venture capital ([source](https://www.sparkcapital.com/team-members/santo-politi), as of 2024)
+- **Investment strategies:** early-stage venture, growth venture ([source](https://www.sparkcapital.com/team-members/santo-politi), as of 2024)
+- **Stages:** seed, series A, series B, series C ([source](https://www.sparkcapital.com/team-members/santo-politi), as of 2024)
+- **Sectors:** AI, Infrastructure, Healthcare, Fintech ([source](https://www.sparkcapital.com/team-members/will-reed), as of 2024)
+- **Leads rounds:** yes ([source](https://www.sparkcapital.com/), as of 2008)
 
 ## Portfolio
 
@@ -42,3 +43,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://sparkcapital.com)
+- [Source](https://www.sparkcapital.com/)
+- [Source](https://www.sparkcapital.com/team-members/santo-politi)
+- [Source](https://www.sparkcapital.com/team-members/will-reed)

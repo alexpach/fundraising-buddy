@@ -1,5 +1,5 @@
 ---
-jev-score: 84
+jev-score: 81
 ---
 
 # DIG Ventures
@@ -14,15 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://dig.ventures/), as of None)
 - **HQ:** London, UK ([source](https://www.eu-startups.com/2026/10/mulesoft-founders-dig-ventures-closes-e106-million-fund-iii-to-back-europes-ai-and-cloud-infrastructure-startups/), as of 2026-10)
 - **Founded:** 2018 ([source](https://www.eu-startups.com/2026/10/mulesoft-founders-dig-ventures-closes-e106-million-fund-iii-to-back-europes-ai-and-cloud-infrastructure-startups/), as of 2026-10)
 - **Geographies:** europe ([source](https://dig.ventures/), as of None)
-- **Sectors:** B2B SaaS, AI, Cloud Infrastructure ([source](https://dig.ventures/), as of None)
-- **Leads rounds:** yes ([source](https://www.eu-startups.com/2026/10/mulesoft-founders-dig-ventures-closes-e106-million-fund-iii-to-back-europes-ai-and-cloud-infrastructure-startups/), as of 2026-10)
 - **Latest fund:** Fund III, €106 million ($120 million) ([source](https://www.eu-startups.com/2026/10/mulesoft-founders-dig-ventures-closes-e106-million-fund-iii-to-back-europes-ai-and-cloud-infrastructure-startups/), as of 2026-10)
 - **Thesis quote:** Fund III will back 30 European pre-Seed and Seed-stage companies working across the critical AI control points: data, identity, compliance and orchestration layers ([source](https://www.eu-startups.com/2026/10/mulesoft-founders-dig-ventures-closes-e106-million-fund-iii-to-back-europes-ai-and-cloud-infrastructure-startups/), as of 2026-10)
 - **LPs:** Horsley Bridge, Sofina, Granite, a US university endowment; founders of Slack, Datadog, Nord Security, Cast AI, Supercell and Dash0 ([source](https://www.eu-startups.com/2026/10/mulesoft-founders-dig-ventures-closes-e106-million-fund-iii-to-back-europes-ai-and-cloud-infrastructure-startups/), as of 2026-10)
+- **Type:** venture capital ([source](https://www.dig.ventures/), as of not recorded)
+- **Investment strategies:** early-stage venture capital, B2B software investing ([source](https://www.dig.ventures/), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://www.dig.ventures/), as of not recorded)
+- **Sectors:** B2B SaaS, AI, Cloud Infrastructure ([source](https://www.dig.ventures/), as of not recorded)
 
 ## Portfolio
 
@@ -48,4 +49,6 @@ Research date: 2026-10-03
 
 - [Source](https://dig.ventures/)
 - [Source](https://dig.ventures/portfolio)
+- [Source](https://www.dig.ventures/)
+- [Source](https://www.dig.ventures/legal/terms-of-use)
 - [Source](https://www.eu-startups.com/2026/10/mulesoft-founders-dig-ventures-closes-e106-million-fund-iii-to-back-europes-ai-and-cloud-infrastructure-startups/)

@@ -1,5 +1,5 @@
 ---
-jev-score: 66
+jev-score: 65
 ---
 
 # DRW Venture Capital

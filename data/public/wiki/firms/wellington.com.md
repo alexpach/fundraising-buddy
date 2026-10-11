@@ -1,5 +1,5 @@
 ---
-jev-score: 13
+jev-score: 16
 ---
 
 # Wellington Management
@@ -10,15 +10,15 @@ Domain: wellington.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://wellington.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://wellington.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://wellington.com), as of not recorded)
+- **Type:** asset manager; venture capital ([source](https://www.wellington.com/en/capabilities/private-investing), as of not recorded)
+- **Investment strategies:** early-stage venture, late-stage growth, venture growth evergreen, private investing ([source](https://www.wellington.com/en/capabilities/private-investing), as of not recorded)
+- **Stages:** early-stage, late-stage growth, venture growth ([source](https://www.wellington.com/en/capabilities/private-investing), as of not recorded)
 
 ## Portfolio
 
@@ -30,3 +30,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://wellington.com)
+- [Source](https://www.wellington.com/en)
+- [Source](https://www.wellington.com/en/capabilities/private-investing)

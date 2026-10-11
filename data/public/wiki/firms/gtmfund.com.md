@@ -1,8 +1,8 @@
 ---
-jev-score: 86
+jev-score: 90
 ---
 
-# GTMfund
+# GTMfund LLC
 
 [Website](https://gtmfund.com)
 
@@ -14,17 +14,17 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://betakit.com/gtmfund-closes-54-million-usd-fund-ii-to-back-more-early-stage-canadian-b2b-saas-startups/), as of 2025-02)
-- **Stages:** pre-seed, seed, series-a ([source](https://betakit.com/gtmfund-closes-54-million-usd-fund-ii-to-back-more-early-stage-canadian-b2b-saas-startups/), as of 2025-02)
 - **Geographies:** global, us ([source](https://betakit.com/gtmfund-closes-54-million-usd-fund-ii-to-back-more-early-stage-canadian-b2b-saas-startups/), as of 2025-02)
-- **Sectors:** B2B SaaS, B2B software, AI ([source](https://www.gtmfund.com/), as of None)
 - **Check size min:** $500,000 ([source](https://techcrunch.com/2025/02/04/how-max-altschuler-accidentally-founded-a-vc-firm-that-just-raised-another-54m/), as of 2025-02)
 - **Check size max:** $1.5 million ([source](https://techcrunch.com/2025/02/04/how-max-altschuler-accidentally-founded-a-vc-firm-that-just-raised-another-54m/), as of 2025-02)
 - **Legal name:** GTMfund LLC ([source](https://www.gtmfund.com/team/), as of 2026)
 - **Latest fund:** Fund II, $54 million USD, closed October 2024 ([source](https://betakit.com/gtmfund-closes-54-million-usd-fund-ii-to-back-more-early-stage-canadian-b2b-saas-startups/), as of 2025-02)
 - **Thesis quote:** We invest in early-stage B2B software and AI companies, and support them with a network of 350+ GTM leaders across sales, marketing, growth and more. ([source](https://www.gtmfund.com/), as of None)
 - **LPs:** 300+ operator LPs plus institutions including Inovia Capital, HarbourVest Partners, Bain Capital Ventures, Foundation Capital, Franklin Park, Nexus Bay Capital ([source](https://betakit.com/gtmfund-closes-54-million-usd-fund-ii-to-back-more-early-stage-canadian-b2b-saas-startups/), as of 2025-02)
-- **Leads rounds:** unknown ([source](https://gtmfund.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.gtmfund.com/), as of 2026)
+- **Stages:** pre-seed, seed, series A ([source](https://www.gtmfund.com/), as of 2026)
+- **Sectors:** B2B software, AI ([source](https://www.gtmfund.com/), as of 2026)
+- **Leads rounds:** yes ([source](https://www.gtmfund.com/media/announcing-gtmfunds-investment-in-eightball-ai), as of 2026-02)
 
 ## Portfolio
 
@@ -57,5 +57,6 @@ Research date: 2026-10-03
 - [Source](https://betakit.com/gtmfund-closes-54-million-usd-fund-ii-to-back-more-early-stage-canadian-b2b-saas-startups/)
 - [Source](https://techcrunch.com/2025/02/04/how-max-altschuler-accidentally-founded-a-vc-firm-that-just-raised-another-54m/)
 - [Source](https://www.gtmfund.com/)
+- [Source](https://www.gtmfund.com/media/announcing-gtmfunds-investment-in-eightball-ai)
 - [Source](https://www.gtmfund.com/portfolio/)
 - [Source](https://www.gtmfund.com/team/)

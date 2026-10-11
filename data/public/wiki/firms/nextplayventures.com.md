@@ -1,5 +1,5 @@
 ---
-jev-score: 77
+jev-score: 72
 ---
 
 # Next Play Ventures
@@ -10,20 +10,19 @@ Domain: nextplayventures.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.nextplayventures.com/team/jeff-weiner), as of 2026-08)
 - **HQ:** Menlo Park, California ([source](https://www.nextplayventures.com/), as of 2026-08)
-- **Stages:** pre-seed, seed, series-a, growth ([source](https://f4.fund/firms/next-play-ventures), as of 2026-08)
 - **Geographies:** us ([source](https://f4.fund/firms/next-play-ventures), as of 2026-08)
-- **Sectors:** B2B/enterprise software, SaaS, fintech, consumer apps, health and wellness, education ([source](https://www.startupinvestorsdirectory.com/united-states/menlo-park/next-play-ventures), as of 2026-08)
 - **Legal name:** Next Play Ventures LLC ([source](https://www.nextplayventures.com/), as of 2026-08)
 - **Thesis quote:** Coach and invest in entrepreneurial leaders building world-class, purpose-driven organizations ([source](https://www.nextplayventures.com/), as of 2026-08)
 - **Exclusions:** Founders unwilling to accept coaching; teams without clear values beyond profit; markets misaligned with social-impact thesis ([source](https://f4.fund/firms/next-play-ventures), as of 2026-08)
 - **LPs:** No public evidence of third-party LPs; one research aggregator characterizes the vehicle as self-capitalized by Jeff Weiner rather than institutionally raised. ([source](https://altss.com/profile/next-play-ventures), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://nextplayventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.nextplayventures.com/team/jeff-weiner), as of not recorded)
+- **Investment strategies:** early-stage, growth-stage ([source](https://www.nextplayventures.com/team/jeff-weiner), as of not recorded)
+- **Stages:** pre-seed, seed, series A, later-stage growth ([source](https://www.nextplayventures.com/companies), as of not recorded)
 
 ## Portfolio
 

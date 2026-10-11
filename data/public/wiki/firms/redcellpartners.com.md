@@ -1,5 +1,5 @@
 ---
-jev-score: 13
+jev-score: 26
 ---
 
 # Red Cell Partners
@@ -10,15 +10,16 @@ Domain: redcellpartners.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://redcellpartners.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://redcellpartners.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://redcellpartners.com), as of not recorded)
+- **Type:** investment and incubation firm ([source](https://www.redcellpartners.com/perspectives/why-red-cell-why-now/), as of 2025-04)
+- **Investment strategies:** company incubation, direct investment ([source](https://www.redcellpartners.com/perspectives/why-red-cell-why-now/), as of 2025-04)
+- **Stages:** early stage ([source](https://www.redcellpartners.com/perspectives/why-red-cell-why-now/), as of 2025-04)
+- **Sectors:** healthcare, cyber, national security ([source](https://www.redcellpartners.com/companies/), as of not recorded)
 
 ## Portfolio
 
@@ -30,3 +31,6 @@ Not recorded.
 ## Sources
 
 - [Source](https://redcellpartners.com)
+- [Source](https://www.redcellpartners.com/)
+- [Source](https://www.redcellpartners.com/companies/)
+- [Source](https://www.redcellpartners.com/perspectives/why-red-cell-why-now/)

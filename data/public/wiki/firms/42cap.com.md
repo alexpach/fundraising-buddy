@@ -1,8 +1,8 @@
 ---
-jev-score: 73
+jev-score: 77
 ---
 
-# 42CAP
+# 42CAP Manager GmbH
 
 [Website](https://42cap.com)
 
@@ -10,20 +10,21 @@ Domain: 42cap.com
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-03
 
 ## Public research
 
 - **HQ:** Seitzstr. 14, 80538 München, Germany ([source](https://42cap.com/legal-notice), as of None)
-- **Stages:** pre-seed, seed ([source](https://42cap.com/investment-thesis), as of None)
 - **Geographies:** europe ([source](https://42cap.com/investment-thesis), as of None)
-- **Sectors:** B2B software, AI-first and AI-enabled businesses, BioIT, (Aero)space, Distributed Ledger, Quantum Computing ([source](https://42cap.com/investment-thesis), as of None)
 - **Check size min:** EUR 0.5 million ([source](https://42cap.com), as of None)
 - **Check size max:** EUR 3 million ([source](https://42cap.com), as of None)
 - **Legal name:** 42CAP Manager GmbH ([source](https://42cap.com/legal-notice), as of None)
 - **Latest fund:** Fourth fund generation reached final closing ([source](https://www.ypog.law/en/press/ypog-advises-42cap-on-the-structuring-of-its-fourth-fund-generation), as of 2025-04)
 - **Thesis quote:** We are peers amongst entrepreneurs helping the brave to build game-changing companies, just like we have done ourselves. We are driven by conviction and thus seek such conviction in our entrepreneurs as well. ([source](https://42cap.com/investment-thesis), as of None)
-- **Leads rounds:** unknown ([source](https://42cap.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.42cap.com/), as of not recorded)
+- **Investment strategies:** seed-stage tech- and data-driven B2B software investing ([source](https://www.42cap.com/), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://www.42cap.com/investment-thesis), as of not recorded)
+- **Sectors:** B2B software, AI-first and AI-enabled businesses, BioIT, (Aero)space, Distributed Ledger, Quantum Computing ([source](https://www.42cap.com/), as of not recorded)
 
 ## Portfolio
 
@@ -55,4 +56,7 @@ Research date: 2026-09-20
 - [Source](https://42cap.com/investment-thesis)
 - [Source](https://42cap.com/legal-notice)
 - [Source](https://42cap.com/portfolio)
+- [Source](https://www.42cap.com/)
+- [Source](https://www.42cap.com/investment-thesis)
+- [Source](https://www.42cap.com/legal-notice)
 - [Source](https://www.ypog.law/en/press/ypog-advises-42cap-on-the-structuring-of-its-fourth-fund-generation)

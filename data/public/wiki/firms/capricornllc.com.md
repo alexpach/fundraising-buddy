@@ -1,5 +1,5 @@
 ---
-jev-score: 78
+jev-score: 75
 ---
 
 # Capricorn Investment Group
@@ -16,12 +16,12 @@ Research date: 2026-10-03
 
 - **HQ:** New York City and Menlo Park (two offices; no headquarters designated) ([source](https://capricornllc.com/about/), as of None)
 - **Founded:** 2000 ([source](https://capricornllc.com/), as of None)
-- **Stages:** venture capital, growth ([source](https://capricornllc.com/technology-impact-funds/), as of None)
-- **Sectors:** deep technology, climate solutions ([source](https://capricornllc.com/technology-impact-funds/), as of None)
-- **AUM:** $23 Billion firm-wide across all Capricorn strategies (not venture-specific), as of 3/31/2026 ([source](https://capricornllc.com/), as of 2026-03)
 - **Offices:** New York, NY; Menlo Park, CA ([source](https://capricornllc.com/contact-us/), as of None)
 - **Thesis quote:** Technology Impact Fund and Technology Impact Growth Fund are venture capital and growth funds which invest in deep technology companies focused on climate solutions. ([source](https://capricornllc.com/technology-impact-funds/), as of None)
-- **Leads rounds:** unknown ([source](https://capricornllc.com), as of not recorded)
+- **Type:** sustainable investment platform ([source](https://capricornllc.com/about/), as of not recorded)
+- **Investment strategies:** sustainable investing, impact investing, venture capital, growth investing ([source](https://capricornllc.com/about/), as of not recorded)
+- **Sectors:** deep technology, climate solutions ([source](https://capricornllc.com/technology-impact-funds/), as of not recorded)
+- **AUM:** USD 23 billion (as of 2026-03) ([source](https://capricornllc.com/about/), as of 2026-03)
 
 ## Portfolio
 

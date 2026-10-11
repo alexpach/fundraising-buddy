@@ -1,8 +1,8 @@
 ---
-jev-score: 79
+jev-score: 86
 ---
 
-# Caterpillar Ventures
+# Caterpillar Venture Capital Inc. (Caterpillar Ventures)
 
 [Website](https://caterpillar.com)
 
@@ -10,11 +10,10 @@ Domain: caterpillar.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** cvc ([source](https://www.novarctech.com/resources/blog/news/novarc-technologies-completes-series-a-fundraising-round-with-caterpillar-venture-capital/), as of 2023-08)
 - **HQ:** Irving, TX (Caterpillar Inc. corporate headquarters; the venture unit has no separately disclosed address) ([source](https://www.caterpillar.com/en/news/corporate-press-releases/h/lithos-energy-investment.html), as of 2023-01)
 - **Founded:** 2015 ([source](https://builtworlds.com/news/investment-week-qa-brian-lowry-on-caterpillar-ventures/), as of 2016-01)
 - **Geographies:** global ([source](https://www.businesswire.com/news/home/20230814539353/en/Novarc-Technologies-Completes-Series-A-Fundraising-Round-With-Caterpillar-Venture-Capital), as of 2023-08)
@@ -25,7 +24,10 @@ Research date: 2026-08-25
 - **Thesis quote:** We invest in bold thinkers who are reshaping the future of our industry. Backed by Caterpillar, we help startups scale with impact. ([source](https://www.caterpillar.com/en/company/innovation/caterpillar-ventures.html), as of 2026-08)
 - **LPs:** Per a January 2016 interview, Caterpillar Ventures (through Director Brian Lowry) had made LP-style commitments to Cottonwood Technology Fund II, Energy Ventures Private Equity V LP and Emerald Industrial Innovation LP as of that date; no more current confirmation of continuing LP activity was found. ([source](https://builtworlds.com/news/investment-week-qa-brian-lowry-on-caterpillar-ventures/), as of 2016-01)
 - **Coinvestors:** McRock Capital, BDC Capital's Industrial Innovation Venture Fund ([source](https://mcrockcapital.com/praemo-raises-cad-4-5-million-from-mcrock-caterpillar-venture-capital-and-bdc-capitals-industrial-innovation-venture-fund/), as of 2020-10)
-- **Leads rounds:** unknown ([source](https://caterpillar.com), as of not recorded)
+- **Type:** corporate venture capital ([source](https://www.caterpillar.com/en/company/about-caterpillar/innovation/caterpillar-ventures.html), as of not recorded)
+- **Investment strategies:** strategic investments, direct investments, select fund investments ([source](https://www.caterpillar.com/en/company/about-caterpillar/innovation/caterpillar-ventures.html), as of not recorded)
+- **Stages:** early-stage ([source](https://www.caterpillar.com/en/company/about-caterpillar/innovation/caterpillar-ventures.html), as of not recorded)
+- **Sectors:** autonomy, robotics, energy transition, sustainability, industrial technology, construction technology, mining technology, advanced manufacturing ([source](https://www.caterpillar.com/en/company/about-caterpillar/innovation/caterpillar-ventures.html), as of not recorded)
 
 ## Portfolio
 
@@ -58,6 +60,8 @@ Research date: 2026-08-25
 - [Source](https://mcrockcapital.com/praemo-raises-cad-4-5-million-from-mcrock-caterpillar-venture-capital-and-bdc-capitals-industrial-innovation-venture-fund/)
 - [Source](https://pitchbook.com/profiles/investor/121115-62)
 - [Source](https://www.businesswire.com/news/home/20230814539353/en/Novarc-Technologies-Completes-Series-A-Fundraising-Round-With-Caterpillar-Venture-Capital)
+- [Source](https://www.cat.com/en_US/blog/how-innovation-outside-fuels-progress-inside.html)
+- [Source](https://www.caterpillar.com/en/company/about-caterpillar/innovation/caterpillar-ventures.html)
 - [Source](https://www.caterpillar.com/en/company/innovation/caterpillar-ventures.html)
 - [Source](https://www.caterpillar.com/en/news/corporate-press-releases/h/lithos-energy-investment.html)
 - [Source](https://www.linkedin.com/in/mark-d-crawford)

@@ -1,8 +1,8 @@
 ---
-jev-score: 76
+jev-score: 78
 ---
 
-# Impact Invest
+# Impact Invest (brand of SIIN AB (SVB), manager of SIIN Capital AB)
 
 [Website](https://impactinvest.se)
 
@@ -14,17 +14,18 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://impactinvest.se/), as of None)
 - **HQ:** Stockholm, Sweden ([source](https://impactinvest.se/), as of None)
 - **Founded:** 2012 ([source](https://impactinvest.se/), as of None)
-- **Stages:** early, growth ([source](https://impactinvest.se/), as of None)
 - **Geographies:** europe ([source](https://impactinvest.se/), as of None)
-- **Sectors:** Access to Healthcare, Sexual & Reproductive Health, Children & Youth ([source](https://impactinvest.se/), as of None)
 - **Check size min:** 0.5 MSEK ([source](https://impactinvest.se/), as of None)
 - **Check size max:** 5 MSEK ([source](https://impactinvest.se/), as of None)
 - **Legal name:** SIIN AB ([source](https://impactinvest.se/), as of None)
 - **Thesis quote:** Founded in 2012, Impact Invest identifies, funds and supports visionary teams with large potential to deliver impactful solutions. ([source](https://impactinvest.se/), as of None)
-- **Leads rounds:** unknown ([source](https://impactinvest.se), as of not recorded)
+- **Type:** impact investment fund ([source](https://impactinvest.se/), as of not recorded)
+- **Investment strategies:** impact investing, early-stage investing, growth-stage investing ([source](https://impactinvest.se/), as of not recorded)
+- **Legal structure:** alternative investment fund, evergreen fund ([source](https://impactinvest.se/), as of not recorded)
+- **Stages:** early-stage, growth-stage ([source](https://impactinvest.se/), as of not recorded)
+- **Sectors:** Access to Healthcare, Sexual & Reproductive Health, Children & Youth ([source](https://impactinvest.se/), as of not recorded)
 
 ## Portfolio
 
@@ -58,3 +59,4 @@ Research date: 2026-10-03
 
 - [Source](https://impactinvest.se/)
 - [Source](https://impactinvest.se/portfolio)
+- [Source](https://www.mynewsdesk.com/se/impactinvest/pressreleases/impact-invest-startar-social-tillvaextfond-foer-baettre-haelsa-och-livskvalitet-3154888)

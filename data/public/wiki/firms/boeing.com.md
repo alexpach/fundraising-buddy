@@ -1,5 +1,5 @@
 ---
-jev-score: 61
+jev-score: 63
 ---
 
 # Boeing HorizonX
@@ -10,20 +10,21 @@ Domain: boeing.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://www.crunchbase.com/organization/boeing-horizonx), as of 2026-04-19)
-- **Stages:** seed, series-a, series-b ([source](https://www.crunchbase.com/organization/boeing-horizonx), as of 2026-04-19)
 - **Geographies:** us, global ([source](https://www.crunchbase.com/organization/boeing-horizonx), as of 2026-04-19)
-- **Sectors:** aerospace, autonomous-systems, ai, manufacturing, defense, drones, hardware, space, deep-tech ([source](https://www.crunchbase.com/organization/boeing-horizonx), as of 2026-04-19)
 - **Check size min:** 1M ([source](https://www.crunchbase.com/organization/boeing-horizonx), as of 2026-04-19)
 - **Check size max:** 10M ([source](https://www.crunchbase.com/organization/boeing-horizonx), as of 2026-04-19)
-- **Leads rounds:** unknown ([source](https://boeing.com/horizonx), as of not recorded)
 - **About:** Boeing HorizonX is the corporate venture arm of Boeing Company, focused on aerospace innovation, autonomous systems, AI, and advanced manufacturing. The fund invests in startups developing disruptive technologies relevant to Boeing's core aviation and defense business. ([source](https://www.crunchbase.com/organization/boeing-horizonx), as of 2026-04-19)
+- **Type:** corporate venture capital ([source](https://boeing.mediaroom.com/2017-04-05-Boeing-Forms-New-Innovation-Cell-Invests-in-Tech-Companies-Upskill-Zunum-Aero), as of 2017-04-05)
+- **Investment strategies:** strategic venture investing ([source](https://boeing.mediaroom.com/2017-04-05-Boeing-Forms-New-Innovation-Cell-Invests-in-Tech-Companies-Upskill-Zunum-Aero), as of 2017-04-05)
+- **Investment instruments:** equity ([source](https://boeing.mediaroom.com/2017-04-05-Boeing-Forms-New-Innovation-Cell-Invests-in-Tech-Companies-Upskill-Zunum-Aero), as of 2017-04-05)
+- **Stages:** early-stage ([source](https://boeing.mediaroom.com/2017-04-05-Boeing-Forms-New-Innovation-Cell-Invests-in-Tech-Companies-Upskill-Zunum-Aero), as of 2017-04-05)
+- **Sectors:** aerospace, manufacturing, technology ([source](https://boeing.mediaroom.com/2017-04-05-Boeing-Forms-New-Innovation-Cell-Invests-in-Tech-Companies-Upskill-Zunum-Aero), as of 2017-04-05)
 
 ## Portfolio
 
@@ -41,4 +42,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://boeing.com/horizonx)
+- [Source](https://boeing.mediaroom.com/2017-04-05-Boeing-Forms-New-Innovation-Cell-Invests-in-Tech-Companies-Upskill-Zunum-Aero)
+- [Source](https://www.boeing.com/content/theboeingcompany/us/en/innovation/innovation-quarterly/2025/02/iq2025q1-evtolevolution.html)
 - [Source](https://www.crunchbase.com/organization/boeing-horizonx)

@@ -1,8 +1,8 @@
 ---
-jev-score: 13
+jev-score: 19
 ---
 
-# Altimeter Capital
+# Altimeter Capital Management, LP
 
 [Website](https://altimeter.com)
 
@@ -10,15 +10,13 @@ Domain: altimeter.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://altimeter.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://altimeter.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://altimeter.com), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.businesswire.com/news/home/20211217005648/en/Airbyte-Closes-%24150-Million-Series-B-Funding-Round-Led-by-Altimeter-Capital-and-Coatue-Management), as of 2021-12-17)
 
 ## Portfolio
 
@@ -30,3 +28,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://altimeter.com)
+- [Source](https://www.altimeter.com/)
+- [Source](https://www.businesswire.com/news/home/20211217005648/en/Airbyte-Closes-%24150-Million-Series-B-Funding-Round-Led-by-Altimeter-Capital-and-Coatue-Management)

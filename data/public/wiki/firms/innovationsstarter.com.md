@@ -1,8 +1,8 @@
 ---
-jev-score: 66
+jev-score: 72
 ---
 
-# IFB Innovationsstarter
+# IFB Innovationsstarter GmbH
 
 [Website](https://innovationsstarter.com)
 
@@ -14,16 +14,19 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** public-sector venture arm of Hamburg's development bank (classified vc) ([source](https://innovationsstarter.com/), as of None)
 - **HQ:** Hamburg, Germany ([source](https://innovationsstarter.com/), as of None)
-- **Sectors:** all industries (InnoStarterFonds: no sector focus), ecology, digitalization and social responsibility (InnoVentureFonds) ([source](https://innovationsstarter.com/innostarterfonds/), as of None)
 - **Check size max:** up to EUR 1.5 million per startup (InnoStarterFonds); up to EUR 7 million per startup (InnoVentureFonds) ([source](https://innovationsstarter.com/), as of None)
 - **Legal name:** IFB Innovationsstarter GmbH ([source](https://innovationsstarter.com/), as of None)
-- **Leads rounds:** maybe ([source](https://innovationsstarter.com/innostarterfonds/), as of None)
 - **Thesis quote:** invests venture capital in startups to improve Hamburg's innovation capacity ([source](https://innovationsstarter.com/innostarterfonds/), as of None)
 - **Exclusions:** startups implementing measures on the ESG exclusion list ([source](https://innovationsstarter.com/innostarterfonds/), as of None)
 - **LPs:** InnoStarterFonds funded 60% by the Free and Hanseatic City of Hamburg and 40% by the ERDF ([source](https://innovationsstarter.com/innostarterfonds/), as of None)
 - **Coinvestors:** invests regularly with domestic and international private investors such as VC firms, business angels or industrial companies ([source](https://innovationsstarter.com/innostarterfonds/), as of None)
+- **Type:** venture capital ([source](https://innovationsstarter.com/), as of not recorded)
+- **Investment strategies:** Hamburg startup venture capital ([source](https://innovationsstarter.com/), as of not recorded)
+- **Legal structure:** GmbH ([source](https://innovationsstarter.com/), as of not recorded)
+- **Investment instruments:** equity, convertible loan, shareholder loan with conversion option ([source](https://innovationsstarter.com/), as of not recorded)
+- **Stages:** seed, later rounds, post-seed ([source](https://innovationsstarter.com/innostarterfonds/), as of not recorded)
+- **Sectors:** no industry focus (InnoStarterFonds), ecology, digitalization, social responsibility ([source](https://innovationsstarter.com/innostarterfonds/), as of not recorded)
 
 ## Portfolio
 
@@ -54,4 +57,5 @@ Research date: 2026-10-03
 - [Source](https://innovationsstarter.com/)
 - [Source](https://innovationsstarter.com/blog/)
 - [Source](https://innovationsstarter.com/innostarterfonds/)
+- [Source](https://innovationsstarter.com/innoventurefonds/)
 - [Source](https://www.caplight.com/investor/innoventurefonds-1)

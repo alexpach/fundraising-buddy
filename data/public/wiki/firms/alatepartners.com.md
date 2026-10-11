@@ -1,5 +1,5 @@
 ---
-jev-score: 59
+jev-score: 60
 ---
 
 # Alate Partners
@@ -14,14 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://alatepartners.com/), as of None)
 - **HQ:** Toronto, ON ([source](https://alatepartners.com/), as of None)
 - **Founded:** 2018 ([source](https://alatepartners.com/about/), as of None)
-- **Stages:** seed, series-a ([source](https://alatepartners.com/about/), as of None)
-- **Sectors:** real estate technology, construction technology, proptech ([source](https://alatepartners.com/about/), as of None)
 - **Thesis quote:** We invest in courageous founders and transformational technology that will change the built world for the better. ([source](https://alatepartners.com/), as of None)
 - **Coinvestors:** Relay Ventures, N49P, Clarim Ventures, Gambit Partners ([source](https://alatepartners.com/), as of None)
-- **Leads rounds:** maybe ([source](https://alatepartners.com), as of not recorded)
+- **Type:** venture capital ([source](https://alatepartners.com/), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://alatepartners.com/), as of not recorded)
+- **Investment instruments:** equity ([source](https://alatepartners.com/), as of not recorded)
+- **Stages:** Seed, Series A ([source](https://alatepartners.com/about/), as of not recorded)
+- **Sectors:** real estate technology, construction technology, proptech ([source](https://alatepartners.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://alatepartners.com/), as of not recorded)
 
 ## Portfolio
 

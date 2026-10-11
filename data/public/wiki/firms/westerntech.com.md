@@ -1,5 +1,5 @@
 ---
-jev-score: 53
+jev-score: 39
 ---
 
 # Western Technology Investment
@@ -10,19 +10,20 @@ Domain: westerntech.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://www.crunchbase.com/organization/western-technology-investment), as of 2026-04-19)
-- **Stages:** seed, series-a, series-b, growth ([source](https://www.crunchbase.com/organization/western-technology-investment), as of 2026-04-19)
 - **Geographies:** us ([source](https://www.crunchbase.com/organization/western-technology-investment), as of 2026-04-19)
-- **Sectors:** venture-debt, technology ([source](https://www.crunchbase.com/organization/western-technology-investment), as of 2026-04-19)
-- **AUM:** 7.8B ([source](https://www.crunchbase.com/organization/western-technology-investment), as of 2026-04-19)
-- **Leads rounds:** unknown ([source](https://www.westerntech.com), as of not recorded)
 - **About:** Western Technology Investment (WTI) is a Portola Valley, California–based venture debt firm founded in 1980. WTI pioneered the venture-debt category; since 1994 it has raised 11 funds and deployed approximately $7.8B in aggregate loan commitments to over 1,500 tech and innovation companies from seed through IPO. P10 (NYSE: PX) acquired WTI in August 2022. ([source](https://www.crunchbase.com/organization/western-technology-investment), as of 2026-04-19)
+- **Type:** venture-debt provider ([source](https://www.westerntech.com/), as of not recorded)
+- **Investment strategies:** venture debt ([source](https://www.westerntech.com/), as of not recorded)
+- **Legal structure:** debt capital provider ([source](https://www.westerntech.com/), as of not recorded)
+- **Investment instruments:** debt ([source](https://www.westerntech.com/), as of not recorded)
+- **Stages:** seed through public listing ([source](https://www.westerntech.com/), as of not recorded)
+- **Sectors:** technology and major innovation sectors ([source](https://www.westerntech.com/), as of not recorded)
 
 ## Portfolio
 
@@ -38,3 +39,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 - [Source](https://www.crunchbase.com/organization/western-technology-investment)
 - [Source](https://www.westerntech.com)
+- [Source](https://www.westerntech.com/)

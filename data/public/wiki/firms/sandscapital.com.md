@@ -1,5 +1,5 @@
 ---
-jev-score: 88
+jev-score: 91
 ---
 
 # Sands Capital
@@ -10,14 +10,12 @@ Domain: sandscapital.com
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://sandscapital.com/global-ventures), as of None)
 - **HQ:** Washington, D.C. area ([source](https://sandscapital.com/global-ventures), as of None)
 - **Founded:** 1992 ([source](https://sandscapital.com/global-ventures), as of None)
-- **Stages:** series-a, series-b ([source](https://sandscapital.com/global-ventures), as of None)
 - **Geographies:** global ([source](https://sandscapital.com/global-innovation), as of None)
 - **Check size min:** $10M (Global Ventures total investment per company) ([source](https://sandscapital.com/global-ventures), as of 2025-12)
 - **Check size max:** $15M (Global Ventures total investment per company) ([source](https://sandscapital.com/global-ventures), as of 2025-12)
@@ -26,7 +24,12 @@ Research date: 2026-10-02
 - **Latest fund:** Global Innovation Fund III, $1.1 billion, announced March 17, 2026 ([source](https://www.sandscapital.com/sands-capitals-global-innovation-fund-iii-close-featured-in-the-wall-street-journal/), as of 2026-03)
 - **Thesis quote:** Partner with entrepreneurs leveraging data-driven disruption to build the next market leaders (Global Ventures) ([source](https://sandscapital.com/global-ventures), as of None)
 - **LPs:** Existing limited partners, new institutional investors, technology company founders and executives (Global Innovation Fund III) ([source](https://www.sandscapital.com/sands-capitals-global-innovation-fund-iii-close-featured-in-the-wall-street-journal/), as of 2026-03)
-- **Leads rounds:** unknown ([source](https://sandscapital.com), as of not recorded)
+- **Type:** venture capital; growth equity ([source](https://www.sandscapital.com/global-ventures/), as of not recorded)
+- **Investment strategies:** early-stage technology investing, mid to late-stage technology and technology-enabled growth investing ([source](https://www.sandscapital.com/global-ventures/), as of not recorded)
+- **Legal structure:** Sands Capital Alternatives, LLC ([source](https://www.sandscapital.com/global-ventures/), as of not recorded)
+- **Stages:** Series A, Series B, mid-stage, late-stage ([source](https://www.sandscapital.com/global-ventures/), as of not recorded)
+- **Sectors:** artificial intelligence and machine learning, cybersecurity, healthcare technology, digital life, cloud-native software, data and artificial intelligence, internet and ecommerce, fintech, next-generation defense, intelligent infrastructure ([source](https://www.sandscapital.com/global-ventures/), as of not recorded)
+- **AUM:** USD 50 billion (as of 2026-06) ([source](https://www.sandscapital.com/sands-capitals-global-innovation-fund-iii-close-featured-in-the-wall-street-journal/), as of 2026-06)
 
 ## Portfolio
 
@@ -60,4 +63,6 @@ Research date: 2026-10-02
 - [Source](https://sandscapital.com)
 - [Source](https://sandscapital.com/global-innovation)
 - [Source](https://sandscapital.com/global-ventures)
+- [Source](https://www.sandscapital.com/global-innovation/)
+- [Source](https://www.sandscapital.com/global-ventures/)
 - [Source](https://www.sandscapital.com/sands-capitals-global-innovation-fund-iii-close-featured-in-the-wall-street-journal/)

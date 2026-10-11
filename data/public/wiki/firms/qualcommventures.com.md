@@ -1,5 +1,5 @@
 ---
-jev-score: 90
+jev-score: 89
 ---
 
 # Qualcomm Ventures
@@ -10,22 +10,21 @@ Domain: qualcommventures.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** cvc ([source](https://www.qualcommventures.com/), as of 2026-08)
 - **HQ:** San Diego, California ([source](https://www.qualcommventures.com/offices/), as of 2026-08)
-- **Stages:** seed, series-a, series-b, growth ([source](https://news.crunchbase.com/business/qualcomm-5g-metaverse-under-the-hood/), as of 2022-06)
-- **Sectors:** 5G, AI, Automotive, Consumer, Enterprise & Cloud, IoT, XR/Metaverse ([source](https://www.qualcommventures.com/team/), as of 2026-08)
-- **AUM:** $3B+ capital deployed (cumulative, since 2000) ([source](https://www.qualcommventures.com/), as of 2026-08)
 - **Check size min:** $1M ([source](https://news.crunchbase.com/business/qualcomm-5g-metaverse-under-the-hood/), as of 2022-06)
 - **Check size max:** $10M ([source](https://news.crunchbase.com/business/qualcomm-5g-metaverse-under-the-hood/), as of 2022-06)
 - **Legal name:** Qualcomm Ventures ([source](https://www.qualcommventures.com/about/), as of 2026-08)
 - **Offices:** San Diego, Santa Clara, Brazil (Sao Paulo), China (Beijing), India (Bangalore) ([source](https://www.qualcommventures.com/offices/), as of 2026-08)
-- **Leads rounds:** maybe ([source](https://news.crunchbase.com/business/qualcomm-5g-metaverse-under-the-hood/), as of 2022-06)
 - **Latest fund:** Strategic AI Venture Fund (India), up to $150M, announced February 2026 ([source](https://globalventuring.com/corporate/asia/qualcomm-invests-150m-in-indian-ai-startups/), as of 2026-02)
 - **Thesis quote:** As a global investor, we look to help entrepreneurs build revolutionary businesses that reshape the world around us. ([source](https://www.qualcommventures.com/), as of 2026-08)
+- **Type:** venture capital ([source](https://www.qualcommventures.com/), as of not recorded)
+- **Investment strategies:** early-to-growth stage investing ([source](https://www.qualcommventures.com/), as of not recorded)
+- **Stages:** early stage, growth stage ([source](https://www.qualcommventures.com/), as of not recorded)
+- **Sectors:** 5G, AI, Automotive, Consumer, Enterprise & Cloud, IoT, XR/Metaverse ([source](https://www.qualcommventures.com/about/), as of not recorded)
 
 ## Portfolio
 

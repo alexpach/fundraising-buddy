@@ -10,21 +10,19 @@ Domain: targetglobal.vc
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://techcrunch.com/2020/02/24/target-global-early-stage-fund-ii/), as of 2020-02)
-- **Stages:** seed, series-a, growth ([source](https://www.unquote.com/unquote/analysis/3028981/vc-profile-target-global-assesses-b2b-opportunities-in-final-stretch-of-current-fund-deployment), as of 2023-03)
 - **Geographies:** europe ([source](https://techcrunch.com/2020/02/24/target-global-early-stage-fund-ii/), as of 2020-02)
-- **Sectors:** fintech, tech-enabled consumer, business software, healthtech, mobility and logistics, edtech, energy transition ([source](https://www.unquote.com/unquote/analysis/3028981/vc-profile-target-global-assesses-b2b-opportunities-in-final-stretch-of-current-fund-deployment), as of 2023-03)
-- **AUM:** over $3.2 billion of capital raised (cumulative since inception, per Forbes; distinct from a point-in-time AUM figure) ([source](https://www.forbes.com/sites/iainmartin/2024/01/10/target-global-roman-abramovich-oligarch-startup-investments/), as of 2024-01)
 - **Check size min:** EUR 1 million ([source](https://www.unquote.com/unquote/analysis/3028981/vc-profile-target-global-assesses-b2b-opportunities-in-final-stretch-of-current-fund-deployment), as of 2023-03)
 - **Check size max:** EUR 30 million ([source](https://www.unquote.com/unquote/analysis/3028981/vc-profile-target-global-assesses-b2b-opportunities-in-final-stretch-of-current-fund-deployment), as of 2023-03)
-- **Leads rounds:** maybe ([source](https://techcrunch.com/2020/02/24/target-global-early-stage-fund-ii/), as of 2020-02)
 - **Latest fund:** Target Global Growth II closed at EUR 525 million in 2021 ([source](https://www.unquote.com/unquote/analysis/3028981/vc-profile-target-global-assesses-b2b-opportunities-in-final-stretch-of-current-fund-deployment), as of 2023-03)
 - **Thesis quote:** Target Global is passionate about empowering growth by investing in transformational technology. ([source](https://www.targetglobal.vc/), as of None)
 - **Exclusions:** Shies away from direct-to-consumer models that require heavy capital; largely focused on B2B. ([source](https://www.unquote.com/unquote/analysis/3028981/vc-profile-target-global-assesses-b2b-opportunities-in-final-stretch-of-current-fund-deployment), as of 2023-03)
+- **Type:** venture capital ([source](https://www.targetglobal.vc/portfolio), as of not recorded)
+- **Stages:** Early stage, Growth ([source](https://www.targetglobal.vc/portfolio), as of not recorded)
+- **Sectors:** Fintech ([source](https://www.targetglobal.vc/portfolio/rapyd), as of not recorded)
 
 ## Portfolio
 
@@ -53,4 +51,5 @@ Research date: 2026-09-20
 - [Source](https://www.forbes.com/sites/iainmartin/2024/01/10/target-global-roman-abramovich-oligarch-startup-investments/)
 - [Source](https://www.targetglobal.vc/)
 - [Source](https://www.targetglobal.vc/portfolio)
+- [Source](https://www.targetglobal.vc/portfolio/rapyd)
 - [Source](https://www.unquote.com/unquote/analysis/3028981/vc-profile-target-global-assesses-b2b-opportunities-in-final-stretch-of-current-fund-deployment)

@@ -1,5 +1,5 @@
 ---
-jev-score: 80
+jev-score: 82
 ---
 
 # Boreal Ventures
@@ -14,16 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.prnewswire.com/news-releases/boreal-ventures-launches-60m-fund-ii-to-scale-commercial-ambitions-of-canadian-technology-companies-302713843.html), as of 2026-03)
 - **HQ:** Montréal, QC ([source](https://boreal.vc/), as of None)
 - **Founded:** 2021 ([source](https://betakit.com/boreal-ventures-launches-second-seed-fund-with-43-million-first-close/), as of 2026-03)
-- **Stages:** seed ([source](https://www.prnewswire.com/news-releases/boreal-ventures-launches-60m-fund-ii-to-scale-commercial-ambitions-of-canadian-technology-companies-302713843.html), as of 2026-03)
-- **Sectors:** vertical SaaS & AI, industrial tech, fintech, digital health, manufacturing ([source](https://www.prnewswire.com/news-releases/boreal-ventures-launches-60m-fund-ii-to-scale-commercial-ambitions-of-canadian-technology-companies-302713843.html), as of 2026-03)
 - **Latest fund:** Boreal Ventures II: $43M first close toward $60M target, announced 2026-03-16 ([source](https://www.prnewswire.com/news-releases/boreal-ventures-launches-60m-fund-ii-to-scale-commercial-ambitions-of-canadian-technology-companies-302713843.html), as of 2026-03)
 - **Thesis quote:** We invest in capital-efficient teams building solutions for the real economy. ([source](https://boreal.vc/), as of None)
 - **Exclusions:** Fund II will no longer cover medtech and will not take scientific or pure R&D risk ([source](https://betakit.com/boreal-ventures-launches-second-seed-fund-with-43-million-first-close/), as of 2026-03)
 - **LPs:** Government of Québec through Investissement Québec, BDC Capital, Teralys Capital, Desjardins Capital; Lightspeed founder Dax Dasilva ([source](https://betakit.com/boreal-ventures-launches-second-seed-fund-with-43-million-first-close/), as of 2026-03)
-- **Leads rounds:** unknown ([source](https://boreal.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.prnewswire.com/news-releases/boreal-ventures-launches-60m-fund-ii-to-scale-commercial-ambitions-of-canadian-technology-companies-302713843.html), as of 2026-03)
+- **Investment strategies:** seed-stage early-stage venture investing, operator-led go-to-market support ([source](https://www.prnewswire.com/news-releases/boreal-ventures-launches-60m-fund-ii-to-scale-commercial-ambitions-of-canadian-technology-companies-302713843.html), as of 2026-03)
+- **Stages:** seed ([source](https://www.prnewswire.com/news-releases/boreal-ventures-launches-60m-fund-ii-to-scale-commercial-ambitions-of-canadian-technology-companies-302713843.html), as of 2026-03)
+- **Sectors:** vertical SaaS & AI, industrial tech, fintech, digital health, manufacturing ([source](https://www.prnewswire.com/news-releases/boreal-ventures-launches-60m-fund-ii-to-scale-commercial-ambitions-of-canadian-technology-companies-302713843.html), as of 2026-03)
 
 ## Portfolio
 
@@ -49,4 +49,5 @@ Research date: 2026-10-03
 
 - [Source](https://betakit.com/boreal-ventures-launches-second-seed-fund-with-43-million-first-close/)
 - [Source](https://boreal.vc/)
+- [Source](https://www.boreal.vc/)
 - [Source](https://www.prnewswire.com/news-releases/boreal-ventures-launches-60m-fund-ii-to-scale-commercial-ambitions-of-canadian-technology-companies-302713843.html)

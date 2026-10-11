@@ -1,5 +1,5 @@
 ---
-jev-score: 78
+jev-score: 80
 ---
 
 # High-Tech Gründerfonds (HTGF)

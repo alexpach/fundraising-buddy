@@ -1,8 +1,8 @@
 ---
-jev-score: 54
+jev-score: 61
 ---
 
-# TMT Investments
+# TMT Investments Plc
 
 [Website](https://tmtinvestments.com)
 
@@ -10,17 +10,20 @@ Domain: tmtinvestments.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
 - **HQ:** St Helier, Jersey ([source](https://tmtinvestments.com/team/), as of None)
-- **Stages:** earlier stage ([source](https://tmtinvestments.com/), as of None)
 - **Geographies:** global ([source](https://tmtinvestments.com/), as of None)
-- **Sectors:** Big Data/Cloud solutions, E-commerce, SaaS, Marketplaces ([source](https://tmtinvestments.com/investment-process/), as of None)
 - **Legal name:** TMT Investments PLC ([source](https://tmtinvestments.com/), as of None)
 - **Thesis quote:** TMT does invest in pre-growth projects ([source](https://tmtinvestments.com/investment-process/), as of None)
-- **Leads rounds:** unknown ([source](https://tmtinvestments.com), as of not recorded)
+- **Type:** venture capital; private equity ([source](https://tmtinvestments.com/wp-content/uploads/2025/03/TMT-Investments-Plc-Annual-Report-2024.pdf), as of 2024-12-31)
+- **Investment strategies:** capital appreciation ([source](https://tmtinvestments.com/wp-content/uploads/2025/03/TMT-Investments-Plc-Annual-Report-2024.pdf), as of 2024-12-31)
+- **Legal structure:** Jersey-incorporated public company listed on AIM ([source](https://tmtinvestments.com/wp-content/uploads/2025/03/TMT-Investments-Plc-Annual-Report-2024.pdf), as of 2024-12-31)
+- **Investment instruments:** equity, debt, equity-related instruments, convertible loans, publicly traded equities ([source](https://tmtinvestments.com/wp-content/uploads/2025/03/TMT-Investments-Plc-Annual-Report-2024.pdf), as of 2024-12-31)
+- **Stages:** earlier-stage, growth stage, Series A / Pre-Series A ([source](https://tmtinvestments.com/), as of not recorded)
+- **Sectors:** Big Data/Cloud solutions, E-commerce, SaaS, Marketplaces ([source](https://tmtinvestments.com/investment-process/), as of not recorded)
 
 ## Portfolio
 
@@ -49,4 +52,6 @@ Research date: 2026-10-03
 - [Source](https://tmtinvestments.com/)
 - [Source](https://tmtinvestments.com/investment-process/)
 - [Source](https://tmtinvestments.com/team/)
+- [Source](https://tmtinvestments.com/wp-content/uploads/2025/03/TMT-Investments-Plc-Annual-Report-2024.pdf)
+- [Source](https://www.investegate.co.uk/announcement/rns/tmt-investments--tmt/half-year-report-/9714337)
 - [Source](https://www.tradingview.com/news/reuters.com,2026-08-11:newsml_RSK0471Qa:0-reg-tmt-investments-half-year-report/)

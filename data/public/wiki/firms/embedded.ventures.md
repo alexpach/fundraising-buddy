@@ -1,5 +1,5 @@
 ---
-jev-score: 12
+jev-score: 22
 ---
 
 # Embedded Ventures
@@ -10,15 +10,16 @@ Domain: embedded.ventures
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://embedded.ventures), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://embedded.ventures), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://embedded.ventures), as of not recorded)
+- **Type:** venture capital ([source](https://www.embedded.ventures/team), as of not recorded)
+- **Investment strategies:** early-stage deep tech investing ([source](https://www.embedded.ventures/team), as of not recorded)
+- **Stages:** early stage ([source](https://www.embedded.ventures/team), as of not recorded)
+- **Sectors:** digital engineering, advanced manufacturing, space infrastructure ([source](https://www.embedded.ventures/vision), as of not recorded)
 
 ## Portfolio
 
@@ -30,3 +31,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://embedded.ventures)
+- [Source](https://www.embedded.ventures/team)
+- [Source](https://www.embedded.ventures/vision)

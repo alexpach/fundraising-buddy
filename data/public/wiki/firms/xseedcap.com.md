@@ -1,5 +1,5 @@
 ---
-jev-score: 54
+jev-score: 52
 ---
 
 # XSeed Capital
@@ -10,15 +10,16 @@ Domain: xseedcap.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://xseedcap.com/), as of 2026-10)
-- **Stages:** early stage ([source](https://xseedcap.com/), as of 2026-10)
-- **Sectors:** computer science, software, autonomous systems, AI, blockchain applications ([source](https://xseedcap.com/team-member/michael-borrus), as of None)
 - **Thesis quote:** works with entrepreneurs whose goal is to build category-leading, high growth companies ([source](https://xseedcap.com/), as of 2026-10)
-- **Leads rounds:** unknown ([source](https://xseedcap.com), as of not recorded)
+- **Type:** venture capital ([source](https://xseedcap.com/a-conversation-with-former-eir-sharon-goldstein/), as of 2016-01-27)
+- **Investment strategies:** early-stage venture investing ([source](https://xseedcap.com/a-conversation-with-former-eir-sharon-goldstein/), as of 2016-01-27)
+- **Stages:** seed ([source](https://xseedcap.com/a-conversation-with-former-eir-sharon-goldstein/), as of 2016-01-27)
+- **Sectors:** security, DevOps, marketing technology, consumer products ([source](https://xseedcap.com/a-conversation-with-former-eir-sharon-goldstein/), as of 2016-01-27)
+- **Leads rounds:** yes ([source](https://xseedcap.com/a-conversation-with-former-eir-sharon-goldstein/), as of 2016-01-27)
 
 ## Portfolio
 
@@ -40,5 +41,6 @@ Research date: 2026-10-03
 ## Sources
 
 - [Source](https://xseedcap.com/)
+- [Source](https://xseedcap.com/a-conversation-with-former-eir-sharon-goldstein/)
 - [Source](https://xseedcap.com/news-article/xseed-capital-adds-partner-steps-up-bid-for-early-stage-investing)
 - [Source](https://xseedcap.com/team-member/michael-borrus)

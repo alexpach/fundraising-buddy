@@ -1,5 +1,5 @@
 ---
-jev-score: 72
+jev-score: 83
 ---
 
 # Playground Global
@@ -10,15 +10,19 @@ Domain: playground.vc
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://playground.vc/playground-blogs/playground-global-raises-410-million-to-accelerate-the-time-to-impact-for-deep-tech-and-science-companies), as of 2023-12)
 - **HQ:** Palo Alto, CA ([source](https://playground.vc/playground-blogs/playground-global-raises-410-million-to-accelerate-the-time-to-impact-for-deep-tech-and-science-companies), as of 2023-12)
 - **Founded:** 2015 ([source](https://playground.vc/playground-blogs/playground-global-raises-410-million-to-accelerate-the-time-to-impact-for-deep-tech-and-science-companies), as of 2023-12)
 - **Thesis quote:** We invest somewhere between improbable and impossible. ([source](https://www.playground.vc/), as of 2026-08)
-- **Leads rounds:** maybe ([source](https://playground.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.playground.vc/playground-blogs/playground-global-raises-410-million-to-accelerate-the-time-to-impact-for-deep-tech-and-science-companies), as of 2023-12-14)
+- **Investment strategies:** early-stage venture, deep tech ([source](https://www.playground.vc/playground-blogs/playground-global-raises-410-million-to-accelerate-the-time-to-impact-for-deep-tech-and-science-companies), as of 2023-12-14)
+- **Stages:** Seed, Series A ([source](https://www.playground.vc/playground-blogs/playground-global-raises-410-million-to-accelerate-the-time-to-impact-for-deep-tech-and-science-companies), as of 2023-12-14)
+- **Sectors:** Next-gen computing, Logistics, Automation, Infrastructure, Decarbonization, Engineered biology, Energy transition ([source](https://www.playground.vc/playground-blogs/playground-global-raises-410-million-to-accelerate-the-time-to-impact-for-deep-tech-and-science-companies), as of 2023-12-14)
+- **Leads rounds:** yes ([source](https://www.phasecraft.io/journal/journal/phasecraft-raises-34-million-from-plural-playground-global-and-novo-holdings-to-bring-quantum-computing-closer-to-solving-real-world-challenges), as of 2025-09-02)
+- **AUM:** Lower bound (over): USD 1.2 billion (as of 2023-12-14) ([source](https://www.playground.vc/playground-blogs/playground-global-raises-410-million-to-accelerate-the-time-to-impact-for-deep-tech-and-science-companies), as of 2023-12-14)
 
 ## Portfolio
 
@@ -44,3 +48,4 @@ Research date: 2026-08-26
 - [Source](https://playground.vc/playground-blogs/playground-global-raises-410-million-to-accelerate-the-time-to-impact-for-deep-tech-and-science-companies)
 - [Source](https://www.phasecraft.io/journal/journal/phasecraft-raises-34-million-from-plural-playground-global-and-novo-holdings-to-bring-quantum-computing-closer-to-solving-real-world-challenges)
 - [Source](https://www.playground.vc/)
+- [Source](https://www.playground.vc/playground-blogs/playground-global-raises-410-million-to-accelerate-the-time-to-impact-for-deep-tech-and-science-companies)

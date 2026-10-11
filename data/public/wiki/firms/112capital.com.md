@@ -1,5 +1,5 @@
 ---
-jev-score: 50
+jev-score: 65
 ---
 
 # 11.2 Capital
@@ -14,12 +14,14 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](http://112capital.com/perspectives), as of None)
 - **HQ:** San Francisco ([source](http://112capital.com/perspectives), as of None)
-- **Sectors:** AI, cybersecurity, quantum, robotics, new space, data-driven healthcare, climate tech ([source](https://112capital.com/about.html), as of None)
 - **Latest fund:** $101M announced (Forbes headline) ([source](https://www.112capital.com/news.html), as of 2021-11)
 - **Thesis quote:** We invest in founders solving the biggest challenges facing our world with emerging technologies. ([source](https://112capital.com/about.html), as of None)
-- **Leads rounds:** unknown ([source](https://112capital.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.112capital.com/news.html), as of 2021-04-29)
+- **Investment strategies:** emerging technology investing ([source](https://www.112capital.com/news.html), as of 2021-04-29)
+- **Stages:** Seed ([source](https://www.112capital.com/news.html), as of 2021-04-29)
+- **Sectors:** AI, cybersecurity, quantum, robotics, new space, data-driven healthcare, climate tech ([source](https://www.112capital.com/about.html), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.112capital.com/news.html), as of 2021-04-29)
 
 ## Portfolio
 
@@ -43,4 +45,5 @@ Research date: 2026-10-03
 - [Source](http://112capital.com/perspectives)
 - [Source](https://112capital.com/about.html)
 - [Source](https://www.112capital.com/)
+- [Source](https://www.112capital.com/about.html)
 - [Source](https://www.112capital.com/news.html)

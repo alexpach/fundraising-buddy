@@ -1,5 +1,5 @@
 ---
-jev-score: 79
+jev-score: 78
 ---
 
 # Quantonation
@@ -10,21 +10,21 @@ Domain: quantonation.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://quantonation.com/team), as of None)
 - **HQ:** Paris, France ([source](https://quantonation.com/team), as of None)
 - **Founded:** 2018 ([source](https://quantonation.com/team), as of None)
-- **Stages:** pre-seed, seed, series-a, series-b ([source](https://quantonation.com/team), as of None)
 - **Geographies:** global ([source](https://quantonation.com/team), as of None)
-- **Sectors:** quantum computing, quantum networks, quantum sensing, deep physics ([source](https://quantonation.com), as of None)
 - **Offices:** Paris, 58 rue d'Hauteville, 75010 ([source](https://quantonation.com/team), as of None)
 - **Latest fund:** Quantonation II closed at €220 million ([source](https://quantonation.com/2026/02/18/quantonation-closes-e220-million-second-fund-to-back-the-industrialisation-of-quantum-and-physics-based-technologies), as of 2026-02)
 - **Thesis quote:** early-stage venture capital fund investing globally in deep technologies based on advances in physics and computing ([source](https://quantonation.com/team), as of None)
 - **LPs:** Returning LPs: Vertex Holdings, Fonds National d'Amorçage 2 (Bpifrance), Bradley M. Bloom; new LPs: European Investment Fund, Grupo ACS, Novo Holdings, Planet First Partners, Toshiba ([source](https://quantonation.com/2026/02/18/quantonation-closes-e220-million-second-fund-to-back-the-industrialisation-of-quantum-and-physics-based-technologies), as of 2026-02)
-- **Leads rounds:** unknown ([source](https://quantonation.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.quantonation.com/team/), as of not recorded)
+- **Investment strategies:** early-stage venture investing in physics- and computing-based deep technologies ([source](https://www.quantonation.com/team/), as of not recorded)
+- **Stages:** pre-seed, Series A, Series B ([source](https://www.quantonation.com/team/), as of not recorded)
+- **Sectors:** quantum computing, quantum networks, quantum sensing, deep physics ([source](https://www.quantonation.com/), as of not recorded)
 
 ## Portfolio
 
@@ -53,3 +53,4 @@ Research date: 2026-10-03
 - [Source](https://quantonation.com/portfolio/)
 - [Source](https://quantonation.com/team)
 - [Source](https://www.quantonation.com/)
+- [Source](https://www.quantonation.com/team/)

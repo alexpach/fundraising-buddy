@@ -10,22 +10,22 @@ Domain: firstround.com
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://firstround.com/team/), as of None)
 - **HQ:** San Francisco, CA ([source](https://firstround.com/team/), as of None)
-- **Stages:** pre-seed, seed ([source](https://firstround.com/team/), as of None)
 - **Geographies:** us ([source](https://firstround.com/team/), as of None)
-- **Sectors:** enterprise, AI, hardware, healthcare, fintech, consumer ([source](https://firstround.com/team/), as of None)
 - **Check size min:** $1,000,000 ([source](https://firstround.com/team/), as of None)
 - **Check size max:** $7,000,000 ([source](https://firstround.com/team/), as of None)
 - **Offices:** San Francisco, CA, New York, NY, Philadelphia, PA ([source](https://firstround.com/team/), as of None)
-- **Leads rounds:** maybe ([source](https://firstround.com/team/), as of None)
 - **Thesis quote:** Above all, we look for compelling and contrarian insight into how the world works. ([source](https://firstround.com/team/), as of None)
 - **Exclusions:** Does not invest in companies that directly compete with existing portfolio companies; generally not a fit for Series B/C. ([source](https://firstround.com/team/), as of None)
 - **LPs:** Vast majority of LP capital comes from university endowments, hospitals, and charities; no sovereign wealth funds or governments. ([source](https://firstround.com/team/), as of None)
+- **Type:** venture capital ([source](https://www.firstround.com/how-we-work), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://www.firstround.com/how-we-work), as of not recorded)
+- **Stages:** angel, pre-seed, seed ([source](https://www.firstround.com/how-we-work), as of not recorded)
+- **Sectors:** AI, enterprise, DevTools & Infra, consumer, healthcare, hardware, fintech ([source](https://www.firstround.com/companies), as of not recorded)
 
 ## Portfolio
 
@@ -54,3 +54,6 @@ Research date: 2026-09-20
 - [Source](https://firstround.com)
 - [Source](https://firstround.com/)
 - [Source](https://firstround.com/team/)
+- [Source](https://www.firstround.com/companies)
+- [Source](https://www.firstround.com/how-we-work)
+- [Source](https://www.firstround.com/images/first-round--website-privacy-policy-8-14-2025.pdf)

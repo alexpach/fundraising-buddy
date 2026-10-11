@@ -1,8 +1,8 @@
 ---
-jev-score: 76
+jev-score: 77
 ---
 
-# Framework VC
+# FRAMEWORK Venture Partners
 
 [Website](https://framework.vc)
 
@@ -14,16 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://framework.vc/en/about-us), as of 2026-08)
 - **HQ:** Toronto, ON ([source](https://framework.vc/en/contact), as of 2026-10)
 - **Founded:** 2018 ([source](https://framework.vc/en/about-us), as of 2026-08)
-- **Stages:** Late Seed, Series A/B ([source](https://framework.vc/en), as of 2026-08)
 - **Geographies:** us, canada ([source](https://framework.vc/en), as of 2026-08)
-- **Sectors:** Vertical SaaS, AI-Powered Platforms ([source](https://framework.vc/en), as of 2026-08)
 - **Legal name:** FRAMEWORK Venture Partners ([source](https://framework.vc/en/about-us), as of 2026)
 - **Offices:** Toronto, ON; Montreal, QC ([source](https://framework.vc/en/contact), as of 2026-10)
 - **Thesis quote:** Backing the next generation of vertical SaaS and AI founders. ([source](https://framework.vc/en), as of 2026-08)
-- **Leads rounds:** yes ([source](https://www.crunchbase.com/organization/framework-venture-partners), as of 2026-07-07)
+- **Type:** venture capital ([source](https://www.framework.vc/en/about-us), as of not recorded)
+- **Stages:** Late Seed, Series A/B ([source](https://www.framework.vc/en), as of not recorded)
+- **Sectors:** Vertical SaaS, AI-Powered Platforms ([source](https://www.framework.vc/en), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.framework.vc/en/articles/maxa-joins-our-portfolio/), as of 2024-06-03)
 
 ## Portfolio
 
@@ -53,3 +53,6 @@ Research date: 2026-10-03
 - [Source](https://framework.vc/en/about-us)
 - [Source](https://framework.vc/en/contact)
 - [Source](https://framework.vc/en/portfolio)
+- [Source](https://www.framework.vc/en)
+- [Source](https://www.framework.vc/en/about-us)
+- [Source](https://www.framework.vc/en/articles/maxa-joins-our-portfolio/)

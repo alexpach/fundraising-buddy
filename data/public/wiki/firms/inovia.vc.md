@@ -1,5 +1,5 @@
 ---
-jev-score: 77
+jev-score: 82
 ---
 
 # Inovia Capital
@@ -14,15 +14,17 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.inovia.vc/about), as of None)
 - **HQ:** Montreal ([source](https://betakit.com/inovia-promotes-two-principals-to-partner-as-it-readies-2026-fundraising-push), as of 2025-12)
 - **Founded:** 2007 ([source](https://www.inovia.vc/about), as of None)
-- **Sectors:** AI/ML, Fintech, Digital Health, Cybersecurity, Infra & Dev Ops, Future of Work ([source](https://www.inovia.vc/about), as of None)
-- **AUM:** US$2.5B ([source](https://www.inovia.vc/about), as of None)
-- **Leads rounds:** maybe ([source](https://www.newswire.ca/news-releases/inovia-closes-us-325-million-early-stage-fund-853974607.html), as of 2022-06)
 - **Latest fund:** Inovia Venture Fund V, US$325 million, June 2022 ([source](https://www.newswire.ca/news-releases/inovia-closes-us-325-million-early-stage-fund-853974607.html), as of 2022-06)
 - **Thesis quote:** We've built a fully integrated, multi-stage platform spanning Discovery, Venture and Growth ([source](https://www.inovia.vc/about), as of None)
 - **LPs:** Alberta Enterprise Corporation invested US$12 million in Fund V ([source](https://dev.swfinstitute.org/news/93050/inovia-venture-fund-v-raises-325-million), as of 2022-06)
+- **Type:** venture capital ([source](https://www.inovia.vc/about/), as of not recorded)
+- **Investment strategies:** Discovery, Venture, Growth ([source](https://www.inovia.vc/about/), as of not recorded)
+- **Stages:** pre-seed to pre-IPO ([source](https://www.inovia.vc/about/), as of not recorded)
+- **Sectors:** Fintech, Digital Health, Cybersecurity, Infrastructure & DevOps, Future of Work, robotics & physical AI, energy & compute infrastructure, world models, defense & sovereign compute, quantum technologies ([source](https://www.inovia.vc/portfolio/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.inovia.vc/inovia-conversations/doubling-down-on-spare-unlocking-the-potential-of-mobility-for-everyone/), as of 2024-09-10)
+- **AUM:** USD 2.5 billion (date not reported) ([source](https://www.inovia.vc/about/), as of not recorded)
 
 ## Portfolio
 
@@ -54,5 +56,8 @@ Research date: 2026-10-03
 - [Source](https://dev.swfinstitute.org/news/93050/inovia-venture-fund-v-raises-325-million)
 - [Source](https://inovia.vc)
 - [Source](https://www.inovia.vc/about)
+- [Source](https://www.inovia.vc/about/)
+- [Source](https://www.inovia.vc/inovia-conversations/doubling-down-on-spare-unlocking-the-potential-of-mobility-for-everyone/)
 - [Source](https://www.inovia.vc/portfolio)
+- [Source](https://www.inovia.vc/portfolio/)
 - [Source](https://www.newswire.ca/news-releases/inovia-closes-us-325-million-early-stage-fund-853974607.html)

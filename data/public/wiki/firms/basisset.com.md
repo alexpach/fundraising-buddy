@@ -1,5 +1,5 @@
 ---
-jev-score: 78
+jev-score: 81
 ---
 
 # Basis Set Ventures
@@ -14,17 +14,18 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.basisset.com/basis-set-faq), as of None)
 - **HQ:** San Francisco, California ([source](https://www.basisset.com/basis-set-faq), as of None)
 - **Founded:** 2017 ([source](https://www.basisset.com/basis-set-faq), as of None)
-- **Stages:** pre-seed, seed, series-a ([source](https://www.basisset.com/basis-set-faq), as of None)
-- **Sectors:** artificial intelligence, scalable infrastructure, intelligent collaboration, automated workflows, autonomous machines ([source](https://www.basisset.com/basis-set-faq), as of None)
 - **Check size min:** a few hundred thousand USD ([source](https://www.basisset.com/basis-set-faq), as of None)
 - **Check size max:** over $9 million USD ([source](https://www.basisset.com/basis-set-faq), as of None)
 - **Legal name:** Basis Set Builders, LLC ([source](https://www.basisset.com/insights/announcing-our-250m-fund-iv), as of None)
 - **Latest fund:** $250M Fund IV, announced January 26 2026 ([source](https://www.basisset.com/insights/announcing-our-250m-fund-iv), as of 2026-01)
 - **Thesis quote:** We invest in artificial intelligence and founders harnessing it to improve productivity across all sectors of the economy. ([source](https://www.basisset.com/basis-set-faq), as of None)
-- **Leads rounds:** unknown ([source](https://basisset.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.basisset.com/basis-set-faq), as of not recorded)
+- **Investment strategies:** early-stage venture capital, AI-focused venture capital ([source](https://www.basisset.com/basis-set-faq), as of not recorded)
+- **Stages:** pre-seed, seed, series A ([source](https://www.basisset.com/basis-set-faq), as of not recorded)
+- **Sectors:** artificial intelligence, scalable infrastructure, intelligent collaboration, automated workflows, autonomous machines ([source](https://www.basisset.com/basis-set-faq), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.basisset.com/basis-set-faq), as of not recorded)
 
 ## Portfolio
 
@@ -55,3 +56,4 @@ Research date: 2026-10-03
 - [Source](https://www.basisset.com/)
 - [Source](https://www.basisset.com/basis-set-faq)
 - [Source](https://www.basisset.com/insights/announcing-our-250m-fund-iv)
+- [Source](https://www.basisset.com/insights/the-offline-economy-comes-online)

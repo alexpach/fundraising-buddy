@@ -1,5 +1,5 @@
 ---
-jev-score: 85
+jev-score: 88
 ---
 
 # ACE Ventures
@@ -10,18 +10,19 @@ Domain: aceventures.vc
 
 Coverage: sourced
 
-Research date: 2026-08-17
+Research date: 2026-10-03
 
 ## Public research
 
 - **HQ:** Geneva, Switzerland (30 Rue du Rhone, 1204 Geneva) ([source](https://aceventures.vc/contact), as of 2026-08)
-- **Sectors:** climate tech, deep tech, fintech, AI ([source](https://www.startupticker.ch/en/investors/ace-company), as of 2026-08)
-- **AUM:** $2.0B+ AUM at ACE & Company group level (platform-wide, not venture-only) ([source](https://www.aceandcompany.com/), as of 2026-08)
 - **Offices:** Geneva, Zurich, London ([source](https://aceventures.vc/manifesto), as of 2026-08)
-- **Leads rounds:** yes ([source](https://aceventures.vc/contact), as of 2025-09)
 - **Latest fund:** ACE Swiss Tech Outliers announced March 2023 at EUR 150M; first investment announced January 2024; Form D filed 2025-10-06 ([source](https://aceventures.vc/ace-ventures-welcomes-sinpex-marking-the-first-investment-in-ace-swiss-tech-outliers/), as of 2024-01)
 - **Thesis quote:** Backs technology that makes hard things simpler: data and AI, tools for industry and climate, and financial infrastructure. ([source](https://aceventures.vc/manifesto), as of 2026-08)
 - **Exclusions:** Screens out technology whose customers would not care in five years. ([source](https://aceventures.vc/manifesto), as of 2026-08)
+- **Type:** venture capital ([source](https://aceventures.vc/ace-ventures-welcomes-sinpex-marking-the-first-investment-in-ace-swiss-tech-outliers/), as of 2024-01-11)
+- **Stages:** Seed, Series A ([source](https://aceventures.vc/manifesto/), as of not recorded)
+- **Sectors:** AI, climate technology, financial technology ([source](https://aceventures.vc/manifesto/), as of not recorded)
+- **Leads rounds:** yes ([source](https://aceventures.vc/ace-ventures-welcomes-sinpex-marking-the-first-investment-in-ace-swiss-tech-outliers/), as of 2024-01-11)
 
 ## Portfolio
 
@@ -50,9 +51,11 @@ Research date: 2026-08-17
 ## Sources
 
 - [Source](https://aceventures.vc/)
+- [Source](https://aceventures.vc/ace-ventures-leads-8m-seed-round-in-adaptyv-bio-to-accelerate-the-future-of-protein-design/)
 - [Source](https://aceventures.vc/ace-ventures-welcomes-sinpex-marking-the-first-investment-in-ace-swiss-tech-outliers/)
 - [Source](https://aceventures.vc/contact)
 - [Source](https://aceventures.vc/manifesto)
+- [Source](https://aceventures.vc/manifesto/)
 - [Source](https://aceventures.vc/portfolio)
 - [Source](https://www.aceandcompany.com/)
 - [Source](https://www.startupticker.ch/en/investors/ace-company)

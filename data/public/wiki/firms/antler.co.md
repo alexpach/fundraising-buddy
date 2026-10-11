@@ -1,5 +1,5 @@
 ---
-jev-score: 70
+jev-score: 72
 ---
 
 # Antler
@@ -10,23 +10,24 @@ Domain: antler.co
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.antler.co/about), as of None)
 - **HQ:** Singapore ([source](https://www.antler.co/about), as of None)
 - **Founded:** 2017 ([source](https://en.wikipedia.org/wiki/Antler_(venture_capital_firm)), as of None)
-- **Stages:** Inception stage / pre-seed (Residency), Pre-A to Series C (Antler Elevate) ([source](https://www.antler.co/press-releases/fact-sheet), as of None)
 - **Geographies:** global ([source](https://www.antler.co/about), as of None)
-- **Sectors:** Real Estate and PropTech, Industrials, Health and BioTech, FinTech, Energy and ClimateTech, ConsumerTech, B2B Software ([source](https://www.antler.co/portfolio), as of 2026-09)
 - **Legal name:** Antler Innovation Pte Ltd ([source](https://en.wikipedia.org/wiki/Antler_(venture_capital_firm)), as of None)
 - **Offices:** 27 cities including New York, London, Berlin, Singapore, Tokyo, and Sydney ([source](https://www.antler.co/about), as of None)
 - **Latest fund:** Antler Elevate, $285 million, 2023 ([source](https://en.wikipedia.org/wiki/Antler_(venture_capital_firm)), as of None)
 - **Thesis quote:** Above all, we invest in people. We believe that every great company starts with a great team, and the strongest teams pursue the best ideas. ([source](https://www.antler.co/about), as of None)
 - **LPs:** Individual and institutional investors including Eduardo Saverin, Christen Sveaas, Canica, Credit Saison, International Finance Corporation, Schroders, Vaekstfonden and Phoenix Group. ([source](https://en.wikipedia.org/wiki/Antler_(venture_capital_firm)), as of None)
 - **Coinvestors:** CVC, Peak XV and Antler Elevate co-invested in Airalo; Accel led Lovable's Series A alongside Antler. ([source](https://www.antler.co/press-releases/fact-sheet), as of None)
-- **Leads rounds:** unknown ([source](https://antler.co), as of not recorded)
+- **Type:** venture capital ([source](https://www.antler.co/about), as of not recorded)
+- **Investment strategies:** early-stage venture capital, emerging growth investing ([source](https://www.antler.co/about), as of not recorded)
+- **Stages:** inception, Series A, Series B, Series C ([source](https://www.antler.co/portfolio), as of not recorded)
+- **Sectors:** FinTech, ConsumerTech, Energy and ClimateTech ([source](https://www.antler.co/portfolio), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.antler.co/about), as of not recorded)
 
 ## Portfolio
 
@@ -64,5 +65,6 @@ Research date: 2026-09-20
 - [Source](https://antler.co)
 - [Source](https://en.wikipedia.org/wiki/Antler_(venture_capital_firm))
 - [Source](https://www.antler.co/about)
+- [Source](https://www.antler.co/blog/antler-elevate-emerging-growth-fund-close)
 - [Source](https://www.antler.co/portfolio)
 - [Source](https://www.antler.co/press-releases/fact-sheet)

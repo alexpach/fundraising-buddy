@@ -1,5 +1,5 @@
 ---
-jev-score: 76
+jev-score: 80
 ---
 
 # Highland Europe
@@ -14,16 +14,17 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://highlandeurope.com/about), as of None)
 - **HQ:** London and Geneva ([source](https://highlandeurope.com/about), as of None)
-- **Stages:** growth ([source](https://highlandeurope.com/about), as of None)
 - **Geographies:** europe ([source](https://highlandeurope.com/about), as of None)
-- **Sectors:** software, internet ([source](https://highlandeurope.com/highland-europe-announces-e1-billion-fund-to-continue-backing-exceptional-european-rooted-growth-stage-software-and-consumer-internet-companies), as of 2023-01)
 - **Offices:** London (30 Golden Square); Geneva (18, rue du Marché) ([source](https://highlandeurope.com/about), as of None)
-- **Leads rounds:** maybe ([source](https://highlandeurope.com/companies), as of 2026-08)
 - **Latest fund:** Fifth fund, EUR 1 billion ([source](https://highlandeurope.com/highland-europe-announces-e1-billion-fund-to-continue-backing-exceptional-european-rooted-growth-stage-software-and-consumer-internet-companies), as of 2023-01)
 - **Thesis quote:** backing the Continent’s most outstanding founder-led teams in software and internet businesses ([source](https://highlandeurope.com/highland-europe-announces-e1-billion-fund-to-continue-backing-exceptional-european-rooted-growth-stage-software-and-consumer-internet-companies), as of 2023-01)
 - **LPs:** Many investors are foundations, non-profits and university endowments ([source](https://highlandeurope.com/about), as of None)
+- **Type:** venture capital ([source](https://www.highlandeurope.com/highland-europe-raises-fund-vi/), as of 2026-07)
+- **Investment strategies:** growth-stage investing ([source](https://www.highlandeurope.com/highland-europe-raises-fund-vi/), as of 2026-07)
+- **Stages:** growth ([source](https://www.highlandeurope.com/highland-europe-raises-fund-vi/), as of 2026-07)
+- **Sectors:** consumer technology, enterprise technology ([source](https://www.highlandeurope.com/scale-with-us/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.highlandeurope.com/highland-europe-raises-fund-vi/), as of 2026-07)
 
 ## Portfolio
 
@@ -56,3 +57,5 @@ Research date: 2026-10-03
 - [Source](https://highlandeurope.com/about)
 - [Source](https://highlandeurope.com/companies)
 - [Source](https://highlandeurope.com/highland-europe-announces-e1-billion-fund-to-continue-backing-exceptional-european-rooted-growth-stage-software-and-consumer-internet-companies)
+- [Source](https://www.highlandeurope.com/highland-europe-raises-fund-vi/)
+- [Source](https://www.highlandeurope.com/scale-with-us/)

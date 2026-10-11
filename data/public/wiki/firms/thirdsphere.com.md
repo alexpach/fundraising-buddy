@@ -1,8 +1,8 @@
 ---
-jev-score: 83
+jev-score: 91
 ---
 
-# Third Sphere
+# Third Sphere (Third Sphere Management, LLC)
 
 [Website](https://thirdsphere.com)
 
@@ -10,21 +10,25 @@ Domain: thirdsphere.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://thirdsphere.com/about/), as of 2026-08)
 - **Founded:** 2013 ([source](https://thirdsphere.com/about/), as of 2026-08)
-- **Stages:** pre-seed, seed ([source](https://thirdsphere.com/about/), as of 2026-08)
 - **Geographies:** us, global ([source](https://thirdsphere.com/about/), as of 2026-08)
-- **Sectors:** climate tech, hardware-enabled solutions, electrification, resilience and adaptation ([source](https://thirdsphere.com/about/), as of 2026-08)
 - **Check size min:** $250,000 ([source](https://thirdsphere.com/about/), as of 2026-08)
 - **Check size max:** $1,000,000 ([source](https://thirdsphere.com/about/), as of 2026-08)
 - **Legal name:** Third Sphere Management, LLC ([source](https://www.sec.gov/Archives/edgar/data/1930137/000193013722000001/primary_doc.xml), as of 2022-05)
 - **Thesis quote:** We back founders building hardware-enabled solutions (80% of our portfolio), usually with software components that address climate challenges. ([source](https://thirdsphere.com/about/), as of 2026-08)
 - **LPs:** Backed by leading financial, insurance, and foundation institutions; no individual LP named on the firm's site. ([source](https://thirdsphere.com/about/), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://thirdsphere.com), as of not recorded)
+- **Type:** venture capital ([source](https://thirdsphere.com/about/), as of not recorded)
+- **Investment strategies:** climate-focused venture, early-stage venture ([source](https://thirdsphere.com/about/), as of not recorded)
+- **Legal structure:** limited partnership fund vehicle (Third Sphere Fund IV, LP) ([source](https://thirdsphere.com/about/), as of not recorded)
+- **Investment instruments:** SAFE ([source](https://thirdsphere.com/about/), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://thirdsphere.com/about/), as of not recorded)
+- **Sectors:** climate technology, hardware-enabled solutions, electrification, resilience and adaptation ([source](https://thirdsphere.com/about/), as of not recorded)
+- **Leads rounds:** yes ([source](https://thirdsphere.com/wk556-shifting-climate-vcs-and-capital-stacks/), as of 2024-10-25)
+- **AUM:** Approximately USD 140 million (as of 2023-10-06) ([source](https://thirdsphere.com/ts-nycw-2023/), as of 2023-10-06)
 
 ## Portfolio
 
@@ -52,4 +56,7 @@ Research date: 2026-08-26
 - [Source](https://thirdsphere.com)
 - [Source](https://thirdsphere.com/about/)
 - [Source](https://thirdsphere.com/portfolio/all/)
+- [Source](https://thirdsphere.com/ts-nycw-2023/)
+- [Source](https://thirdsphere.com/wk556-shifting-climate-vcs-and-capital-stacks/)
 - [Source](https://www.sec.gov/Archives/edgar/data/1930137/000193013722000001/primary_doc.xml)
+- [Source](https://www.sec.gov/Archives/edgar/data/1930137/000193013722000001/xslFormDX01/primary_doc.xml)

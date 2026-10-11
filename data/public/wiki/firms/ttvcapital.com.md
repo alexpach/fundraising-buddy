@@ -1,5 +1,5 @@
 ---
-jev-score: 85
+jev-score: 86
 ---
 
 # TTV Capital
@@ -10,20 +10,22 @@ Domain: ttvcapital.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://ttvcapital.com/team/), as of None)
 - **Founded:** 2000 ([source](https://ttvcapital.com/about/), as of None)
-- **Stages:** early-stage ([source](https://ttvcapital.com/), as of None)
-- **Sectors:** payments, banking software, cyber security, risk management, compliance, regtech, financial wellness, insuretech, the CFO stack ([source](https://ttvcapital.com/about/), as of None)
 - **Check size min:** $250,000 (exploratory fund) ([source](https://www.prnewswire.com/news-releases/ttv-capital-closes-fund-vi-at-250-million-to-invest-in-early-stage-fintech-companies-301775318.html), as of 2023-03)
 - **Offices:** Atlanta; presence in the Bay Area ([source](https://www.prnewswire.com/news-releases/ttv-capital-closes-fund-vi-at-250-million-to-invest-in-early-stage-fintech-companies-301775318.html), as of 2023-03)
-- **Leads rounds:** maybe ([source](https://www.prnewswire.com/news-releases/ttv-capital-closes-fund-vi-at-250-million-to-invest-in-early-stage-fintech-companies-301775318.html), as of 2023-03)
 - **Latest fund:** Fund VI, $250 million, announced 2023-03-17 ([source](https://www.prnewswire.com/news-releases/ttv-capital-closes-fund-vi-at-250-million-to-invest-in-early-stage-fintech-companies-301775318.html), as of 2023-03)
 - **Thesis quote:** We invest in smart, hard-working entrepreneurs who aren't afraid to challenge the status quo. ([source](https://ttvcapital.com/), as of None)
 - **LPs:** institutional and strategic investors, as well as family offices ([source](https://www.prnewswire.com/news-releases/ttv-capital-closes-fund-vi-at-250-million-to-invest-in-early-stage-fintech-companies-301775318.html), as of 2023-03)
+- **Type:** venture capital ([source](https://ttvcapital.com/), as of not recorded)
+- **Investment strategies:** fintech venture investing ([source](https://ttvcapital.com/), as of not recorded)
+- **Stages:** early stage, seed ([source](https://ttvcapital.com/), as of not recorded)
+- **Sectors:** payments, banking software, cyber security, risk management, compliance, regtech, financial wellness, insuretech, CFO stack ([source](https://ttvcapital.com/about/), as of not recorded)
+- **Leads rounds:** yes ([source](https://ttvcapital.com/insights-article/why-we-invested-in-payabli/), as of 2023-12-07)
+- **AUM:** Lower bound (over): USD 750 million (date not reported) ([source](https://ttvcapital.com/), as of not recorded)
 
 ## Portfolio
 
@@ -52,6 +54,7 @@ Research date: 2026-10-03
 
 - [Source](https://ttvcapital.com/)
 - [Source](https://ttvcapital.com/about/)
+- [Source](https://ttvcapital.com/insights-article/why-we-invested-in-payabli/)
 - [Source](https://ttvcapital.com/portfolio/)
 - [Source](https://ttvcapital.com/team/)
 - [Source](https://www.prnewswire.com/news-releases/ttv-capital-closes-fund-vi-at-250-million-to-invest-in-early-stage-fintech-companies-301775318.html)

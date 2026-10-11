@@ -1,8 +1,8 @@
 ---
-jev-score: 77
+jev-score: 82
 ---
 
-# Redalpine
+# redalpine
 
 [Website](https://redalpine.com)
 
@@ -10,18 +10,20 @@ Domain: redalpine.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.reuters.com/markets/europe/european-venture-capital-firm-redalpine-raises-200-mln-largest-fund-2024-08-27/), as of 2024-08)
 - **HQ:** Zurich, Switzerland ([source](https://www.reuters.com/markets/europe/european-venture-capital-firm-redalpine-raises-200-mln-largest-fund-2024-08-27/), as of 2024-08)
-- **Stages:** multi-stage ([source](https://redalpine.com), as of None)
 - **Geographies:** europe ([source](https://redalpine.com), as of None)
-- **Sectors:** frontier tech, healthcare, AI-native applications, fintech and infrastructure, biology, sustainability (energy, cleantech, foodtech, mobility) ([source](https://www.redalpine.com/about), as of None)
 - **Thesis quote:** committed to identifying and empowering GameChangers from the confluence of software and science ([source](https://www.redalpine.com/about), as of None)
 - **LPs:** institutional investors such as public pension funds and national banks ([source](https://www.reuters.com/markets/europe/european-venture-capital-firm-redalpine-raises-200-mln-largest-fund-2024-08-27/), as of 2024-08)
-- **Leads rounds:** unknown ([source](https://redalpine.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.redalpine.com/), as of not recorded)
+- **Investment strategies:** multi-stage ([source](https://www.redalpine.com/), as of not recorded)
+- **Stages:** seed, Series C ([source](https://www.redalpine.com/post/welcome-to-our-june-newsletter-1), as of 2026-07)
+- **Sectors:** frontier tech, healthcare, AI-native applications, fintech and infrastructure, biology, energy, cleantech, foodtech, mobility ([source](https://www.redalpine.com/about), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.redalpine.com/post/welcome-to-our-june-newsletter-1), as of 2026-07)
+- **AUM:** Lower bound (over): USD 1.4 billion (date not reported) ([source](https://www.redalpine.com/), as of not recorded)
 
 ## Portfolio
 
@@ -56,4 +58,6 @@ Research date: 2026-10-03
 - [Source](https://www.redalpine.com/)
 - [Source](https://www.redalpine.com/about)
 - [Source](https://www.redalpine.com/portfolio)
+- [Source](https://www.redalpine.com/post/welcome-to-our-august-newsletter-1)
+- [Source](https://www.redalpine.com/post/welcome-to-our-june-newsletter-1)
 - [Source](https://www.reuters.com/markets/europe/european-venture-capital-firm-redalpine-raises-200-mln-largest-fund-2024-08-27/)

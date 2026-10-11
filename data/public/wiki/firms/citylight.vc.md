@@ -1,5 +1,5 @@
 ---
-jev-score: 58
+jev-score: 56
 ---
 
 # City Light Capital
@@ -14,13 +14,13 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://readtheimpact.com/investing-in-early-stage-impact-startups-city-light-capital/), as of 2022-01)
 - **HQ:** New York, NY ([source](https://citylight.vc/team), as of None)
-- **Stages:** pre-seed, seed, series-a ([source](https://citylight.vc/), as of None)
 - **Geographies:** us ([source](https://citylight.vc/portfolio), as of None)
-- **Sectors:** education, climate, care ([source](https://citylight.vc/), as of None)
 - **Thesis quote:** How they make money is how they have impact. ([source](https://citylight.vc/), as of None)
-- **Leads rounds:** unknown ([source](https://citylight.vc), as of not recorded)
+- **Type:** venture capital ([source](https://citylight.vc/), as of not recorded)
+- **Investment strategies:** impact investing ([source](https://citylight.vc/), as of not recorded)
+- **Stages:** pre-seed, seed, series A ([source](https://citylight.vc/), as of not recorded)
+- **Sectors:** education, climate, care ([source](https://citylight.vc/), as of not recorded)
 
 ## Portfolio
 

@@ -1,5 +1,5 @@
 ---
-jev-score: 33
+jev-score: 36
 ---
 
 # Drysdale Ventures
@@ -10,17 +10,17 @@ Domain: drysdale.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.drysdale.vc/), as of 2026-08-07)
-- **Stages:** pre-seed, seed ([source](https://www.drysdale.vc/), as of 2026-08-07)
 - **Geographies:** europe ([source](https://www.drysdale.vc/), as of 2026-08-07)
-- **Sectors:** ai, deep-tech, robotics ([source](https://www.drysdale.vc/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.drysdale.vc/), as of not recorded)
+- **Type:** venture capital; angel investing ([source](https://www.linkedin.com/company/drysdaleventures/), as of not recorded)
+- **Investment strategies:** pre-seed, day-zero investing, follow-on investing ([source](https://www.linkedin.com/company/drysdaleventures/), as of not recorded)
+- **Stages:** pre-seed ([source](https://www.linkedin.com/company/drysdaleventures/), as of not recorded)
+- **Sectors:** Business solutions, FinTech & CFO Office, Consumer & Gaming, Tech for Engineering, Robotics & Hardware, Artificial Intelligence ([source](https://www.linkedin.com/company/drysdaleventures/), as of not recorded)
 
 ## Portfolio
 
@@ -41,3 +41,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.drysdale.vc/)
+- [Source](https://www.linkedin.com/company/drysdaleventures/)

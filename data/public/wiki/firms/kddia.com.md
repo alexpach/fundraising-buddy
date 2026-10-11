@@ -1,5 +1,5 @@
 ---
-jev-score: 50
+jev-score: 49
 ---
 
 # KDDI Open Innovation Fund

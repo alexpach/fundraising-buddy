@@ -72,10 +72,11 @@ Funds, shortlists, people, contacts, prospects, pipeline, and wiki tables append
 
 ## Sector taxonomy
 
-Funds use 28 sector categories plus Multi-sector and Unknown, defined in `frontend/sectors.ts`. Exact normalized aliases collapse spelling, case, and punctuation variants. Combined research labels can map to multiple categories. Pill display, sorting, filtering, and grouping all use the same categories. Original catalog labels and profile evidence are unchanged. Broad investment strategies, geographic labels, and ambiguous descriptions do not establish a sector and map to Unknown. New unrecognized aliases also map to Unknown until reviewed.
+Funds use 31 sector categories plus Multi-sector and Unknown, defined in `frontend/sectors.ts`. Exact normalized aliases collapse spelling, case, and punctuation variants. Combined research labels can map to multiple categories. Pill display, sorting, filtering, and grouping all use the same categories. Original catalog labels and profile evidence are unchanged. Broad investment strategies, geographic labels, and ambiguous descriptions do not establish a sector and map to Unknown. New unrecognized aliases also map to Unknown until reviewed.
 
 - AI
-- Robotics & autonomy
+- Robotics
+- Autonomy
 - Hardware & electronics
 - Semiconductors & computing
 - Enterprise software
@@ -93,14 +94,28 @@ Funds use 28 sector categories plus Multi-sector and Unknown, defined in `fronte
 - Mobility & transportation
 - Logistics & supply chain
 - Space & aerospace
-- Defense & security
+- Defense
+- Security
 - Food & agriculture
 - Real estate & construction
 - Consumer & retail
 - Marketplaces & commerce
-- Media & entertainment
+- Media
+- Entertainment & games
 - Education & work
 - Telecom & connectivity
 - Deep tech
 - Multi-sector
 - Unknown
+
+## Domains
+
+The Domains navigation entry combines public catalog domains, private pipeline domains, and configured `extra_domains`, deduplicated by normalized hostname. Sources remain visible. Search and source, research, sector, and domain-suffix filters apply before sorting and incremental row rendering. Clicking a domain opens its HTTPS website in a new tab. Export filtered list downloads every matching domain, one per line, in the current sort order, including rows not rendered yet. Domain view settings are retained in the URL. The global header export button was removed.
+
+No popularity score is populated yet. Options evaluated on 2026-10-03:
+
+- [Tranco](https://tranco-list.eu/): downloadable top-million aggregate popularity ranking, averaged over 30 days. A good credential-free baseline, but smaller fund sites may be absent. Download the list once and join locally; do not send private domains to a lookup service. Store list ID/date and rank, sort lower ranks first, and keep unranked domains separate. Do not present the rank as a visit count.
+- [Cloudflare Radar](https://developers.cloudflare.com/radar/investigate/domain-ranking-datasets/): DNS-query popularity, with exact ranks for the top 100 and bands for the rest. Useful as a second signal, with limited sorting precision within bands.
+- [Similarweb visits API](https://developers.similarweb.com/reference/visits): estimated desktop and mobile visits, supports worldwide monthly totals and requires an API key/subscription. This is the better candidate for traffic-based sorting, subject to testing coverage on smaller investor sites. Cache the estimate with month, source, and retrieval date; missing estimates must remain unknown.
+
+Recommended sequence: use Tranco for an inexpensive initial ranking if partial coverage is acceptable, or evaluate Similarweb coverage before implementing estimated-monthly-visits sorting. Keep rank and visits as separate fields rather than inventing a combined score. Popularity is not a measure of investment fit.

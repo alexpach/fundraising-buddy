@@ -1,8 +1,8 @@
 ---
-jev-score: 64
+jev-score: 73
 ---
 
-# ARK Invest
+# ARK Investment Management LLC (ARK Invest)
 
 [Website](https://ark-invest.com)
 
@@ -14,12 +14,11 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](http://ark-funds.com/funds/arkvx), as of 2026-09)
 - **HQ:** St. Petersburg, FL ([source](https://helpcenter.ark-funds.com/where-is-ark-headquartered), as of None)
-- **Sectors:** disruptive innovation, AI & Next Generation Internet, Space & Defense Innovation, Autonomous Technology & Robotics, Digital Assets & Fintech Innovation, Genomic Revolution & Biotech ([source](http://ark-funds.com/funds/arkvx), as of 2026-09)
 - **Legal name:** ARK Investment Management LLC ([source](http://ark-funds.com/funds/arkvx), as of 2026-09)
 - **Thesis quote:** The ARK Venture Fund seeks to democratize venture capital, offering all investors access to what we believe are the most innovative companies throughout their private and public market lifecycles. ([source](http://ark-funds.com/funds/arkvx), as of 2026-09)
-- **Leads rounds:** unknown ([source](https://ark-invest.com), as of not recorded)
+- **Sectors:** artificial intelligence, robotics, energy storage, DNA sequencing, blockchain technology ([source](https://www.ark-invest.com/strategy/ark-venture), as of not recorded)
+- **AUM:** Approximately USD 26.087 billion (as of 2026-02-28) ([source](https://assets.arkinvest.com/media-8e522a83-1b23-4d58-a202-792712f8d2d3/db0881c6-7591-4c79-88a9-abda36b21b05/Form%20ADV%20Parts%202A%20%26%202B%20-%20Final%203.31.2026.pdf), as of 2026-02-28)
 
 ## Portfolio
 
@@ -45,5 +44,7 @@ Research date: 2026-10-03
 ## Sources
 
 - [Source](http://ark-funds.com/funds/arkvx)
+- [Source](https://assets.arkinvest.com/media-8e522a83-1b23-4d58-a202-792712f8d2d3/db0881c6-7591-4c79-88a9-abda36b21b05/Form%20ADV%20Parts%202A%20%26%202B%20-%20Final%203.31.2026.pdf)
 - [Source](https://helpcenter.ark-funds.com/where-is-ark-headquartered)
 - [Source](https://www.ark-invest.com/our-team)
+- [Source](https://www.ark-invest.com/strategy/ark-venture)

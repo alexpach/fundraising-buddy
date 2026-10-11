@@ -1,5 +1,5 @@
 ---
-jev-score: 70
+jev-score: 67
 ---
 
 # Silverton Partners
@@ -10,18 +10,19 @@ Domain: silvertonpartners.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://silvertonpartners.com), as of None)
 - **HQ:** Austin, TX ([source](https://silvertonpartners.com/philosophy), as of None)
 - **Founded:** 2006 ([source](https://silvertonpartners.com/philosophy), as of None)
-- **Stages:** seed, series-a ([source](https://silvertonpartners.com/philosophy), as of None)
-- **Sectors:** artificial intelligence, enterprise SaaS, cybersecurity, consumer marketplaces ([source](https://jobs.silvertonpartners.com/companies/silverton-partners/jobs/61190787-vc-principal-silverton-partners-in-austin-tx), as of None)
-- **Leads rounds:** yes ([source](https://silvertonpartners.com/philosophy), as of not recorded)
 - **Latest fund:** Aggregate $248M across Fund VII and Opportunities II, announced as the close of the latest Flagship and Opportunities funds (undated social post on team page) ([source](https://www.silvertonpartners.com/team/), as of None)
 - **Thesis quote:** We are an early-stage VC, partnering and investing in opportunities where technology can be used to build significant barriers over time. ([source](https://silvertonpartners.com), as of None)
+- **Type:** venture capital ([source](https://www.silvertonpartners.com/), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://www.silvertonpartners.com/), as of not recorded)
+- **Stages:** Seed, Series A ([source](https://www.silvertonpartners.com/philosophy/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.silvertonpartners.com/philosophy/), as of not recorded)
+- **AUM:** Lower bound (over): USD 844 million (date not reported) ([source](https://www.silvertonpartners.com/), as of not recorded)
 
 ## Portfolio
 
@@ -51,4 +52,6 @@ Research date: 2026-10-03
 - [Source](https://jobs.silvertonpartners.com/companies/silverton-partners/jobs/61190787-vc-principal-silverton-partners-in-austin-tx)
 - [Source](https://silvertonpartners.com)
 - [Source](https://silvertonpartners.com/philosophy)
+- [Source](https://www.silvertonpartners.com/)
+- [Source](https://www.silvertonpartners.com/philosophy/)
 - [Source](https://www.silvertonpartners.com/team/)

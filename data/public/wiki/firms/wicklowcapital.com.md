@@ -1,5 +1,5 @@
 ---
-jev-score: 46
+jev-score: 45
 ---
 
 # Wicklow Capital

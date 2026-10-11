@@ -1,8 +1,8 @@
 ---
-jev-score: 54
+jev-score: 56
 ---
 
-# Celesta
+# Celesta Capital
 
 [Website](https://celesta.vc)
 
@@ -14,11 +14,14 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://celesta.vc/about), as of None)
 - **HQ:** Silicon Valley ([source](https://celesta.vc/about), as of None)
 - **Founded:** 2013 ([source](https://celesta.vc/about), as of None)
-- **Leads rounds:** yes ([source](https://celesta.vc/about), as of None)
 - **Thesis quote:** We invest in leading-edge infrastructure technologies throughout the stack, targeting three primary use cases. ([source](https://celesta.vc/about), as of None)
+- **Type:** venture capital ([source](https://www.celesta.vc/about), as of not recorded)
+- **Investment strategies:** deep tech venture capital ([source](https://www.celesta.vc/about), as of not recorded)
+- **Sectors:** Semiconductors, AI applications, Biotechnology ([source](https://www.celesta.vc/about), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.celesta.vc/about), as of not recorded)
+- **AUM:** USD 1.1 billion (date not reported) ([source](https://www.celesta.vc/about), as of not recorded)
 
 ## Portfolio
 
@@ -56,3 +59,4 @@ Research date: 2026-10-03
 - [Source](https://celesta.vc/)
 - [Source](https://celesta.vc/about)
 - [Source](https://celesta.vc/portfolio)
+- [Source](https://www.celesta.vc/about)

@@ -1,5 +1,5 @@
 ---
-jev-score: 33
+jev-score: 56
 ---
 
 # BV Investment Partners
@@ -10,17 +10,19 @@ Domain: bvlp.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://www.bvlp.com/), as of 2026-08-07)
-- **Stages:** growth ([source](https://www.bvlp.com/), as of 2026-08-07)
 - **Geographies:** us ([source](https://www.bvlp.com/), as of 2026-08-07)
-- **Sectors:** enterprise-software, tech-enabled-services ([source](https://www.bvlp.com/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.bvlp.com/), as of not recorded)
+- **Type:** private equity ([source](https://www.bvlp.com/news-resource/bv-investment-partners-announces-the-raising-of-fund-xii-at-its-hard-cap-with-2-465-billion-of-capital-commitments/), as of 2026-01-06)
+- **Investment strategies:** technology-enabled business services and solutions ([source](https://www.bvlp.com/news-resource/bv-investment-partners-announces-the-raising-of-fund-xii-at-its-hard-cap-with-2-465-billion-of-capital-commitments/), as of 2026-01-06)
+- **Investment instruments:** equity ([source](https://www.bvlp.com/news-resource/bv-investment-partners-announces-the-raising-of-fund-xii-at-its-hard-cap-with-2-465-billion-of-capital-commitments/), as of 2026-01-06)
+- **Sectors:** technology-enabled business services, information technology and communication services ([source](https://www.bvlp.com/news-resource/bv-investment-partners-announces-the-raising-of-fund-xii-at-its-hard-cap-with-2-465-billion-of-capital-commitments/), as of 2026-01-06)
+- **Leads rounds:** yes ([source](https://www.bvlp.com/news-resource/rean-cloud-acquires-47-lining/), as of 2017-07-12)
+- **AUM:** Lower bound (over): USD 7.5 billion (date not reported) ([source](https://www.bvlp.com/news-resource/bv-investment-partners-announces-the-raising-of-fund-xii-at-its-hard-cap-with-2-465-billion-of-capital-commitments/), as of not recorded)
 
 ## Portfolio
 
@@ -39,3 +41,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.bvlp.com/)
+- [Source](https://www.bvlp.com/about/)
+- [Source](https://www.bvlp.com/news-resource/bv-investment-partners-announces-the-raising-of-fund-xii-at-its-hard-cap-with-2-465-billion-of-capital-commitments/)
+- [Source](https://www.bvlp.com/news-resource/rean-cloud-acquires-47-lining/)

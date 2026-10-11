@@ -1,5 +1,5 @@
 ---
-jev-score: 73
+jev-score: 84
 ---
 
 # Realyze Ventures
@@ -10,19 +10,20 @@ Domain: realyzeventures.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://realyzeventures.com/leading-industry-partners-strengthen-realyze-ventures-platform-for-the-transformation-of-construction-real-estate-and-energy), as of 2026-07)
 - **HQ:** Cologne, Germany ([source](https://realyzeventures.com/leading-industry-partners-strengthen-realyze-ventures-platform-for-the-transformation-of-construction-real-estate-and-energy), as of 2026-07)
 - **Geographies:** europe ([source](https://realyzeventures.com/realyze-ventures-announces-successful-first-closing-with-assets-of-around-eur-50-million), as of 2025-06)
-- **Sectors:** construction, real estate, energy, skilled trades, decarbonization, digitalization ([source](https://realyzeventures.com/leading-industry-partners-strengthen-realyze-ventures-platform-for-the-transformation-of-construction-real-estate-and-energy), as of 2026-07)
-- **AUM:** approximately EUR 50 million (at first closing) ([source](https://realyzeventures.com/realyze-ventures-announces-successful-first-closing-with-assets-of-around-eur-50-million), as of 2025-06)
 - **Offices:** Am Kabellager 11, 51063 Köln ([source](https://realyzeventures.com/), as of None)
 - **Latest fund:** Additional closing, Cologne, 15.07.2026; more than 30 investors committed to date ([source](https://realyzeventures.com/leading-industry-partners-strengthen-realyze-ventures-platform-for-the-transformation-of-construction-real-estate-and-energy), as of 2026-07)
 - **Thesis quote:** We invest in the brightest European founders that build visionary solutions for the biggest challenges in the real estate and construction industry. ([source](https://realyzeventures.com/), as of None)
-- **Leads rounds:** unknown ([source](https://realyzeventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://realyzeventures.com/realyze-ventures-announces-successful-first-closing-with-assets-of-around-eur-50-million/), as of 2025-06-17)
+- **Investment strategies:** early-stage venture capital ([source](https://realyzeventures.com/realyze-ventures-announces-successful-first-closing-with-assets-of-around-eur-50-million/), as of 2025-06-17)
+- **Stages:** pre-seed, seed, Series A ([source](https://realyzeventures.com/team/), as of not recorded)
+- **Sectors:** real estate, construction, energy transition, skilled trades ([source](https://realyzeventures.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://realyzeventures.com/vamo-closes-3m-financing-round-to-help-green-heat/), as of 2023-09-27)
 
 ## Portfolio
 
@@ -71,3 +72,6 @@ Research date: 2026-10-03
 - [Source](https://realyzeventures.com/leading-industry-partners-strengthen-realyze-ventures-platform-for-the-transformation-of-construction-real-estate-and-energy)
 - [Source](https://realyzeventures.com/portfolio)
 - [Source](https://realyzeventures.com/realyze-ventures-announces-successful-first-closing-with-assets-of-around-eur-50-million)
+- [Source](https://realyzeventures.com/realyze-ventures-announces-successful-first-closing-with-assets-of-around-eur-50-million/)
+- [Source](https://realyzeventures.com/team/)
+- [Source](https://realyzeventures.com/vamo-closes-3m-financing-round-to-help-green-heat/)

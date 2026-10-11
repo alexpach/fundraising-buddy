@@ -1,8 +1,8 @@
 ---
-jev-score: 72
+jev-score: 85
 ---
 
-# Greylock
+# Greylock Partners
 
 [Website](https://greylock.com)
 
@@ -14,13 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://greylock.com/blog/introducing-greylock-18/), as of 2026-07)
 - **Founded:** 1965 ([source](https://pulse2.com/greylock-raises-1-5-billion-for-greylock-18-to-back-ai-native-founders/), as of 2026-07)
 - **Geographies:** us ([source](https://greylock.com/contact-us/), as of None)
 - **Offices:** San Francisco (140 New Montgomery St, Suite 2600); Menlo Park (2550 Sand Hill Road, Suite 200) ([source](https://greylock.com/contact-us/), as of None)
 - **Latest fund:** Greylock 18, $1.5 billion early-stage venture fund, announced July 14, 2026 ([source](https://greylock.com/blog/introducing-greylock-18/), as of 2026-07)
 - **Thesis quote:** We back category-defining teams. ([source](https://greylock.com/), as of None)
-- **Leads rounds:** unknown ([source](https://greylock.com), as of not recorded)
+- **Type:** venture capital ([source](https://greylock.com/firm-news/introducing-greylock-18/), as of 2026-07-14)
+- **Investment strategies:** early-stage venture ([source](https://greylock.com/firm-news/introducing-greylock-18/), as of 2026-07-14)
+- **Stages:** seed, Series A ([source](https://greylock.com/blog/500m-for-seeds/), as of 2021-09-13)
+- **Sectors:** Enterprise software, Consumer technology, Artificial intelligence and machine learning, Cybersecurity, Fintech, Healthcare ([source](https://greylock.com/blog/500m-for-seeds/), as of 2021-09-13)
+- **Leads rounds:** yes ([source](https://greylock.com/blog/500m-for-seeds/), as of 2021-09-13)
 
 ## Portfolio
 
@@ -60,7 +63,10 @@ Research date: 2026-10-03
 ## Sources
 
 - [Source](https://greylock.com/)
+- [Source](https://greylock.com/blog/500m-for-seeds/)
 - [Source](https://greylock.com/blog/introducing-greylock-18/)
 - [Source](https://greylock.com/contact-us/)
+- [Source](https://greylock.com/firm-news/introducing-greylock-18/)
+- [Source](https://greylock.com/firm/)
 - [Source](https://greylock.com/portfolio)
 - [Source](https://pulse2.com/greylock-raises-1-5-billion-for-greylock-18-to-back-ai-native-founders/)

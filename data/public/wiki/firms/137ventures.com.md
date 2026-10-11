@@ -1,5 +1,5 @@
 ---
-jev-score: 73
+jev-score: 71
 ---
 
 # 137 Ventures
@@ -10,19 +10,22 @@ Domain: 137ventures.com
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.prnewswire.com/news-releases/137-ventures-raises-over-700-million-across-two-new-funds-surpasses-15-billion-in-aum-302758748.html), as of 2026-04)
 - **HQ:** San Francisco, CA ([source](https://www.sec.gov/), as of 2025-05)
 - **Founded:** 2010 ([source](https://www.prnewswire.com/news-releases/137-ventures-raises-over-700-million-across-two-new-funds-surpasses-15-billion-in-aum-302758748.html), as of 2026-04)
-- **Stages:** growth-stage ([source](https://www.prnewswire.com/news-releases/137-ventures-raises-over-700-million-across-two-new-funds-surpasses-15-billion-in-aum-302758748.html), as of 2026-04)
-- **Sectors:** AI, defense, advanced industrial systems ([source](https://www.prnewswire.com/news-releases/137-ventures-raises-over-700-million-across-two-new-funds-surpasses-15-billion-in-aum-302758748.html), as of 2026-04)
 - **Legal name:** 137 Ventures Management, LLC ([source](https://www.137ventures.com/), as of None)
 - **Latest fund:** Closed over $700 million across two new funds, announced April 2026 ([source](https://www.prnewswire.com/news-releases/137-ventures-raises-over-700-million-across-two-new-funds-surpasses-15-billion-in-aum-302758748.html), as of 2026-04)
 - **Thesis quote:** 137 invests in category-defining technology companies with the potential to become enduring long-term compounders and market leaders ([source](https://www.prnewswire.com/news-releases/137-ventures-raises-over-700-million-across-two-new-funds-surpasses-15-billion-in-aum-302758748.html), as of 2026-04)
-- **Leads rounds:** unknown ([source](https://137ventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.prnewswire.com/news-releases/137-ventures-raises-over-700-million-across-two-new-funds-surpasses-15-billion-in-aum-302758748.html), as of 2026-04-30)
+- **Investment strategies:** growth-stage venture capital ([source](https://www.prnewswire.com/news-releases/137-ventures-raises-over-700-million-across-two-new-funds-surpasses-15-billion-in-aum-302758748.html), as of 2026-04-30)
+- **Legal structure:** limited liability company ([source](https://www.prnewswire.com/news-releases/137-ventures-raises-over-700-million-across-two-new-funds-surpasses-15-billion-in-aum-302758748.html), as of 2026-04-30)
+- **Investment instruments:** debt ([source](https://www.prnewswire.com/news-releases/137-ventures-raises-over-700-million-across-two-new-funds-surpasses-15-billion-in-aum-302758748.html), as of 2026-04-30)
+- **Stages:** growth-stage ([source](https://www.prnewswire.com/news-releases/137-ventures-raises-over-700-million-across-two-new-funds-surpasses-15-billion-in-aum-302758748.html), as of 2026-04-30)
+- **Sectors:** AI, defense, advanced industrial systems ([source](https://www.prnewswire.com/news-releases/137-ventures-raises-over-700-million-across-two-new-funds-surpasses-15-billion-in-aum-302758748.html), as of 2026-04-30)
+- **AUM:** Lower bound (over): USD 15 billion (as of 2026-03) ([source](https://www.prnewswire.com/news-releases/137-ventures-raises-over-700-million-across-two-new-funds-surpasses-15-billion-in-aum-302758748.html), as of 2026-03)
 
 ## Portfolio
 

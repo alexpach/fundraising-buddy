@@ -5,19 +5,17 @@
 """Judge whether each firm leads rounds (yes / no / maybe / unknown) with TypeSafe's Jev model.
 
 Jev answers one Choice question per firm from the firm's recorded profile only (fields,
-portfolio, people), never from outside knowledge. The label is written to the firm's
-`leads_rounds` field. Raw answers (label, probabilities) are cached privately under
+portfolio, people), never from outside knowledge. Labels are private proposals only.
+They never overwrite the catalog. Raw answers (label, probabilities) are cached under
 workspace/cache/jev-leads/ keyed by a hash of the judged state, so reruns only pay for
 firms whose profile changed.
 
-Provenance: a leads_rounds value that did not come from an earlier run of this tool is a
-source-stated preference. It is shown to Jev as `stated_lead_preference` (strong evidence).
-The raw statement and its evidence entry are saved in the private cache (`stated_value`,
-`stated_evidence`) so later runs keep seeing them after the field holds Jev's label. Jev's own
-earlier answer is never fed back in. A label whose top probability is below MIN_P becomes "unknown".
+Legacy labels and their recorded references remain in the private cache for comparison.
+They are not independently verified source statements. This tool cannot establish factual
+accuracy from model confidence. A label whose top probability is below MIN_P becomes "unknown".
 
 Usage:
-  uv run --script tools/jev_leads.py              # judge every firm, write catalog
+  uv run --script tools/jev_leads.py              # judge every firm, cache proposals only
   uv run --script tools/jev_leads.py --limit 5    # first N firms only
   uv run --script tools/jev_leads.py --dry-run    # print one state + question, no API call
   uv run --script tools/jev_leads.py --self-check # offline test
@@ -40,16 +38,16 @@ CACHE = Path("workspace/cache/jev-leads")
 MIN_P = 0.5  # ponytail: one global confidence floor; tune from the cached probabilities if too many unknowns
 
 INSTRUCTIONS = (
-    "Does this investor lead investment rounds, meaning it sets the terms and typically takes the largest "
-    "allocation, as opposed to only following other investors? Judge ONLY from the recorded facts in the state; "
-    "do not use outside knowledge of the firm. If `stated_lead_preference` is present, treat it as a direct "
-    "statement. Otherwise rely only on clear signals such as explicit lead or follow statements, or portfolio "
-    "rounds described as led by this firm. Check size or fund size alone is not enough."
+    "Does the recorded evidence document this investor leading or co-leading an investment round? "
+    "Judge ONLY from recorded facts, never outside knowledge. `stated_lead_preference` is a legacy "
+    "label and is NOT verified evidence. Require an explicit lead or co-lead investment statement, "
+    "or an explicit policy about leading. Missing examples do not imply no. Check size, fund size, "
+    "and the existence of portfolio companies alone are not evidence of leading."
 )
 CRITERIA = {
-    "yes": "The recorded facts state or clearly show that the firm usually leads rounds.",
+    "yes": "The recorded facts explicitly document at least one lead or co-lead round, or a policy of leading.",
     "no": "The recorded facts state that the firm does not lead, or invests only as a follower or co-investor.",
-    "maybe": "Signals conflict, or suggest the firm sometimes leads or co-leads (for example only some stages or sizes).",
+    "maybe": "Explicit statements conflict or a conditional policy exists without a documented lead or co-lead event.",
     "unknown": "The recorded facts do not say whether the firm leads rounds.",
 }
 assert set(CRITERIA) == LEADS_OPTIONS
@@ -139,12 +137,11 @@ async def run(limit: int | None, concurrency: int) -> None:
             f, result = await coro
             done += 1
             if result:
-                apply(f, result)
                 counts[result["label"]] += 1
             if done % 100 == 0 or done == len(firms):
                 print(f"{done}/{len(firms)} judged, {len(failed)} failed", file=sys.stderr, flush=True)
-    write_catalog(data, root / "data/public")
-    print(json.dumps({"judged": sum(counts.values()), "failed": len(failed), "labels": counts}, indent=2))
+    print(json.dumps({"judged": sum(counts.values()), "failed": len(failed), "labels": counts,
+                      "catalog_updated": False, "mode": "private proposals; independent source review required"}, indent=2))
     for fid, err in failed[:20]:
         print(f"FAILED {fid}: {err}", file=sys.stderr)
     if failed:

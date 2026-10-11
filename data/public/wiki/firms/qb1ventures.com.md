@@ -1,5 +1,5 @@
 ---
-jev-score: 41
+jev-score: 42
 ---
 
 # QB1 Ventures

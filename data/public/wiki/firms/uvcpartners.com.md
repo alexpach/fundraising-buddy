@@ -1,8 +1,8 @@
 ---
-jev-score: 90
+jev-score: 91
 ---
 
-# Unternehmertum Venture Capital Partners (UVC)
+# Unternehmertum Venture Capital Partners GmbH (UVC Partners)
 
 [Website](https://uvcpartners.com)
 
@@ -10,21 +10,22 @@ Domain: uvcpartners.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.uvcpartners.com/), as of None)
 - **HQ:** Munich and Berlin ([source](https://www.uvcpartners.com/), as of None)
 - **Founded:** 2011 ([source](https://www.uvcpartners.com/blog/uvc-partners-secures-record-fundraising-for-fund-iv-leveraging-europes-leading-startup-ecosystem), as of 2024-08)
-- **Stages:** pre-seed, seed, series-a, series-b, growth ([source](https://www.uvcpartners.com/blog/uvc-partners-expands-new-fund-to-eu400-million-adding-growth-capital), as of 2026-03)
-- **Sectors:** DeepTech, ClimateTech, Mobility, Software/AI ([source](https://www.uvcpartners.com/blog/uvc-partners-expands-new-fund-to-eu400-million-adding-growth-capital), as of 2026-03)
-- **AUM:** more than €700 million ([source](https://www.uvcpartners.com/blog/uvc-partners-expands-new-fund-to-eu400-million-adding-growth-capital), as of 2026-03)
 - **Check size max:** up to €10 million initial; up to €30 million aggregate per company ([source](https://www.uvcpartners.com/blog/uvc-partners-expands-new-fund-to-eu400-million-adding-growth-capital), as of 2026-03)
 - **Offices:** Berlin and Munich ([source](https://www.uvcpartners.com/our-team), as of None)
 - **Latest fund:** UVC Fund IV final close at €250 million hard cap; growth fund additional €150 million announced 2026-03-12 ([source](https://www.uvcpartners.com/blog/uvc-partners-expands-new-fund-to-eu400-million-adding-growth-capital), as of 2026-03)
 - **Thesis quote:** We partner with B2B startups across Europe at their earliest stages up to Series A. We initially invest up to €10 million ([source](https://www.uvcpartners.com/), as of None)
-- **Leads rounds:** unknown ([source](https://uvcpartners.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.uvcpartners.com/blog/uvc-partners-expands-new-fund-to-eu400-million-adding-growth-capital), as of 2026-03-12)
+- **Investment strategies:** early-stage investing, growth-stage investing ([source](https://www.uvcpartners.com/blog/uvc-partners-expands-new-fund-to-eu400-million-adding-growth-capital), as of 2026-03-12)
+- **Stages:** pre-seed, seed, Series A, Series B, growth ([source](https://www.uvcpartners.com/blog/uvc-partners-expands-new-fund-to-eu400-million-adding-growth-capital), as of 2026-03-12)
+- **Sectors:** DeepTech, ClimateTech, Mobility, Software/AI ([source](https://www.uvcpartners.com/blog/uvc-partners-expands-new-fund-to-eu400-million-adding-growth-capital), as of 2026-03-12)
+- **Leads rounds:** yes ([source](https://www.uvcpartners.com/blog/inleap-photonics-raises-eu20-million-to-scale-laser-based-drone-defense), as of 2026-09-01)
+- **AUM:** EUR 800 million (as of 2026-09) ([source](https://www.uvcpartners.com/blog/inleap-photonics-raises-eu20-million-to-scale-laser-based-drone-defense), as of 2026-09)
 
 ## Portfolio
 
@@ -54,6 +55,8 @@ Research date: 2026-10-03
 
 - [Source](https://uvcpartners.com)
 - [Source](https://www.uvcpartners.com/)
+- [Source](https://www.uvcpartners.com/blog/endless-materials-alqem-raises-eu8m-to-scale-its-ai-driven-materials-discovery-engine-built-on-the-largest-known-materials-database)
+- [Source](https://www.uvcpartners.com/blog/inleap-photonics-raises-eu20-million-to-scale-laser-based-drone-defense)
 - [Source](https://www.uvcpartners.com/blog/uvc-partners-expands-new-fund-to-eu400-million-adding-growth-capital)
 - [Source](https://www.uvcpartners.com/blog/uvc-partners-secures-record-fundraising-for-fund-iv-leveraging-europes-leading-startup-ecosystem)
 - [Source](https://www.uvcpartners.com/our-team)

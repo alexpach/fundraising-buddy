@@ -1,5 +1,5 @@
 ---
-jev-score: 22
+jev-score: 37
 ---
 
 # KKR
@@ -10,17 +10,15 @@ Domain: kkr.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://www.kkr.com/), as of 2026-08-07)
-- **Stages:** growth ([source](https://www.kkr.com/), as of 2026-08-07)
 - **Geographies:** global ([source](https://www.kkr.com/), as of 2026-08-07)
-- **Sectors:** enterprise-software, ai-infrastructure ([source](https://www.kkr.com/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.kkr.com/), as of not recorded)
+- **Sectors:** Software, Cybersecurity, FinTech, Internet, Data and information, Health care ([source](https://www.kkr.com/invest/private-equity), as of not recorded)
+- **AUM:** USD 796 billion (as of 2026-06-30) ([source](https://ir.kkr.com/media/document/15a25fa9-8226-4da1-9ff3-027b9803d436/assets/KKR_Q226_Earnings_Release.pdf), as of 2026-06-30)
 
 ## Portfolio
 
@@ -31,4 +29,6 @@ Not recorded.
 
 ## Sources
 
+- [Source](https://ir.kkr.com/media/document/15a25fa9-8226-4da1-9ff3-027b9803d436/assets/KKR_Q226_Earnings_Release.pdf)
 - [Source](https://www.kkr.com/)
+- [Source](https://www.kkr.com/invest/private-equity)

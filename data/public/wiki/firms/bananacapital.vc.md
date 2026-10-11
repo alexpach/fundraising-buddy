@@ -1,5 +1,5 @@
 ---
-jev-score: 45
+jev-score: 41
 ---
 
 # Banana Capital
@@ -10,18 +10,17 @@ Domain: bananacapital.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.bananacapital.vc), as of 2026-08-07)
-- **Stages:** pre-seed, seed ([source](https://www.bananacapital.vc), as of 2026-08-07)
 - **Geographies:** us, europe, apac ([source](https://www.bananacapital.vc), as of 2026-08-07)
-- **Sectors:** consumer, fintech, gaming, dev-tools, b2b-software ([source](https://www.bananacapital.vc), as of 2026-08-07)
 - **Check size max:** 250K ([source](https://www.bananacapital.vc), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.bananacapital.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.bananacapital.vc/), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://www.bananacapital.vc/), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://www.bananacapital.vc/), as of not recorded)
 
 ## Portfolio
 
@@ -40,3 +39,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.bananacapital.vc)
+- [Source](https://www.bananacapital.vc/)

@@ -1,5 +1,5 @@
 ---
-jev-score: 85
+jev-score: 83
 ---
 
 # Elaia
@@ -14,15 +14,14 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.elaia.com/wp-content/uploads/2026/02/DV5-First-Close-EN.pdf), as of 2026-02)
-- **Stages:** pre-seed, seed, series-a, series-b ([source](https://elaia.com/news/elaias-fifth-digital-venture-fund-dv5-announces-first-close-at-120m), as of 2026-02)
-- **Sectors:** B2B tech, deep tech, AI, cybersecurity, techbio, industrial innovation ([source](https://elaia.com/news/elaias-fifth-digital-venture-fund-dv5-announces-first-close-at-120m), as of 2026-02)
 - **Check size min:** EUR 1m (DV5 tickets from EUR 1m to EUR 15m) ([source](https://elaia.com/news/elaias-fifth-digital-venture-fund-dv5-announces-first-close-at-120m), as of 2026-02)
 - **Offices:** Paris, Barcelona, Tel Aviv ([source](https://www.elaia.com/wp-content/uploads/2026/02/DV5-First-Close-EN.pdf), as of 2026-02)
 - **Latest fund:** DTS3 final close EUR 134M (March 2026) ([source](https://elaia.com/news/elaia-announces-final-close-of-dts3-at-134m), as of 2026-03)
 - **Thesis quote:** best returns come from backing the technologies that underpin entire sectors ([source](https://elaia.com/news/elaias-fifth-digital-venture-fund-dv5-announces-first-close-at-120m), as of 2026-02)
 - **LPs:** Bpifrance, CNP Assurances, MACSF, BNP Paribas, SMABTP/ArundoRe, J.P. Morgan, AG2R (DV5 first close) ([source](https://elaia.com/news/elaias-fifth-digital-venture-fund-dv5-announces-first-close-at-120m), as of 2026-02)
-- **Leads rounds:** unknown ([source](https://elaia.com), as of not recorded)
+- **Type:** venture capital ([source](https://elaia.com/news/elaias-fifth-digital-venture-fund-dv5-announces-first-close-at-120m), as of not recorded)
+- **Stages:** pre-seed, seed, series A, series B ([source](https://elaia.com/news/elaias-fifth-digital-venture-fund-dv5-announces-first-close-at-120m), as of not recorded)
+- **Sectors:** B2B tech, deep tech, AI, cybersecurity, Techbio, industrial innovation ([source](https://elaia.com/news/elaias-fifth-digital-venture-fund-dv5-announces-first-close-at-120m), as of not recorded)
 
 ## Portfolio
 

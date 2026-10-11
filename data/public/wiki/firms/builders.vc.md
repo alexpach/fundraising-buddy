@@ -1,5 +1,5 @@
 ---
-jev-score: 12
+jev-score: 28
 ---
 
 # Builders VC
@@ -10,15 +10,17 @@ Domain: builders.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://builders.vc), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://builders.vc), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://builders.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.builders.vc/index.html), as of not recorded)
+- **Investment strategies:** backs founders addressing mission-critical problems in established industries ([source](https://www.builders.vc/index.html), as of not recorded)
+- **Stages:** early, growth ([source](https://www.builders.vc/companies.html), as of not recorded)
+- **Sectors:** Industrials, Agriculture, Construction, Life Sciences, Consumer ([source](https://www.builders.vc/companies.html), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.builders.vc/index.html), as of 2026-06)
 
 ## Portfolio
 
@@ -30,3 +32,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://builders.vc)
+- [Source](https://www.builders.vc/companies.html)
+- [Source](https://www.builders.vc/index.html)

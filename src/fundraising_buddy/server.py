@@ -15,7 +15,7 @@ import markdown
 import yaml
 
 from . import prospects, shortlists
-from .catalog import load, public_pages
+from .catalog import domain, load, public_pages
 from .wiki import firm_rows, read_page, split_frontmatter
 
 STATIC = Path(__file__).parent / "static"
@@ -103,7 +103,9 @@ def make_handler(root: Path):
                                                     "lists": prospects.lists(root), "message": message}))
                 data, pages = page_index(root)
                 if u.path == "/api/catalog":
+                    config = json.loads((root / "workspace/config.json").read_text())
                     return self.respond(json.dumps({**data, "private_firms": firm_rows(root),
+                        "extra_domains": sorted({domain(value) for value in config.get("extra_domains", [])}),
                         "pages": [{"id": k, "title": next((x[2:] for x in v.splitlines() if x.startswith("# ")), k)} for k, v in pages.items()],
                         "today": date.today().isoformat()}, default=str))
                 if u.path == "/api/page":

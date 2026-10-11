@@ -1,8 +1,8 @@
 ---
-jev-score: 66
+jev-score: 67
 ---
 
-# TAUROS Capital
+# TAUROS Capital Management GmbH
 
 [Website](https://www.tauroscapital.com)
 
@@ -10,19 +10,21 @@ Domain: tauroscapital.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://www.crunchbase.com/organization/tauros-capital-management), as of 2026-08-07)
-- **Stages:** growth ([source](https://www.crunchbase.com/organization/tauros-capital-management), as of 2026-08-07)
 - **Geographies:** europe ([source](https://www.crunchbase.com/organization/tauros-capital-management), as of 2026-08-07)
-- **Sectors:** revenue-based-financing, generalist ([source](https://www.crunchbase.com/organization/tauros-capital-management), as of 2026-08-07)
 - **Check size max:** 2M EUR ([source](https://www.crunchbase.com/organization/tauros-capital-management), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.tauroscapital.com), as of not recorded)
 - **About:** TAUROS Capital, founded 2018 and based in Vienna, Austria, provides revenue-based financing (non-dilutive, subordinated capital, up to €2M) to growth-stage scale-ups and SMEs across the DACH region (Austria, Germany, Switzerland). 25 investments to date via 2 participation vehicles, per its own site ([source](https://www.crunchbase.com/organization/tauros-capital-management), as of 2026-08-07)
+- **Type:** revenue-based financing provider ([source](https://www.tauroscapital.com/ueber-uns/), as of not recorded)
+- **Investment strategies:** growth financing, revenue-based financing ([source](https://www.tauroscapital.com/ueber-uns/), as of not recorded)
+- **Legal structure:** GmbH ([source](https://www.tauroscapital.com/ueber-uns/), as of not recorded)
+- **Investment instruments:** revenue-based financing, subordinated capital ([source](https://www.tauroscapital.com/ueber-uns/), as of not recorded)
+- **Stages:** scale-up, established SME ([source](https://www.tauroscapital.com/ueber-uns/), as of not recorded)
+- **Sectors:** production, services ([source](https://www.tauroscapital.com/faq/), as of not recorded)
 
 ## Portfolio
 
@@ -42,3 +44,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 - [Source](https://www.crunchbase.com/organization/tauros-capital-management)
 - [Source](https://www.tauroscapital.com)
+- [Source](https://www.tauroscapital.com/)
+- [Source](https://www.tauroscapital.com/faq/)
+- [Source](https://www.tauroscapital.com/ueber-uns/)

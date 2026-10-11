@@ -1,5 +1,5 @@
 ---
-jev-score: 62
+jev-score: 64
 ---
 
 # DST Global
@@ -10,11 +10,10 @@ Domain: dst-global.com
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://en.wikipedia.org/wiki/DST_Global), as of None)
 - **HQ:** Cayman Islands (registered office) ([source](https://dst-global.com/), as of None)
 - **Founded:** 2009 ([source](https://web.archive.org/web/20221011012206/https:/yurimilner.com/fact-sheet), as of 2022-10)
 - **Geographies:** global ([source](https://dst-global.com/), as of None)
@@ -22,7 +21,9 @@ Research date: 2026-09-20
 - **Thesis quote:** DST Global is one of the leading Internet investment firms globally. Its investments include some of the world's fastest-growing and most valuable companies. ([source](https://dst-global.com/), as of None)
 - **LPs:** Over 150 investors across the last seven funds, no Russian capital since 2011 ([source](https://web.archive.org/web/20221011012206/https:/yurimilner.com/fact-sheet), as of 2022-10)
 - **Coinvestors:** Greenoaks, Andreessen Horowitz, Lightspeed Venture Partners ([source](https://www.calcalistech.com/ctechnews/article/hjfywdtajl), as of 2025-04)
-- **Leads rounds:** unknown ([source](https://dst-global.com), as of not recorded)
+- **Type:** technology investment firm ([source](https://yurimilner.com/fact-sheet), as of not recorded)
+- **Investment strategies:** internet investments globally ([source](https://yurimilner.com/fact-sheet), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.upgrade.com/press/releases/upgrade-raises-280-million-at-6-billion-valuation/), as of 2021-11-16)
 
 ## Portfolio
 
@@ -51,3 +52,5 @@ Research date: 2026-09-20
 - [Source](https://en.wikipedia.org/wiki/DST_Global)
 - [Source](https://web.archive.org/web/20221011012206/https:/yurimilner.com/fact-sheet)
 - [Source](https://www.calcalistech.com/ctechnews/article/hjfywdtajl)
+- [Source](https://www.upgrade.com/press/releases/upgrade-raises-280-million-at-6-billion-valuation/)
+- [Source](https://yurimilner.com/fact-sheet)

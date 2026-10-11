@@ -1,5 +1,5 @@
 ---
-jev-score: 83
+jev-score: 84
 ---
 
 # Kompas VC
@@ -14,20 +14,19 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.kompas.vc/), as of None)
 - **HQ:** Hørsholm, Denmark (footer address) ([source](https://www.kompas.vc/), as of None)
 - **Founded:** 2021 ([source](https://www.kompas.vc/about-us), as of None)
-- **Stages:** Seed to Series B ([source](https://www.kompas.vc/about-us), as of None)
 - **Geographies:** Europe, North America, Israel ([source](https://www.kompas.vc/about-us), as of None)
-- **Sectors:** industrial decarbonisation, manufacturing, supply chain and logistics technology, real estate and construction technology, enterprise risk management ([source](https://www.kompas.vc/about-us), as of None)
-- **AUM:** €300 million ([source](https://www.kompas.vc/about-us), as of None)
 - **Check size min:** €1.0m ([source](https://www.kompas.vc/about-us), as of None)
 - **Check size max:** €5.0m ([source](https://www.kompas.vc/about-us), as of None)
 - **Legal name:** Kompas Management ApS ([source](https://www.kompas.vc/), as of None)
 - **Offices:** Amsterdam, Barcelona, Berlin, Copenhagen ([source](https://www.kompas.vc/about-us), as of None)
 - **Latest fund:** Fund II closed, headline €160M ([source](https://www.kompas.vc/news/kompas-vc-closes-eu160m-fund-ii-for-industrial-tech-startups), as of 2026-04)
 - **Thesis quote:** We back founders building enabling technologies that operate in real-world industrial environments ([source](https://www.kompas.vc/), as of None)
-- **Leads rounds:** unknown ([source](https://kompas.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.kompas.vc/about-us), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://www.kompas.vc/about-us), as of not recorded)
+- **Stages:** Seed to Series B ([source](https://www.kompas.vc/about-us), as of not recorded)
+- **Sectors:** industrial decarbonisation, manufacturing, supply chain and logistics technology, real estate and construction technology, enterprise risk management ([source](https://www.kompas.vc/about-us), as of not recorded)
 
 ## Portfolio
 

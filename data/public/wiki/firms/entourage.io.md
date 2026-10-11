@@ -1,5 +1,5 @@
 ---
-jev-score: 71
+jev-score: 70
 ---
 
 # Entourage
@@ -15,12 +15,13 @@ Research date: 2026-10-03
 ## Public research
 
 - **HQ:** Ghent, Belgium ([source](https://vcwire.tech/2024/03/04/entourage-launches-to-combine-venture-studio-with-early-stage-vc-fund/), as of 2024-03)
-- **Stages:** pre-seed, seed ([source](https://entourage.io), as of None)
-- **Sectors:** B2B SaaS ([source](https://www.entourage.io/memo), as of 2024-03)
 - **Latest fund:** $30 million raised, announced at launch ([source](https://www.entourage.io/memo), as of 2024-03)
 - **Thesis quote:** We invest in pre-seed and seed stage, prioritizing partnerships with exceptional founding teams that demonstrate initial traction. ([source](https://entourage.io), as of None)
 - **LPs:** Backed by software entrepreneurs and family offices including Coral & Wallace, Alychlo, Baltisse ([source](https://vcwire.tech/2024/03/04/entourage-launches-to-combine-venture-studio-with-early-stage-vc-fund/), as of 2024-03)
-- **Leads rounds:** unknown ([source](https://entourage.io), as of not recorded)
+- **Type:** venture capital; venture studio ([source](https://www.entourage.io/jobs/resident-ux-engineer), as of not recorded)
+- **Investment strategies:** early-stage investment, venture studio company building ([source](https://www.entourage.io/jobs/resident-ux-engineer), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://www.entourage.io/), as of not recorded)
+- **Sectors:** B2B SaaS ([source](https://www.entourage.io/jobs/resident-ux-engineer), as of not recorded)
 
 ## Portfolio
 
@@ -50,4 +51,6 @@ Research date: 2026-10-03
 - [Source](https://entourage.io)
 - [Source](https://entourage.io/portfolio)
 - [Source](https://vcwire.tech/2024/03/04/entourage-launches-to-combine-venture-studio-with-early-stage-vc-fund/)
+- [Source](https://www.entourage.io/)
+- [Source](https://www.entourage.io/jobs/resident-ux-engineer)
 - [Source](https://www.entourage.io/memo)

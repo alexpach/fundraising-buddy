@@ -1,5 +1,5 @@
 ---
-jev-score: 42
+jev-score: 54
 ---
 
 # Drive Capital
@@ -14,11 +14,13 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://drivecapital.com/our-story), as of None)
 - **HQ:** Columbus, Ohio ([source](https://drivecapital.com/our-story), as of None)
-- **Stages:** any ([source](https://drivecapital.com/portfolio), as of None)
 - **Thesis quote:** We look for market-defining companies in categories we understand deeply. ([source](https://drivecapital.com/portfolio), as of None)
-- **Leads rounds:** unknown ([source](https://drivecapital.com), as of not recorded)
+- **Type:** venture capital firm ([source](https://drivecapital.com/our-story), as of not recorded)
+- **Investment strategies:** market-defining companies ([source](https://drivecapital.com/our-story), as of not recorded)
+- **Stages:** stage agnostic ([source](https://drivecapital.com/portfolio), as of not recorded)
+- **Sectors:** AI, healthcare, fintech, content, cybersecurity, future of work, robotics, edtech ([source](https://drivecapital.com/portfolio), as of not recorded)
+- **AUM:** USD 2 billion (date not reported) ([source](https://drivecapital.com/), as of not recorded)
 
 ## Portfolio
 

@@ -1,5 +1,5 @@
 ---
-jev-score: 52
+jev-score: 66
 ---
 
 # General Catalyst
@@ -10,14 +10,18 @@ Domain: generalcatalyst.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.generalcatalyst.com/stories/fundxii), as of 2024-10)
 - **Founded:** 2000 ([source](https://generalcatalyst.com/gcamplified/gc-supporting-founders-on-their-journey), as of 2026-08)
 - **Geographies:** us, europe, apac, global ([source](https://www.generalcatalyst.com/stories/fundxii), as of 2024-10)
-- **Leads rounds:** unknown ([source](https://generalcatalyst.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.generalcatalyst.com/stories/fundxii), as of 2024-10)
+- **Investment strategies:** company creation, customer value strategy ([source](https://www.generalcatalyst.com/stories/fundxii), as of 2024-10)
+- **Investment instruments:** equity ([source](https://www.generalcatalyst.com/stories/fundxii), as of 2024-10)
+- **Stages:** seed, growth equity ([source](https://www.generalcatalyst.com/stories/fundxii), as of 2024-10)
+- **Sectors:** AI, Defense & Intelligence, Climate & Energy, Industrials, Healthcare, Fintech ([source](https://www.generalcatalyst.com/stories/fundxii), as of 2024-10)
+- **Leads rounds:** yes ([source](https://www.generalcatalyst.com/stories/our-investment-in-manas-ai), as of 2025-01-27)
 
 ## Portfolio
 
@@ -46,6 +50,7 @@ Research date: 2026-08-26
 
 - [Source](https://generalcatalyst.com)
 - [Source](https://generalcatalyst.com/gcamplified/gc-supporting-founders-on-their-journey)
+- [Source](https://www.generalcatalyst.com/capital)
 - [Source](https://www.generalcatalyst.com/companies/anduril)
 - [Source](https://www.generalcatalyst.com/companies/anthropic)
 - [Source](https://www.generalcatalyst.com/companies/applied-intuition)
@@ -57,3 +62,4 @@ Research date: 2026-08-26
 - [Source](https://www.generalcatalyst.com/companies/stripe)
 - [Source](https://www.generalcatalyst.com/companies/vannevar)
 - [Source](https://www.generalcatalyst.com/stories/fundxii)
+- [Source](https://www.generalcatalyst.com/stories/our-investment-in-manas-ai)

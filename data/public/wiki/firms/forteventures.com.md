@@ -1,5 +1,5 @@
 ---
-jev-score: 73
+jev-score: 70
 ---
 
 # Forté Ventures
@@ -10,18 +10,19 @@ Domain: forteventures.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-03
 
 ## Public research
 
 - **Founded:** 2012 ([source](https://www.cbinsights.com/investor/forte-ventures), as of 2026-08)
-- **Stages:** series-a, series-b, growth ([source](https://forteventures.com/), as of 2026-08)
 - **Geographies:** us ([source](http://web.archive.org/web/20251024213332/https://www.forteventures.com/strategy), as of 2025-10)
-- **Sectors:** technology, fintech, insurtech, mobility, digital media, industrial technology ([source](https://forteventures.com/), as of 2026-08)
-- **AUM:** $28.2M (Forte Ventures, L.P. fund only, per SEC-derived fund-data aggregator; a separate aggregator cites $30M across the platform) ([source](https://privatefunddata.com/private-funds/forte-ventures-lp/), as of 2026-08)
 - **Check size max:** $3,000,000 ([source](https://www.cbinsights.com/investor/forte-ventures), as of 2026-08)
-- **Leads rounds:** maybe ([source](https://www.cbinsights.com/investor/forte-ventures), as of 2023-02)
 - **Coinvestors:** State Farm Ventures, TELUS Ventures, Avanta Ventures (CSAA Insurance Group's CVC arm), Visa, Bridgestone, Navistar, Circle K (as co-investors in the Car IQ Series B extension) ([source](https://www.cbinsights.com/investor/forte-ventures), as of 2023-02)
+- **Type:** venture capital ([source](https://forteventures.com/), as of not recorded)
+- **Investment strategies:** multi-strategy venture capital, growth equity ([source](https://forteventures.com/), as of not recorded)
+- **Stages:** Series A, growth equity ([source](https://forteventures.com/), as of not recorded)
+- **Sectors:** Technology, Fintech, Insurtech, Mobility ([source](https://forteventures.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.cariqpay.com/post/car-iq-raises-15m-in-oversubscribed-addition-to-series-b-led-by-forte-ventures-with-participation-from-visa-bridgestone-navistar-circle-k), as of 2023-02-07)
 
 ## Portfolio
 
@@ -50,5 +51,6 @@ Research date: 2026-08-25
 - [Source](https://forteventures.com)
 - [Source](https://forteventures.com/)
 - [Source](https://privatefunddata.com/private-funds/forte-ventures-lp/)
+- [Source](https://www.cariqpay.com/post/car-iq-raises-15m-in-oversubscribed-addition-to-series-b-led-by-forte-ventures-with-participation-from-visa-bridgestone-navistar-circle-k)
 - [Source](https://www.cbinsights.com/investor/forte-ventures)
 - [Source](https://www.forteventures.com/portfolio)

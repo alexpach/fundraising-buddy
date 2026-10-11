@@ -1,5 +1,5 @@
 ---
-jev-score: 64
+jev-score: 55
 ---
 
 # XYZ Venture Capital
@@ -10,16 +10,17 @@ Domain: xyz.vc
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.xyz.vc/values), as of 2026-08)
 - **Founded:** 2017 ([source](https://www.forbes.com/profile/ross-fubini/), as of 2026-05)
-- **Sectors:** fintech, enterprise, insurance, public sector ([source](https://www.xyz.vc/values), as of 2026-08)
-- **AUM:** $1.2 billion ([source](https://www.forbes.com/profile/ross-fubini/), as of 2026-05)
 - **Thesis quote:** XYZ is a venture firm that invests in early-stage founders to help them go faster. ([source](https://www.xyz.vc/values), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://xyz.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.xyz.vc/values), as of not recorded)
+- **Investment strategies:** early-stage investing ([source](https://www.xyz.vc/values), as of not recorded)
+- **Stages:** earliest stages of company building, early stage ([source](https://www.xyz.vc/values), as of not recorded)
+- **Sectors:** fintech, enterprise, insurance, public sector ([source](https://www.xyz.vc/values), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.xyz.vc/theorems/promise), as of not recorded)
 
 ## Portfolio
 
@@ -53,5 +54,7 @@ Research date: 2026-08-26
 
 - [Source](https://www.forbes.com/profile/ross-fubini/)
 - [Source](https://www.xyz.vc/portfolio)
+- [Source](https://www.xyz.vc/theorems/annoucingxyz)
+- [Source](https://www.xyz.vc/theorems/promise)
 - [Source](https://www.xyz.vc/values)
 - [Source](https://xyz.vc)

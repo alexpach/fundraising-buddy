@@ -10,17 +10,17 @@ Domain: blingcap.com
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://blingcap.com), as of 2026-09)
 - **Founded:** 2018 ([source](https://www.blingcap.com/fund4/), as of 2024-11)
-- **Stages:** pre-seed, seed ([source](https://blingcap.com), as of 2026-09)
-- **Sectors:** vertical and horizontal software, healthcare, financial services, consumer internet, marketplaces ([source](https://www.blingcap.com/fund4/), as of 2024-11)
 - **Latest fund:** Fund IV, $270M ([source](https://www.blingcap.com/fund4/), as of 2024-11)
 - **Thesis quote:** our goal is straightforward: find exceptionally ambitious founders and partner with them for the long run to find and scale product-market fit ([source](https://www.blingcap.com/fund4/), as of 2024-11)
-- **Leads rounds:** unknown ([source](https://blingcap.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.blingcap.com/), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://www.blingcap.com/), as of not recorded)
+- **Sectors:** artificial intelligence & automation, defense & deeptech, consumer tech, internet & mobile, marketplace, data, fintech, SaaS, frontier technologies ([source](https://www.blingcap.com/sectors), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.blingcap.com/sectors), as of not recorded)
 
 ## Portfolio
 
@@ -45,4 +45,6 @@ Research date: 2026-09-20
 ## Sources
 
 - [Source](https://blingcap.com)
+- [Source](https://www.blingcap.com/)
 - [Source](https://www.blingcap.com/fund4/)
+- [Source](https://www.blingcap.com/sectors)

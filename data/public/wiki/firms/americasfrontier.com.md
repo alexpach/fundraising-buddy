@@ -1,5 +1,5 @@
 ---
-jev-score: 70
+jev-score: 76
 ---
 
 # America's Frontier Fund
@@ -15,11 +15,14 @@ Research date: 2026-10-03
 ## Public research
 
 - **HQ:** Arlington, Virginia ([source](https://b17news.com/national-security-focused-vc-firm-americas-frontier-fund-is-raising-315-million-for-its-debut-fund/), as of 2025-07)
-- **Stages:** early, growth ([source](https://www.americasfrontier.com/), as of None)
-- **Leads rounds:** maybe ([source](https://siliconlegal.com/sls-client-tacta-systems-raises-75mm-round-from-americas-frontier-fund-sbva-and-others), as of 2025-06)
 - **Thesis quote:** We look where consensus is not just cautious, but wrong. Where complexity hides scale. ([source](https://www.americasfrontier.com/), as of None)
 - **LPs:** New Mexico State Investment Council ([source](https://www.businesswire.com/news/home/20221122005807/en/Americas-Frontier-Fund-Receives-Up-to-%24100-Million-Commitment-from-New-Mexico-State-Investment-Council-into-Frontier-Fund-I-Plans-to-Build-Albuquerque-based-Frontier-Tech-Venture-Studio-Called-Roadrunner-Studios), as of 2022-11)
 - **Coinvestors:** Sierra Ventures, SBVA, Alumni Ventures, Engine Ventures ([source](https://barchart.com/story/news/34600724/revalia-bio-raises-14-5m-seed-round-to-launch-human-data-trial-platform-and-redefine-drug-development), as of 2025-09)
+- **Type:** venture capital ([source](https://americasfrontier.webflow.io/insight-blog-post/aff-receives-up-to-100-million-commitment-from-new-mexico-sic-into-frontier-fund-i), as of 2022-11-22)
+- **Investment strategies:** frontier technology venture investing ([source](https://americasfrontier.webflow.io/insight-blog-post/aff-receives-up-to-100-million-commitment-from-new-mexico-sic-into-frontier-fund-i), as of 2022-11-22)
+- **Stages:** early, growth ([source](https://americasfrontier.com/), as of not recorded)
+- **Sectors:** Compute, Biology, Energy, Manufacturing ([source](https://americasfrontier.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.prnewswire.com/news-releases/tacta-systems-announces-75-million-in-funding-to-bring-dextrous-intelligence-to-robots-302492467.html), as of 2025-06-26)
 
 ## Portfolio
 
@@ -45,6 +48,8 @@ Research date: 2026-10-03
 
 ## Sources
 
+- [Source](https://americasfrontier.com/)
+- [Source](https://americasfrontier.webflow.io/insight-blog-post/aff-receives-up-to-100-million-commitment-from-new-mexico-sic-into-frontier-fund-i)
 - [Source](https://americasfrontier.webflow.io/insight-blog-post/foundation-alloy-raises-funding-to-reinvent-u-s-manufacturing-with-new-american-made-metals)
 - [Source](https://b17news.com/national-security-focused-vc-firm-americas-frontier-fund-is-raising-315-million-for-its-debut-fund/)
 - [Source](https://barchart.com/story/news/34600724/revalia-bio-raises-14-5m-seed-round-to-launch-human-data-trial-platform-and-redefine-drug-development)
@@ -53,3 +58,4 @@ Research date: 2026-10-03
 - [Source](https://www.americasfrontier.com/)
 - [Source](https://www.businesswire.com/news/home/20221122005807/en/Americas-Frontier-Fund-Receives-Up-to-%24100-Million-Commitment-from-New-Mexico-State-Investment-Council-into-Frontier-Fund-I-Plans-to-Build-Albuquerque-based-Frontier-Tech-Venture-Studio-Called-Roadrunner-Studios)
 - [Source](https://www.prnewswire.com/news-releases/americas-frontier-fund-backs-breakthrough-hypersonic-engine-company-venus-aerospace-302357448.html)
+- [Source](https://www.prnewswire.com/news-releases/tacta-systems-announces-75-million-in-funding-to-bring-dextrous-intelligence-to-robots-302492467.html)

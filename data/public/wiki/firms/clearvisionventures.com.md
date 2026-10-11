@@ -1,5 +1,5 @@
 ---
-jev-score: 71
+jev-score: 70
 ---
 
 # Clearvision Ventures
@@ -14,14 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://clearvisionventures.com), as of None)
 - **HQ:** Menlo Park, CA ([source](https://clearvisionventures.com), as of None)
-- **Stages:** early, growth ([source](https://clearvisionventures.com), as of None)
-- **Sectors:** technology, sustainability, infrastructure, energy and infrastructure sustainability ([source](https://clearvisionventures.com), as of None)
 - **Check size min:** $1 million ([source](https://clearvisionventures.com), as of None)
 - **Check size max:** $10 million (up to $25 million in certain situations) ([source](https://clearvisionventures.com), as of None)
-- **Leads rounds:** maybe ([source](https://citybizlist.com/article/504547/canaan-leads-45m-series-b-for-climacell), as of None)
 - **Thesis quote:** Currently, we are interested in companies that can drive meaningful disruptions in energy and infrastructure sustainability. ([source](https://clearvisionventures.com), as of None)
+- **Type:** venture capital ([source](https://www.clearvisionventures.com/), as of not recorded)
+- **Investment strategies:** early-stage investing, growth investing, value-added infrastructure investing ([source](https://www.clearvisionventures.com/), as of not recorded)
+- **Legal structure:** independent evergreen funds ([source](https://www.clearvisionventures.com/), as of not recorded)
+- **Stages:** early stage, growth, late stage growth ([source](https://www.clearvisionventures.com/), as of not recorded)
+- **Sectors:** technology, sustainability, infrastructure, energy ([source](https://www.clearvisionventures.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.tomorrow.io/blog/tomorrow-io-raises-45-million-to-map-all-of-the-worlds-microweather/), as of 2018-10-04)
 
 ## Portfolio
 
@@ -50,4 +52,6 @@ Research date: 2026-10-03
 - [Source](https://lacaisse.com/en/news/pressreleases/jupiter-announces-54-million-new-funding)
 - [Source](https://utahbusiness.com/press-releases/2026/01/23/zanskar-raises-115-million-series-c-following-year-geothermal-discoveries)
 - [Source](https://www.chargepoint.com/about/news/chargepoint-secures-240-million-series-h-funding-electric-mobility-revolution)
+- [Source](https://www.clearvisionventures.com/)
 - [Source](https://www.energize.vc/news-insights/why-were-continuing-to-invest-in-sitetracker-2)
+- [Source](https://www.tomorrow.io/blog/tomorrow-io-raises-45-million-to-map-all-of-the-worlds-microweather/)

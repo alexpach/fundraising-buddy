@@ -1,5 +1,5 @@
 ---
-jev-score: 13
+jev-score: 24
 ---
 
 # FPV Ventures
@@ -10,15 +10,14 @@ Domain: fpvventures.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://fpvventures.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://fpvventures.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://fpvventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://fpvventures.com/canva-backer-fpv-ventures-raises-new-525-million-fund/), as of 2025-04)
+- **Leads rounds:** yes ([source](https://fpvventures.com/case-studies/strand/), as of not recorded)
 
 ## Portfolio
 
@@ -30,3 +29,6 @@ Not recorded.
 ## Sources
 
 - [Source](https://fpvventures.com)
+- [Source](https://fpvventures.com/)
+- [Source](https://fpvventures.com/canva-backer-fpv-ventures-raises-new-525-million-fund/)
+- [Source](https://fpvventures.com/case-studies/strand/)

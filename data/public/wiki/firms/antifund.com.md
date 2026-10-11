@@ -1,5 +1,5 @@
 ---
-jev-score: 76
+jev-score: 77
 ---
 
 # Anti Fund
@@ -14,16 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://streetinsider.com/Business+Wire/Anti+Fund+Closes+Oversubscribed+%24100+Million+Growth+Fund%3B+Firm+AUM+Tops+%24180+Million/26664064.html), as of 2026-06)
-- **Stages:** pre-seed, seed, growth ([source](https://antifund.com), as of 2026-10)
-- **Sectors:** AI, robotics, defense, energy, semiconductors, manufacturing, frontier infrastructure, selective software and consumer ([source](https://antifund.com), as of 2026-10)
-- **AUM:** more than $180 million ([source](https://streetinsider.com/Business+Wire/Anti+Fund+Closes+Oversubscribed+%24100+Million+Growth+Fund%3B+Firm+AUM+Tops+%24180+Million/26664064.html), as of 2026-06)
 - **Check size min:** $250K ([source](https://antifund.com), as of 2026-10)
 - **Check size max:** $30M+ ([source](https://antifund.com), as of 2026-10)
-- **Leads rounds:** maybe ([source](https://antifund.com), as of 2026-10)
 - **Latest fund:** Anti Fund Growth I, $100 million, oversubscribed ([source](https://streetinsider.com/Business+Wire/Anti+Fund+Closes+Oversubscribed+%24100+Million+Growth+Fund%3B+Firm+AUM+Tops+%24180+Million/26664064.html), as of 2026-06)
 - **Thesis quote:** Capital is a commodity. Attention is not. We back technical founders at formation and category leaders at growth. ([source](https://antifund.com), as of 2026-10)
 - **LPs:** Aquarian Holdings (anchor), FocusPoint Private Capital Group, Daniel Michalow, Matt Holt, Athanor Capital, Asher Genoot ([source](https://streetinsider.com/Business+Wire/Anti+Fund+Closes+Oversubscribed+%24100+Million+Growth+Fund%3B+Firm+AUM+Tops+%24180+Million/26664064.html), as of 2026-06)
+- **Type:** venture capital ([source](https://antifund.com/), as of not recorded)
+- **Investment strategies:** venture, growth, pre-IPO ([source](https://antifund.com/), as of not recorded)
+- **Stages:** pre-seed, seed, growth, pre-IPO ([source](https://antifund.com/), as of not recorded)
+- **Sectors:** AI, robotics, defense, energy, semiconductors, manufacturing, frontier infrastructure, selective software and consumer technology ([source](https://antifund.com/), as of not recorded)
+- **AUM:** Lower bound (over): USD 180 million (as of 2026-06) ([source](https://markets.chroniclejournal.com/chroniclejournal/article/bizwire-2026-6-18-anti-fund-closes-oversubscribed-100-million-growth-fund-firm-aum-tops-180-million), as of 2026-06)
 
 ## Portfolio
 
@@ -55,4 +55,6 @@ Research date: 2026-10-03
 ## Sources
 
 - [Source](https://antifund.com)
+- [Source](https://antifund.com/)
+- [Source](https://markets.chroniclejournal.com/chroniclejournal/article/bizwire-2026-6-18-anti-fund-closes-oversubscribed-100-million-growth-fund-firm-aum-tops-180-million)
 - [Source](https://streetinsider.com/Business+Wire/Anti+Fund+Closes+Oversubscribed+%24100+Million+Growth+Fund%3B+Firm+AUM+Tops+%24180+Million/26664064.html)

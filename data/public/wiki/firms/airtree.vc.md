@@ -1,5 +1,5 @@
 ---
-jev-score: 70
+jev-score: 75
 ---
 
 # AirTree Ventures
@@ -16,11 +16,13 @@ Research date: 2026-10-03
 
 - **HQ:** 131 Devonshire Street, Surry Hills NSW 2010, Australia ([source](https://airtree.vc/companies), as of None)
 - **Founded:** 2014 ([source](https://airtree.vc/about), as of None)
-- **Stages:** Seed, Growth ([source](https://airtree.vc/open-source-vc/introducing-airtree-fund-v), as of 2026-01)
-- **Sectors:** AI & ML, Consumer & Commerce, Data & Infrastructure, Hardware & Deep Tech, Software, Web3 & Blockchain ([source](https://airtree.vc/companies), as of None)
 - **Latest fund:** Fund V: $250m Seed fund and $400m Growth fund ([source](https://airtree.vc/open-source-vc/introducing-airtree-fund-v), as of 2026-01)
 - **Thesis quote:** We invest at seed and see potential where others don’t. ([source](https://airtree.vc/about), as of None)
-- **Leads rounds:** unknown ([source](https://airtree.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.airtree.vc/open-source-vc/introducing-airtree-fund-v), as of 2026-01-26)
+- **Investment strategies:** early-stage venture, growth-stage venture ([source](https://www.airtree.vc/open-source-vc/introducing-airtree-fund-v), as of 2026-01-26)
+- **Stages:** pre-seed, seed, growth ([source](https://www.airtree.vc/open-source-vc/introducing-airtree-fund-v), as of 2026-01-26)
+- **Sectors:** software, AI ([source](https://www.airtree.vc/open-source-vc/introducing-airtree-fund-v), as of 2026-01-26)
+- **Leads rounds:** yes ([source](https://www.airtree.vc/open-source-vc/introducing-airtree-fund-v), as of 2026-01-26)
 
 ## Portfolio
 
@@ -54,3 +56,5 @@ Research date: 2026-10-03
 - [Source](https://airtree.vc/about)
 - [Source](https://airtree.vc/companies)
 - [Source](https://airtree.vc/open-source-vc/introducing-airtree-fund-v)
+- [Source](https://www.airtree.vc/about)
+- [Source](https://www.airtree.vc/open-source-vc/introducing-airtree-fund-v)

@@ -1,5 +1,5 @@
 ---
-jev-score: 69
+jev-score: 73
 ---
 
 # BOLD Capital Partners
@@ -10,18 +10,19 @@ Domain: boldcapitalpartners.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://boldcapitalpartners.com/vacancies/analyst/), as of 2026-03)
 - **HQ:** Santa Monica, California ([source](https://boldcapitalpartners.com/team/), as of 2026-08)
 - **Founded:** 2015 ([source](https://www.sec.gov/Archives/edgar/data/1653181/000165318115000001/primary_doc.xml), as of 2015-11)
 - **Geographies:** us ([source](https://jaykimshow.com/2021/06/maxx-bricklin-transcript), as of 2021-06)
-- **Sectors:** healthspan, life sciences, frontier tech, deep tech, AI, robotics ([source](https://boldcapitalpartners.com/vacancies/analyst/), as of 2026-03)
 - **Legal name:** Bold Capital Partners, L.P. ([source](https://www.sec.gov/Archives/edgar/data/1653181/000165318115000001/primary_doc.xml), as of 2015-11)
 - **Thesis quote:** At BOLD we invest predominantly in early-stage companies with an emphasis on life sciences and frontier tech. ([source](https://boldcapitalpartners.com/why-as-investors-we-like-convergence/), as of 2022-01)
-- **Leads rounds:** unknown ([source](https://boldcapitalpartners.com), as of not recorded)
+- **Type:** venture capital ([source](https://boldcapitalpartners.com/vacancies/analyst/), as of not recorded)
+- **Investment strategies:** early-stage venture investing ([source](https://boldcapitalpartners.com/vacancies/analyst/), as of not recorded)
+- **Stages:** early stage ([source](https://boldcapitalpartners.com/vacancies/analyst/), as of not recorded)
+- **Sectors:** Health & Life Sciences, Deep Tech & Productivity ([source](https://boldcapitalpartners.com/companies/), as of not recorded)
 
 ## Portfolio
 
@@ -49,6 +50,7 @@ Research date: 2026-08-26
 ## Sources
 
 - [Source](https://boldcapitalpartners.com)
+- [Source](https://boldcapitalpartners.com/)
 - [Source](https://boldcapitalpartners.com/companies/)
 - [Source](https://boldcapitalpartners.com/team/)
 - [Source](https://boldcapitalpartners.com/vacancies/analyst/)

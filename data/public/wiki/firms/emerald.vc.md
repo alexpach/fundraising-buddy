@@ -1,5 +1,5 @@
 ---
-jev-score: 80
+jev-score: 78
 ---
 
 # Emerald Technology Ventures
@@ -14,17 +14,17 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://emerald.vc/emerald-announces-60-million-first-close-global-water-fund-ii), as of 2025-10)
 - **HQ:** Zurich, Switzerland ([source](https://emerald.vc/forbes-building-sustainable-bridges-an-interview-with-gina-domanig), as of None)
 - **Founded:** 2000 ([source](https://emerald.vc/emerald-announces-60-million-first-close-global-water-fund-ii), as of 2025-10)
-- **Stages:** early to growth stage ([source](https://emerald.vc/emerald-announces-60-million-first-close-global-water-fund-ii), as of 2025-10)
 - **Geographies:** global ([source](https://emerald.vc/about), as of None)
-- **Sectors:** sustainable industrial innovation, Energy, Materials & packaging, Water & wastewater, Automation & Industrial AI, Food & agriculture ([source](https://emerald.vc/), as of 2026-10)
 - **Offices:** Zurich, Toronto and Singapore ([source](https://emerald.vc/emerald-announces-60-million-first-close-global-water-fund-ii), as of 2025-10)
 - **Latest fund:** Global Water Fund II reached €100 million (Temasek and Grundfos Foundation added), target €150-180 million ([source](https://emerald.vc/emerald-global-water-fund-ii-reaches-100-million-addition-temasek-and-grundfos-foundation), as of 2026-03)
 - **Thesis quote:** We do this through smart investments in technology. ([source](https://emerald.vc/about), as of None)
 - **LPs:** Global Water Fund II anchor investors: Veralto and Ecolab; also SKion Water and Oxy Technology Ventures; later Temasek and Grundfos Foundation ([source](https://emerald.vc/emerald-announces-60-million-first-close-global-water-fund-ii), as of 2025-10)
-- **Leads rounds:** unknown ([source](https://emerald.vc), as of not recorded)
+- **Type:** venture capital ([source](https://emerald.vc/about), as of not recorded)
+- **Investment strategies:** sustainable industrial innovation, climate and sustainability technology ([source](https://emerald.vc/about), as of not recorded)
+- **Stages:** early to growth stage ([source](https://emerald.vc/emerald-global-water-fund-ii-reaches-100-million-addition-temasek-and-grundfos-foundation), as of not recorded)
+- **Sectors:** sustainable industrial innovation, Energy, Materials, Packaging, Water & wastewater, Automation & Industrial AI, Food & agriculture ([source](https://emerald.vc/about), as of not recorded)
 
 ## Portfolio
 

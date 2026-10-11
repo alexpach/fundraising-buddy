@@ -1,5 +1,5 @@
 ---
-jev-score: 65
+jev-score: 63
 ---
 
 # Homebrew
@@ -14,16 +14,18 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.homebrew.co/), as of None)
 - **HQ:** San Francisco (South Park) ([source](https://homebrew.co/blog-posts/we-d-like-you-to-join-the-homebrew-team), as of None)
 - **Founded:** 2013 ([source](https://medium.com/@satyap/wed-like-you-to-join-the-homebrew-team-bdc62efb04d0), as of 2018-10)
-- **Stages:** pre-seed, seed ([source](https://www.homebrew.co/), as of None)
 - **Geographies:** us, latam ([source](https://www.homebrew.co/), as of None)
 - **Check size min:** $100k ([source](https://www.homebrew.co/), as of None)
 - **Legal name:** Homebrew Management LLC ([source](https://www.homebrew.co/), as of None)
-- **Leads rounds:** yes ([source](https://homebrew.co/blog-posts/announcing-homebrew-ii-now-back-to-work), as of None)
 - **Thesis quote:** Capital, counsel and commitment for mission-driven founders reimagining the world we live in. ([source](https://www.homebrew.co/), as of None)
 - **LPs:** institutional investors including nonprofit foundations and university endowments (Homebrew II/III LPs) ([source](https://homebrew.co/blog/2018/02/12/announcing-homebrew-iii-finding-our-product-market-fit), as of None)
+- **Type:** venture capital firm ([source](https://www.homebrew.co/blog-posts/homebrew-forever-same-mission-our-capital), as of not recorded)
+- **Investment strategies:** seed-stage venture investing, evergreen investing with the firm's own capital ([source](https://www.homebrew.co/blog-posts/homebrew-forever-same-mission-our-capital), as of not recorded)
+- **Legal structure:** evergreen investment vehicle, limited partnership funds (legacy Homebrew I-III) ([source](https://www.homebrew.co/blog-posts/homebrew-forever-same-mission-our-capital), as of not recorded)
+- **Stages:** pre-seed, seed, later rounds ([source](https://www.homebrew.co/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.homebrew.co/blog-posts/buildingconnected-transforms-construction-autodesk-snaps-it-up-for-275-million), as of 2014)
 
 ## Portfolio
 
@@ -55,3 +57,6 @@ Research date: 2026-10-03
 - [Source](https://homebrew.co/blog/2018/02/12/announcing-homebrew-iii-finding-our-product-market-fit)
 - [Source](https://medium.com/@satyap/wed-like-you-to-join-the-homebrew-team-bdc62efb04d0)
 - [Source](https://www.homebrew.co/)
+- [Source](https://www.homebrew.co/blog-posts/announcing-homebrew-ii-now-back-to-work)
+- [Source](https://www.homebrew.co/blog-posts/buildingconnected-transforms-construction-autodesk-snaps-it-up-for-275-million)
+- [Source](https://www.homebrew.co/blog-posts/homebrew-forever-same-mission-our-capital)

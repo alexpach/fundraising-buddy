@@ -1,5 +1,5 @@
 ---
-jev-score: 56
+jev-score: 60
 ---
 
 # Atlantic Bridge
@@ -14,12 +14,13 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.abven.com/), as of None)
 - **Geographies:** europe, us ([source](https://www.abven.com/), as of None)
-- **Sectors:** Artificial Intelligence, Advanced Compute, Next-Generation Semiconductors, Digital Transformation, Cybersecurity, Climate and Sustainability ([source](https://abven.com/portfolio), as of None)
 - **Offices:** Palo Alto, London, Dublin, Munich, Paris ([source](https://www.abven.com/contact-us/), as of None)
 - **Thesis quote:** We invest in deep technology companies in Europe, the UK and the US ([source](https://www.abven.com/), as of None)
-- **Leads rounds:** maybe ([source](https://abven.com), as of not recorded)
+- **Type:** growth equity ([source](https://www.abven.com/), as of not recorded)
+- **Investment strategies:** cross-border value add ([source](https://www.abven.com/), as of not recorded)
+- **Sectors:** Artificial Intelligence, Advanced Compute, Next-Generation Semiconductors, Digital Transformation, Cybersecurity, Climate and Sustainability ([source](https://www.abven.com/portfolio), as of not recorded)
+- **AUM:** Lower bound (over): EUR 1 billion (date not reported) ([source](https://www.abven.com/), as of not recorded)
 
 ## Portfolio
 
@@ -51,3 +52,4 @@ Research date: 2026-10-03
 - [Source](https://abven.com/realisations)
 - [Source](https://www.abven.com/)
 - [Source](https://www.abven.com/contact-us/)
+- [Source](https://www.abven.com/portfolio)

@@ -10,20 +10,22 @@ Domain: portageinvest.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://portageinvest.com/blog/portage-announces-us600m-final-close-of-ventures-fund-iv), as of 2026-09)
 - **Founded:** 2016 ([source](https://portageinvest.com/about/), as of None)
-- **Stages:** seed, series-a, series-b ([source](https://portageinvest.com/ventures), as of 2026-10)
-- **Sectors:** fintech, wealth and asset management, banking, insurance, payments ([source](https://portageinvest.com/blog/portage-announces-us600m-final-close-of-ventures-fund-iv), as of 2026-09)
 - **Check size max:** $30M ([source](https://portageinvest.com/), as of 2026-10)
 - **Offices:** Canada, the United States, Europe, and the Middle East ([source](https://portageinvest.com/blog/portage-announces-us600m-final-close-of-ventures-fund-iv), as of 2026-09)
 - **Latest fund:** Portage Ventures IV, final close approximately US$600M, announced 2026-09-16 ([source](https://portageinvest.com/blog/portage-announces-us600m-final-close-of-ventures-fund-iv), as of 2026-09)
 - **Thesis quote:** We invest in early-stage companies at the cutting edge of fintech ([source](https://portageinvest.com/ventures), as of 2026-10)
 - **LPs:** New strategic LPs in Ventures IV: Broadridge and Fifth Third Bank ([source](https://portageinvest.com/blog/portage-announces-us600m-final-close-of-ventures-fund-iv), as of 2026-09)
-- **Leads rounds:** unknown ([source](https://portageinvest.com), as of not recorded)
+- **Type:** venture capital ([source](https://portageinvest.com/blog/portage-announces-us600m-final-close-of-ventures-fund-iv/), as of 2026-09-16)
+- **Investment strategies:** early-stage venture, growth equity, secondaries ([source](https://portageinvest.com/blog/portage-announces-us600m-final-close-of-ventures-fund-iv/), as of 2026-09-16)
+- **Legal structure:** investment platform within Sagard ([source](https://portageinvest.com/blog/portage-announces-us600m-final-close-of-ventures-fund-iv/), as of 2026-09-16)
+- **Stages:** seed, series A, series B ([source](https://portageinvest.com/ventures), as of 2026-10)
+- **Sectors:** fintech, wealth and asset management, banking, insurance, payments ([source](https://portageinvest.com/why-portage), as of 2026-10)
+- **AUM:** USD 7 billion (as of 2026-06-30) ([source](https://portageinvest.com/blog/portage-announces-us600m-final-close-of-ventures-fund-iv/), as of 2026-06-30)
 
 ## Portfolio
 
@@ -66,5 +68,7 @@ Research date: 2026-10-03
 - [Source](https://portageinvest.com/)
 - [Source](https://portageinvest.com/about/)
 - [Source](https://portageinvest.com/blog/portage-announces-us600m-final-close-of-ventures-fund-iv)
+- [Source](https://portageinvest.com/blog/portage-announces-us600m-final-close-of-ventures-fund-iv/)
 - [Source](https://portageinvest.com/portfolio)
 - [Source](https://portageinvest.com/ventures)
+- [Source](https://portageinvest.com/why-portage)

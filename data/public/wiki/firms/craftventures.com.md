@@ -1,5 +1,5 @@
 ---
-jev-score: 74
+jev-score: 81
 ---
 
 # Craft Ventures
@@ -10,16 +10,20 @@ Domain: craftventures.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.craftventures.com/team/david-sacks), as of 2026-08)
 - **HQ:** San Francisco, CA ([source](https://craftventures.com/about), as of 2026-08)
 - **Legal name:** Craft Ventures ([source](https://www.craftventures.com/team/david-sacks), as of 2026-08)
 - **Latest fund:** Craft Ventures V, LP filed Form D 2026-08-07 (open-ended offering; no amount sold reported yet) ([source](https://www.sec.gov/Archives/edgar/data/2140032/000214003226000001/primary_doc.xml), as of 2026-08)
 - **Thesis quote:** SaaS businesses are attractive for their predictable, compounding recurring revenue. ([source](https://www.craftventures.com/articles/announcing-craft-iii-1-1-billion-for-saas-and-marketplaces), as of 2021-03)
-- **Leads rounds:** yes ([source](https://craftventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.craftventures.com/articles/announcing-1-3-billion-for-craft-ventures-iv-and-growth-ii), as of 2023-11-09)
+- **Investment strategies:** B2B software ([source](https://www.craftventures.com/articles/announcing-1-3-billion-for-craft-ventures-iv-and-growth-ii), as of 2023-11-09)
+- **Stages:** early-stage, growth-stage ([source](https://www.craftventures.com/articles/announcing-1-3-billion-for-craft-ventures-iv-and-growth-ii), as of 2023-11-09)
+- **Sectors:** B2B software ([source](https://www.craftventures.com/articles/announcing-1-3-billion-for-craft-ventures-iv-and-growth-ii), as of 2023-11-09)
+- **Leads rounds:** yes ([source](https://www.craftventures.com/articles/daylight-security-investing-in-the-future-of-managed-agentic-security-services), as of 2025-11-04)
+- **AUM:** USD 3.3 billion (as of 2023-11) ([source](https://www.craftventures.com/articles/announcing-1-3-billion-for-craft-ventures-iv-and-growth-ii), as of 2023-11)
 
 ## Portfolio
 
@@ -48,7 +52,10 @@ Research date: 2026-08-26
 - [Source](https://craftventures.com/about)
 - [Source](https://craftventures.com/portfolio)
 - [Source](https://craftventures.com/portfolio/allen-control-systems)
+- [Source](https://www.craftventures.com/)
+- [Source](https://www.craftventures.com/articles/announcing-1-3-billion-for-craft-ventures-iv-and-growth-ii)
 - [Source](https://www.craftventures.com/articles/announcing-craft-iii-1-1-billion-for-saas-and-marketplaces)
+- [Source](https://www.craftventures.com/articles/daylight-security-investing-in-the-future-of-managed-agentic-security-services)
 - [Source](https://www.craftventures.com/portfolio/anduril)
 - [Source](https://www.craftventures.com/team/david-sacks)
 - [Source](https://www.sec.gov/Archives/edgar/data/2140032/000214003226000001/primary_doc.xml)

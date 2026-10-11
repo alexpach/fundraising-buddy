@@ -1,5 +1,5 @@
 ---
-jev-score: 65
+jev-score: 71
 ---
 
 # Amadeus Capital Partners
@@ -14,15 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.amadeuscapital.com/), as of None)
 - **HQ:** London, UK ([source](https://www.amadeuscapital.com/locations/), as of None)
 - **Founded:** 1997 ([source](https://www.amadeuscapital.com/), as of None)
-- **Stages:** seed, growth ([source](https://www.amadeuscapital.com/), as of None)
-- **Sectors:** Intelligence (AI, advanced computing, and quantum), Human (health, medicine, and wellness), Planet (sustainability, energy, novel materials, and space utilisation) ([source](https://www.amadeuscapital.com/), as of None)
 - **Legal name:** Amadeus Capital Partners Ltd ([source](https://www.amadeuscapital.com/the-team/), as of 2025)
 - **Offices:** London (office page also lists Cambridge and Oxford) ([source](https://www.amadeuscapital.com/locations/), as of None)
-- **Leads rounds:** maybe ([source](https://www.amadeuscapital.com/), as of not recorded)
 - **Thesis quote:** Creating value by backing trailblazers solving hard problems in large markets ([source](https://www.amadeuscapital.com/), as of None)
+- **Type:** venture capital ([source](https://www.amadeuscapital.com/), as of not recorded)
+- **Investment strategies:** deep tech venture capital ([source](https://www.amadeuscapital.com/), as of not recorded)
+- **Stages:** seed, growth ([source](https://www.amadeuscapital.com/), as of not recorded)
+- **Sectors:** Intelligence (AI, advanced computing, and quantum), Human (health, medicine, and wellness), Planet (sustainability, energy, novel materials, and space utilisation) ([source](https://www.amadeuscapital.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.amadeuscapital.com/sitehop-raises-5m-to-develop-cybersecurity-solutions-for-complex-communication-networks/), as of 2024-02-28)
 
 ## Portfolio
 
@@ -56,4 +57,5 @@ Research date: 2026-10-03
 
 - [Source](https://www.amadeuscapital.com/)
 - [Source](https://www.amadeuscapital.com/locations/)
+- [Source](https://www.amadeuscapital.com/sitehop-raises-5m-to-develop-cybersecurity-solutions-for-complex-communication-networks/)
 - [Source](https://www.amadeuscapital.com/the-team/)

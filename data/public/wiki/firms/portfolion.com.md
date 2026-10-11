@@ -1,8 +1,8 @@
 ---
-jev-score: 70
+jev-score: 69
 ---
 
-# PortfoLion Capital Partners
+# Portfolion Capital Partners
 
 [Website](https://portfolion.com)
 
@@ -10,17 +10,19 @@ Domain: portfolion.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
 - **HQ:** Budapest, Hungary ([source](https://www.portfolion.com/companies/), as of None)
-- **Stages:** pre-seed, seed, series-b, series-c, partial buyout, established enterprises ([source](https://www.portfolion.com/), as of None)
 - **Geographies:** europe ([source](https://www.portfolion.com/), as of None)
-- **Sectors:** Sector Agnostic (venture capital, growth equity), Digital Technologies & Agriculture (private equity) ([source](https://www.portfolion.com/), as of None)
 - **Check size max:** EUR 40M (growth equity and private equity strategies) ([source](https://www.portfolion.com/), as of None)
-- **Leads rounds:** yes ([source](https://www.portfolion.com/venture-capital/), as of not recorded)
 - **Thesis quote:** We look for exceptional talent across CEE and its diaspora ([source](https://www.portfolion.com/venture-capital/), as of None)
+- **Type:** venture capital ([source](https://www.portfolion.com/), as of not recorded)
+- **Investment strategies:** growth equity, private equity ([source](https://www.portfolion.com/), as of not recorded)
+- **Stages:** pre-seed, seed, Series B, Series C, partial buyout, established enterprises ([source](https://www.portfolion.com/), as of not recorded)
+- **Sectors:** Sector Agnostic, Digital Technologies, Agriculture ([source](https://www.portfolion.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.portfolion.com/venture-capital/), as of not recorded)
 
 ## Portfolio
 

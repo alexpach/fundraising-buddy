@@ -1,8 +1,8 @@
 ---
-jev-score: 32
+jev-score: 49
 ---
 
-# node.vc
+# Node Ventures (node.vc)
 
 [Website](https://www.node.vc/)
 
@@ -10,17 +10,17 @@ Domain: node.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.node.vc/), as of 2026-08-07)
-- **Stages:** seed ([source](https://www.node.vc/), as of 2026-08-07)
 - **Geographies:** europe ([source](https://www.node.vc/), as of 2026-08-07)
-- **Sectors:** ai, data-infrastructure, legaltech, energytech, gaming, enterprise-software ([source](https://www.node.vc/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.node.vc/), as of not recorded)
+- **Type:** venture capital ([source](https://www.node.vc/news/node-vc-closes-eu71m-first-fund), as of 2024-10-16)
+- **Investment strategies:** early-stage venture investing ([source](https://www.node.vc/news/node-vc-closes-eu71m-first-fund), as of 2024-10-16)
+- **Stages:** early-stage, seed ([source](https://www.node.vc/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.node.vc/news/serverpod-announces-a-eu2-7-million-seed-funding-round-led-by-node-vc), as of 2025-02-19)
 
 ## Portfolio
 
@@ -39,3 +39,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.node.vc/)
+- [Source](https://www.node.vc/news/node-vc-closes-eu71m-first-fund)
+- [Source](https://www.node.vc/news/serverpod-announces-a-eu2-7-million-seed-funding-round-led-by-node-vc)

@@ -1,5 +1,5 @@
 ---
-jev-score: 77
+jev-score: 83
 ---
 
 # Congruent Ventures
@@ -14,16 +14,17 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.congruentvc.com/blog/congruent-ventures-closes-275m-early-stage-climate-tech-fund), as of 2023-12)
 - **HQ:** San Francisco, CA ([source](https://www.congruentvc.com/), as of None)
 - **Founded:** 2017 ([source](https://www.congruentvc.com/blog/congruent-ventures-closes-275m-early-stage-climate-tech-fund), as of 2023-12)
-- **Stages:** formation capital to Series A ([source](https://www.congruentvc.com/), as of None)
 - **Geographies:** North America ([source](https://www.congruentvc.com/), as of None)
-- **Sectors:** Mobility and Urbanization, Energy Transition, Food and Agriculture, Sustainable Production and Consumption ([source](https://www.congruentvc.com/blog/congruent-ventures-closes-275m-early-stage-climate-tech-fund), as of 2023-12)
-- **AUM:** more than $1 billion ([source](https://www.congruentvc.com/blog/congruent-ventures-closes-275m-early-stage-climate-tech-fund), as of 2023-12)
 - **Latest fund:** Congruent Ventures III, $275M ([source](https://www.congruentvc.com/blog/congruent-ventures-closes-275m-early-stage-climate-tech-fund), as of 2023-12)
 - **Thesis quote:** Leveraging decades of climate tech investing experience, we support early-stage entrepreneurs building transformative companies that do more with less. ([source](https://www.congruentvc.com/), as of None)
-- **Leads rounds:** unknown ([source](https://congruentvc.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.congruentvc.com/blog/congruent-ventures-closes-275m-early-stage-climate-tech-fund), as of 2023-12-07)
+- **Investment strategies:** early-stage climate and sustainability investing, growth-stage continuity investing ([source](https://www.congruentvc.com/blog/congruent-ventures-closes-275m-early-stage-climate-tech-fund), as of 2023-12-07)
+- **Stages:** formation, Series A, growth stage (portfolio follow-ons) ([source](https://www.congruentvc.com/), as of not recorded)
+- **Sectors:** Mobility and Urbanization, Energy Transition, Food and Agriculture, Sustainable Production and Consumption ([source](https://www.congruentvc.com/blog/congruent-ventures-closes-275m-early-stage-climate-tech-fund), as of 2023-12-07)
+- **Leads rounds:** yes ([source](https://www.congruentvc.com/blog/back-to-the-cleantech-future), as of 2023-04-10)
+- **AUM:** Lower bound (over): USD 1 billion (as of 2023-12-07) ([source](https://www.congruentvc.com/blog/congruent-ventures-closes-275m-early-stage-climate-tech-fund), as of 2023-12-07)
 
 ## Portfolio
 
@@ -53,5 +54,6 @@ Research date: 2026-10-03
 
 - [Source](https://congruentvc.com)
 - [Source](https://www.congruentvc.com/)
+- [Source](https://www.congruentvc.com/blog/back-to-the-cleantech-future)
 - [Source](https://www.congruentvc.com/blog/congruent-ventures-closes-275m-early-stage-climate-tech-fund)
 - [Source](https://www.congruentvc.com/portfolio)

@@ -1,5 +1,5 @@
 ---
-jev-score: 69
+jev-score: 70
 ---
 
 # Burnt Island Ventures
@@ -10,17 +10,18 @@ Domain: burntislandventures.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.burntislandventures.com/blog/burnt-island-ventures-raises-50-million-to-fund-the-development-of-critical-water-technologies-and-infrastructure), as of 2025-10)
 - **Founded:** 2020 ([source](https://www.burntislandventures.com/blog/burnt-island-ventures-raises-50-million-to-fund-the-development-of-critical-water-technologies-and-infrastructure), as of 2025-10)
-- **Stages:** seed ([source](https://www.burntislandventures.com/blog/burnt-island-ventures-raises-50-million-to-fund-the-development-of-critical-water-technologies-and-infrastructure), as of 2025-10)
 - **Latest fund:** Fund II closed at $50M, announced October 22, 2025 ([source](https://www.burntislandventures.com/blog/burnt-island-ventures-raises-50-million-to-fund-the-development-of-critical-water-technologies-and-infrastructure), as of 2025-10)
 - **Thesis quote:** The global water sector is a trillion-dollar industry hiding in plain sight ([source](https://www.burntislandventures.com/blog/burnt-island-ventures-raises-50-million-to-fund-the-development-of-critical-water-technologies-and-infrastructure), as of 2025-10)
 - **Exclusions:** Explicitly not a generalist cleantech fund; water-only mandate ([source](https://www.burntislandventures.com/investors), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://burntislandventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.burntislandventures.com/blog/burnt-island-ventures-raises-50-million-to-fund-the-development-of-critical-water-technologies-and-infrastructure), as of 2025-10)
+- **Investment strategies:** early-stage water technology investing ([source](https://www.burntislandventures.com/blog/burnt-island-ventures-raises-50-million-to-fund-the-development-of-critical-water-technologies-and-infrastructure), as of 2025-10)
+- **Stages:** seed ([source](https://www.burntislandventures.com/blog/burnt-island-ventures-raises-50-million-to-fund-the-development-of-critical-water-technologies-and-infrastructure), as of 2025-10)
+- **Sectors:** advanced treatment and filtration, water data, AI, and digital productivity tools, infrastructure resilience and efficiency, climate adaptation and water reuse ([source](https://www.burntislandventures.com/blog/burnt-island-ventures-raises-50-million-to-fund-the-development-of-critical-water-technologies-and-infrastructure), as of 2025-10)
 
 ## Portfolio
 

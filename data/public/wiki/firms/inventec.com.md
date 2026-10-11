@@ -1,5 +1,5 @@
 ---
-jev-score: 55
+jev-score: 56
 ---
 
 # Inventec Corporation
@@ -10,15 +10,13 @@ Domain: inventec.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-03
 
 ## Public research
 
 - **Founded:** 1975 ([source](https://www.inventec.com/en/about.htm), as of 2026-08)
-- **Stages:** series-a ([source](https://techcrunch.com/2021/01/04/known-for-5g-mmwave-testing-solutions-taiwans-tmytek-sets-its-sights-on-base-stations/), as of 2021-01)
 - **Geographies:** apac ([source](https://www.digitimes.com/news/a20250909PD223/malaysia-ic-design-joint-venture-chips-inventec.html), as of 2025-09)
 - **Legal name:** Inventec Corporation ([source](https://www.business-standard.com/companies/news/dixon-inventec-form-joint-venture-to-manufacture-pcs-and-servers-in-india-125050100837_1.html), as of 2025-05)
-- **Leads rounds:** maybe ([source](https://techcrunch.com/2021/01/04/known-for-5g-mmwave-testing-solutions-taiwans-tmytek-sets-its-sights-on-base-stations/), as of 2021-01)
 - **Coinvestors:** Kenmec Material Engineering, ITEQ, Tamagawa Electronics, Taiwan's National Development Fund ([source](https://techcrunch.com/2021/01/04/known-for-5g-mmwave-testing-solutions-taiwans-tmytek-sets-its-sights-on-base-stations/), as of 2021-01)
 
 ## Portfolio
@@ -46,4 +44,5 @@ Research date: 2026-08-25
 - [Source](https://www.digitimes.com/news/a20110127PD204.html)
 - [Source](https://www.digitimes.com/news/a20250909PD223/malaysia-ic-design-joint-venture-chips-inventec.html)
 - [Source](https://www.inventec.com/en/about.htm)
+- [Source](https://www.inventec.com/en/investor)
 - [Source](https://www.ledinside.com/news/2009/12/inventec_20091208)

@@ -1,5 +1,5 @@
 ---
-jev-score: 38
+jev-score: 44
 ---
 
 # Emerge Ventures
@@ -10,18 +10,18 @@ Domain: emerge.ventures
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/emerge-4), as of 2026-04-19)
-- **Stages:** seed, series-a ([source](https://www.crunchbase.com/organization/emerge-4), as of 2026-04-19)
 - **Geographies:** global ([source](https://www.crunchbase.com/organization/emerge-4), as of 2026-04-19)
-- **Sectors:** information-technology, healthcare, ai, machine-learning ([source](https://www.crunchbase.com/organization/emerge-4), as of 2026-04-19)
-- **Leads rounds:** unknown ([source](https://emerge.ventures), as of not recorded)
 - **About:** Emerge Ventures is an early-stage venture capital firm founded in 2015 and based in Tel Aviv, Israel. The firm invests across seed, early and later stages, with focus areas in information technology, healthcare, AI and machine learning ([source](https://www.crunchbase.com/organization/emerge-4), as of 2026-04-19)
+- **Type:** venture capital investor ([source](https://www.prnewswire.com/il/news-releases/loora-the-generative-ai-tutor-emerges-from-stealth-to-democratize-access-to-english-fluency-301864246.html), as of 2023-06-27)
+- **Investment strategies:** seed-stage investing (observed) ([source](https://www.prnewswire.com/il/news-releases/loora-the-generative-ai-tutor-emerges-from-stealth-to-democratize-access-to-english-fluency-301864246.html), as of 2023-06-27)
+- **Stages:** seed ([source](https://www.prnewswire.com/il/news-releases/loora-the-generative-ai-tutor-emerges-from-stealth-to-democratize-access-to-english-fluency-301864246.html), as of 2023-06-27)
+- **Leads rounds:** yes ([source](https://www.prnewswire.com/il/news-releases/loora-the-generative-ai-tutor-emerges-from-stealth-to-democratize-access-to-english-fluency-301864246.html), as of 2023-06-27)
 
 ## Portfolio
 
@@ -33,4 +33,6 @@ Not recorded.
 ## Sources
 
 - [Source](https://emerge.ventures)
+- [Source](https://emerge.ventures/)
 - [Source](https://www.crunchbase.com/organization/emerge-4)
+- [Source](https://www.prnewswire.com/il/news-releases/loora-the-generative-ai-tutor-emerges-from-stealth-to-democratize-access-to-english-fluency-301864246.html)

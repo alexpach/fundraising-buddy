@@ -1,5 +1,5 @@
 ---
-jev-score: 83
+jev-score: 86
 ---
 
 # One Way Ventures
@@ -10,18 +10,20 @@ Domain: onewayvc.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://techcrunch.com/2021/01/04/one-way-ventures-a-firm-focused-on-immigrant-founders-closes-second-fund/), as of 2021-01)
-- **Stages:** pre-seed, seed ([source](https://onewayvc.com/about), as of 2026-08)
 - **Geographies:** us ([source](https://onewayvc.com/about), as of 2026-08)
 - **Check size max:** ~$2 million (lead checks, per 2024 newsletter) ([source](https://onewayvc.substack.com/p/one-way-ventures-q2-2024-newsletter), as of 2024-06)
-- **Leads rounds:** yes ([source](https://techcrunch.com/2021/01/04/one-way-ventures-a-firm-focused-on-immigrant-founders-closes-second-fund/), as of 2021-01)
 - **Latest fund:** One Way Ventures Fund II closed at $57.5 million (announced January 2021) ([source](https://techcrunch.com/2021/01/04/one-way-ventures-a-firm-focused-on-immigrant-founders-closes-second-fund/), as of 2021-01)
 - **Thesis quote:** we back exceptional immigrant founders in the US at the pre-seed and seed stage ([source](https://onewayvc.com/about), as of 2026-08)
 - **LPs:** Fund I/II investors are value-add LPs (e.g. founders of companies including Robinhood, Techstars, Oculus, Vivox, and AirSlate; executives from Amazon, Meta, Google, and Netflix) ([source](https://onewayvc.substack.com/p/one-way-ventures-q2-2024-newsletter), as of 2024-06)
+- **Type:** venture capital ([source](https://onewayvc.substack.com/p/one-way-ventures-q2-2024-newsletter), as of 2024-08)
+- **Investment strategies:** seed-stage investing in immigrant-founded companies ([source](https://onewayvc.substack.com/p/one-way-ventures-q2-2024-newsletter), as of 2024-08)
+- **Stages:** pre-seed, seed ([source](https://www.onewayvc.com/about), as of not recorded)
+- **Sectors:** SaaS, AI, fintech, deep tech ([source](https://onewayvc.substack.com/p/one-way-ventures-q2-2024-newsletter), as of 2024-08)
+- **Leads rounds:** yes ([source](https://www.onewayvc.com/thoughts/instock-announces-new-funding-led-by-amazon-industrial-innovation-fund), as of 2023-12)
 
 ## Portfolio
 
@@ -49,4 +51,6 @@ Research date: 2026-08-26
 - [Source](https://onewayvc.com/about)
 - [Source](https://onewayvc.substack.com/p/one-way-ventures-q2-2024-newsletter)
 - [Source](https://techcrunch.com/2021/01/04/one-way-ventures-a-firm-focused-on-immigrant-founders-closes-second-fund/)
+- [Source](https://www.onewayvc.com/about)
 - [Source](https://www.onewayvc.com/portfolio)
+- [Source](https://www.onewayvc.com/thoughts/instock-announces-new-funding-led-by-amazon-industrial-innovation-fund)

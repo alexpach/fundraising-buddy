@@ -10,22 +10,23 @@ Domain: scalevp.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
 - **HQ:** Bay Area ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
 - **Founded:** 2000 ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
-- **Stages:** series-a, series-b ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
 - **Geographies:** us, europe ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
-- **Sectors:** AI, B2B software, vertical software, DevTools and infrastructure, security ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
-- **AUM:** $2.8 billion ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
 - **Check size min:** $5 million ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
 - **Check size max:** $50 million ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
-- **Leads rounds:** yes ([source](https://www.scalevp.com/frequently-asked-questions), as of not recorded)
 - **Latest fund:** Fund VIII, $900M, raised in 2022 ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
 - **Thesis quote:** AI and B2B software ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
+- **Type:** venture capital ([source](https://www.scalevp.com/frequently-asked-questions), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://www.scalevp.com/frequently-asked-questions), as of not recorded)
+- **Stages:** Series A, Series B ([source](https://www.scalevp.com/frequently-asked-questions), as of not recorded)
+- **Sectors:** AI, B2B software, vertical software, DevTools and infrastructure, security ([source](https://www.scalevp.com/frequently-asked-questions), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.scalevp.com/frequently-asked-questions), as of not recorded)
+- **AUM:** USD 2.8 billion (date not reported) ([source](https://www.scalevp.com/frequently-asked-questions), as of not recorded)
 
 ## Portfolio
 
@@ -61,3 +62,4 @@ Research date: 2026-10-03
 
 - [Source](https://www.scalevp.com/)
 - [Source](https://www.scalevp.com/frequently-asked-questions)
+- [Source](https://www.scalevp.com/press/bland-ai-emerges-from-stealth-with--16m-series-a-led-by-scale-venture-partners)

@@ -1,5 +1,5 @@
 ---
-jev-score: 64
+jev-score: 76
 ---
 
 # Mayfield
@@ -10,16 +10,19 @@ Domain: mayfield.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://mayfield.com/xvii-select-iii-spring), as of 2023-05)
-- **Stages:** seed, series-a, series-b ([source](https://mayfield.com/meet-our-team), as of 2026-08)
 - **Geographies:** us ([source](https://en.wikipedia.org/wiki/Mayfield_Fund), as of 2026-08)
 - **Latest fund:** Mayfield XVII ($580M) and Mayfield Select III ($375M) closed May 2023 ([source](https://mayfield.com/xvii-select-iii-spring), as of 2023-05)
 - **Thesis quote:** We pursue a themes-based investment approach and bring both a prepared and open mind to investing. ([source](https://mayfield.com/xvii-select-iii-spring), as of 2023-05)
-- **Leads rounds:** unknown ([source](https://mayfield.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.mayfield.com/xvii-select-iii-spring/), as of 2023-05-08)
+- **Investment strategies:** early-stage venture capital, early-growth venture investing ([source](https://www.mayfield.com/xvii-select-iii-spring/), as of 2023-05-08)
+- **Stages:** inception, seed, series A, early growth, series B ([source](https://www.mayfield.com/xvii-select-iii-spring/), as of 2023-05-08)
+- **Sectors:** human-centered AI, data economy, developer-first technology, semiconductors, cybersecurity, deeptech, Web3, human and planetary health ([source](https://www.mayfield.com/xvii-select-iii-spring/), as of 2023-05-08)
+- **Leads rounds:** yes ([source](https://www.mayfield.com/looking-back-looking-forward/), as of 2020)
+- **AUM:** USD 3 billion (as of 2023-05-08) ([source](https://www.mayfield.com/xvii-select-iii-spring/), as of 2023-05-08)
 
 ## Portfolio
 
@@ -47,4 +50,6 @@ Research date: 2026-08-26
 - [Source](https://mayfield.com)
 - [Source](https://mayfield.com/meet-our-team)
 - [Source](https://mayfield.com/xvii-select-iii-spring)
+- [Source](https://www.mayfield.com/looking-back-looking-forward/)
 - [Source](https://www.mayfield.com/team/navin-chaddha/)
+- [Source](https://www.mayfield.com/xvii-select-iii-spring/)

@@ -1,8 +1,8 @@
 ---
-jev-score: 62
+jev-score: 60
 ---
 
-# Playfair
+# Playfair Capital LLP
 
 [Website](https://playfair.vc)
 
@@ -10,19 +10,20 @@ Domain: playfair.vc
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://playfair.vc/team.php), as of None)
 - **HQ:** London, England ([source](https://playfair.vc/team.php), as of None)
-- **Stages:** pre-seed ([source](https://playfair.vc), as of None)
-- **Sectors:** sector agnostic ([source](https://playfair.vc/team.php), as of None)
 - **Check size min:** £100k ([source](https://playfair.vc), as of None)
 - **Check size max:** £1.5m ([source](https://playfair.vc), as of None)
 - **Legal name:** Playfair Capital LLP ([source](https://playfair.vc/team.php), as of None)
 - **Thesis quote:** We look for visionary founders, with hustle, heart and humility, who see the world, not as it is, but as it could be ([source](https://playfair.vc/team.php), as of None)
-- **Leads rounds:** unknown ([source](https://playfair.vc), as of not recorded)
+- **Type:** venture capital ([source](https://playfair.vc/portfolio.php), as of not recorded)
+- **Investment strategies:** generalist investing ([source](https://playfair.vc/portfolio.php), as of not recorded)
+- **Legal structure:** limited liability partnership (LLP) ([source](https://playfair.vc/portfolio.php), as of not recorded)
+- **Stages:** pre-seed ([source](https://playfair.vc/portfolio.php), as of not recorded)
+- **Sectors:** sector agnostic ([source](https://playfair.vc/portfolio.php), as of not recorded)
 
 ## Portfolio
 

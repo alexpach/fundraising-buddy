@@ -1,5 +1,5 @@
 ---
-jev-score: 65
+jev-score: 77
 ---
 
 # Northzone
@@ -10,17 +10,20 @@ Domain: northzone.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.reuters.com/markets/europe/venture-capital-firm-northzone-raises-1-bln-euros-2022-09-13/), as of 2022-09)
 - **Founded:** 1996 ([source](https://northzone.com/), as of None)
 - **Geographies:** europe, us ([source](https://northzone.com/insights/weve-raised-e1bn-investing-from-seed-to-growth-in-category-defining-entrepreneurs), as of 2022-09)
 - **Offices:** London, New York, Berlin, Stockholm, Amsterdam ([source](https://northzone.com/), as of None)
 - **Latest fund:** EUR 1bn tenth fund, announced Sept 2022 ([source](https://www.reuters.com/markets/europe/venture-capital-firm-northzone-raises-1-bln-euros-2022-09-13/), as of 2022-09)
 - **Thesis quote:** Backing world-changing companies from inception to IPO ([source](https://northzone.com/), as of None)
-- **Leads rounds:** unknown ([source](https://northzone.com), as of not recorded)
+- **Type:** venture capital ([source](https://northzone.com/insights/weve-raised-e1bn-investing-from-seed-to-growth-in-category-defining-entrepreneurs), as of 2022-09)
+- **Investment strategies:** seed-stage venture, growth-stage venture ([source](https://northzone.com/insights/weve-raised-e1bn-investing-from-seed-to-growth-in-category-defining-entrepreneurs), as of 2022-09)
+- **Stages:** seed, growth, pre-IPO, IPO ([source](https://northzone.com/insights/weve-raised-e1bn-investing-from-seed-to-growth-in-category-defining-entrepreneurs), as of 2022-09)
+- **Sectors:** Fintech, Healthtech, SaaS, Consumer ([source](https://northzone.com/insights/weve-raised-e1bn-investing-from-seed-to-growth-in-category-defining-entrepreneurs), as of 2022-09)
+- **AUM:** Lower bound (over): USD 3.1 billion (date not reported) ([source](https://northzone.com/), as of not recorded)
 
 ## Portfolio
 

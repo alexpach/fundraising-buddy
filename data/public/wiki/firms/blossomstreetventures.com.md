@@ -1,5 +1,5 @@
 ---
-jev-score: 78
+jev-score: 77
 ---
 
 # Blossom Street Ventures
@@ -10,19 +10,20 @@ Domain: blossomstreetventures.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.sec.gov/Archives/edgar/data/2033353/000203335324000001/primary_doc.xml), as of 2024-08)
 - **Founded:** 2013 ([source](https://www.dallasnews.com/business/technology/2016/10/03/more-than-a-lawyer-kevin-vela-is-therapist-coach-to-dallas-startup-founders/), as of 2016-10)
-- **Stages:** series-a, series-b, growth ([source](https://www.blossomstreetventures.com/), as of 2026-08)
-- **Sectors:** SaaS ([source](https://www.blossomstreetventures.com/), as of 2026-08)
 - **Check size min:** $1mm ([source](https://www.blossomstreetventures.com/), as of 2026-08)
 - **Check size max:** $4mm ([source](https://www.blossomstreetventures.com/), as of 2026-08)
-- **Leads rounds:** maybe ([source](https://www.blossomstreetventures.com/about), as of 2026-05)
 - **Latest fund:** BSV Fund XI offering closed with $8,395,500 sold of a $25,000,000 authorized amount (per Form D/A dated 2026-03-18) ([source](https://www.sec.gov/Archives/edgar/data/2033353/000203335326000003/primary_doc.xml), as of 2026-03)
 - **Thesis quote:** We invest in SaaS companies with $2mm to $30mm in ARR, led by founders who are cash efficient, resourceful, and pragmatic. ([source](https://www.blossomstreetventures.com/), as of 2026-08)
+- **Type:** venture capital ([source](https://www.blossomstreetventures.com/), as of not recorded)
+- **Investment strategies:** growth round investing ([source](https://www.blossomstreetventures.com/), as of not recorded)
+- **Stages:** Series A, Series B, Series C, Series D, Series E, growth rounds ([source](https://www.blossomstreetventures.com/portfolio), as of not recorded)
+- **Sectors:** B2B SaaS, Software ([source](https://www.blossomstreetventures.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.blossomstreetventures.com/), as of not recorded)
 
 ## Portfolio
 

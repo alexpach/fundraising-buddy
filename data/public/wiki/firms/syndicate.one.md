@@ -1,5 +1,5 @@
 ---
-jev-score: 40
+jev-score: 58
 ---
 
 # Syndicate One
@@ -10,18 +10,18 @@ Domain: syndicate.one
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.syndicate.one/), as of 2026-08-06)
-- **Stages:** pre-seed, seed ([source](https://www.syndicate.one/), as of 2026-08-06)
 - **Geographies:** europe ([source](https://www.syndicate.one/), as of 2026-08-06)
-- **Sectors:** generalist ([source](https://www.syndicate.one/), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://www.syndicate.one/), as of not recorded)
 - **About:** Syndicate One is a Brussels-based, network-driven venture fund founded in early 2022, backing the most ambitious Belgian-founded tech startups at Pre-Seed and Seed. It pools capital, expertise and network from 120+ founders, operators and investors, alongside LPs including Belgian governmental investment funds (PMV, SFPIM, Finance&Invest Brussels, Wallonie Entreprendre) ([source](https://www.syndicate.one/), as of 2026-08-06)
+- **Type:** venture capital ([source](https://www.syndicate.one/media/syndicate-one-closes-a-eu-22-million-fund-to-further-accelerate-the-tech-ecosystem), as of 2026-02-23)
+- **Investment strategies:** early-stage ([source](https://www.syndicate.one/media/syndicate-one-closes-a-eu-22-million-fund-to-further-accelerate-the-tech-ecosystem), as of 2026-02-23)
+- **Stages:** seed ([source](https://www.syndicate.one/media/syndicate-one-closes-a-eu-22-million-fund-to-further-accelerate-the-tech-ecosystem), as of 2026-02-23)
+- **Sectors:** Generalist technology ([source](https://www.syndicate.one/media/syndicate-one-closes-a-eu-22-million-fund-to-further-accelerate-the-tech-ecosystem), as of 2026-02-23)
 
 ## Portfolio
 
@@ -38,3 +38,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.syndicate.one/)
+- [Source](https://www.syndicate.one/media/syndicate-one-closes-a-eu-22-million-fund-to-further-accelerate-the-tech-ecosystem)

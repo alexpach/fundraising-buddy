@@ -1,5 +1,5 @@
 ---
-jev-score: 51
+jev-score: 52
 ---
 
 # Arkin Holdings

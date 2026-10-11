@@ -1,5 +1,5 @@
 ---
-jev-score: 89
+jev-score: 88
 ---
 
 # Bayern Kapital
@@ -14,19 +14,20 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://bayernkapital.de/bayern-kapital/), as of None)
 - **HQ:** Landshut, Germany ([source](https://bayernkapital.de/bayern-kapital/), as of None)
 - **Founded:** 1995 ([source](https://bayernkapital.de/news-events/200-millionen-euro-fuer-stark-expandierende-hightech-unternehmen-freistaat-gibt-gruenes-licht-fuer-scaleup-fonds-bayern/), as of 2021-07)
-- **Stages:** pre-seed, growth ([source](https://bayernkapital.de/bayern-kapital/), as of None)
-- **Sectors:** AI, quantum technology, nuclear fusion, new space, semiconductors, industrial technology, climate and energy tech, software and SaaS, life sciences, medtech ([source](https://www.vc-magazin.de/blog/2026/08/25/neben-wachstum-rueckt-die-qualitaet-staerker-in-den-mittelpunkt/), as of 2026-08)
-- **AUM:** rund 1,3 Milliarden Euro under management ([source](https://bayernkapital.de/bayern-kapital/), as of None)
 - **Check size min:** EUR 250,000 ([source](https://bayernkapital.de/bayern-kapital/), as of None)
 - **Check size max:** EUR 50 million ([source](https://bayernkapital.de/bayern-kapital/), as of None)
 - **Legal name:** Bayern Kapital GmbH ([source](https://bayernkapital.de/news-events/200-millionen-euro-fuer-stark-expandierende-hightech-unternehmen-freistaat-gibt-gruenes-licht-fuer-scaleup-fonds-bayern/), as of 2021-07)
 - **Latest fund:** Wachstums- und ScaleUp-Fonds, EUR 500 million, announced January 2026 ([source](https://www.stmwi.bayern.de/presse/pressemeldungen/319-2026/), as of 2026-07)
 - **Thesis quote:** Bayern Kapital investiert in bayerische High-Tech- und DeepTech-Startups und Scaleups mit skalierbarem Produktgeschäft. ([source](https://bayernkapital.de/bayern-kapital/), as of None)
 - **LPs:** 100% subsidiary of LfA Förderbank Bayern ([source](https://bayernkapital.de/bayern-kapital/), as of None)
-- **Leads rounds:** unknown ([source](https://bayernkapital.de), as of not recorded)
+- **Type:** venture capital ([source](https://bayernkapital.de/news-events/200-millionen-euro-fuer-stark-expandierende-hightech-unternehmen-freistaat-gibt-gruenes-licht-fuer-scaleup-fonds-bayern/), as of 2021-07-15)
+- **Investment strategies:** high-tech venture and growth investing ([source](https://bayernkapital.de/news-events/200-millionen-euro-fuer-stark-expandierende-hightech-unternehmen-freistaat-gibt-gruenes-licht-fuer-scaleup-fonds-bayern/), as of 2021-07-15)
+- **Investment instruments:** equity ([source](https://bayernkapital.de/news-events/200-millionen-euro-fuer-stark-expandierende-hightech-unternehmen-freistaat-gibt-gruenes-licht-fuer-scaleup-fonds-bayern/), as of 2021-07-15)
+- **Stages:** pre-seed, growth, scaleup, exit ([source](https://bayernkapital.de/bayern-kapital/), as of not recorded)
+- **Sectors:** Life Sciences, Software and IT, Medical technology, Mobility, Materials, Environmental technology ([source](https://bayernkapital.de/news-events/200-millionen-euro-fuer-stark-expandierende-hightech-unternehmen-freistaat-gibt-gruenes-licht-fuer-scaleup-fonds-bayern/), as of 2021-07-15)
+- **AUM:** Approximately EUR 1.3 billion (date not reported) ([source](https://bayernkapital.de/bayern-kapital/), as of not recorded)
 
 ## Portfolio
 

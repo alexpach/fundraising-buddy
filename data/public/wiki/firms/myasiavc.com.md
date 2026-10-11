@@ -1,5 +1,5 @@
 ---
-jev-score: 43
+jev-score: 42
 ---
 
 # MyAsiaVC
@@ -10,13 +10,16 @@ Domain: myasiavc.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
 - **Check size min:** $100k ([source](https://venture.angellist.com/v/myasiavc/syndicate), as of None)
 - **Check size max:** $1.5M ([source](https://venture.angellist.com/v/myasiavc/syndicate), as of None)
-- **Leads rounds:** no ([source](https://www.myasiavc.com), as of 2026-07-04)
+- **Type:** venture capital firm ([source](https://www.myasiavc.com/), as of not recorded)
+- **Investment strategies:** venture investing ([source](https://www.myasiavc.com/), as of not recorded)
+- **Sectors:** Adtech, Cleantech, Deeptech, Defense, E-Commerce, Consumer, Enterprise, Fintech, Gaming, Healthcare, Logistics, Web3 ([source](https://www.myasiavc.com/portfolio), as of not recorded)
+- **AUM:** Lower bound (over): USD 125 million (date not reported) ([source](https://www.myasiavc.com/), as of not recorded)
 
 ## Portfolio
 
@@ -39,3 +42,5 @@ Research date: 2026-10-03
 - [Source](https://sajidrahman.substack.com/p/welcome-to-the-myasiavc-alliance-93d)
 - [Source](https://venture.angellist.com/v/myasiavc/syndicate)
 - [Source](https://www.myasiavc.com/)
+- [Source](https://www.myasiavc.com/portfolio)
+- [Source](https://www.myasiavc.com/team)

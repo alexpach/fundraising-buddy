@@ -1,5 +1,5 @@
 ---
-jev-score: 14
+jev-score: 8
 ---
 
 # OpenAI
@@ -10,15 +10,14 @@ Domain: openai.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://openai.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://openai.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://openai.com), as of not recorded)
+- **Type:** operating company ([source](https://openai.com/about/), as of not recorded)
+- **Legal structure:** nonprofit foundation and public benefit corporation structure ([source](https://openai.com/about/), as of not recorded)
 
 ## Portfolio
 
@@ -30,3 +29,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://openai.com)
+- [Source](https://openai.com/about/)
+- [Source](https://www.openai.fund/about)

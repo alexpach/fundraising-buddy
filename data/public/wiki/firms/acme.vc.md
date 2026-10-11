@@ -1,5 +1,5 @@
 ---
-jev-score: 64
+jev-score: 72
 ---
 
 # ACME Capital
@@ -14,10 +14,12 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.businesswire.com/news/home/20220204005038/en/ACME-Capital-Closes-Over-300-Million-for-its-Latest-Venture-Funds-and-Expands-Partnership), as of 2022-02)
 - **Geographies:** us, europe ([source](https://acme.vc/our-team), as of None)
 - **Thesis quote:** ACME's Fund IV investment strategy will continue to focus on early-stage investments built on the belief that innovation is driven by platform shifts ([source](https://www.businesswire.com/news/home/20220204005038/en/ACME-Capital-Closes-Over-300-Million-for-its-Latest-Venture-Funds-and-Expands-Partnership), as of 2022-02)
-- **Leads rounds:** unknown ([source](https://acme.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.businesswire.com/news/home/20220204005038/en/ACME-Capital-Closes-Over-300-Million-for-its-Latest-Venture-Funds-and-Expands-Partnership), as of 2022-02-04)
+- **Investment strategies:** early-stage venture investing ([source](https://www.businesswire.com/news/home/20220204005038/en/ACME-Capital-Closes-Over-300-Million-for-its-Latest-Venture-Funds-and-Expands-Partnership), as of 2022-02-04)
+- **Stages:** early stage ([source](https://www.businesswire.com/news/home/20220204005038/en/ACME-Capital-Closes-Over-300-Million-for-its-Latest-Venture-Funds-and-Expands-Partnership), as of 2022-02-04)
+- **Leads rounds:** yes ([source](https://www.businesswire.com/news/home/20220204005038/en/ACME-Capital-Closes-Over-300-Million-for-its-Latest-Venture-Funds-and-Expands-Partnership), as of 2022-02-04)
 
 ## Portfolio
 
@@ -49,4 +51,6 @@ Research date: 2026-10-03
 - [Source](https://acme.vc/full-portfolio)
 - [Source](https://acme.vc/our-team)
 - [Source](https://www.acme.vc/)
+- [Source](https://www.acme.vc/about)
+- [Source](https://www.acme.vc/full-portfolio)
 - [Source](https://www.businesswire.com/news/home/20220204005038/en/ACME-Capital-Closes-Over-300-Million-for-its-Latest-Venture-Funds-and-Expands-Partnership)

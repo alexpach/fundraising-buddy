@@ -1,5 +1,5 @@
 ---
-jev-score: 33
+jev-score: 44
 ---
 
 # Rethink Ventures
@@ -10,17 +10,18 @@ Domain: rethinkventures.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://rethinkventures.com/), as of 2026-08-07)
-- **Stages:** seed ([source](https://rethinkventures.com/), as of 2026-08-07)
 - **Geographies:** europe ([source](https://rethinkventures.com/), as of 2026-08-07)
-- **Sectors:** mobility, logistics, supply-chain ([source](https://rethinkventures.com/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://rethinkventures.com/), as of not recorded)
+- **Type:** venture capital ([source](https://rethinkventures.com/fund-launch/), as of 2023-03-14)
+- **Investment strategies:** early-stage venture capital ([source](https://rethinkventures.com/fund-launch/), as of 2023-03-14)
+- **Stages:** seed, series A ([source](https://rethinkventures.com/fund-launch/), as of 2023-03-14)
+- **Sectors:** mobility, automotive, logistics, energy ([source](https://rethinkventures.com/fund-launch/), as of 2023-03-14)
+- **Leads rounds:** yes ([source](https://rethinkventures.com/portfolio/), as of not recorded)
 
 ## Portfolio
 
@@ -39,3 +40,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://rethinkventures.com/)
+- [Source](https://rethinkventures.com/fund-launch/)
+- [Source](https://rethinkventures.com/portfolio/)

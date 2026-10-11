@@ -1,5 +1,5 @@
 ---
-jev-score: 77
+jev-score: 85
 ---
 
 # Earlybird Venture Capital
@@ -14,17 +14,18 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://earlybird.com/about-us), as of None)
 - **HQ:** Berlin, Munich, London (offices; no single HQ stated) ([source](https://earlybird.com/about-us), as of None)
 - **Founded:** 1997 ([source](https://earlybird.com/about-us), as of None)
-- **Stages:** Pre-Seed, Seed, Series A ([source](https://earlybird.com/), as of None)
 - **Geographies:** europe ([source](https://earlybird.com/about-us), as of None)
-- **Sectors:** AI Applications, Software Infrastructure and Foundation Models, DeepTech ([source](https://earlybird.com/perspectives/fund-viii-a-%E2%82%AC360m-commitment-to-europe%E2%80%99s-future-builders), as of 2026-04)
-- **AUM:** more than EUR 2.5 billion under management ([source](https://earlybird.com/perspectives/avp-and-earlybird-launch-e2d-a-%E2%82%AC500m-european-dual-use-and-defence-growth-fund), as of 2026-06)
 - **Legal name:** Earlybird Venture Capital ([source](https://earlybird.com/about-us), as of None)
 - **Latest fund:** EUR 360M Fund VIII closed ([source](https://earlybird.com/perspectives/fund-viii-a-%E2%82%AC360m-commitment-to-europe%E2%80%99s-future-builders), as of 2026-04)
 - **Thesis quote:** Earlybird backs Pre-Seed to Series A founders in emerging tech – from fintech to nuclear fusion. ([source](https://earlybird.com/), as of None)
-- **Leads rounds:** unknown ([source](https://earlybird.com), as of not recorded)
+- **Type:** venture capital ([source](https://earlybird.com/perspectives/avp-and-earlybird-launch-e2d-a-%E2%82%AC500m-european-dual-use-and-defence-growth-fund), as of 2026-06)
+- **Investment strategies:** early-stage venture capital, technology-enabled businesses, life sciences through Earlybird Health ([source](https://earlybird.com/perspectives/avp-and-earlybird-launch-e2d-a-%E2%82%AC500m-european-dual-use-and-defence-growth-fund), as of 2026-06)
+- **Stages:** early-stage, growth-stage through the separate E2D fund advised by Earlybird and AVP ([source](https://earlybird.com/perspectives/fund-viii-a-%E2%82%AC360m-commitment-to-europe%E2%80%99s-future-builders), as of 2026-04)
+- **Sectors:** AI applications, Software infrastructure and foundation models, DeepTech, Life sciences (Earlybird Health strategy) ([source](https://earlybird.com/perspectives/fund-viii-a-%E2%82%AC360m-commitment-to-europe%E2%80%99s-future-builders), as of 2026-04)
+- **Leads rounds:** yes ([source](https://earlybird.com/perspectives/long-on-europe-reviewing-2025-at-earlybird), as of 2025-12)
+- **AUM:** EUR 2.5 billion (as of 2026-06) ([source](https://earlybird.com/perspectives/avp-and-earlybird-launch-e2d-a-%E2%82%AC500m-european-dual-use-and-defence-growth-fund), as of 2026-06)
 
 ## Portfolio
 
@@ -58,3 +59,4 @@ Research date: 2026-10-03
 - [Source](https://earlybird.com/companies)
 - [Source](https://earlybird.com/perspectives/avp-and-earlybird-launch-e2d-a-%E2%82%AC500m-european-dual-use-and-defence-growth-fund)
 - [Source](https://earlybird.com/perspectives/fund-viii-a-%E2%82%AC360m-commitment-to-europe%E2%80%99s-future-builders)
+- [Source](https://earlybird.com/perspectives/long-on-europe-reviewing-2025-at-earlybird)

@@ -10,17 +10,16 @@ Domain: thrivecap.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.thrivecap.com/thrive-x), as of 2026-02)
 - **HQ:** New York, New York ([source](https://www.thrivecap.com/contact), as of 2026-10)
-- **Stages:** early-stage, growth-stage ([source](https://www.thrivecap.com/thrive-x), as of 2026-02)
-- **Sectors:** internet, software, technology-enabled companies ([source](https://www.thrivecap.com/info), as of 2026-10)
 - **Latest fund:** Thrive X, exceeding $10 billion ([source](https://www.thrivecap.com/thrive-x), as of 2026-02)
 - **Thesis quote:** Our product is partnership - the willingness to commit deeply to a small number of founders ([source](https://www.thrivecap.com/thrive-x), as of 2026-02)
-- **Leads rounds:** unknown ([source](https://thrivecap.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.thrivecap.com/info), as of 2026-05)
+- **Stages:** early-stage, growth-stage ([source](https://www.thrivecap.com/thrive-x), as of 2026-02)
+- **Sectors:** internet, software, technology-enabled companies ([source](https://www.thrivecap.com/info), as of 2026-05)
 
 ## Portfolio
 

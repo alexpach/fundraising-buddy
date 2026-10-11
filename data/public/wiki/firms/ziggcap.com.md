@@ -1,5 +1,5 @@
 ---
-jev-score: 60
+jev-score: 57
 ---
 
 # Zigg Capital
@@ -10,19 +10,18 @@ Domain: ziggcap.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://commercialobserver.com/power-series/player/ryan-orley-and-dave-eisenberg/), as of 2024-10)
 - **HQ:** New York, NY ([source](https://efts.sec.gov/LatestSearch), as of 2024-07)
 - **Founded:** 2018 ([source](https://commercialobserver.com/power-series/player/ryan-orley-and-dave-eisenberg/), as of 2024-10)
-- **Sectors:** construction, real estate, retail, hospitality, property management ([source](https://ziggcap.com/letter.html), as of 2019-01)
-- **AUM:** $400 million ([source](https://commercialobserver.com/power-series/player/ryan-orley-and-dave-eisenberg/), as of 2024-10)
 - **Latest fund:** second fund, $225 million ([source](https://ziggcap.com/fund.html), as of None)
 - **Thesis quote:** Accelerating the combination of real property and technology. ([source](https://ziggcap.com/), as of None)
 - **LPs:** leading universities, sovereign wealth funds, and philanthropic organizations ([source](https://ziggcap.com/fund.html), as of None)
-- **Leads rounds:** unknown ([source](https://ziggcap.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.sec.gov/Archives/edgar/data/1819850/000181985020000001/xslFormDX01/primary_doc.xml), as of 2020-10-29)
+- **Investment strategies:** real estate technology ([source](https://www.sec.gov/Archives/edgar/data/1819850/000181985020000001/xslFormDX01/primary_doc.xml), as of 2020-10-29)
+- **Sectors:** construction, real estate, retail, hospitality, property management ([source](https://ziggcap.com/fund.html), as of not recorded)
 
 ## Portfolio
 
@@ -46,6 +45,7 @@ Research date: 2026-10-03
 
 - [Source](https://commercialobserver.com/power-series/player/ryan-orley-and-dave-eisenberg/)
 - [Source](https://efts.sec.gov/LatestSearch)
+- [Source](https://www.sec.gov/Archives/edgar/data/1819850/000181985020000001/xslFormDX01/primary_doc.xml)
 - [Source](https://ziggcap.com/)
 - [Source](https://ziggcap.com/fund.html)
 - [Source](https://ziggcap.com/letter.html)

@@ -1,5 +1,5 @@
 ---
-jev-score: 91
+jev-score: 93
 ---
 
 # b2venture
@@ -10,16 +10,13 @@ Domain: b2venture.vc
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://b2venture.vc/), as of 2026-09)
 - **HQ:** Unterstrasse 6, 9000 St. Gallen, Switzerland ([source](https://b2venture.vc/), as of 2026-09)
 - **Founded:** 2000 ([source](https://www.b2venture.vc/stories/closing-fund-v-at-eu150m-hard-cap-to-support-the-next-generation-of-european-tech-leaders), as of 2026-01)
-- **Stages:** pre-seed, seed, series-a ([source](https://b2venture.vc/), as of 2026-09)
 - **Geographies:** europe ([source](https://b2venture.vc/), as of 2026-09)
-- **Sectors:** deep technology, AI, robotics, manufacturing, automation, infrastructure, fintech, digital health ([source](https://www.b2venture.vc/stories/closing-fund-v-at-eu150m-hard-cap-to-support-the-next-generation-of-european-tech-leaders), as of 2026-01)
 - **Check size min:** EUR 250,000 ([source](https://b2venture.vc/), as of 2026-09)
 - **Check size max:** EUR 5,000,000 ([source](https://b2venture.vc/), as of 2026-09)
 - **Legal name:** b2venture AG ([source](https://b2venture.vc/), as of 2026-09)
@@ -27,7 +24,11 @@ Research date: 2026-09-20
 - **Latest fund:** Fund V closed at EUR 150m hard cap ([source](https://www.b2venture.vc/stories/closing-fund-v-at-eu150m-hard-cap-to-support-the-next-generation-of-european-tech-leaders), as of 2026-01)
 - **Thesis quote:** backing founders building scalable, defensible technologies and digital business models from the earliest stages ([source](https://www.b2venture.vc/stories/closing-fund-v-at-eu150m-hard-cap-to-support-the-next-generation-of-european-tech-leaders), as of 2026-01)
 - **LPs:** Family offices, institutional investors, and high-net-worth individuals, including asset manager Flexstone and Swiss pension fund Stiftung Abendrot. ([source](https://www.b2venture.vc/stories/closing-fund-v-at-eu150m-hard-cap-to-support-the-next-generation-of-european-tech-leaders), as of 2026-01)
-- **Leads rounds:** unknown ([source](https://b2venture.vc), as of not recorded)
+- **Type:** venture capital firm ([source](https://www.b2venture.vc/), as of not recorded)
+- **Investment strategies:** early-stage venture investing ([source](https://www.b2venture.vc/), as of not recorded)
+- **Stages:** Pre-Seed, Seed, Series A ([source](https://www.b2venture.vc/), as of not recorded)
+- **Sectors:** deep technology, AI, robotics, manufacturing, automation, infrastructure ([source](https://www.b2venture.vc/stories/closing-fund-v-at-eu150m-hard-cap-to-support-the-next-generation-of-european-tech-leaders), as of 2026-01-28)
+- **Leads rounds:** yes ([source](https://www.b2venture.vc/stories/1komma5deg-announces-oversubscribed-series-b-for-further-market-expansion-and-european-r-d), as of 2023-06-26)
 
 ## Portfolio
 
@@ -61,4 +62,6 @@ Research date: 2026-09-20
 - [Source](https://b2venture.vc)
 - [Source](https://b2venture.vc/)
 - [Source](https://b2venture.vc/portfolio)
+- [Source](https://www.b2venture.vc/)
+- [Source](https://www.b2venture.vc/stories/1komma5deg-announces-oversubscribed-series-b-for-further-market-expansion-and-european-r-d)
 - [Source](https://www.b2venture.vc/stories/closing-fund-v-at-eu150m-hard-cap-to-support-the-next-generation-of-european-tech-leaders)

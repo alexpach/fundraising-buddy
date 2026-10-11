@@ -1,5 +1,5 @@
 ---
-jev-score: 57
+jev-score: 64
 ---
 
 # RPS Ventures
@@ -10,15 +10,18 @@ Domain: rpsventures.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.rpsventures.com/), as of 2026-08)
 - **HQ:** Los Altos, CA ([source](https://www.rpsventures.com/), as of 2026-08)
 - **Legal name:** RPS Ventures I, L.P. ([source](https://www.sec.gov/Archives/edgar/data/1754296/000175429618000001/primary_doc.xml), as of 2018-10)
 - **Thesis quote:** We focus on investing in and supporting exceptional teams that are changing markets that matter. ([source](https://www.rpsventures.com/), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://rpsventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.rpsventures.com/), as of not recorded)
+- **Investment strategies:** late-stage technology venture capital ([source](https://www.rpsventures.com/), as of not recorded)
+- **Stages:** late-stage ([source](https://www.rpsventures.com/), as of not recorded)
+- **Sectors:** Technology ([source](https://www.rpsventures.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.prnewswire.com/news-releases/handspring-raises-19m-series-b-to-bring-high-quality-mental-health-care-to-children-and-families-nationwide-302817364.html), as of 2026-07-08)
 
 ## Portfolio
 
@@ -47,5 +50,6 @@ Research date: 2026-08-25
 ## Sources
 
 - [Source](https://rpsventures.com)
+- [Source](https://www.prnewswire.com/news-releases/handspring-raises-19m-series-b-to-bring-high-quality-mental-health-care-to-children-and-families-nationwide-302817364.html)
 - [Source](https://www.rpsventures.com/)
 - [Source](https://www.sec.gov/Archives/edgar/data/1754296/000175429618000001/primary_doc.xml)

@@ -1,5 +1,5 @@
 ---
-jev-score: 54
+jev-score: 57
 ---
 
 # Octopus Ventures
@@ -10,18 +10,18 @@ Domain: octopusventures.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://octopusventures.com/), as of None)
 - **Founded:** 2008 ([source](https://octopusventures.com/), as of None)
-- **Stages:** pre-seed, seed, series-a ([source](https://octopusventures.com/), as of None)
 - **Geographies:** europe ([source](https://octopusventures.com/about/faq/), as of None)
-- **Sectors:** B2B Software, Bio, Climate, Consumer, Deep Tech, Fintech, Health ([source](https://octopusventures.com/), as of None)
 - **Offices:** UK and US ([source](https://octopusventures.com/about/faq/), as of None)
-- **Leads rounds:** maybe ([source](https://octopusventures.com/about/faq/), as of None)
 - **Thesis quote:** We back founders who are changing the world for the better. ([source](https://octopusventures.com/), as of None)
+- **Type:** venture capital ([source](https://octopusventures.com/about/faq/), as of not recorded)
+- **Stages:** pre-seed, seed, series A, series B ([source](https://octopusventures.com/about/faq/), as of not recorded)
+- **Sectors:** B2B Software, Bio, Climate, Consumer, Deep Tech, Fintech, Health ([source](https://octopusventures.com/about/faq/), as of not recorded)
+- **Leads rounds:** yes ([source](https://octopusventures.com/about/faq/), as of not recorded)
 
 ## Portfolio
 
@@ -47,4 +47,6 @@ Research date: 2026-10-03
 - [Source](https://octopusventures.com)
 - [Source](https://octopusventures.com/)
 - [Source](https://octopusventures.com/about/faq/)
+- [Source](https://octopusventures.com/about/how-it-works/)
+- [Source](https://octopusventures.com/blog/our-investment-in-automata/)
 - [Source](https://octopusventures.com/portfolio/)

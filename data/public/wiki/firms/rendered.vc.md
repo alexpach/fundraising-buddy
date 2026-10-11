@@ -1,5 +1,5 @@
 ---
-jev-score: 29
+jev-score: 32
 ---
 
 # Rendered VC
@@ -10,17 +10,17 @@ Domain: rendered.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://rendered.vc), as of 2026-08-06)
-- **Stages:** pre-seed, seed, series-a ([source](https://rendered.vc), as of 2026-08-06)
 - **Geographies:** us, europe ([source](https://rendered.vc), as of 2026-08-06)
-- **Sectors:** graphics, gaming, 3d, media-tech ([source](https://rendered.vc), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://rendered.vc), as of not recorded)
+- **Type:** fund ([source](https://rendered.vc/), as of not recorded)
+- **Investment strategies:** early-stage investing ([source](https://rendered.vc/), as of not recorded)
+- **Stages:** early-stage ([source](https://rendered.vc/), as of not recorded)
+- **Sectors:** media technology, graphics ([source](https://rendered.vc/), as of not recorded)
 
 ## Portfolio
 
@@ -35,3 +35,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://rendered.vc)
+- [Source](https://rendered.vc/)

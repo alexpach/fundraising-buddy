@@ -1,8 +1,8 @@
 ---
-jev-score: 73
+jev-score: 75
 ---
 
-# QDNL Participations (now Ground State Ventures)
+# Ground State Ventures
 
 [Website](https://gsv.vc)
 
@@ -10,18 +10,19 @@ Domain: gsv.vc
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://qdnl.nl/news/qdnl-participations-announces-eur60m-global-fund-for-early-stage-quantum-startups-with-eur25m-first-close), as of 2025-01)
-- **Stages:** early-stage ([source](https://gsv.vc/blog/we-ve-changed-our-name-qdnl-participations-is-now-ground-state-ventures/), as of 2026-04)
 - **Geographies:** global ([source](https://gsv.vc/), as of 2026-10)
-- **Sectors:** quantum computing, sensing, communications, infrastructure ([source](https://gsv.vc/), as of 2026-10)
 - **Offices:** Amsterdam, London, San Francisco ([source](https://gsv.vc/blog/we-ve-changed-our-name-qdnl-participations-is-now-ground-state-ventures/), as of 2026-04)
-- **Leads rounds:** maybe ([source](https://gsv.vc/blog/we-ve-changed-our-name-qdnl-participations-is-now-ground-state-ventures/), as of 2026-04)
 - **Latest fund:** $88 million raised, approaching final close ([source](https://gsv.vc/blog/we-ve-changed-our-name-qdnl-participations-is-now-ground-state-ventures/), as of 2026-04)
 - **Thesis quote:** The best portfolio of early-stage investments in a highly technical, emerging field such as quantum can only be developed by a team of specialists ([source](https://gsv.vc/blog/kris-kaczmarek-promoted-to-partner/), as of 2026-05)
+- **Type:** venture capital ([source](https://qdnl.nl/news/qdnl-participations-announces-eur60m-global-fund-for-early-stage-quantum-startups-with-eur25m-first-close), as of 2025-01-24)
+- **Investment strategies:** early-stage quantum technology ([source](https://qdnl.nl/news/qdnl-participations-announces-eur60m-global-fund-for-early-stage-quantum-startups-with-eur25m-first-close), as of 2025-01-24)
+- **Stages:** early-stage ([source](https://gsv.vc/blog/we-ve-changed-our-name-qdnl-participations-is-now-ground-state-ventures/), as of 2026-04-28)
+- **Sectors:** quantum computing, sensing, communications, infrastructure ([source](https://gsv.vc/), as of not recorded)
+- **Leads rounds:** yes ([source](https://gsv.vc/blog/we-ve-changed-our-name-qdnl-participations-is-now-ground-state-ventures/), as of 2026-04-28)
 
 ## Portfolio
 

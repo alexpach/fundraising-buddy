@@ -1,5 +1,5 @@
 ---
-jev-score: 53
+jev-score: 60
 ---
 
 # Marquee Ventures
@@ -10,18 +10,19 @@ Domain: marqueeventures.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.marqueeventures.com/team), as of None)
-- **Stages:** seed, series-a, series-b ([source](https://www.marqueeventures.com/), as of None)
-- **Sectors:** human experiences, culture, content, commerce, sports, media, entertainment ([source](https://www.marqueeventures.com/), as of None)
 - **Check size min:** $1 million ([source](https://www.marqueeventures.com/pages/about), as of None)
 - **Check size max:** $2 million (initial checks) ([source](https://www.marqueeventures.com/pages/about), as of None)
-- **Leads rounds:** maybe ([source](https://www.marqueeventures.com/pages/about), as of None)
 - **Thesis quote:** Marquee Ventures backs founders building category-defining companies that enable human experiences, culture, content, and commerce. ([source](https://www.marqueeventures.com/), as of None)
 - **Coinvestors:** Social Leverage and Armory Films (Punchup Live round) ([source](https://punchuplive.proof-pr.com/punchup-live-lands-strategic-investment-round-led-by-marquee-ventures), as of 2026-01)
+- **Type:** venture capital ([source](https://punchuplive.proof-pr.com/punchup-live-lands-strategic-investment-round-led-by-marquee-ventures), as of 2026-01-21)
+- **Investment strategies:** early-stage venture investing ([source](https://punchuplive.proof-pr.com/punchup-live-lands-strategic-investment-round-led-by-marquee-ventures), as of 2026-01-21)
+- **Stages:** early-stage ([source](https://punchuplive.proof-pr.com/punchup-live-lands-strategic-investment-round-led-by-marquee-ventures), as of 2026-01-21)
+- **Sectors:** sports, media, entertainment ([source](https://www.marqueeventures.com/pages/about), as of not recorded)
+- **Leads rounds:** yes ([source](https://punchuplive.proof-pr.com/punchup-live-lands-strategic-investment-round-led-by-marquee-ventures), as of 2026-01-21)
 
 ## Portfolio
 
@@ -44,6 +45,7 @@ Research date: 2026-10-03
 
 - [Source](https://punchuplive.proof-pr.com/punchup-live-lands-strategic-investment-round-led-by-marquee-ventures)
 - [Source](https://www.marqueeventures.com/)
+- [Source](https://www.marqueeventures.com/TermsOfUse.pdf)
 - [Source](https://www.marqueeventures.com/pages/about)
 - [Source](https://www.marqueeventures.com/portfolio)
 - [Source](https://www.marqueeventures.com/team)

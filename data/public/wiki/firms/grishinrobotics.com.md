@@ -1,5 +1,5 @@
 ---
-jev-score: 68
+jev-score: 67
 ---
 
 # Grishin Robotics
@@ -14,14 +14,14 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.grishinrobotics.com/), as of None)
 - **HQ:** Menlo Park, CA, USA ([source](https://www.grishinrobotics.com/), as of None)
-- **Stages:** seed, series-a ([source](https://www.grishinrobotics.com/), as of 2026-10)
-- **Sectors:** consumer, consumerized enterprise, online entertainment, gaming, food, education, team productivity and collaboration ([source](https://www.grishinrobotics.com/), as of None)
 - **Latest fund:** $100 million fund closed from family offices in the U.S. and Europe ([source](https://techcrunch.com/2020/06/18/mail-ru-cofounder-dmitry-grishin-has-a-new-100-million-fund-he-gives-a-look-here/), as of 2020-06)
 - **Thesis quote:** We back founders of consumer and consumerized enterprise startups that disrupt large and growing markets. ([source](https://www.grishinrobotics.com/), as of None)
 - **LPs:** Family offices in the U.S. and Europe (2020 fund) ([source](https://techcrunch.com/2020/06/18/mail-ru-cofounder-dmitry-grishin-has-a-new-100-million-fund-he-gives-a-look-here/), as of 2020-06)
-- **Leads rounds:** unknown ([source](https://grishinrobotics.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.grishinrobotics.com/), as of not recorded)
+- **Investment strategies:** early-stage venture capital, consumer and consumerized enterprise ([source](https://www.grishinrobotics.com/), as of not recorded)
+- **Stages:** seed, series A ([source](https://www.grishinrobotics.com/), as of not recorded)
+- **Sectors:** online entertainment, gaming, food, education, team productivity and collaboration ([source](https://www.grishinrobotics.com/), as of not recorded)
 
 ## Portfolio
 
@@ -45,3 +45,4 @@ Research date: 2026-10-03
 
 - [Source](https://techcrunch.com/2020/06/18/mail-ru-cofounder-dmitry-grishin-has-a-new-100-million-fund-he-gives-a-look-here/)
 - [Source](https://www.grishinrobotics.com/)
+- [Source](https://www.grishinrobotics.com/team)

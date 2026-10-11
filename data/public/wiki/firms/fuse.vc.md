@@ -1,8 +1,8 @@
 ---
-jev-score: 73
+jev-score: 84
 ---
 
-# FUSE
+# FUSE Venture Partners
 
 [Website](https://fuse.vc)
 
@@ -10,18 +10,21 @@ Domain: fuse.vc
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.geekwire.com/2022/seattle-vc-firm-fuse-reveals-size-of-inaugural-fund-that-has-backed-17-pacific-northwest-startups/), as of 2022-01)
 - **HQ:** Bellevue, Washington ([source](https://www.prnewswire.com/news-releases/early-stage-venture-firm-fuse-launches-oversubscribed-250m-fund-to-continue-investing-in-pnw-startups-301936760.html), as of 2023-09)
 - **Founded:** 2020 ([source](https://www.prnewswire.com/news-releases/early-stage-venture-firm-fuse-launches-oversubscribed-250m-fund-to-continue-investing-in-pnw-startups-301936760.html), as of 2023-09)
 - **Check size min:** $1M ([source](https://www.prnewswire.com/news-releases/early-stage-venture-firm-fuse-launches-oversubscribed-250m-fund-to-continue-investing-in-pnw-startups-301936760.html), as of 2023-09)
 - **Check size max:** $10M ([source](https://www.prnewswire.com/news-releases/early-stage-venture-firm-fuse-launches-oversubscribed-250m-fund-to-continue-investing-in-pnw-startups-301936760.html), as of 2023-09)
 - **Latest fund:** Fund II, $250M oversubscribed, closed September 2023 ([source](https://www.prnewswire.com/news-releases/early-stage-venture-firm-fuse-launches-oversubscribed-250m-fund-to-continue-investing-in-pnw-startups-301936760.html), as of 2023-09)
 - **LPs:** Current/former executives from Microsoft, Amazon, Nike, Starbucks, Costco, T-Mobile, Avalara, DocuSign, Smartsheet, Icertis and other Pacific Northwest companies ([source](https://www.prnewswire.com/news-releases/early-stage-venture-firm-fuse-launches-oversubscribed-250m-fund-to-continue-investing-in-pnw-startups-301936760.html), as of 2023-09)
-- **Leads rounds:** unknown ([source](https://fuse.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.prnewswire.com/news-releases/early-stage-venture-firm-fuse-launches-oversubscribed-250m-fund-to-continue-investing-in-pnw-startups-301936760.html), as of 2023-09-25)
+- **Investment strategies:** early-stage venture capital ([source](https://www.prnewswire.com/news-releases/early-stage-venture-firm-fuse-launches-oversubscribed-250m-fund-to-continue-investing-in-pnw-startups-301936760.html), as of 2023-09-25)
+- **Stages:** Seed, Series A ([source](https://www.prnewswire.com/news-releases/early-stage-venture-firm-fuse-launches-oversubscribed-250m-fund-to-continue-investing-in-pnw-startups-301936760.html), as of 2023-09-25)
+- **Sectors:** AI Application Layer, Data & Infrastructure, Financial Services & Insurance, Healthcare, Hospitality & Services, Industrial Automation, Retail, Space, Supply Chain, Vertical AI ([source](https://fuse.vc/investments), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.prnewswire.com/news-releases/early-stage-venture-firm-fuse-launches-oversubscribed-250m-fund-to-continue-investing-in-pnw-startups-301936760.html), as of 2023-09-25)
 
 ## Portfolio
 
@@ -55,6 +58,7 @@ Research date: 2026-08-25
 
 - [Source](https://fuse.vc)
 - [Source](https://fuse.vc/)
+- [Source](https://fuse.vc/investments)
 - [Source](https://www.geekwire.com/2022/seattle-vc-firm-fuse-reveals-size-of-inaugural-fund-that-has-backed-17-pacific-northwest-startups/)
 - [Source](https://www.prnewswire.com/news-releases/early-stage-venture-firm-fuse-launches-oversubscribed-250m-fund-to-continue-investing-in-pnw-startups-301936760.html)
 - [Source](https://yespress.io/fuse)

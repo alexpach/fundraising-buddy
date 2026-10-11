@@ -1,8 +1,8 @@
 ---
-jev-score: 72
+jev-score: 77
 ---
 
-# Felicis
+# Felicis Ventures
 
 [Website](https://felicis.com)
 
@@ -14,16 +14,18 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.felicis.com/about), as of None)
 - **HQ:** Menlo Park, CA ([source](https://www.felicis.com/privacy-policy), as of 2026-02)
 - **Founded:** 2006 ([source](https://www.felicis.com/about), as of None)
 - **Geographies:** global ([source](https://www.felicis.com/about), as of None)
-- **Sectors:** AI, Cybersecurity & Defense, Global Resilience & Energy, Health & Bio ([source](https://www.felicis.com/), as of None)
-- **AUM:** $4.1B ([source](https://www.felicis.com/about), as of None)
 - **Legal name:** Felicis Ventures ([source](https://www.felicis.com/privacy-policy), as of 2026-02)
 - **Latest fund:** $900M Fund X ([source](https://www.felicis.com/blog/fund-x), as of 2025-06)
 - **Thesis quote:** We back bold ideas that transcend boundaries. ([source](https://www.felicis.com/), as of None)
-- **Leads rounds:** yes ([source](https://felicis.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.felicis.com/about), as of not recorded)
+- **Investment strategies:** early-stage venture ([source](https://www.felicis.com/about), as of not recorded)
+- **Stages:** seed, series A ([source](https://www.felicis.com/blog/fund-x), as of 2025-06-10)
+- **Sectors:** Artificial Intelligence, Cybersecurity & Defense, Global Resilience & Energy, Health & Bio ([source](https://www.felicis.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.felicis.com/blog/fund-x), as of 2025-06-10)
+- **AUM:** USD 4.1 billion (as of 2026) ([source](https://www.felicis.com/about), as of 2026)
 
 ## Portfolio
 

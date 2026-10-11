@@ -1,5 +1,5 @@
 ---
-jev-score: 84
+jev-score: 85
 ---
 
 # SOSV
@@ -10,22 +10,23 @@ Domain: sosv.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://sosv.com/), as of None)
 - **HQ:** San Francisco, New York City and Newark (no single HQ stated) ([source](https://sosv.com/about), as of None)
 - **Founded:** 1995 ([source](https://sosv.com/about), as of None)
-- **Stages:** pre-seed, seed, series-a, series-b ([source](https://sosv.com/), as of None)
-- **AUM:** $1.5B ([source](https://sosv.com/about), as of None)
 - **Check size max:** up to $550K pre-seed ([source](https://sosv.com/), as of 2026-03)
 - **Offices:** San Francisco, New York City, Newark, Cork, Pune, Shenzhen, Tokyo ([source](https://sosv.com/about), as of None)
 - **Latest fund:** SOSV V, $306M ([source](https://sosv.com/sosv-closes-306m-deep-tech-fund-for-human-and-planetary-health), as of 2024-04)
 - **Thesis quote:** SOSV's mission is to fund amazing deep tech founders right at inception ([source](https://sosv.com/about), as of None)
 - **LPs:** corporates, sovereign wealth funds, institutional investors, and private family offices ([source](https://sosv.com/sosv-closes-306m-deep-tech-fund-for-human-and-planetary-health), as of 2024-04)
 - **Coinvestors:** DCVC (Matt Ocko and Zachary Bogue) named as active co-investor ([source](https://sosv.com/sosv-closes-306m-deep-tech-fund-for-human-and-planetary-health), as of 2024-04)
-- **Leads rounds:** unknown ([source](https://sosv.com), as of not recorded)
+- **Type:** venture capital firm ([source](https://sosv.com/), as of not recorded)
+- **Investment strategies:** deep tech investing, multi-stage venture investing ([source](https://sosv.com/), as of not recorded)
+- **Stages:** pre-seed, seed, Series A, Series B ([source](https://sosv.com/), as of not recorded)
+- **Sectors:** deep tech, physical AI, therapeutics, energy, critical minerals, human and planetary health ([source](https://sosv.com/), as of not recorded)
+- **AUM:** USD 1.5 billion (as of 2026) ([source](https://sosv.com/about/), as of 2026)
 
 ## Portfolio
 
@@ -55,5 +56,7 @@ Research date: 2026-10-03
 
 - [Source](https://sosv.com/)
 - [Source](https://sosv.com/about)
+- [Source](https://sosv.com/about/)
 - [Source](https://sosv.com/locations)
 - [Source](https://sosv.com/sosv-closes-306m-deep-tech-fund-for-human-and-planetary-health)
+- [Source](https://sosv.com/sosv-closes-306m-deep-tech-fund-for-human-and-planetary-health/)

@@ -1,8 +1,8 @@
 ---
-jev-score: 14
+jev-score: 21
 ---
 
-# Amitours
+# Amitours London Ltd
 
 [Website](https://www.amitours.com/)
 
@@ -10,15 +10,14 @@ Domain: amitours.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
 - **Geographies:** europe ([source](https://www.amitours.com/), as of 2026-08-07)
-- **Sectors:** travel, tourism ([source](https://www.amitours.com/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.amitours.com/), as of not recorded)
+- **Type:** transportation services company ([source](https://www.amitours.com/about-us), as of not recorded)
 
 ## Portfolio
 
@@ -30,3 +29,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://www.amitours.com/)
+- [Source](https://www.amitours.com/about-us)
+- [Source](https://www.amitours.com/contacts)

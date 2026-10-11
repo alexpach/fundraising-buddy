@@ -1,5 +1,5 @@
 ---
-jev-score: 74
+jev-score: 77
 ---
 
 # U.S. Venture Partners
@@ -10,17 +10,18 @@ Domain: usvp.com
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://usvp.com/home), as of None)
 - **HQ:** Menlo Park, California ([source](https://usvp.com/home), as of None)
-- **Stages:** series-a, series-b ([source](https://usvp.com/announcing-usvp-xiii), as of 2022-12)
-- **Sectors:** cybersecurity, enterprise software, consumer, healthcare ([source](https://usvp.com/home), as of None)
-- **Leads rounds:** yes ([source](https://usvp.com/announcing-usvp-xiii), as of 2022-12)
 - **Latest fund:** USVP XIII, $400M, closed December 14, 2022 ([source](https://usvp.com/announcing-usvp-xiii), as of 2022-12)
 - **Thesis quote:** USVP focuses on early-stage start-ups that transform cybersecurity, enterprise software, consumer and healthcare. ([source](https://usvp.com/home), as of None)
+- **Type:** venture capital ([source](https://www.usvp.com/announcing-usvp-xiii/), as of 2022-12)
+- **Investment strategies:** early-stage venture investing ([source](https://www.usvp.com/announcing-usvp-xiii/), as of 2022-12)
+- **Stages:** Series A, Series B ([source](https://www.usvp.com/announcing-usvp-xiii/), as of 2022-12)
+- **Sectors:** cybersecurity, enterprise software, consumer, healthcare ([source](https://www.usvp.com/announcing-usvp-xiii/), as of 2022-12)
+- **Leads rounds:** yes ([source](https://www.usvp.com/announcing-usvp-xiii/), as of 2022-12)
 
 ## Portfolio
 
@@ -47,3 +48,5 @@ Research date: 2026-10-02
 - [Source](https://usvp.com/announcing-usvp-xiii)
 - [Source](https://usvp.com/home)
 - [Source](https://www.usvp.com/)
+- [Source](https://www.usvp.com/about/)
+- [Source](https://www.usvp.com/announcing-usvp-xiii/)

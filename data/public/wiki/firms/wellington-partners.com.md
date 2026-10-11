@@ -2,7 +2,7 @@
 jev-score: 71
 ---
 
-# Wellington Partners Venture Capital
+# Wellington Partners
 
 [Website](https://wellington-partners.com)
 
@@ -10,20 +10,21 @@ Domain: wellington-partners.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://wellington-partners.com/approach/), as of None)
-- **Stages:** early, growth ([source](https://wellington-partners.com/), as of None)
 - **Geographies:** europe ([source](https://wellington-partners.com/), as of None)
-- **Sectors:** Therapeutics, Medical Devices, Diagnostics, Digital Health, Industrial Biotechnology ([source](https://wellington-partners.com/), as of None)
 - **Check size min:** EUR 2 million ([source](https://wellington-partners.com/approach/), as of None)
 - **Check size max:** EUR 20 million ([source](https://wellington-partners.com/approach/), as of None)
 - **Offices:** Munich, Germany, Zurich, Switzerland ([source](https://wellington-partners.com/contact/), as of None)
-- **Leads rounds:** yes ([source](https://wellington-partners.com/approach/), as of None)
 - **Thesis quote:** Investing in the future of health ([source](https://wellington-partners.com/), as of None)
 - **LPs:** European Investment Fund and European Investment Bank, family offices, trusts, insurance companies and other financial institutions ([source](https://wellington-partners.com/funds-investors/), as of None)
+- **Type:** venture capital ([source](https://wellington-partners.com/), as of not recorded)
+- **Investment strategies:** early- and growth-stage life science investing ([source](https://wellington-partners.com/), as of not recorded)
+- **Stages:** early, growth, expansion stage ([source](https://wellington-partners.com/), as of not recorded)
+- **Sectors:** Therapeutics, Medical Devices, Diagnostics, Digital Health, Industrial Biotechnology, Biotechnology ([source](https://wellington-partners.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://wellington-partners.com/approach/), as of not recorded)
 
 ## Portfolio
 

@@ -1,5 +1,5 @@
 ---
-jev-score: 72
+jev-score: 74
 ---
 
 # Slow Ventures
@@ -10,19 +10,20 @@ Domain: slow.co
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://slow.co/about), as of None)
 - **HQ:** San Francisco, Boston, and New York (no single HQ stated) ([source](https://slow.co/about), as of None)
-- **Stages:** pre-seed, seed ([source](https://slow.co/letter/), as of None)
 - **Geographies:** us ([source](https://slow.co/letter/), as of None)
-- **Sectors:** security, fintech, buyouts/rollups, SaaS, crypto, consumer, healthcare, creator economy ([source](https://slow.co/about), as of None)
 - **Offices:** San Francisco, Boston, New York ([source](https://slow.co/about), as of None)
-- **Leads rounds:** yes ([source](https://slow.co/letter/), as of None)
 - **Latest fund:** Creator Fund, $60M, announced Feb 2025 ([source](https://medium.com/@slow/introducing-the-first-slow-ventures-creator-fund-60m-to-directly-seed-community-first-e36fdf22d164), as of 2025-02)
 - **Thesis quote:** We are flexible on sector, round construction, and company structure. ([source](https://slow.co/letter/), as of None)
+- **Type:** venture capital ([source](https://slow.co/about/), as of not recorded)
+- **Investment strategies:** generalist, early stage ([source](https://slow.co/about/), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://slow.co/letter/), as of not recorded)
+- **Sectors:** security, fintech, buyouts/rollups, SaaS, crypto, consumer, healthcare, creator economy ([source](https://slow.co/about/), as of not recorded)
+- **Leads rounds:** yes ([source](https://slow.co/letter/), as of not recorded)
 
 ## Portfolio
 
@@ -52,4 +53,5 @@ Research date: 2026-10-03
 - [Source](https://medium.com/@slow/introducing-the-first-slow-ventures-creator-fund-60m-to-directly-seed-community-first-e36fdf22d164)
 - [Source](https://slow.co/)
 - [Source](https://slow.co/about)
+- [Source](https://slow.co/about/)
 - [Source](https://slow.co/letter/)

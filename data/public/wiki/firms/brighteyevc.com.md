@@ -1,5 +1,5 @@
 ---
-jev-score: 71
+jev-score: 79
 ---
 
 # Brighteye Ventures
@@ -14,17 +14,19 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://brighteyevc.com/sidekick-posts/brighteye-secures-72m-in-fund-iii-first-close), as of 2026-09)
 - **HQ:** London ([source](https://brighteyevc.com/team), as of 2026-09)
 - **Founded:** 2017 ([source](https://www.eu-startups.com/2023/06/brighteye-completes-final-close-of-its-second-fund-at-e100-million-to-bolster-support-on-european-edtech/), as of 2023-06)
 - **Geographies:** europe ([source](https://brighteyevc.com/sidekick-posts/brighteye-secures-72m-in-fund-iii-first-close), as of 2026-09)
-- **Sectors:** learning, work, AI, labour infrastructure, HumanOS ([source](https://brighteyevc.com/sidekick-posts/brighteye-secures-72m-in-fund-iii-first-close), as of 2026-09)
-- **AUM:** $245M ([source](https://brighteyevc.com/sidekick-posts/brighteye-secures-72m-in-fund-iii-first-close), as of 2026-09)
 - **Offices:** London and Paris ([source](https://brighteyevc.com/sidekick-posts/brighteye-secures-72m-in-fund-iii-first-close), as of 2026-09)
 - **Latest fund:** $72M first close of Fund III, announced 16.09.26 ([source](https://brighteyevc.com/sidekick-posts/brighteye-secures-72m-in-fund-iii-first-close), as of 2026-09)
 - **Thesis quote:** Our conviction is that the next generation of category-defining companies will harness technology to redefine human capability. ([source](https://www.brighteyevc.com/), as of None)
 - **LPs:** Lumina Foundation, Zanichelli Venture, PI Impact, European Investment Fund, Jacobs Foundation ([source](https://brighteyevc.com/sidekick-posts/brighteye-secures-72m-in-fund-iii-first-close), as of 2026-09)
-- **Leads rounds:** unknown ([source](https://brighteyevc.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.brighteyevc.com/sidekick-posts/brighteye-secures-72m-in-fund-iii-first-close), as of 2026-09-16)
+- **Investment strategies:** early-stage ([source](https://www.brighteyevc.com/sidekick-posts/brighteye-secures-72m-in-fund-iii-first-close), as of 2026-09-16)
+- **Stages:** pre-seed, seed, Series A ([source](https://www.brighteyevc.com/our-approach), as of not recorded)
+- **Sectors:** Learning, Work, Artificial intelligence, Healthcare, Education, Infrastructure, Cybersecurity, Climate, Labour infrastructure ([source](https://www.brighteyevc.com/sidekick-posts/brighteye-secures-72m-in-fund-iii-first-close), as of 2026-09-16)
+- **Leads rounds:** yes ([source](https://www.brighteyevc.com/our-approach), as of not recorded)
+- **AUM:** USD 245 million (as of 2026-09-16) ([source](https://www.brighteyevc.com/sidekick-posts/brighteye-secures-72m-in-fund-iii-first-close), as of 2026-09-16)
 
 ## Portfolio
 
@@ -54,4 +56,6 @@ Research date: 2026-10-03
 - [Source](https://brighteyevc.com/sidekick-posts/brighteye-secures-72m-in-fund-iii-first-close)
 - [Source](https://brighteyevc.com/team)
 - [Source](https://www.brighteyevc.com/)
+- [Source](https://www.brighteyevc.com/our-approach)
+- [Source](https://www.brighteyevc.com/sidekick-posts/brighteye-secures-72m-in-fund-iii-first-close)
 - [Source](https://www.eu-startups.com/2023/06/brighteye-completes-final-close-of-its-second-fund-at-e100-million-to-bolster-support-on-european-edtech/)

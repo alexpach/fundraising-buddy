@@ -1,5 +1,5 @@
 ---
-jev-score: 82
+jev-score: 80
 ---
 
 # Karma Ventures
@@ -14,16 +14,17 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://karma.vc/hello), as of None)
 - **HQ:** Tallinn, Estonia ([source](https://karma.vc/hello), as of None)
-- **Stages:** seed, series-a ([source](https://karma.vc/hello), as of None)
 - **Geographies:** europe ([source](https://karma.vc/hello), as of None)
-- **Sectors:** deep-tech software ([source](https://karma.vc/hello), as of None)
 - **Check size max:** EUR 5M ([source](https://karma.vc/hello), as of None)
 - **Latest fund:** EUR 100M second fund, hard cap ([source](https://www.estvca.ee/news/karma-ventures-closes-its-second-fund-with-a-hard-cap-at-eur100-million), as of 2021-11)
 - **Thesis quote:** We invest in deep-tech software companies that create innovative technologies and have initial commercial traction. ([source](https://karma.vc/hello), as of None)
 - **LPs:** Isomer Capital (LP in first fund) ([source](https://tech.eu/2018/05/22/karmaventures-closes-fund/), as of 2018-05)
-- **Leads rounds:** unknown ([source](https://karma.vc), as of not recorded)
+- **Type:** venture capital ([source](https://karma.vc/hello), as of not recorded)
+- **Investment strategies:** early-stage deep-tech software investing ([source](https://karma.vc/hello), as of not recorded)
+- **Stages:** seed, series A ([source](https://karma.vc/hello), as of not recorded)
+- **Sectors:** deep-tech software ([source](https://karma.vc/hello), as of not recorded)
+- **AUM:** EUR 170 million (date not reported) ([source](https://karma.vc/portfolio), as of not recorded)
 
 ## Portfolio
 

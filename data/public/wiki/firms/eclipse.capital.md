@@ -1,8 +1,8 @@
 ---
-jev-score: 76
+jev-score: 83
 ---
 
-# Eclipse (Eclipse Ventures)
+# Eclipse
 
 [Website](https://eclipse.capital)
 
@@ -10,19 +10,23 @@ Domain: eclipse.capital
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://thenextweb.com/news/eclipse-fund-vi-early-growth-iii-1-3-billion), as of 2026-04)
 - **HQ:** Palo Alto, CA ([source](https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/), as of 2026-04)
 - **Founded:** 2015 ([source](https://eclipse.capital/blog/announcing-eclipse-fund-vi-and-early-growth-iii), as of 2026-04)
-- **Sectors:** Advanced Compute, Transportation & Mobility, Manufacturing, Construction & Real Estate, Defense & Security, Logistics & Supply Chain, Healthcare, Energy & Electrification, Industrial ([source](https://eclipse.capital/companies), as of None)
-- **AUM:** approximately $10B ([source](https://eclipse.capital/blog/announcing-eclipse-fund-vi-and-early-growth-iii), as of 2026-04)
 - **Offices:** Palo Alto, CA, New York, NY ([source](https://eclipse.capital/about), as of None)
 - **Latest fund:** $1.3B across Fund VI ($720M) and Early Growth Fund III ($591M) ([source](https://eclipse.capital/blog/announcing-eclipse-fund-vi-and-early-growth-iii), as of 2026-04)
 - **Thesis quote:** Eclipse invests in entrepreneurs building the next generation of companies in the physical economy ,  the industries that determine resilience, competitiveness, and security. ([source](https://eclipse.capital/about), as of None)
-- **Leads rounds:** unknown ([source](https://eclipse.capital), as of not recorded)
+- **Type:** venture capital investor ([source](https://eclipse.capital/about), as of not recorded)
+- **Investment strategies:** venture equity, early growth investing ([source](https://eclipse.capital/about), as of not recorded)
+- **Legal structure:** private investment firm ([source](https://eclipse.capital/about), as of not recorded)
+- **Investment instruments:** equity ([source](https://eclipse.capital/about), as of not recorded)
+- **Stages:** early stage, early growth ([source](https://eclipse.capital/about), as of not recorded)
+- **Sectors:** Physical industries, Transportation and mobility, Artificial intelligence ([source](https://eclipse.capital/blog/announcing-eclipse-fund-vi-and-early-growth-iii), as of 2026-04-07)
+- **Leads rounds:** yes ([source](https://eclipse.capital/blog/accelerating-autonomous-vehicles-with-embodied-ai-wayves-series-c/), as of 2024-05-07)
+- **AUM:** Approximately USD 10 billion (as of 2026-04-07) ([source](https://eclipse.capital/blog/announcing-eclipse-fund-vi-and-early-growth-iii), as of 2026-04-07)
 
 ## Portfolio
 
@@ -56,6 +60,7 @@ Research date: 2026-10-02
 
 - [Source](https://eclipse.capital/)
 - [Source](https://eclipse.capital/about)
+- [Source](https://eclipse.capital/blog/accelerating-autonomous-vehicles-with-embodied-ai-wayves-series-c/)
 - [Source](https://eclipse.capital/blog/announcing-eclipse-fund-vi-and-early-growth-iii)
 - [Source](https://eclipse.capital/companies)
 - [Source](https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/)

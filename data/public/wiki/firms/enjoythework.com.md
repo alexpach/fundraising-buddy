@@ -1,5 +1,5 @@
 ---
-jev-score: 43
+jev-score: 32
 ---
 
 # Enjoy The Work
@@ -10,18 +10,15 @@ Domain: enjoythework.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/etw-advisors), as of 2026-04-19)
-- **Stages:** seed, series-a ([source](https://www.crunchbase.com/organization/etw-advisors), as of 2026-04-19)
 - **Geographies:** us, europe ([source](https://www.crunchbase.com/organization/etw-advisors), as of 2026-04-19)
-- **Sectors:** operating-partner, founder-coaching, early-stage ([source](https://www.crunchbase.com/organization/etw-advisors), as of 2026-04-19)
-- **Leads rounds:** unknown ([source](https://enjoythework.com), as of not recorded)
 - **About:** Enjoy The Work (ETW) is a San Francisco–based founder advisory and operating-partner firm that doubles as a venture investor, founded in 2015 by Jonathan Lowenhar. ETW's 12 General Partners have worked with 125+ startups representing over $13B in combined market value; the model blends 1:1 CEO coaching with selective investment ([source](https://www.crunchbase.com/organization/etw-advisors), as of 2026-04-19)
+- **Type:** startup advisory firm ([source](https://enjoythework.com/venture-capital/), as of not recorded)
 
 ## Portfolio
 
@@ -36,4 +33,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://enjoythework.com)
+- [Source](https://enjoythework.com/venture-capital/)
 - [Source](https://www.crunchbase.com/organization/etw-advisors)

@@ -10,14 +10,13 @@ Domain: redswanventures.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://linkedin.com/company/red-swan-ventures), as of None)
-- **Stages:** pre-seed, seed ([source](https://www.redswanventures.com/), as of None)
 - **Thesis quote:** We back founders building in service of enduring human needs–agency, progress, connection, meaning–to catalyze cultural change and create new markets. ([source](https://www.redswanventures.com/), as of None)
-- **Leads rounds:** unknown ([source](https://redswanventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.redswanventures.com/), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://www.redswanventures.com/), as of not recorded)
 
 ## Portfolio
 

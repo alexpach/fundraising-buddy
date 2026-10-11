@@ -1,5 +1,5 @@
 ---
-jev-score: 29
+jev-score: 33
 ---
 
 # Ono Venture Investment, Inc.
@@ -10,18 +10,20 @@ Domain: onoventure.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://www.onoventure.com/), as of 2026-08-07)
 - **Geographies:** us, global ([source](https://www.onoventure.com/), as of 2026-08-07)
-- **Sectors:** biotech, pharma ([source](https://www.onoventure.com/), as of 2026-08-07)
-- **AUM:** 200M ([source](https://www.onoventure.com/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.onoventure.com/), as of not recorded)
 - **About:** Ono Venture Investment, Inc. (OVI) is the corporate venture capital arm of Ono Pharmaceutical Co., Ltd ([source](https://www.onoventure.com/), as of 2026-08-07)
+- **Type:** corporate venture capital ([source](https://www.onoventure.com/mission), as of not recorded)
+- **Investment strategies:** strategic venture investment ([source](https://www.onoventure.com/mission), as of not recorded)
+- **Legal structure:** corporate venture capital arm, U.S. subsidiary ([source](https://www.onoventure.com/mission), as of not recorded)
+- **Investment instruments:** equity ([source](https://www.onoventure.com/mission), as of not recorded)
+- **Stages:** early stage ([source](https://www.onoventure.com/), as of not recorded)
+- **Sectors:** Pharmaceuticals, Biotechnology, Oncology, Immunology & Inflammation, Neurology ([source](https://www.onoventure.com/mission), as of not recorded)
 
 ## Portfolio
 
@@ -32,4 +34,6 @@ Not recorded.
 
 ## Sources
 
+- [Source](https://www.ono-pharma.com/en/news/20231201_2.html)
 - [Source](https://www.onoventure.com/)
+- [Source](https://www.onoventure.com/mission)

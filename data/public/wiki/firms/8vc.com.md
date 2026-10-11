@@ -1,5 +1,5 @@
 ---
-jev-score: 65
+jev-score: 76
 ---
 
 # 8VC
@@ -10,17 +10,19 @@ Domain: 8vc.com
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://8vc.com/), as of None)
 - **HQ:** Austin, TX ([source](https://www.everythingstartups.com/article/8vc-closes-1-5b-fund-7-largest-fund-to-date), as of 2026-07)
 - **Geographies:** us ([source](https://www.everythingstartups.com/article/8vc-closes-1-5b-fund-7-largest-fund-to-date), as of 2026-07)
-- **Sectors:** AI, Smart Enterprise, Consumer, Financial Services, Government & Defense, IT Infrastructure, Healthcare, Life Sciences, Logistics ([source](https://8vc.com/companies), as of None)
 - **Offices:** Austin, TX, San Francisco, CA ([source](https://8vc.com/contact), as of None)
 - **Latest fund:** 8VC Fund 7, $1.5 billion ([source](https://www.everythingstartups.com/article/8vc-closes-1-5b-fund-7-largest-fund-to-date), as of 2026-07)
-- **Leads rounds:** unknown ([source](https://8vc.com), as of not recorded)
+- **Type:** technology investment firm ([source](https://www.8vc.com/), as of not recorded)
+- **Investment strategies:** company building, venture investing ([source](https://www.8vc.com/), as of not recorded)
+- **Stages:** seed, Series A, Series B, Series C+, Growth ([source](https://www.8vc.com/companies), as of not recorded)
+- **Sectors:** AI, Smart Enterprise, Consumer, Financial Services, Government & Defense, IT Infrastructure, Healthcare, Life Sciences, Logistics ([source](https://www.8vc.com/companies), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.8vc.com/resources/announcing-our-investment-in-vals), as of 2026-08-13)
 
 ## Portfolio
 
@@ -46,4 +48,7 @@ Research date: 2026-10-02
 - [Source](https://8vc.com/)
 - [Source](https://8vc.com/companies)
 - [Source](https://8vc.com/contact)
+- [Source](https://www.8vc.com/)
+- [Source](https://www.8vc.com/companies)
+- [Source](https://www.8vc.com/resources/announcing-our-investment-in-vals)
 - [Source](https://www.everythingstartups.com/article/8vc-closes-1-5b-fund-7-largest-fund-to-date)

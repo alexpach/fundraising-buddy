@@ -1,5 +1,5 @@
 ---
-jev-score: 52
+jev-score: 60
 ---
 
 # LifeX Ventures
@@ -10,18 +10,20 @@ Domain: lifex.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/lifex-ventures), as of 2026-08-06)
-- **Stages:** pre-seed, seed, series-a ([source](https://www.crunchbase.com/organization/lifex-ventures), as of 2026-08-06)
 - **Geographies:** us, europe ([source](https://www.crunchbase.com/organization/lifex-ventures), as of 2026-08-06)
-- **Sectors:** biotech, longevity, climate, healthtech ([source](https://www.crunchbase.com/organization/lifex-ventures), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://www.lifex.vc/), as of not recorded)
 - **About:** LifeX Ventures is a US-based venture capital firm co-founded by Amol Sarva and Iñaki Berenguer, investing pre-seed through growth in longevity/health, climate/carbon and AI-accelerated science ("ventures for people and planet"), with operations across the Bay Area, New York and Austin plus an international footprint (Switzerland, Spain, Singapore). Its portfolio is almost entirely biotech/climate; ([source](https://www.crunchbase.com/organization/lifex-ventures), as of 2026-08-06)
+- **Type:** venture capital ([source](https://lifex.vc/privacy-statement), as of not recorded)
+- **Investment strategies:** AI and health venture investing ([source](https://lifex.vc/privacy-statement), as of not recorded)
+- **Legal structure:** management company organized as an LLC ([source](https://lifex.vc/privacy-statement), as of not recorded)
+- **Stages:** seed, Stage A ([source](https://lifex.vc/privacy-statement), as of not recorded)
+- **Sectors:** health technology ([source](https://lifex.vc/strategy), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.cromatic.bio/news/cromatic-closes-seed-round-funding), as of 2023-11-09)
 
 ## Portfolio
 
@@ -40,5 +42,8 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## Sources
 
+- [Source](https://lifex.vc/privacy-statement)
+- [Source](https://lifex.vc/strategy)
+- [Source](https://www.cromatic.bio/news/cromatic-closes-seed-round-funding)
 - [Source](https://www.crunchbase.com/organization/lifex-ventures)
 - [Source](https://www.lifex.vc/)

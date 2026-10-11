@@ -1,5 +1,5 @@
 ---
-jev-score: 18
+jev-score: 17
 ---
 
 # FiveT Fintech

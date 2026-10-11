@@ -1,8 +1,8 @@
 ---
-jev-score: 59
+jev-score: 66
 ---
 
-# HEARTFELT_
+# HEARTFELT_ (Heartfelt Capital Management GmbH)
 
 [Website](https://heartfelt.vc)
 
@@ -14,7 +14,6 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://heartfelt.vc/), as of None)
 - **HQ:** Berlin, Germany ([source](https://heartfelt.vc/contact-legals/legal-notice), as of None)
 - **Geographies:** europe, us ([source](https://heartfelt.vc/), as of None)
 - **Check size min:** €100k ([source](https://heartfelt.vc/), as of None)
@@ -24,7 +23,9 @@ Research date: 2026-10-03
 - **Thesis quote:** first investors for exceptional founders ([source](https://heartfelt.vc/), as of None)
 - **LPs:** Anchor investors Axel Springer and Porsche ([source](https://heartfelt.vc/), as of None)
 - **Coinvestors:** Portfolio companies later raised from Insight Partners, Index, Benchmark, Bessemer, Left Lane, IVP, Lightspeed, General Catalyst, Balderton, Google Ventures ([source](https://heartfelt.vc/), as of None)
-- **Leads rounds:** unknown ([source](https://heartfelt.vc), as of not recorded)
+- **Type:** venture capital ([source](https://heartfelt.vc/), as of not recorded)
+- **Investment strategies:** early-stage venture capital, first-cheque investing ([source](https://heartfelt.vc/), as of not recorded)
+- **Stages:** early stage, company formation / product-market fit ([source](https://heartfelt.vc/), as of not recorded)
 
 ## Portfolio
 

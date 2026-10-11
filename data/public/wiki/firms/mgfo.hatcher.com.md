@@ -1,5 +1,5 @@
 ---
-jev-score: 30
+jev-score: 29
 ---
 
 # MGFO Private Investments

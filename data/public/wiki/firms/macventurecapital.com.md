@@ -1,5 +1,5 @@
 ---
-jev-score: 90
+jev-score: 89
 ---
 
 # MaC Venture Capital
@@ -10,23 +10,24 @@ Domain: macventurecapital.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://macventurecapital.com/about/), as of 2026-08)
 - **HQ:** Los Angeles and Silicon Valley, CA ([source](https://macventurecapital.com/mac-venture-capital-raises-inaugural-103-million-seed-fund), as of 2021-04)
 - **Founded:** 2019 ([source](https://macventurecapital.com/about/), as of 2026-08)
-- **Stages:** seed ([source](https://macventurecapital.com/about/), as of 2026-08)
 - **Geographies:** us, global ([source](https://fortune.com/2024/10/29/exclusive-mac-vc-raises-150-million-for-its-third-fund-in-four-years), as of 2024-10)
-- **Sectors:** fintech, e-commerce and marketplaces, interactive media, connectivity, enterprise SaaS, space and aerospace, logistics, AI, digital health, hard tech ([source](https://macventurecapital.com/mac-venture-capital-raises-inaugural-103-million-seed-fund), as of 2021-04)
-- **AUM:** $600 million ([source](https://fortune.com/2024/10/29/exclusive-mac-vc-raises-150-million-for-its-third-fund-in-four-years), as of 2024-10)
 - **Check size min:** $2 million ([source](https://fortune.com/2024/10/29/exclusive-mac-vc-raises-150-million-for-its-third-fund-in-four-years), as of 2024-10)
 - **Check size max:** $4 million ([source](https://macventurecapital.com/about/), as of 2026-08)
-- **Leads rounds:** maybe ([source](https://fortune.com/2024/10/29/exclusive-mac-vc-raises-150-million-for-its-third-fund-in-four-years), as of 2024-10)
 - **Latest fund:** Fund III, $150 million, closed October 2024 ([source](https://fortune.com/2024/10/29/exclusive-mac-vc-raises-150-million-for-its-third-fund-in-four-years), as of 2024-10)
 - **Thesis quote:** MaC Venture Capital is a seed-stage venture capital firm built on a simple idea: when culture shifts, markets follow ([source](https://macventurecapital.com/insight/the-state-of-technology-culture-a-return-to-hard-tech), as of 2026-08)
 - **Coinvestors:** Bill Gates' Breakthrough Energy Ventures (Stoke Space) ([source](https://fortune.com/2024/10/29/exclusive-mac-vc-raises-150-million-for-its-third-fund-in-four-years), as of 2024-10)
+- **Type:** venture capital ([source](https://macventurecapital.com/about/), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://macventurecapital.com/about/), as of not recorded)
+- **Stages:** seed ([source](https://macventurecapital.com/about/), as of not recorded)
+- **Sectors:** Aerospace & Defense, AI/ML, Cyber Security, Deep Tech, E-commerce, Energy, Enterprise Software, Fintech, Healthtech, Robotics, Sports, Media, & Entertainment, Transportation, Logistics, Supply Chain, and Storage ([source](https://macventurecapital.com/portfolio/), as of not recorded)
+- **Leads rounds:** yes ([source](https://seraphim.vc/news/xona-space-systems-fully-funded-for-first-leo-satellite-navigation-mission/), as of 2021-09-23)
+- **AUM:** Lower bound (over): USD 500 million (date not reported) ([source](https://macventurecapital.com/about/), as of not recorded)
 
 ## Portfolio
 
@@ -61,8 +62,10 @@ Research date: 2026-08-26
 - [Source](https://macventurecapital.com/about/)
 - [Source](https://macventurecapital.com/insight/the-state-of-technology-culture-a-return-to-hard-tech)
 - [Source](https://macventurecapital.com/mac-venture-capital-raises-inaugural-103-million-seed-fund)
+- [Source](https://macventurecapital.com/portfolio/)
 - [Source](https://macventurecapital.com/portfolio/athena-security)
 - [Source](https://macventurecapital.com/portfolio/chef-robotics)
 - [Source](https://macventurecapital.com/portfolio/flyby)
 - [Source](https://macventurecapital.com/portfolio/galvanick)
 - [Source](https://macventurecapital.com/portfolio/xona-space-systems)
+- [Source](https://seraphim.vc/news/xona-space-systems-fully-funded-for-first-leo-satellite-navigation-mission/)

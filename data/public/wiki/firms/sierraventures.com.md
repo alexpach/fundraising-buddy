@@ -1,5 +1,5 @@
 ---
-jev-score: 73
+jev-score: 70
 ---
 
 # Sierra Ventures
@@ -10,17 +10,17 @@ Domain: sierraventures.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://sierraventures.com/content/sierra-ventures-raises-215m-for-12th-fund), as of 2019-07)
 - **HQ:** San Mateo, CA ([source](https://sierraventures.com/about-2023), as of None)
-- **Stages:** Inception - Series A ([source](https://sierraventures.com/about-2023), as of None)
-- **Sectors:** Enterprise & Frontier Technologies, Vertical AI, Infrastructure AI, Frontier Tech, Physical AI & Robotics ([source](https://sierraventures.com/about-2023), as of None)
 - **Check size max:** Seed: up to $5M; Series A: up to $10M ([source](https://sierraventures.com/about-2023), as of None)
 - **Thesis quote:** Sierra is an early-stage Venture Capital firm investing from Inception to Series A companies. ([source](https://sierraventures.com/about-2023), as of None)
-- **Leads rounds:** unknown ([source](https://sierraventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.sierraventures.com/about), as of not recorded)
+- **Stages:** Inception, Series A ([source](https://www.sierraventures.com/about), as of not recorded)
+- **Sectors:** AI & Frontier Tech ([source](https://www.sierraventures.com/about), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.sierraventures.com/content/dasera-why-sierra-ventures-invested), as of 2021-05-06)
 
 ## Portfolio
 
@@ -51,3 +51,5 @@ Research date: 2026-10-03
 - [Source](https://sierraventures.com/about-2023)
 - [Source](https://sierraventures.com/content/sierra-ventures-raises-215m-for-12th-fund)
 - [Source](https://sierraventures.com/portfolio)
+- [Source](https://www.sierraventures.com/about)
+- [Source](https://www.sierraventures.com/content/dasera-why-sierra-ventures-invested)

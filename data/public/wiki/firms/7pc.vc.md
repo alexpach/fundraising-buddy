@@ -1,5 +1,5 @@
 ---
-jev-score: 84
+jev-score: 87
 ---
 
 # 7percent Ventures
@@ -10,17 +10,19 @@ Domain: 7pc.vc
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Stages:** pre-seed, seed ([source](https://7pc.vc/how-we-invest), as of 2026-08)
 - **Check size max:** $2m ([source](https://7pc.vc/how-we-invest), as of 2026-08)
 - **Legal name:** 7percent Ventures Ltd ([source](https://openregistry.sophymarine.com/insights/gb/11698144-7percent-ventures-ltd), as of 2026-08)
 - **Offices:** UK, US West Coast, Portugal ([source](https://7pc.vc/team), as of 2026-08)
 - **Thesis quote:** We care about fundamental disruption, not iterative improvements. ([source](https://7pc.vc/how-we-invest), as of 2026-08)
 - **Exclusions:** Will not invest outside multi-billion-dollar-opportunity deeptech/transformative buckets ([source](https://7pc.vc/how-we-invest), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://7pc.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.7pc.vc/), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://www.7pc.vc/), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://www.7pc.vc/how-we-invest), as of not recorded)
+- **Sectors:** Deeptech, Frontier technology ([source](https://www.7pc.vc/how-we-invest), as of not recorded)
 
 ## Portfolio
 
@@ -53,4 +55,6 @@ Research date: 2026-08-26
 - [Source](https://7pc.vc/team)
 - [Source](https://openregistry.sophymarine.com/insights/gb/11698144-7percent-ventures-ltd)
 - [Source](https://techround.co.uk/interviews/andrew-j-scott-7percent-ventures)
+- [Source](https://www.7pc.vc/)
+- [Source](https://www.7pc.vc/how-we-invest)
 - [Source](https://www.wsgr.com/en/insights/wilson-sonsini-advises-bioorbit-on-dollar132-million-seed-round.html)

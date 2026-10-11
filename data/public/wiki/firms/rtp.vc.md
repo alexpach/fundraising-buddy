@@ -1,5 +1,5 @@
 ---
-jev-score: 69
+jev-score: 68
 ---
 
 # RTP Global
@@ -10,19 +10,19 @@ Domain: rtp.vc
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://rtp.vc/about-us), as of None)
-- **Stages:** seed, series-a, series-b ([source](https://rtp.vc/about-us), as of None)
 - **Geographies:** us, europe, apac ([source](https://rtp.vc/our-1-billion-fund/), as of None)
-- **Sectors:** B2B and B2C technology, including AI, B2B SaaS, devOps, fintech, ecommerce and retail, health, edtech, climate, and transport ([source](https://rtp.vc/about-us), as of None)
 - **Offices:** New York, London, Bangalore, Paris, Dubai ([source](https://rtp.vc/), as of 2026)
 - **Latest fund:** RTP IV, $1 billion, announced 28 June 2023 ([source](https://rtp.vc/our-1-billion-fund/), as of 2023-06)
 - **Thesis quote:** We invest in the ambitious founders reshaping the world through technology. ([source](https://rtp.vc/), as of None)
 - **LPs:** Capital derives almost entirely from reinvestment of proceeds from RTP Global's previous investments ([source](https://rtp.vc/our-1-billion-fund/), as of 2023-06)
-- **Leads rounds:** unknown ([source](https://rtp.vc), as of not recorded)
+- **Type:** venture capital ([source](https://rtp.vc/about-us/), as of not recorded)
+- **Investment strategies:** early-stage venture investing ([source](https://rtp.vc/about-us/), as of not recorded)
+- **Stages:** seed, Series A, Series B ([source](https://rtp.vc/about-us/), as of not recorded)
+- **Sectors:** AI, B2B SaaS, devOps, Fintech, Ecommerce and retail, Health, Edtech, Climate, Transport ([source](https://rtp.vc/about-us/), as of not recorded)
 
 ## Portfolio
 
@@ -55,5 +55,6 @@ Research date: 2026-10-03
 
 - [Source](https://rtp.vc/)
 - [Source](https://rtp.vc/about-us)
+- [Source](https://rtp.vc/about-us/)
 - [Source](https://rtp.vc/our-1-billion-fund/)
 - [Source](https://rtp.vc/our-companies)

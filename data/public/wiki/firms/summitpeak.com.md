@@ -1,8 +1,8 @@
 ---
-jev-score: 49
+jev-score: 48
 ---
 
-# Summit Peak Investments
+# Summit Peak Investments, LLC
 
 [Website](https://summitpeak.com)
 
@@ -10,16 +10,17 @@ Domain: summitpeak.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.summitpeak.com/), as of None)
-- **Stages:** early-stage ([source](https://www.summitpeak.com/), as of None)
-- **AUM:** ~$1.3B estimated regulatory assets under management, as of 2026-03-31 ([source](https://www.summitpeak.com/), as of 2026-03)
 - **Legal name:** Summit Peak Investments, LLC ([source](https://www.summitpeak.com/), as of None)
 - **Thesis quote:** We invest in leading early-stage venture funds, the kind that are difficult for most investors to source, evaluate, and access. ([source](https://www.summitpeak.com/), as of None)
-- **Leads rounds:** unknown ([source](https://summitpeak.com), as of not recorded)
+- **Type:** early-stage venture fund of funds; venture co-investments ([source](https://www.summitpeak.com/), as of not recorded)
+- **Investment strategies:** fund-of-funds investments, co-investments ([source](https://www.summitpeak.com/), as of not recorded)
+- **Legal structure:** limited liability company, registered investment adviser ([source](https://www.summitpeak.com/), as of not recorded)
+- **Stages:** early-stage venture funds, early-growth co-investments ([source](https://www.summitpeak.com/), as of not recorded)
+- **AUM:** Approximately USD 1.3 billion (as of 2026-03-31) ([source](https://www.summitpeak.com/), as of 2026-03-31)
 
 ## Portfolio
 

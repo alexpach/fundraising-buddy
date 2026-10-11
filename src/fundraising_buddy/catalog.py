@@ -14,9 +14,10 @@ SHARED_DOMAINS = {"gmail.com", "googlemail.com", "outlook.com", "hotmail.com", "
 FIRM_KEYS = {"id", "name", "domain", "website", "record_level", "researched_at", "fields", "sources", "evidence", "portfolio"}
 PERSON_KEYS = {"id", "name", "firm_id", "title", "profile", "sources", "researched_at", "focus"}
 PUBLIC_FIELDS = {"type", "hq", "founded", "stages", "geographies", "sectors", "aum", "check_size_min", "check_size_max",
-                  "legal_name", "offices", "leads_rounds", "latest_fund", "thesis_quote", "exclusions", "lps", "coinvestors", "about"}
+                  "legal_name", "offices", "leads_rounds", "latest_fund", "thesis_quote", "exclusions", "lps", "coinvestors", "about",
+                  "investment_strategies", "legal_structure", "investment_instruments"}
 LEADS_OPTIONS = {"yes", "no", "maybe", "unknown"}  # leads_rounds is a judgment over the recorded profile, see tools/jev_leads.py
-PUBLIC_LIST_FIELDS = {"stages", "geographies", "sectors", "offices"}
+PUBLIC_LIST_FIELDS = {"stages", "geographies", "sectors", "offices", "investment_strategies", "legal_structure", "investment_instruments"}
 PUBLIC_FLEXIBLE_LIST_FIELDS = {"lps", "coinvestors"}  # narrative string OR a plain list of names, per source
 PORTFOLIO_KEYS = {"company", "sector", "round", "date", "url", "as_of"}
 

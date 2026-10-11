@@ -1,5 +1,5 @@
 ---
-jev-score: 73
+jev-score: 74
 ---
 
 # DRONE FUND
@@ -10,18 +10,18 @@ Domain: dronefund.vc
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://prtimes.jp/main/html/rd/p/000000074.000026186.html), as of 2024-06)
 - **HQ:** Azabudai Hills Garden Plaza B, 4F, 5-9-1 Toranomon, Minato-ku, Tokyo 105-0001, Japan ([source](https://dronefund.vc/), as of 2026-08)
 - **Founded:** 2017 ([source](https://prtimes.jp/main/html/rd/p/000000074.000026186.html), as of 2024-06)
-- **Sectors:** drones, air-mobility, aquatic-robots, ground-robots ([source](https://dronefund.vc/en/about/), as of 2022-08)
 - **Legal name:** DRONE FUND Inc. ([source](https://dronefund.vc/en/wp-content/uploads/sites/2/2022/05/a9808a590e2abd3a28805f45c3b5f1ea.pdf), as of 2022-04)
 - **Latest fund:** DRONE FUND III closed at JPY 10.519 billion, announced 2022-03-29 ([source](https://dronefund.vc/en/wp-content/uploads/sites/2/2022/03/2d3757e31d948a22d328b50ca3f7e44e.pdf), as of 2022-03)
 - **Thesis quote:** We at DRONE FUND believe that the development of the drone and air mobility industry is the key to solving not just Japan's, but also the world's social problems. ([source](https://dronefund.vc/en/about/), as of 2022-08)
-- **Leads rounds:** unknown ([source](https://dronefund.vc), as of not recorded)
+- **Type:** venture capital firm ([source](https://dronefund.vc/), as of not recorded)
+- **Investment strategies:** drone and air mobility startup investing ([source](https://dronefund.vc/), as of not recorded)
+- **Sectors:** drones, air-mobility, aquatic-robots, ground-robots ([source](https://dronefund.vc/), as of not recorded)
 
 ## Portfolio
 

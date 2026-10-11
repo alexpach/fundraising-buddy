@@ -1,5 +1,5 @@
 ---
-jev-score: 76
+jev-score: 81
 ---
 
 # Renegade Partners
@@ -10,18 +10,20 @@ Domain: renegadepartners.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://renegadepartners.com/news/introducing-renegade-ii), as of 2024-05)
 - **HQ:** San Francisco, CA ([source](https://www.renegadepartners.com/contact), as of None)
-- **Stages:** series-a, seed, series-b ([source](https://www.renegadepartners.com/), as of None)
 - **Check size min:** $2M ([source](https://www.renegadepartners.com/), as of None)
 - **Check size max:** $10M ([source](https://www.renegadepartners.com/), as of None)
-- **Leads rounds:** maybe ([source](https://www.renegadepartners.com/companies), as of None)
 - **Latest fund:** Renegade II, $128 million, announced May 1, 2024 ([source](https://renegadepartners.com/news/introducing-renegade-ii), as of 2024-05)
 - **Thesis quote:** Partnership is our product. ([source](https://www.renegadepartners.com/), as of None)
+- **Type:** venture capital ([source](https://www.renegadepartners.com/), as of not recorded)
+- **Investment strategies:** early-stage investing ([source](https://www.renegadepartners.com/), as of not recorded)
+- **Stages:** seed, series A, series B, series C ([source](https://www.renegadepartners.com/), as of not recorded)
+- **Sectors:** AI & ML, Fintech, Infra, Enterprise, Vertical SaaS, Consumer ([source](https://www.renegadepartners.com/companies), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.renegadepartners.com/companies), as of not recorded)
 
 ## Portfolio
 

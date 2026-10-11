@@ -1,8 +1,8 @@
 ---
-jev-score: 64
+jev-score: 72
 ---
 
-# Founders Fund
+# Founders Fund, LLC
 
 [Website](https://foundersfund.com)
 
@@ -14,13 +14,14 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://thenextweb.com/news/founders-fund-6-billion-ai-venture), as of 2026-05)
 - **HQ:** San Francisco ([source](https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/), as of 2026-03)
-- **Stages:** early-stage, late-stage ([source](https://texxr.com/1168147/founders-fund-raises-6b-later-stage-fund), as of 2026-05)
 - **Legal name:** Founders Fund, LLC ([source](https://foundersfund.com/), as of None)
 - **Latest fund:** $6 billion growth fund closed 1 May 2026 ([source](https://thenextweb.com/news/founders-fund-6-billion-ai-venture), as of 2026-05)
 - **LPs:** sovereign wealth funds among LPs ([source](https://thenextweb.com/news/founders-fund-6-billion-ai-venture), as of 2026-05)
-- **Leads rounds:** maybe ([source](https://foundersfund.com), as of not recorded)
+- **Type:** venture capital ([source](https://foundersfund.com/2017/01/manifesto/), as of 2017-01)
+- **Investment strategies:** technology-focused venture investing ([source](https://foundersfund.com/2017/01/manifesto/), as of 2017-01)
+- **Sectors:** Artificial intelligence ([source](https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation), as of 2026-02-12)
+- **Leads rounds:** yes ([source](https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation), as of 2026-02-12)
 
 ## Portfolio
 
@@ -54,6 +55,8 @@ Research date: 2026-10-03
 
 - [Source](https://foundersfund.com)
 - [Source](https://foundersfund.com/)
+- [Source](https://foundersfund.com/2017/01/manifesto/)
 - [Source](https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/)
 - [Source](https://texxr.com/1168147/founders-fund-raises-6b-later-stage-fund)
 - [Source](https://thenextweb.com/news/founders-fund-6-billion-ai-venture)
+- [Source](https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation)

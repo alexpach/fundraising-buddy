@@ -1,5 +1,5 @@
 ---
-jev-score: 64
+jev-score: 66
 ---
 
 # Tidemark
@@ -10,17 +10,18 @@ Domain: tidemarkcap.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
 - **Founded:** 2021 ([source](https://www.citybiz.co/article/148860/tidemark-closes-first-time-fund/), as of 2021-09)
-- **Stages:** growth ([source](https://tidemarkcap.com/), as of None)
 - **Check size min:** $20M ([source](https://tidemarkcap.com/portfolio/), as of None)
 - **Check size max:** $150M ([source](https://tidemarkcap.com/portfolio/), as of None)
 - **Latest fund:** Fund I closed at $575M (announced 2021-09-27); no later fund found ([source](https://www.citybiz.co/article/148860/tidemark-closes-first-time-fund/), as of 2021-09)
 - **Thesis quote:** We are excited by how waves in technology, consumer behavior, and business models collide to create powerful secular trends. ([source](https://tidemarkcap.com/), as of None)
-- **Leads rounds:** unknown ([source](https://tidemarkcap.com), as of not recorded)
+- **Type:** growth equity firm ([source](https://tidemarkcap.com/), as of not recorded)
+- **Investment strategies:** growth equity ([source](https://tidemarkcap.com/), as of not recorded)
+- **Stages:** growth ([source](https://tidemarkcap.com/), as of not recorded)
 
 ## Portfolio
 

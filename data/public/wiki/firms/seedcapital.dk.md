@@ -1,5 +1,5 @@
 ---
-jev-score: 66
+jev-score: 73
 ---
 
 # SEED Capital
@@ -10,18 +10,18 @@ Domain: seedcapital.dk
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.seedcapital.dk/), as of None)
 - **HQ:** Copenhagen, Denmark ([source](https://www.seedcapital.dk/), as of None)
-- **Sectors:** Consumer, Deep tech, Enterprise, Fintech, SaaS ([source](https://www.seedcapital.dk/our-focus), as of None)
 - **Check size min:** €2M ([source](https://www.seedcapital.dk/), as of None)
 - **Check size max:** €4M ([source](https://www.seedcapital.dk/), as of None)
 - **Thesis quote:** We gravitate towards solutions that ride the wave of underlying macro trends with transparency and/or user generated content. ([source](https://www.seedcapital.dk/our-focus), as of None)
 - **Exclusions:** Business-to-government (B2G); low-priority problems; overly time-bound problems; inexperience combined with over confidence ([source](https://www.seedcapital.dk/our-focus), as of None)
-- **Leads rounds:** unknown ([source](https://seedcapital.dk), as of not recorded)
+- **Type:** venture capital ([source](https://www.seedcapital.dk/our-family), as of not recorded)
+- **Stages:** seed, late seed ([source](https://www.seedcapital.dk/our-focus), as of not recorded)
+- **Sectors:** Consumer, Deep tech, Enterprise, Fintech, SaaS, Fintech, Cybersecurity, B2B AI ([source](https://www.seedcapital.dk/our-focus), as of not recorded)
 
 ## Portfolio
 
@@ -47,4 +47,5 @@ Research date: 2026-10-03
 ## Sources
 
 - [Source](https://www.seedcapital.dk/)
+- [Source](https://www.seedcapital.dk/our-family)
 - [Source](https://www.seedcapital.dk/our-focus)

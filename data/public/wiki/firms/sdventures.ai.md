@@ -1,5 +1,5 @@
 ---
-jev-score: 12
+jev-score: 11
 ---
 
 # SD Ventures

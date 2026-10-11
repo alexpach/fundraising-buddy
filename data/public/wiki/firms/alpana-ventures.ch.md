@@ -1,5 +1,5 @@
 ---
-jev-score: 48
+jev-score: 56
 ---
 
 # Alpana Ventures
@@ -14,13 +14,15 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://alpana-ventures.ch/mission/), as of None)
 - **HQ:** Geneva, Switzerland ([source](https://alpana-ventures.ch/people/), as of None)
 - **Founded:** 2016 ([source](https://alpana-ventures.ch/mission/), as of None)
 - **Geographies:** europe, us ([source](https://alpana-ventures.ch/mission/), as of None)
-- **Sectors:** Computer Related, Internet Technology, Medical - Life Sciences - Health Related ([source](https://www.seca.ch/en/find-members/alpana-ventures/), as of None)
 - **Thesis quote:** Alpana Ventures is a Swiss VC focusing on Digital Transformation since 2016. ([source](https://alpana-ventures.ch/mission/), as of None)
-- **Leads rounds:** unknown ([source](https://alpana-ventures.ch), as of not recorded)
+- **Type:** venture capital ([source](https://www.seca.ch/en/find-members/alpana-ventures/), as of not recorded)
+- **Investment strategies:** digital transformation, deep tech ([source](https://www.seca.ch/en/find-members/alpana-ventures/), as of not recorded)
+- **Investment instruments:** equity ([source](https://www.seca.ch/en/find-members/alpana-ventures/), as of not recorded)
+- **Stages:** early stage, growth stage ([source](https://www.seca.ch/en/find-members/alpana-ventures/), as of not recorded)
+- **Sectors:** Computer Related, Internet Technology, Medical - Life Sciences - Health Related ([source](https://www.seca.ch/en/find-members/alpana-ventures/), as of not recorded)
 
 ## Portfolio
 

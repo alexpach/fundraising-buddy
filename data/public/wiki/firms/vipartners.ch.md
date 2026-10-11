@@ -1,5 +1,5 @@
 ---
-jev-score: 78
+jev-score: 85
 ---
 
 # Vi Partners
@@ -10,20 +10,22 @@ Domain: vipartners.ch
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.vipartners.ch/news/vi-partners-announces-first-close-of-its-new-chf-150-million-fund-reinforcing-its-long-term-commitment-to-swiss-innovation), as of 2026-01)
 - **HQ:** Altendorf, Switzerland ([source](https://www.vipartners.ch/news/vi-partners-announces-first-close-of-its-new-chf-150-million-fund-reinforcing-its-long-term-commitment-to-swiss-innovation), as of 2026-01)
 - **Founded:** 2001 ([source](https://www.vipartners.ch/news/vi-partners-announces-first-close-of-its-new-chf-150-million-fund-reinforcing-its-long-term-commitment-to-swiss-innovation), as of 2026-01)
-- **Sectors:** technology, healthcare, life sciences, B2B technologies ([source](https://www.vipartners.ch/about), as of None)
 - **Check size min:** CHF 2M (stated initial-investment sweet spot, lower bound) ([source](https://www.vipartners.ch/about), as of None)
 - **Check size max:** CHF 4M (stated initial-investment sweet spot, upper bound) ([source](https://www.vipartners.ch/about), as of None)
 - **Latest fund:** First close announced 2026-01-21 of a fund targeting CHF 150 million (amount raised at first close not disclosed in the quoted text; target, not a fund size) ([source](https://www.vipartners.ch/news/vi-partners-announces-first-close-of-its-new-chf-150-million-fund-reinforcing-its-long-term-commitment-to-swiss-innovation), as of 2026-01)
 - **Thesis quote:** We are generalists fund, operating dedicated teams across life sciences and B2B technologies. ([source](https://www.vipartners.ch/about), as of None)
 - **LPs:** ETH Zurich, ABB, Bühler, UBS, Hilti, McKinsey, Nestlé, Schindler, Sulzer, Suva and ZKB, plus institutional and private investors ([source](https://www.startupticker.ch/en/news/vi-partners-first-closing-of-new-chf-150-million-fund-completed), as of 2026-01)
-- **Leads rounds:** unknown ([source](https://vipartners.ch), as of not recorded)
+- **Type:** venture capital ([source](https://www.vipartners.ch/news/vi-partners-announces-first-close-of-its-new-chf-150-million-fund-reinforcing-its-long-term-commitment-to-swiss-innovation), as of 2026-01)
+- **Investment strategies:** early-stage venture capital ([source](https://www.vipartners.ch/news/vi-partners-announces-first-close-of-its-new-chf-150-million-fund-reinforcing-its-long-term-commitment-to-swiss-innovation), as of 2026-01)
+- **Stages:** Seed, Series A ([source](https://www.vipartners.ch/), as of not recorded)
+- **Sectors:** Technology, Healthcare, life sciences, B2B technologies ([source](https://www.vipartners.ch/news/vi-partners-announces-first-close-of-its-new-chf-150-million-fund-reinforcing-its-long-term-commitment-to-swiss-innovation), as of 2026-01)
+- **Leads rounds:** yes ([source](https://www.vipartners.ch/), as of not recorded)
 
 ## Portfolio
 

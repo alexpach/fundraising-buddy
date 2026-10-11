@@ -1,5 +1,5 @@
 ---
-jev-score: 71
+jev-score: 72
 ---
 
 # Eurazeo
@@ -10,7 +10,7 @@ Domain: eurazeo.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-03
 
 ## Public research
 
@@ -19,7 +19,11 @@ Research date: 2026-08-25
 - **Offices:** Paris, New York, London, Frankfurt, Berlin, Milan, Madrid, Luxembourg, Shanghai, Seoul, Singapore, Tokyo, São Paulo ([source](https://en.newsroom.eurazeo.com/download-pdf/68bab3ee3b9ca44bea0260ca), as of 2025-07)
 - **Latest fund:** Eurazeo Growth Fund IV first closing at €650 million (target €1 billion), July 2025 ([source](https://en.newsroom.eurazeo.com/download-pdf/68bab3ee3b9ca44bea0260ca), as of 2025-07)
 - **Thesis quote:** Today's disruptors are tomorrow's leaders. ([source](https://www.eurazeo.com/en/businesses/private-equity/venture-capital), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://eurazeo.com), as of not recorded)
+- **Type:** venture capital ([source](https://wealth.eurazeo.com/en/private-equity), as of not recorded)
+- **Investment strategies:** venture capital ([source](https://wealth.eurazeo.com/en/private-equity), as of not recorded)
+- **Investment instruments:** equity ([source](https://wealth.eurazeo.com/en/private-equity), as of not recorded)
+- **Stages:** initial stages, Series C ([source](https://www.eurazeo.com/en/businesses/private-equity/venture-capital), as of not recorded)
+- **Sectors:** digital services and technologies, ecological transition, healthcare ([source](https://www.eurazeo.com/en/businesses/private-equity/venture-capital), as of not recorded)
 
 ## Portfolio
 
@@ -43,5 +47,6 @@ Research date: 2026-08-25
 - [Source](https://en.newsroom.eurazeo.com/download-pdf/68bab3ee3b9ca44bea0260ca)
 - [Source](https://en.wikipedia.org/wiki/Eurazeo)
 - [Source](https://eurazeo.com)
+- [Source](https://wealth.eurazeo.com/en/private-equity)
 - [Source](https://www.eurazeo.com/en/businesses/private-equity/venture-capital)
 - [Source](https://www.ga.fr/en/news/press/capital-restructuring-operation/)

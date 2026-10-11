@@ -1,5 +1,5 @@
 ---
-jev-score: 5
+jev-score: 10
 ---
 
 # Mercedes-Benz Group AG
@@ -10,14 +10,15 @@ Domain: mercedes-benz.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://www.mercedes-benz.com), as of 2026-04-25)
-- **Leads rounds:** unknown ([source](https://www.mercedes-benz.com), as of not recorded)
+- **Type:** automotive manufacturer; corporate group ([source](https://group.mercedes-benz.com/provider/), as of not recorded)
+- **Investment strategies:** strategic corporate investments, investments in venture capital funds ([source](https://group.mercedes-benz.com/provider/), as of not recorded)
+- **Investment instruments:** equity, debt ([source](https://group.mercedes-benz.com/provider/), as of not recorded)
 
 ## Portfolio
 
@@ -28,4 +29,6 @@ Not recorded.
 
 ## Sources
 
+- [Source](https://group.mercedes-benz.com/documents/investors/reports/annual-report/mercedes-benz/mercedes-benz-annual-report-2025-incl-combined-management-report-mbg-ag.pdf)
+- [Source](https://group.mercedes-benz.com/provider/)
 - [Source](https://www.mercedes-benz.com)

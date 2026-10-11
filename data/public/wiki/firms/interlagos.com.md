@@ -1,8 +1,8 @@
 ---
-jev-score: 14
+jev-score: 17
 ---
 
-# Interlagos Capital
+# Interlagos
 
 [Website](https://interlagos.com)
 
@@ -10,15 +10,14 @@ Domain: interlagos.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://interlagos.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://interlagos.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://interlagos.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.linkedin.com/company/interlagoscapital/), as of not recorded)
+- **Sectors:** applied science, manufacturing ([source](https://www.linkedin.com/company/interlagoscapital/), as of not recorded)
 
 ## Portfolio
 
@@ -30,3 +29,6 @@ Not recorded.
 ## Sources
 
 - [Source](https://interlagos.com)
+- [Source](https://www.interlagos.com/contact)
+- [Source](https://www.linkedin.com/company/interlagoscapital/)
+- [Source](https://www.sec.gov/Archives/edgar/data/1918642/000121390026066820/ea0293641-01_ncsr.htm)

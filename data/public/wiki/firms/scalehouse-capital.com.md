@@ -1,8 +1,8 @@
 ---
-jev-score: 79
+jev-score: 82
 ---
 
-# Scalehouse Capital Venture Fund
+# Scalehouse Capital, operated by SCALEHOUSE Capital Management GmbH
 
 [Website](https://scalehouse-capital.com)
 
@@ -10,20 +10,22 @@ Domain: scalehouse-capital.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.scalehouse-capital.com/), as of None)
 - **HQ:** Osnabrück, Germany ([source](https://www.scalehouse-capital.com/impressum), as of None)
 - **Founded:** 2022 ([source](https://www.scalehouse-capital.com/team), as of None)
-- **Stages:** seed ([source](https://www.scalehouse-capital.com/), as of None)
 - **Check size max:** €1.5M ([source](https://www.scalehouse-capital.com/), as of None)
 - **Legal name:** SCALEHOUSE Capital Management GmbH ([source](https://www.scalehouse-capital.com/impressum), as of None)
-- **Leads rounds:** maybe ([source](https://www.scalehouse-capital.com/), as of None)
 - **Latest fund:** First closing at EUR 23m, Fund I (Aug 2022) ([source](https://www.orbit.law/deals/scalehouse-capital-management-launches-new-venture-capital-fund), as of 2022-08)
 - **Thesis quote:** We invest in compounding startups and teams; we love working closely with exceptional founders. ([source](https://www.scalehouse-capital.com/), as of None)
 - **LPs:** Backed by 30+ shareholders of Seedhouse, 'Hidden Champions' and family-owned enterprises; firm also cites 25+ investors ([source](https://www.scalehouse-capital.com/team), as of None)
+- **Type:** venture capital ([source](https://www.scalehouse-capital.com/), as of not recorded)
+- **Investment strategies:** early-stage software investing, AI-focused investing ([source](https://www.scalehouse-capital.com/), as of not recorded)
+- **Stages:** seed, early-stage ([source](https://www.scalehouse-capital.com/), as of not recorded)
+- **Sectors:** software, artificial intelligence ([source](https://www.scalehouse-capital.com/portfolio), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.scalehouse-capital.com/), as of not recorded)
 
 ## Portfolio
 

@@ -1,5 +1,5 @@
 ---
-jev-score: 71
+jev-score: 64
 ---
 
 # Ruvento Ventures
@@ -10,20 +10,22 @@ Domain: ruvento.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://hub.waveup.com/funds/ruvento), as of 2026-04)
 - **Founded:** 2012 ([source](https://hub.waveup.com/funds/ruvento), as of 2026-04)
 - **Check size min:** $100,000 (2016 seed fund; not confirmed current) ([source](https://techcrunch.com/2016/12/06/ruvento-raises-new-seed-fund-to-invest-in-hardware-across-singapore-china-and-the-u-s/), as of 2016-12)
 - **Check size max:** $2,000,000 (follow-on, 2016 seed fund; not confirmed current) ([source](https://techcrunch.com/2016/12/06/ruvento-raises-new-seed-fund-to-invest-in-hardware-across-singapore-china-and-the-u-s/), as of 2016-12)
 - **Legal name:** Ruvento Ventures Pte. Ltd. ([source](https://recordowl.com/company/ruvento-ventures-pte-ltd), as of 2026-08)
-- **Leads rounds:** maybe ([source](https://techcrunch.com/2016/12/06/ruvento-raises-new-seed-fund-to-invest-in-hardware-across-singapore-china-and-the-u-s/), as of 2016-12)
 - **Latest fund:** $25 million seed fund announced December 2016; no later fund publicly evidenced ([source](https://techcrunch.com/2016/12/06/ruvento-raises-new-seed-fund-to-invest-in-hardware-across-singapore-china-and-the-u-s/), as of 2016-12)
 - **Thesis quote:** We invest in disruptive technologies and remarkable founders ([source](https://www.ruvento.com/portfolio), as of 2026-04)
 - **Exclusions:** avoided gimmick hardware without real need (2016 seed-fund framing) ([source](https://techcrunch.com/2016/12/06/ruvento-raises-new-seed-fund-to-invest-in-hardware-across-singapore-china-and-the-u-s/), as of 2016-12)
 - **LPs:** backed by family office money (as of the 2016 seed fund) ([source](https://techcrunch.com/2016/12/06/ruvento-raises-new-seed-fund-to-invest-in-hardware-across-singapore-china-and-the-u-s/), as of 2016-12)
+- **Type:** venture capital ([source](https://techcrunch.com/2016/12/06/ruvento-raises-new-seed-fund-to-invest-in-hardware-across-singapore-china-and-the-u-s/), as of 2016-12)
+- **Investment strategies:** seed-stage hardware venture investing ([source](https://techcrunch.com/2016/12/06/ruvento-raises-new-seed-fund-to-invest-in-hardware-across-singapore-china-and-the-u-s/), as of 2016-12)
+- **Stages:** early funding, later stages ([source](https://www.ruvento.com/), as of not recorded)
+- **Sectors:** hardware, IoT and sensors, drones and robotics, virtual reality and augmented reality ([source](https://techcrunch.com/2016/12/06/ruvento-raises-new-seed-fund-to-invest-in-hardware-across-singapore-china-and-the-u-s/), as of 2016-12)
 
 ## Portfolio
 
@@ -49,4 +51,5 @@ Research date: 2026-08-25
 - [Source](https://recordowl.com/company/ruvento-ventures-pte-ltd)
 - [Source](https://ruvento.com)
 - [Source](https://techcrunch.com/2016/12/06/ruvento-raises-new-seed-fund-to-invest-in-hardware-across-singapore-china-and-the-u-s/)
+- [Source](https://www.ruvento.com/)
 - [Source](https://www.ruvento.com/portfolio)

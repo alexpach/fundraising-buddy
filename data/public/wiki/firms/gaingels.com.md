@@ -1,5 +1,5 @@
 ---
-jev-score: 28
+jev-score: 31
 ---
 
 # Gaingels
@@ -10,17 +10,17 @@ Domain: gaingels.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://gaingels.com), as of 2026-08-20)
-- **Stages:** seed, series-a, series-b, growth ([source](https://gaingels.com), as of 2026-08-20)
 - **Geographies:** us, global ([source](https://gaingels.com), as of 2026-08-20)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://gaingels.com), as of 2026-08-20)
-- **Leads rounds:** unknown ([source](https://gaingels.com), as of not recorded)
+- **Type:** venture capital ([source](https://gaingels.com/about), as of not recorded)
+- **Investment strategies:** venture syndicate, co-investment ([source](https://gaingels.com/about), as of not recorded)
+- **Stages:** pre-seed, seed, pre-IPO ([source](https://gaingels.com/about), as of not recorded)
+- **Sectors:** Artificial intelligence, Healthcare, Fintech, Defense, Deep tech ([source](https://gaingels.com), as of not recorded)
 
 ## Portfolio
 
@@ -36,3 +36,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://gaingels.com)
+- [Source](https://gaingels.com/about)

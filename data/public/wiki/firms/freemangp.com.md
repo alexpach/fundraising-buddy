@@ -1,5 +1,5 @@
 ---
-jev-score: 13
+jev-score: 15
 ---
 
 # Freeman Group
@@ -10,15 +10,15 @@ Domain: freemangp.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://freemangp.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://freemangp.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://freemangp.com), as of not recorded)
+- **Type:** private investment and asset management firm ([source](https://freemangp.com), as of not recorded)
+- **Investment strategies:** private and public market investing ([source](https://freemangp.com), as of not recorded)
+- **Sectors:** Energy, Communications, Enterprise services, Manufacturing, Real estate ([source](https://freemangp.com), as of not recorded)
 
 ## Portfolio
 

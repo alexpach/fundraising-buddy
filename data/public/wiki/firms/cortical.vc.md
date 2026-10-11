@@ -1,5 +1,5 @@
 ---
-jev-score: 63
+jev-score: 61
 ---
 
 # Cortical Ventures
@@ -10,14 +10,17 @@ Domain: cortical.vc
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.prnewswire.com/news-releases/cortical-ventures-launches-with-50m-ai-focused-fund-301478767.html), as of 2022-02)
-- **Leads rounds:** yes ([source](https://cortical.vc/), as of 2026-08)
 - **Latest fund:** Fund I inaugural close, $50M, announced Feb 9 2022 ([source](https://www.prnewswire.com/news-releases/cortical-ventures-launches-with-50m-ai-focused-fund-301478767.html), as of 2022-02)
 - **Thesis quote:** We create AI impact, not hype. ([source](https://cortical.vc/), as of 2026-08)
+- **Type:** venture capital ([source](https://www.prnewswire.com/news-releases/cortical-ventures-launches-with-50m-ai-focused-fund-301478767.html), as of 2022-02-09)
+- **Investment strategies:** early-stage, AI-focused ([source](https://www.prnewswire.com/news-releases/cortical-ventures-launches-with-50m-ai-focused-fund-301478767.html), as of 2022-02-09)
+- **Stages:** pre-seed, seed ([source](https://cortical.vc/), as of not recorded)
+- **Sectors:** Physical AI, AI infrastructure and applications, AI for Good ([source](https://cortical.vc/), as of not recorded)
+- **Leads rounds:** yes ([source](https://cortical.vc/), as of not recorded)
 
 ## Portfolio
 

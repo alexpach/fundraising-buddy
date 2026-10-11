@@ -1,5 +1,5 @@
 ---
-jev-score: 14
+jev-score: 22
 ---
 
 # Ripple
@@ -10,17 +10,16 @@ Domain: ripple.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://ripple.com), as of 2026-08-06)
-- **Stages:** any ([source](https://ripple.com), as of 2026-08-06)
 - **Geographies:** global ([source](https://ripple.com), as of 2026-08-06)
-- **Sectors:** crypto, blockchain, payments, fintech, cross-border-payments ([source](https://ripple.com), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://ripple.com), as of not recorded)
+- **Type:** strategic investment program ([source](https://ripple.com/investments/), as of not recorded)
+- **Investment strategies:** strategic investments in Web 3.0 ([source](https://ripple.com/investments/), as of not recorded)
+- **Sectors:** Web 3.0, digital asset market infrastructure, on-chain asset creation, digital asset movement, digital asset custody and storage ([source](https://ripple.com/investments/), as of not recorded)
 
 ## Portfolio
 
@@ -32,3 +31,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://ripple.com)
+- [Source](https://ripple.com/)
+- [Source](https://ripple.com/investments/)

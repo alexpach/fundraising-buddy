@@ -1,5 +1,5 @@
 ---
-jev-score: 53
+jev-score: 52
 ---
 
 # Visionnaire Ventures

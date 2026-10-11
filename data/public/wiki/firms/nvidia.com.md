@@ -1,8 +1,8 @@
 ---
-jev-score: 54
+jev-score: 49
 ---
 
-# NVentures (NVIDIA's Venture Capital Arm)
+# NVentures (NVIDIA venture capital arm)
 
 [Website](https://nvidia.com)
 
@@ -10,15 +10,16 @@ Domain: nvidia.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
 - **Founded:** 2021 ([source](https://panews.io/articles/019f8803-10d8-7391-bcb6-18142ce758b9), as of 2026-07)
-- **Stages:** seed, series-a, series-b, growth ([source](https://siliconvalleyinvestclub.com/investors/nventures/), as of 2026-08)
-- **Leads rounds:** maybe ([source](https://www.odaily.news/en/post/5211174), as of 2026-06)
 - **Thesis quote:** We invest in technology visionaries solving complex problems. ([source](https://www.nvidia.com/en-us/startups/nventures/), as of 2026-08)
 - **Coinvestors:** Accel, a16z, Sequoia (as lead investors NVentures frequently follows) ([source](https://www.odaily.news/en/post/5211174), as of 2026-06)
+- **Type:** venture capital ([source](https://www.nvidia.com/en-us/startups/nventures/), as of not recorded)
+- **Investment strategies:** strategic investment ([source](https://www.nvidia.com/en-us/startups/nventures/), as of not recorded)
+- **Sectors:** AI infrastructure, robotics, digital biology, applied AI, frontier compute ([source](https://www.nvidia.com/en-us/startups/nventures/), as of not recorded)
 
 ## Portfolio
 
@@ -42,6 +43,7 @@ Research date: 2026-08-26
 
 ## Sources
 
+- [Source](https://nventures.ai/)
 - [Source](https://nvidia.com)
 - [Source](https://panews.io/articles/019f8803-10d8-7391-bcb6-18142ce758b9)
 - [Source](https://siliconvalleyinvestclub.com/investors/nventures/)

@@ -1,5 +1,5 @@
 ---
-jev-score: 78
+jev-score: 81
 ---
 
 # DFJ Growth
@@ -10,20 +10,21 @@ Domain: dfjgrowth.com
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://dfjgrowth.com/story/about-dfj-growth), as of None)
 - **HQ:** San Mateo, CA ([source](https://dfjgrowth.com/team), as of None)
 - **Founded:** 2005 ([source](https://dfjgrowth.com/story/about-dfj-growth), as of None)
-- **Stages:** growth ([source](https://dfjgrowth.com/story/about-dfj-growth), as of None)
 - **Geographies:** global ([source](https://dfjgrowth.com/story/about-dfj-growth), as of None)
-- **Sectors:** AI Infrastructure and Applications, Life Tech, Machine Assist, New Frontiers ([source](https://dfjgrowth.com/story/investing-in-the-future-dfj-growth), as of None)
 - **Latest fund:** DFJ Growth V, $1.2 billion (initial target $800 million) ([source](https://dfjgrowth.com/news/two-decades-in-dfj-growth-raises-12-billion-for-its-fifth-fund-and-doubles-down-on-the-long-game), as of 2025-05)
 - **Thesis quote:** select visionary founders with game-changing technologies that are enabling the rise of very large markets ([source](https://dfjgrowth.com/story/about-dfj-growth), as of None)
 - **LPs:** Nantucket Multi-Managers (LP since 2006, all five funds) ([source](https://dfjgrowth.com/news/two-decades-in-dfj-growth-raises-12-billion-for-its-fifth-fund-and-doubles-down-on-the-long-game), as of 2025-05)
-- **Leads rounds:** unknown ([source](https://dfjgrowth.com), as of not recorded)
+- **Type:** venture capital ([source](https://dfjgrowth.com/story/about-dfj-growth/), as of not recorded)
+- **Investment strategies:** venture growth ([source](https://dfjgrowth.com/story/about-dfj-growth/), as of not recorded)
+- **Stages:** growth ([source](https://dfjgrowth.com/story/about-dfj-growth/), as of not recorded)
+- **Sectors:** AI Infrastructure and Applications, Life Tech, Machine Assist, New Frontiers ([source](https://dfjgrowth.com/story/investing-in-the-future-dfj-growth/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.dfjgrowth.com/story/the-oracle-of-delfi-finding-every-cancer-early/), as of not recorded)
 
 ## Portfolio
 
@@ -60,5 +61,8 @@ Research date: 2026-10-02
 - [Source](https://dfjgrowth.com/)
 - [Source](https://dfjgrowth.com/news/two-decades-in-dfj-growth-raises-12-billion-for-its-fifth-fund-and-doubles-down-on-the-long-game)
 - [Source](https://dfjgrowth.com/story/about-dfj-growth)
+- [Source](https://dfjgrowth.com/story/about-dfj-growth/)
 - [Source](https://dfjgrowth.com/story/investing-in-the-future-dfj-growth)
+- [Source](https://dfjgrowth.com/story/investing-in-the-future-dfj-growth/)
 - [Source](https://dfjgrowth.com/team)
+- [Source](https://www.dfjgrowth.com/story/the-oracle-of-delfi-finding-every-cancer-early/)

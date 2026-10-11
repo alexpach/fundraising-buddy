@@ -1,5 +1,5 @@
 ---
-jev-score: 67
+jev-score: 76
 ---
 
 # Notable Capital
@@ -10,14 +10,19 @@ Domain: notablecap.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
 - **HQ:** Silicon Valley ([source](https://www.ggvc.com/), as of 2026-08)
 - **Offices:** San Francisco, New York ([source](https://www.ggvc.com/), as of 2026-08)
-- **Leads rounds:** maybe ([source](https://notablecap.com/blog/backing-mitchell-hashimoto-again-12-years-later), as of 2026-08)
 - **Thesis quote:** we partner with early-stage founders scaling bold ideas into category-defining companies ([source](https://notablecap.com/about-us), as of 2026-08)
+- **Type:** venture capital ([source](https://notablecap.com/about-us), as of not recorded)
+- **Investment strategies:** early-stage company building ([source](https://notablecap.com/about-us), as of not recorded)
+- **Stages:** early-stage ([source](https://notablecap.com/n1), as of not recorded)
+- **Sectors:** AI, cloud infrastructure, Cybersecurity, consumer, fintech, Enterprise ([source](https://notablecap.com/companies), as of not recorded)
+- **Leads rounds:** yes ([source](https://notablecap.com/blog/backing-mitchell-hashimoto-again-12-years-later), as of 2026-08-29)
+- **AUM:** Lower bound (over): USD 5 billion (date not reported) ([source](https://notablecap.com/about-us), as of not recorded)
 
 ## Portfolio
 
@@ -47,6 +52,7 @@ Research date: 2026-08-26
 - [Source](https://notablecap.com/blog/backing-mitchell-hashimoto-again-12-years-later)
 - [Source](https://notablecap.com/blog/why-we-invested-in-fal-ai)
 - [Source](https://notablecap.com/companies)
+- [Source](https://notablecap.com/n1)
 - [Source](https://www.calcalistech.com/ctechnews/article/r1haoz6xa)
 - [Source](https://www.ggvc.com/)
 - [Source](https://www.notablecap.com/)

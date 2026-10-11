@@ -1,5 +1,5 @@
 ---
-jev-score: 66
+jev-score: 78
 ---
 
 # OrbiMed
@@ -10,18 +10,23 @@ Domain: orbimed.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
 - **Founded:** 1989 ([source](https://www.orbimed.com/about/), as of None)
 - **Geographies:** global ([source](https://www.orbimed.com/about/), as of None)
-- **Sectors:** biopharmaceuticals, medical technologies, medical devices, diagnostics, drug discovery tools, healthcare information technology and services ([source](https://www.orbimed.com/about/), as of None)
 - **Offices:** New York, San Francisco, London, Mumbai, Shanghai, Hong Kong, Herzliya ([source](https://www.orbimed.com/contact-us/), as of None)
-- **Leads rounds:** yes ([source](https://www.orbimed.com/about/), as of not recorded)
 - **Latest fund:** OrbiMed Royalty and Credit Opportunities Fund V, $1.86 billion in commitments (credit/royalty fund, not venture) ([source](https://www.orbimed.com/category/orbimed-news/), as of 2025-08)
 - **Thesis quote:** OrbiMed is a global investment firm that invests in companies engaged in the discovery and development of biopharmaceutical products, medical technologies, medical devices, diagnostics, drug discovery tools, and healthcare information technology and services companies. ([source](https://www.orbimed.com/about/), as of None)
 - **LPs:** medical institutions, university endowments, foundations, pension funds, sovereign wealth funds and family offices ([source](https://www.orbimed.com/category/orbimed-news/), as of 2023-10)
+- **Type:** venture capital ([source](https://www.orbimed.com/about/), as of not recorded)
+- **Investment strategies:** private equity, public equity, private credit/royalty ([source](https://www.orbimed.com/about/), as of not recorded)
+- **Investment instruments:** equity, debt, royalty ([source](https://www.orbimed.com/about/), as of not recorded)
+- **Stages:** seed, growth equity ([source](https://www.orbimed.com/about/), as of not recorded)
+- **Sectors:** Healthcare ([source](https://www.orbimed.com/about/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.orbimed.com/about/), as of not recorded)
+- **AUM:** Lower bound (over): USD 17 billion (as of 2025-08-04) ([source](https://www.orbimed.com/orbimed-raises-1-86-billion-for-healthcare-royalty-credit-fund-v/), as of 2025-08-04)
 
 ## Portfolio
 
@@ -65,4 +70,5 @@ Research date: 2026-10-03
 - [Source](https://www.orbimed.com/about/)
 - [Source](https://www.orbimed.com/category/orbimed-news/)
 - [Source](https://www.orbimed.com/contact-us/)
+- [Source](https://www.orbimed.com/orbimed-raises-1-86-billion-for-healthcare-royalty-credit-fund-v/)
 - [Source](https://www.orbimed.com/portfolio/)

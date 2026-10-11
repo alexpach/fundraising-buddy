@@ -37,3 +37,5 @@ The funds explorer in `funds.tsx` and `funds.css` is original application code.
 Its visual grouping was informed by the user-provided
 [Kobra grouped-table preview](https://kobra.systems/components/grouped-table).
 No Kobra source code or licensed component was copied.
+
+The application mark and favicon use the user-supplied Apple SF Symbols `figure.socialdance` SVG. This artwork is separate from the MIT-licensed application code and remains subject to its original terms.

@@ -1,5 +1,5 @@
 ---
-jev-score: 61
+jev-score: 68
 ---
 
 # CE-Ventures (Crescent Enterprises)
@@ -10,14 +10,17 @@ Domain: crescententerprises.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** cvc ([source](https://crescententerprises.com/what-we-do/ce-ventures), as of 2026-08)
 - **Geographies:** us, mena, apac, global ([source](https://crescententerprises.com/what-we-do/ce-ventures), as of 2026-08)
-- **Leads rounds:** maybe ([source](https://magnitt.com/news/ce-ventures-leads-seed-round-uae-food-tech-startup-kitopi-37092), as of 2018-10)
 - **Thesis quote:** We back visionary entrepreneurs by providing capital, resources, and a global network to build and scale exceptional businesses that drive long-term value. ([source](https://crescententerprises.com/what-we-do/ce-ventures), as of 2026-08)
+- **Type:** corporate venture capital ([source](https://crescententerprises.com/what-we-do/ce-ventures), as of not recorded)
+- **Investment strategies:** venture capital, venture fund investments ([source](https://crescententerprises.com/what-we-do/ce-ventures), as of not recorded)
+- **Stages:** early-stage, late-stage ([source](https://crescententerprises.com/what-we-do/ce-ventures), as of not recorded)
+- **Sectors:** Consumer, Deep-tech, Biotech, Speciality chemicals ([source](https://crescententerprises.com/what-we-do/ce-ventures), as of not recorded)
+- **Leads rounds:** yes ([source](https://crescententerprises.com/news/ce-ventures-co-leads-10-million-financing-round-for-crossbridge-bio), as of 2024-11)
 
 ## Portfolio
 
@@ -49,5 +52,6 @@ Research date: 2026-08-26
 - [Source](https://crescententerprises.com/news/ce-ventures-backs-global-speciality-chemicals-platform)
 - [Source](https://crescententerprises.com/news/ce-ventures-backs-the-future-of-financial-infrastructure)
 - [Source](https://crescententerprises.com/news/ce-ventures-backs-the-future-of-nuclear)
+- [Source](https://crescententerprises.com/news/ce-ventures-co-leads-10-million-financing-round-for-crossbridge-bio)
 - [Source](https://crescententerprises.com/what-we-do/ce-ventures)
 - [Source](https://magnitt.com/news/ce-ventures-leads-seed-round-uae-food-tech-startup-kitopi-37092)

@@ -1,5 +1,5 @@
 ---
-jev-score: 78
+jev-score: 87
 ---
 
 # Capricorn Partners
@@ -14,11 +14,9 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://capricorn.be/en), as of None)
 - **HQ:** Leuven, Belgium ([source](https://capricorn.be/en/portfolio-items), as of None)
 - **Founded:** 1993 ([source](https://capricorn.be/en/about-us), as of None)
 - **Geographies:** europe ([source](https://capricorn.be/en), as of None)
-- **Sectors:** digital, health, clean technologies ([source](https://capricorn.be/en), as of None)
 - **Check size min:** EUR 1 million (initial ticket, Capricorn Healthtech Fund II) ([source](https://capricorn.be/en/news_items/capricorn-partners-launches-the-capricorn-healthtech-fund-ii-with-a-first-closing-of-eur51-million), as of 2025-01)
 - **Check size max:** EUR 5 million (initial ticket, Capricorn Healthtech Fund II) ([source](https://capricorn.be/en/news_items/capricorn-partners-launches-the-capricorn-healthtech-fund-ii-with-a-first-closing-of-eur51-million), as of 2025-01)
 - **Legal name:** Capricorn Partners (formerly Capricorn Venture Partners NV) ([source](https://capricorn.be/en/about-us), as of None)
@@ -26,7 +24,11 @@ Research date: 2026-10-03
 - **Thesis quote:** Capricorn Partners wants to create both financial return and strategic value for its clients by investing in innovative companies that have a positive impact on people and the planet. ([source](https://capricorn.be/en/about-us), as of None)
 - **LPs:** Invest-NL, Sensinnovat, Quest for Growth, AG Insurance/Ageas, PMV, finance&invest.brussels, KU Leuven Research & Development ([source](https://capricorn.be/en/news_items/capricorn-partners-launches-the-capricorn-healthtech-fund-ii-with-a-first-closing-of-eur51-million), as of 2025-01)
 - **Coinvestors:** MGFO, Industrya, The Faktory Fund ([source](https://capricorn.be/en), as of None)
-- **Leads rounds:** maybe ([source](https://capricorn.be), as of not recorded)
+- **Type:** venture capital ([source](https://capricorn.be/en/about-us), as of not recorded)
+- **Investment strategies:** venture capital, growth capital ([source](https://capricorn.be/en/about-us), as of not recorded)
+- **Legal structure:** partner-owned independent management company ([source](https://capricorn.be/en/about-us), as of not recorded)
+- **Stages:** late seed, Series A, Series B ([source](https://capricorn.be/en/news_items/capricorn-partners-launches-the-capricorn-healthtech-fund-ii-with-a-first-closing-of-eur51-million), as of 2025-01-09)
+- **Sectors:** digital technologies, health, clean technologies ([source](https://capricorn.be/en/about-us), as of not recorded)
 
 ## Portfolio
 

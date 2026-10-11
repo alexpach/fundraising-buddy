@@ -1,5 +1,5 @@
 ---
-jev-score: 5
+jev-score: 21
 ---
 
 # Bloomberg Beta
@@ -10,14 +10,16 @@ Domain: bloombergbeta.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://bloombergbeta.com), as of 2026-04-25)
-- **Leads rounds:** unknown ([source](https://bloombergbeta.com), as of not recorded)
+- **Type:** venture capital ([source](https://github.com/Bloomberg-Beta/Manual), as of not recorded)
+- **Investment strategies:** early-stage venture investing, opportunity investing in existing portfolio companies ([source](https://github.com/Bloomberg-Beta/Manual), as of not recorded)
+- **Stages:** early stage, seed, later stage ([source](https://github.com/Bloomberg-Beta/Manual), as of not recorded)
+- **Sectors:** Future of work ([source](https://github.com/Bloomberg-Beta/Manual), as of not recorded)
 
 ## Portfolio
 
@@ -29,3 +31,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://bloombergbeta.com)
+- [Source](https://github.com/Bloomberg-Beta/Manual)
+- [Source](https://www.bloombergbeta.com/)

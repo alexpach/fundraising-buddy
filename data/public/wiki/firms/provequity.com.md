@@ -1,5 +1,5 @@
 ---
-jev-score: 40
+jev-score: 45
 ---
 
 # Providence Equity Partners
@@ -10,18 +10,17 @@ Domain: provequity.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://www.provequity.com/), as of 2026-08-06)
-- **Stages:** growth ([source](https://www.provequity.com/), as of 2026-08-06)
 - **Geographies:** us, europe ([source](https://www.provequity.com/), as of 2026-08-06)
-- **Sectors:** media, communications, education ([source](https://www.provequity.com/), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://www.provequity.com/), as of not recorded)
 - **About:** Providence Equity Partners is a private equity firm specializing in growth-oriented media, communications, and education companies across North America and Europe. It is one of the longest-running sector-focused PE firms in this space, with a long history of media/telecom buyouts and growth investments (not a venture fund). ([source](https://www.provequity.com/), as of 2026-08-06)
+- **Type:** private equity ([source](https://www.provequity.com/our-firm), as of not recorded)
+- **Investment strategies:** growth-oriented private equity, buy-and-build ([source](https://www.provequity.com/our-firm), as of not recorded)
+- **Sectors:** media, communications, education, technology ([source](https://www.provequity.com/our-firm), as of not recorded)
 
 ## Portfolio
 
@@ -41,3 +40,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.provequity.com/)
+- [Source](https://www.provequity.com/news/providence-named-one-growthcaps-top-private-equity-firms-2025)
+- [Source](https://www.provequity.com/our-firm)
+- [Source](https://www.provequity.com/sector-focus/approach)

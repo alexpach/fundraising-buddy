@@ -10,21 +10,23 @@ Domain: seraphim.vc
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://seraphim.vc/about/), as of None)
 - **HQ:** London, UK ([source](https://seraphim.vc/contact/), as of None)
-- **Stages:** seed, series-a, growth ([source](https://seraphim.vc/about/), as of None)
 - **Geographies:** global ([source](https://seraphim.vc/about/), as of None)
-- **Sectors:** SpaceTech ([source](https://seraphim.vc/about/), as of None)
-- **AUM:** more than $1bn ([source](https://seraphim.vc/about/), as of 2026-09)
 - **Legal name:** Seraphim Space Manager LLP ([source](https://seraphim.vc/contact/), as of None)
-- **Leads rounds:** maybe ([source](https://seraphim.vc/about/), as of not recorded)
 - **Latest fund:** Seraphim Space Ventures II latest close of over $100 million ([source](https://seraphim.vc/about/), as of None)
 - **Thesis quote:** backing technologies that strengthen global security, enable resilient infrastructure, and address the planet’s most urgent challenges ([source](https://seraphim.vc/about/), as of None)
 - **LPs:** Airbus, SES, Teledyne, Telespazio, SSTL MDA (investors in the Fund(s)) ([source](https://seraphim.vc/about/), as of None)
+- **Type:** venture capital investment platform ([source](https://seraphim.vc/about/), as of not recorded)
+- **Investment strategies:** SpaceTech investing ([source](https://seraphim.vc/about/), as of not recorded)
+- **Legal structure:** Seraphim Space Manager LLP, integrated investment platform ([source](https://seraphim.vc/about/), as of not recorded)
+- **Stages:** seed, Series A, growth ([source](https://seraphim.vc/about/), as of not recorded)
+- **Sectors:** SpaceTech ([source](https://seraphim.vc/about/), as of not recorded)
+- **Leads rounds:** yes ([source](https://seraphim.vc/about/), as of not recorded)
+- **AUM:** Lower bound (over): USD 1 billion (date not reported) ([source](https://seraphim.vc/about/team/), as of not recorded)
 
 ## Portfolio
 
@@ -55,6 +57,8 @@ Research date: 2026-10-03
 
 - [Source](https://seraphim.vc/)
 - [Source](https://seraphim.vc/about/)
+- [Source](https://seraphim.vc/about/team/)
 - [Source](https://seraphim.vc/contact/)
+- [Source](https://seraphim.vc/news/portfolio-company-planetwatchers-successfully-raised-an-11m-series-a-to-fund-ambitious-growth-plans/)
 - [Source](https://seraphim.vc/portfolio/)
 - [Source](https://seraphim.vc/seraphim-space-ventures-2/)

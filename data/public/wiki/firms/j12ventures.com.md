@@ -1,5 +1,5 @@
 ---
-jev-score: 29
+jev-score: 33
 ---
 
 # J12 Ventures
@@ -10,17 +10,17 @@ Domain: j12ventures.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.j12ventures.com/), as of 2026-08-07)
-- **Stages:** pre-seed, seed ([source](https://www.j12ventures.com/), as of 2026-08-07)
 - **Geographies:** europe ([source](https://www.j12ventures.com/), as of 2026-08-07)
-- **Sectors:** ai, data-infrastructure ([source](https://www.j12ventures.com/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.j12ventures.com/), as of not recorded)
+- **Type:** venture capital ([source](https://www.j12ventures.com/thesis), as of not recorded)
+- **Investment strategies:** early-stage AI venture investing ([source](https://www.j12ventures.com/thesis), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://www.j12ventures.com/thesis), as of not recorded)
+- **Sectors:** AI, Data Infrastructure, Developer Tools, MLOps, Compute ([source](https://www.j12ventures.com/), as of not recorded)
 
 ## Portfolio
 
@@ -36,3 +36,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.j12ventures.com/)
+- [Source](https://www.j12ventures.com/thesis)

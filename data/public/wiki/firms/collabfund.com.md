@@ -1,5 +1,5 @@
 ---
-jev-score: 63
+jev-score: 70
 ---
 
 # Collaborative Fund
@@ -10,16 +10,18 @@ Domain: collabfund.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
 - **Founded:** 2010 ([source](https://collabfund.com/about/craig-shapiro), as of 2026-08)
-- **Sectors:** consumer, ai, money/fintech, health, energy/climate ([source](https://collabfund.com/), as of 2026-08)
 - **Latest fund:** Sixth flagship fund, $125 million, closed June 2024 ([source](https://techcrunch.com/2024/06/10/after-hits-like-reddit-and-scopley-collaborative-fund-easily-raised-a-125m-fund-to-tackle-climate-health-and-food/), as of 2024-06)
 - **Thesis quote:** Our mission is to identify and support companies that live at the intersection of for-profit & for-good. ([source](https://collabfund.com/about/), as of 2026-08)
 - **LPs:** Endowments, foundations, high-net-worth individuals, a large asset manager, and a large Singaporean PE/VC-focused organization (LPs not named individually). ([source](https://techcrunch.com/2024/06/10/after-hits-like-reddit-and-scopley-collaborative-fund-easily-raised-a-125m-fund-to-tackle-climate-health-and-food/), as of 2024-06)
-- **Leads rounds:** unknown ([source](https://collabfund.com), as of not recorded)
+- **Type:** venture capital ([source](https://collabfund.com/blog/2025-collaborative-fund-associate-program-apply-now/), as of 2025-03-03)
+- **Investment strategies:** early-stage venture, growth-stage venture ([source](https://collabfund.com/blog/2025-collaborative-fund-associate-program-apply-now/), as of 2025-03-03)
+- **Stages:** pre-seed, seed, Series B, Series C ([source](https://collabfund.com/blog/2025-collaborative-fund-associate-program-apply-now/), as of 2025-03-03)
+- **Sectors:** AI, Consumer, Money, Health, Energy ([source](https://collabfund.com/portfolio/), as of not recorded)
 
 ## Portfolio
 
@@ -51,4 +53,6 @@ Research date: 2026-08-26
 - [Source](https://collabfund.com/)
 - [Source](https://collabfund.com/about/)
 - [Source](https://collabfund.com/about/craig-shapiro)
+- [Source](https://collabfund.com/blog/2025-collaborative-fund-associate-program-apply-now/)
+- [Source](https://collabfund.com/portfolio/)
 - [Source](https://techcrunch.com/2024/06/10/after-hits-like-reddit-and-scopley-collaborative-fund-easily-raised-a-125m-fund-to-tackle-climate-health-and-food/)

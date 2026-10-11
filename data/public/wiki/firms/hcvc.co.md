@@ -1,5 +1,5 @@
 ---
-jev-score: 88
+jev-score: 90
 ---
 
 # HCVC
@@ -14,20 +14,21 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.hcvc.co/pages/faq), as of None)
 - **HQ:** Paris, France ([source](https://techcrunch.com/2023/10/03/hcvc-is-back-with-a-new-75-million-deep-tech-fund/), as of 2023-10)
 - **Founded:** 2015 ([source](https://www.hcvc.co/pages/team), as of None)
-- **Stages:** pre-seed, seed, series-a ([source](https://www.hcvc.co/pages/faq), as of None)
 - **Geographies:** europe, us ([source](https://www.hcvc.co/pages/faq), as of None)
-- **Sectors:** hardtech, automate and digitize the physical world ([source](https://www.hcvc.co/pages/faq), as of None)
 - **Check size min:** $100k ([source](https://www.hcvc.co/pages/faq), as of None)
 - **Check size max:** $2.5m ([source](https://www.hcvc.co/pages/faq), as of None)
 - **Offices:** Paris and San Francisco ([source](https://www.hcvc.co/pages/faq), as of None)
-- **Leads rounds:** yes ([source](https://www.hcvc.co/pages/faq), as of None)
 - **Latest fund:** Fund II closed at $75 million ([source](https://techcrunch.com/2023/10/03/hcvc-is-back-with-a-new-75-million-deep-tech-fund/), as of 2023-10)
 - **Thesis quote:** We invest in early-stage companies that automate and digitize the physical world. ([source](https://www.hcvc.co/pages/faq), as of None)
 - **Exclusions:** Does not accept companies it believes are competitive with Hardware Club members ([source](https://www.hcvc.co/pages/faq), as of None)
 - **LPs:** European Investment Fund, Isomer Capital, Molten Ventures (Fund II) ([source](https://tech.eu/2023/10/03/hcvc-raises-75m-for-second-fund-aiming-at-10-deals-hardtech-per-year/), as of 2023-10)
+- **Type:** venture capital ([source](https://www.hcvc.co/pages/faq), as of not recorded)
+- **Investment strategies:** early-stage hardtech investing ([source](https://www.hcvc.co/pages/faq), as of not recorded)
+- **Stages:** Pre-Seed, Seed, Series A ([source](https://www.hcvc.co/pages/faq), as of not recorded)
+- **Sectors:** hardtech, automate and digitize the physical world ([source](https://www.hcvc.co/pages/faq), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.hcvc.co/pages/faq), as of not recorded)
 
 ## Portfolio
 

@@ -1,5 +1,5 @@
 ---
-jev-score: 68
+jev-score: 67
 ---
 
 # Archipélago Next

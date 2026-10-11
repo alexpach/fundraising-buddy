@@ -1,5 +1,5 @@
 ---
-jev-score: 72
+jev-score: 71
 ---
 
 # NGP Capital
@@ -10,20 +10,22 @@ Domain: ngpcap.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
 - **HQ:** Not designated; offices in Palo Alto, Berlin, Helsinki, Stans ([source](https://www.ngpcap.com/contact), as of 2026-10)
 - **Founded:** 2005 ([source](https://ngpcap.com/insights/ngp-capital-has-raised-a-new-venture-investment-fund-of-usd-400), as of 2022-02)
-- **Stages:** early-stage ([source](https://www.ngpcap.com/), as of 2026-10)
 - **Geographies:** us, europe, apac ([source](https://www.ngpcap.com/portfolio), as of 2026-10)
-- **Sectors:** Enterprise Software, Industrial Technology, Cybersecurity, Edge & Data Infrastructure ([source](https://www.ngpcap.com/portfolio), as of 2026-10)
 - **Offices:** Berlin, Palo Alto, Helsinki, Stans ([source](https://www.ngpcap.com/contact), as of 2026-10)
 - **Latest fund:** USD 400 million from Nokia, announced 2022-02-04 ([source](https://ngpcap.com/insights/ngp-capital-has-raised-a-new-venture-investment-fund-of-usd-400), as of 2022-02)
 - **Thesis quote:** The Great Convergence ([source](https://www.ngpcap.com/), as of 2026-10)
 - **LPs:** Nokia ([source](https://www.ngpcap.com/approach), as of 2026-10)
-- **Leads rounds:** unknown ([source](https://ngpcap.com), as of not recorded)
+- **Type:** venture capital firm ([source](https://www.ngpcap.com/insights/ngp-capital-has-raised-a-new-venture-investment-fund-of-usd-400), as of 2022-02-04)
+- **Investment strategies:** early-stage B2B investing ([source](https://www.ngpcap.com/insights/ngp-capital-has-raised-a-new-venture-investment-fund-of-usd-400), as of 2022-02-04)
+- **Stages:** early-stage ([source](https://www.ngpcap.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.ngpcap.com/insights/daedalus-a-startup-led-by-former-openai-technical-lead-secures-21m-to-redefine-manufacturing-with-ai), as of 2024-02-08)
+- **AUM:** Lower bound (over): USD 1.6 billion (as of 2022-02-04) ([source](https://www.ngpcap.com/insights/ngp-capital-has-raised-a-new-venture-investment-fund-of-usd-400), as of 2022-02-04)
 
 ## Portfolio
 
@@ -55,4 +57,6 @@ Research date: 2026-10-03
 - [Source](https://www.ngpcap.com/)
 - [Source](https://www.ngpcap.com/approach)
 - [Source](https://www.ngpcap.com/contact)
+- [Source](https://www.ngpcap.com/insights/daedalus-a-startup-led-by-former-openai-technical-lead-secures-21m-to-redefine-manufacturing-with-ai)
+- [Source](https://www.ngpcap.com/insights/ngp-capital-has-raised-a-new-venture-investment-fund-of-usd-400)
 - [Source](https://www.ngpcap.com/portfolio)

@@ -1,8 +1,8 @@
 ---
-jev-score: 61
+jev-score: 75
 ---
 
-# AE Ventures Capital
+# AE Ventures, the venture capital platform of AE Industrial Partners
 
 [Website](https://aeroequity.com)
 
@@ -14,13 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.aeroequity.com/ventures/), as of None)
 - **HQ:** Boca Raton, FL, USA ([source](https://www.aeroequity.com/), as of None)
-- **Stages:** early-stage ([source](https://www.aeroequity.com/ventures/), as of None)
 - **Geographies:** us ([source](https://www.aeroequity.com/ventures/), as of None)
 - **Offices:** Boca Raton, FL (headquarters), Washington, D.C. ([source](https://www.aeroequity.com/), as of None)
 - **Thesis quote:** We invest in early-stage companies tackling the most critical issues facing aerospace, national security, and industrial markets. ([source](https://www.aeroequity.com/ventures/), as of None)
-- **Leads rounds:** unknown ([source](https://aeroequity.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.aeroequity.com/wp-content/uploads/AE-Industrial-Partners-2025-Year-In-Review.pdf), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://www.aeroequity.com/wp-content/uploads/AE-Industrial-Partners-2025-Year-In-Review.pdf), as of not recorded)
+- **Investment instruments:** minority equity ([source](https://www.aeroequity.com/wp-content/uploads/AE-Industrial-Partners-2025-Year-In-Review.pdf), as of not recorded)
+- **Stages:** Seed, Series A, Series B, growth-stage (flexible target) ([source](https://www.aeroequity.com/wp-content/uploads/AE-Industrial-Partners-2025-Year-In-Review.pdf), as of not recorded)
+- **Sectors:** national security, aerospace, industrial services ([source](https://www.aeroequity.com/wp-content/uploads/AE-Industrial-Partners-2025-Year-In-Review.pdf), as of not recorded)
+- **AUM:** Approximately USD 9.2 billion (as of 2025-12-31) ([source](https://www.aeroequity.com/wp-content/uploads/AE-Industrial-Partners-2025-Year-In-Review.pdf), as of 2025-12-31)
 
 ## Portfolio
 
@@ -59,3 +62,4 @@ Research date: 2026-10-03
 
 - [Source](https://www.aeroequity.com/)
 - [Source](https://www.aeroequity.com/ventures/)
+- [Source](https://www.aeroequity.com/wp-content/uploads/AE-Industrial-Partners-2025-Year-In-Review.pdf)

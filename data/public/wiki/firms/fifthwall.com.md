@@ -1,5 +1,5 @@
 ---
-jev-score: 57
+jev-score: 65
 ---
 
 # Fifth Wall
@@ -10,16 +10,17 @@ Domain: fifthwall.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.fifthwall.com/about), as of 2026-08)
 - **HQ:** Los Angeles, CA ([source](https://www.fifthwall.com/about), as of 2026-08)
 - **Founded:** 2016 ([source](https://www.fifthwall.com/about), as of 2026-08)
-- **Sectors:** proptech, real estate technology, climate ([source](https://www.linkedin.com/company/fifth-wall-ventures), as of 2026-05)
-- **Leads rounds:** maybe ([source](https://www.linkedin.com/company/fifth-wall-ventures), as of 2026-05)
 - **Thesis quote:** We partner with visionaries to build the future of the physical world. ([source](https://www.fifthwall.com/about), as of 2026-08)
+- **Investment strategies:** technology for the built environment, PropTech, climate technology ([source](https://www.fifthwall.com/about), as of not recorded)
+- **Stages:** across stages, Series B ([source](https://www.fifthwall.com/insight/fifth-wall-launches-latest-flagship-fund-targeting-compelling-tech-opportunities-for-the-built-world), as of 2025-01-16)
+- **Sectors:** built environment technology, PropTech / real estate technology, climate technology ([source](https://www.fifthwall.com/about), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.fifthwall.com/insight/a-bet-on-batteries-and-real-estate), as of 2023-02-03)
 
 ## Portfolio
 
@@ -45,4 +46,6 @@ Research date: 2026-08-26
 
 - [Source](https://fifthwall.com)
 - [Source](https://www.fifthwall.com/about)
+- [Source](https://www.fifthwall.com/insight/a-bet-on-batteries-and-real-estate)
+- [Source](https://www.fifthwall.com/insight/fifth-wall-launches-latest-flagship-fund-targeting-compelling-tech-opportunities-for-the-built-world)
 - [Source](https://www.linkedin.com/company/fifth-wall-ventures)

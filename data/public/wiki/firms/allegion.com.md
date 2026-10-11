@@ -1,5 +1,5 @@
 ---
-jev-score: 76
+jev-score: 75
 ---
 
 # Allegion Ventures

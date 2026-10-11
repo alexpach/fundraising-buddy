@@ -1,5 +1,5 @@
 ---
-jev-score: 67
+jev-score: 74
 ---
 
 # Creathor Ventures
@@ -14,9 +14,7 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://seca.ch/en/find-members/creathor-ventures), as of None)
 - **HQ:** Bad Homburg, Germany ([source](https://www.creathor.com/), as of None)
-- **Stages:** seed, series-a ([source](https://www.creathor.com/tech), as of None)
 - **Geographies:** europe ([source](https://www.creathor.com/tech), as of None)
 - **Check size min:** EUR 500k (initial investment, tech) ([source](https://www.creathor.com/tech), as of None)
 - **Check size max:** EUR 2.5m (initial investment, tech) ([source](https://www.creathor.com/tech), as of None)
@@ -24,7 +22,12 @@ Research date: 2026-10-03
 - **Offices:** Bad Homburg, Germany, Meilen (Zurich area), Switzerland ([source](https://www.creathor.com/), as of None)
 - **Thesis quote:** We have been investing at the frontier of technology and science for over 30 years. ([source](https://www.creathor.com/), as of None)
 - **LPs:** funds of funds, family offices and entrepreneurs ([source](https://seca.ch/en/find-members/creathor-ventures), as of None)
-- **Leads rounds:** unknown ([source](https://creathor.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.creathor.com/update/creathor-ventures-joins-sictic), as of 2018-11-23)
+- **Investment strategies:** technology-oriented, fast-growing companies ([source](https://www.creathor.com/update/creathor-ventures-joins-sictic), as of 2018-11-23)
+- **Legal structure:** European investment fund ([source](https://www.creathor.com/update/creathor-ventures-joins-sictic), as of 2018-11-23)
+- **Stages:** seed ([source](https://www.creathor.com/update/creathor-ventures-joins-sictic), as of 2018-11-23)
+- **Sectors:** Technology, Healthcare ([source](https://www.creathor.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.creathor.com/update/creathor-invests-in-clinical-genetic-testing-company-blueprint-genetics), as of 2017-07-11)
 
 ## Portfolio
 
@@ -49,3 +52,5 @@ Research date: 2026-10-03
 - [Source](https://www.creathor.com/)
 - [Source](https://www.creathor.com/companies)
 - [Source](https://www.creathor.com/tech)
+- [Source](https://www.creathor.com/update/creathor-invests-in-clinical-genetic-testing-company-blueprint-genetics)
+- [Source](https://www.creathor.com/update/creathor-ventures-joins-sictic)

@@ -10,13 +10,17 @@ Domain: ligopartners.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
 - **HQ:** Miami, FL (also New York, NY) ([source](https://ligopartners.com/), as of 2026-05)
-- **Leads rounds:** no ([source](https://ligopartners.com/), as of 2026-05)
 - **Thesis quote:** 100% of our investments are warmly referred, often proprietary and mostly off-market. ([source](https://ligopartners.com/), as of 2026-05)
+- **Type:** single family office ([source](https://ligopartners.com/), as of not recorded)
+- **Investment strategies:** primary and co-investments in venture-backed technology companies, technology-enabled roll-up strategies, secondary purchases in late-stage technology assets, technology-focused debt financings ([source](https://ligopartners.com/), as of not recorded)
+- **Investment instruments:** equity, debt ([source](https://ligopartners.com/), as of not recorded)
+- **Stages:** seed, series A, series B, series C, series D ([source](https://ligopartners.com/), as of not recorded)
+- **Sectors:** Semiconductor, Future of Work, Defense-Tech ([source](https://ligopartners.com/), as of not recorded)
 
 ## Portfolio
 
@@ -42,6 +46,7 @@ Research date: 2026-08-26
 
 ## Sources
 
+- [Source](https://ayarlabs.com/news/ayar-labs-raises-130-million-in-series-c-funding/)
 - [Source](https://ligopartners.com)
 - [Source](https://ligopartners.com/)
 - [Source](https://www.linkedin.com/company/ligo-partners)

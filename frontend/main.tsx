@@ -1,14 +1,15 @@
 import { useEffect, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { MotionConfig } from 'motion/react';
-import { ArrowLeft, ArrowUpRight, BookOpen, Building2, Contact, Download, Layers, LockKeyhole, RefreshCw, Bookmark, Target, Users, Sun, Moon } from 'lucide-react';
+import { ArrowLeft, ArrowUpRight, BookOpen, Building2, Contact, Globe, Layers, LockKeyhole, RefreshCw, Bookmark, Target, Users, Sun, Moon } from 'lucide-react';
 import { DataTable, type DataTableColumn } from './components/data-table';
-// Original stick-figure-with-ball glyph, drawn in the lucide stroke style. Not Apple's SF Symbols artwork.
-function FigurePlay({size=22}:{size?:number}){return <svg width={size} height={size} viewBox="0 0 32 32" fill="none" stroke="currentColor" strokeWidth={2.4} strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><circle cx="14" cy="8" r="2.6"/><path d="M14 11.5v6.5"/><path d="M14 13l-5 3.5"/><path d="M14 13l5.5-3"/><path d="M14 18l-4 7.5"/><path d="M14 18l5.5 3"/><circle cx="24" cy="7" r="2.6" fill="currentColor" stroke="none"/></svg>;}
+// User-supplied figure.socialdance SVG.
+function BrandMark(){return <svg width="23" height="23" viewBox="0 0 24.4669 21.8066" fill="currentColor" aria-hidden="true"><path d="M6.5645 4.45312C7.67778 4.45312 8.58598 3.54492 8.58598 2.43164C8.58598 1.31836 7.67778 0.419922 6.5645 0.419922C5.45121 0.419922 4.55278 1.31836 4.55278 2.43164C4.55278 3.54492 5.45121 4.45312 6.5645 4.45312ZM18.3516 4.0332C19.4649 4.0332 20.3731 3.125 20.3731 2.01172C20.3731 0.908203 19.4649 0 18.3516 0C17.2383 0 16.3399 0.908203 16.3399 2.01172C16.3399 3.125 17.2383 4.0332 18.3516 4.0332ZM0.939495 6.93359L3.00004 7.09961C3.13676 7.10938 3.23442 7.20703 3.23442 7.36328L3.23442 11.1035C3.23442 11.8555 3.47856 12.5879 3.93754 13.1641L6.34965 16.2695L5.11918 20.3613C4.95317 20.8984 5.26567 21.4746 5.78325 21.6211C6.30082 21.7676 6.86723 21.5234 7.04301 20.9375L8.41996 16.3379C8.44926 16.25 8.45903 16.1816 8.45903 16.0938L12.1895 20.8105C12.5313 21.2402 13.1758 21.3281 13.586 20.9863C14.0254 20.6152 14.1036 20.0098 13.7618 19.5703L7.1016 11.1426L7.40434 8.1543C7.43364 7.93945 7.62895 7.83203 7.8145 7.91992L10.1289 9.08203C10.2852 9.16992 10.5684 9.22852 10.793 9.22852L14.3575 9.22852C14.5918 9.22852 14.836 9.14062 15.002 8.99414L16.6914 7.54883C16.8575 7.40234 17.0625 7.4707 17.1407 7.66602L18.0879 10.3027L14.0938 11.3965C13.6934 11.5039 13.3809 11.8555 13.3418 12.2754L12.8926 16.875C12.834 17.5293 13.4102 17.9688 13.8985 17.9688C14.4063 17.9688 14.8457 17.5977 14.8946 17.0703L15.2754 13.2422L18.0782 12.8125L16.7403 15.5078C16.5938 15.8008 16.5157 16.123 16.6329 16.4258L18.4786 21.0254C18.7032 21.582 19.3086 21.7773 19.7872 21.582C20.295 21.377 20.5489 20.791 20.3438 20.2734L18.7032 16.1816L20.9688 12.959C21.545 12.1582 21.75 11.123 21.5743 10.1562L21.2227 8.22266C21.1739 7.95898 21.3789 7.79297 21.6231 7.87109L22.7852 8.26172C23.5762 8.53516 24.1719 8.04688 24.1036 7.25586L23.6348 2.60742C23.586 2.03125 23.0684 1.64062 22.5411 1.69922C22.0039 1.75781 21.584 2.24609 21.6329 2.8125L21.9454 5.87891L19.1719 4.95117C18.0391 4.57031 16.8379 4.77539 15.9004 5.58594L13.9961 7.22656L10.9102 7.22656L7.93168 5.74219C7.48246 5.50781 7.04301 5.39062 6.54496 5.35156L2.37504 5.03906L3.34184 2.11914C3.52739 1.58203 3.23442 1.01562 2.71684 0.839844C2.1895 0.664062 1.61332 0.947266 1.44731 1.47461L0.0508236 5.60547C-0.154255 6.23047 0.285199 6.88477 0.939495 6.93359Z"/></svg>;}
 
 import { NavListCard } from './components/nav-list-card';
 import { Grid, type GridColumn } from './grid';
 import { Funds } from './funds';
+import { Domains } from './domains';
 import { Prospects } from './prospects';
 import { Button } from './components/button';
 import { StatCards } from './components/spectrumui/charts/stat-cards';
@@ -21,9 +22,10 @@ type Firm = {id:string;name:string;domain:string;website:string;record_level:str
 type Person = {id:string;name:string;firm_id:string;title:string;profile:string;focus:string;sources:string[];researched_at?:string};
 type Relationship = {id:string;name:string;domain:string;page:string;status:string;next_action:string;next_action_due:string;expected_response:string};
 type Page = {id:string;title:string};
-type Catalog = {firms:Firm[];people:Person[];private_firms:Relationship[];pages:Page[];today:string};
-type View = 'directory'|'shortlists'|'people'|'people-table'|'prospects'|'pipeline'|'wiki';
+type Catalog = {extra_domains?:string[];firms:Firm[];people:Person[];private_firms:Relationship[];pages:Page[];today:string};
+type View = 'domains'|'directory'|'shortlists'|'people'|'people-table'|'prospects'|'pipeline'|'wiki';
 const settings = {
+  domains: ['Domains', ''],
   directory: ['Funds', ''],
   people: ['People', 'Public team members, roles, and sources.'],
   shortlists: ['Shortlists', ''],
@@ -124,9 +126,9 @@ function App() {
   useEffect(()=>{const update=()=>setRoute(location.hash.slice(1));window.addEventListener('hashchange',update);return()=>window.removeEventListener('hashchange',update);},[]);
   async function refresh(){const token=++request.current;setBusy(true);setError('');try{const next=await get<Catalog>('/api/catalog');if(token===request.current){setData(next);setRevision(r=>r+1);}}catch(e){if(token===request.current)setError(e instanceof Error?e.message:'Unable to load');}finally{if(token===request.current)setBusy(false);}}
   useEffect(()=>{void refresh();},[]);
-  function download(){if(!data)return;const domains=[...new Set(data.firms.map(f=>f.domain).filter(Boolean))].sort();const url=URL.createObjectURL(new Blob([domains.join('\n')+'\n'],{type:'text/plain'}));const a=document.createElement('a');a.href=url;a.download='investor-domains.txt';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);}
   const researchNav=[
     {icon:<Building2/>,label:'Funds',href:'#directory',meta:data?.firms.length.toLocaleString()},
+    {icon:<Globe/>,label:'Domains',href:'#domains'},
     {icon:<Users/>,label:'People',href:'#people',meta:data?.people.length.toLocaleString()},
     {icon:<Contact/>,label:'Contacts table',href:'#people-table'},
   ];
@@ -142,7 +144,7 @@ function App() {
     <a href="#content" className="skip-link" onClick={e=>{e.preventDefault();document.getElementById('content')?.focus();}}>Skip to content</a>
     <div className="app-shell">
       <aside className="sidebar">
-        <a href="#directory" className="brand"><span className="brand-icon"><FigurePlay size={25}/></span><span>fundraising buddy</span></a>
+        <a href="#directory" className="brand"><span className="brand-icon"><BrandMark/></span><span>Fundraising Buddy</span></a>
         <nav aria-label="Main navigation" data-current={view}>
           <NavListCard title="RESEARCH LIBRARY" items={researchNav} activeHref={activeHref}/>
           <NavListCard title="PRIVATE WORKSPACE" items={workspaceNav} activeHref={activeHref}/>
@@ -155,13 +157,13 @@ function App() {
       <main id="content" tabIndex={-1}>
         <header className="topbar">
           <div className="breadcrumb"><span className="breadcrumb-icon">{publicView?<Building2 size={15}/>:<LockKeyhole size={15}/>}</span><span>{publicView?'Research library':'Private workspace'}</span><span className="breadcrumb-divider">/</span><strong>{page?'Profile':settings[view][0]}</strong></div>
-          <div className="top-actions">{view==='directory'&&!page&&<Button variant="outline" size="sm" aria-label="Export domains" onClick={download}><Download size={14}/><span className="export-label">Export domains</span></Button>}<span className="local-status"><StatusBadge tone="success" showIcon={false}><span className="status-dot"/>Docker workspace</StatusBadge></span><Button variant="outline" size="sm" onClick={()=>void refresh()} disabled={busy}><RefreshCw size={14} className={busy?'animate-spin':''}/>{busy?'Refreshing...':'Refresh'}</Button><button className="theme-toggle" aria-label={dark?'Switch to day mode':'Switch to night mode'} title={dark?'Switch to day mode':'Switch to night mode'} onClick={toggleTheme}>{dark?<Sun size={17}/>:<Moon size={17}/>}</button></div>
+          <div className="top-actions"><span className="local-status"><StatusBadge tone="success" showIcon={false}><span className="status-dot"/>Docker workspace</StatusBadge></span><Button variant="outline" size="sm" onClick={()=>void refresh()} disabled={busy}><RefreshCw size={14} className={busy?'animate-spin':''}/>{busy?'Refreshing...':'Refresh'}</Button><button className="theme-toggle" aria-label={dark?'Switch to day mode':'Switch to night mode'} title={dark?'Switch to day mode':'Switch to night mode'} onClick={toggleTheme}>{dark?<Sun size={17}/>:<Moon size={17}/>}</button></div>
         </header>
         <div className="main-content">
           {error&&<div role="alert" className="notice">{error} {data?'Showing previously loaded data.':''}</div>}
           {!data&&!error&&<p role="status" className="loading-workspace">Loading your workspace...</p>}
           {data&&(page?<Reader key={page} id={page} data={data} back={back.current} revision={revision}/>:<>
-            {view==='directory'||view==='shortlists'?<Funds key={view} funds={data.firms} people={data.people} revision={revision} shortlistsOnly={view==='shortlists'}/>:<>
+            {view==='domains'?<Domains firms={data.firms} relationships={data.private_firms} extraDomains={data.extra_domains||[]}/>:view==='directory'||view==='shortlists'?<Funds key={view} funds={data.firms} people={data.people} revision={revision} shortlistsOnly={view==='shortlists'}/>:<>
             <section className="intro">
               <div><h1>{settings[view][0]}</h1><p className="subtitle">{settings[view][1]}</p></div>
             </section>

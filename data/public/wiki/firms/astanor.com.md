@@ -1,5 +1,5 @@
 ---
-jev-score: 86
+jev-score: 89
 ---
 
 # Astanor Ventures
@@ -14,15 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://tech.eu/2023/09/18/astanor-ventures-second-fund-eur360m/), as of 2023-09)
 - **HQ:** Brussels, Belgium ([source](https://tech.eu/2023/09/18/astanor-ventures-second-fund-eur360m/), as of 2023-09)
 - **Geographies:** europe, us ([source](https://astanor.com/venture/), as of 2025-10)
-- **Sectors:** Sustainable agriculture, Sustainable food, Food as medicine, Waste and circularity, Enabling technologies, Sustainable materials ([source](https://astanor.com/about-us/), as of 2026-01)
 - **Check size max:** EUR 10M (Venture, Series A and B) ([source](https://astanor.com/venture/), as of 2025-10)
 - **Offices:** 5 offices in Europe and in the US ([source](https://astanor.com/), as of 2026-09)
 - **Latest fund:** Second fund closed at EUR 360M, September 2023 ([source](https://agfundernews.com/impact-investor-astanor-ventures-closes-second-agrifood-fund-at-384-million), as of 2023-09)
 - **Thesis quote:** invests at the intersection of planetary and human health ([source](https://astanor.com/about-us/), as of 2026-01)
-- **Leads rounds:** unknown ([source](https://astanor.com), as of not recorded)
+- **Type:** venture capital ([source](https://astanor.com/venture/), as of 2025-10)
+- **Investment strategies:** venture investing ([source](https://astanor.com/venture/), as of 2025-10)
+- **Stages:** pre-seed, seed, series A, series B ([source](https://astanor.com/venture/), as of 2025-10)
+- **Sectors:** sustainable agriculture, sustainable food, food as medicine, waste and circularity, enabling technologies, sustainable materials ([source](https://astanor.com/about-us/), as of 2026-01)
 
 ## Portfolio
 

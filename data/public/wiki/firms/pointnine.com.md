@@ -1,5 +1,5 @@
 ---
-jev-score: 79
+jev-score: 87
 ---
 
 # Point Nine
@@ -10,18 +10,20 @@ Domain: pointnine.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://pointnine.com), as of 2026-08)
 - **HQ:** Berlin, Germany ([source](https://www.sec.gov/Archives/edgar/data/2066605/000206660525000002/primary_doc.xml), as of 2025-05)
-- **Sectors:** saas, b2b marketplaces, ai, b2b software ([source](https://pointnine.com), as of 2026-08)
 - **Check size min:** $1M ([source](https://pointnine.com), as of 2026-08)
 - **Check size max:** $10M ([source](https://pointnine.com), as of 2026-08)
 - **Latest fund:** Fund VI, €180 million, September 2022 ([source](https://tech.eu/2022/09/26/point-nine-capital-rolls-out-eur180-million-fund-to-back-saas-and-digital-marketplaces), as of 2022-09)
 - **Thesis quote:** investing globally in AI for the digital, physical and biological world ([source](https://pointnine.com), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://pointnine.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.pointnine.com/), as of not recorded)
+- **Investment strategies:** early-stage venture capital, AI ([source](https://www.pointnine.com/), as of not recorded)
+- **Stages:** early-stage ([source](https://www.pointnine.com/), as of not recorded)
+- **Sectors:** AI, B2B Marketplace ([source](https://www.pointnine.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.pointnine.com/companies), as of not recorded)
 
 ## Portfolio
 
@@ -45,6 +47,7 @@ Research date: 2026-08-25
 
 - [Source](https://pointnine.com)
 - [Source](https://tech.eu/2022/09/26/point-nine-capital-rolls-out-eur180-million-fund-to-back-saas-and-digital-marketplaces)
+- [Source](https://www.linkedin.com/posts/point-nine-capital_yesterday-we-signed-the-last-new-investment-activity-6979739875243614208-khuH)
 - [Source](https://www.pointnine.com)
 - [Source](https://www.pointnine.com/)
 - [Source](https://www.pointnine.com/companies)

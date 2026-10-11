@@ -1,8 +1,8 @@
 ---
-jev-score: 18
+jev-score: 23
 ---
 
-# Maximon
+# Maximon AG
 
 [Website](https://maximon.com)
 
@@ -10,16 +10,16 @@ Domain: maximon.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** accelerator ([source](https://maximon.com), as of 2026-08-17)
-- **Stages:** seed ([source](https://maximon.com), as of 2026-08-17)
 - **Geographies:** europe ([source](https://maximon.com), as of 2026-08-17)
-- **Leads rounds:** unknown ([source](https://maximon.com), as of not recorded)
+- **Type:** company builder ([source](https://www.maximon.com/company-builder), as of not recorded)
+- **Investment strategies:** venture building ([source](https://www.maximon.com/company-builder), as of not recorded)
+- **Sectors:** longevity and healthy aging, senior services ([source](https://www.maximon.com/about), as of not recorded)
 
 ## Portfolio
 
@@ -31,3 +31,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://maximon.com)
+- [Source](https://www.maximon.com/about)
+- [Source](https://www.maximon.com/company-builder)

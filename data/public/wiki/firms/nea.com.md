@@ -1,5 +1,5 @@
 ---
-jev-score: 75
+jev-score: 83
 ---
 
 # New Enterprise Associates
@@ -14,17 +14,19 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://nea.com/news/press-releases/nea-promotes-arjun-jain-to-partner-and-mason-murray-to-principal), as of 2026-02)
 - **HQ:** Menlo Park, CA ([source](https://www.nea.com/contact), as of None)
 - **Founded:** 1977 ([source](https://nea.com/news/press-releases/nea-promotes-arjun-jain-to-partner-and-mason-murray-to-principal), as of 2026-02)
 - **Geographies:** global ([source](https://www.nea.com/news/press-releases/nea-closes-on-two-funds-totaling-62-billion), as of 2023-01)
-- **Sectors:** technology, healthcare, enterprise and consumer technology, digital health, life sciences ([source](https://www.nea.com/news/press-releases/nea-closes-on-two-funds-totaling-62-billion), as of 2023-01)
-- **AUM:** more than $28 billion as of June 30, 2025 ([source](https://nea.com/news/press-releases/nea-promotes-arjun-jain-to-partner-and-mason-murray-to-principal), as of 2026-02)
 - **Legal name:** New Enterprise Associates, Inc. ([source](https://www.nea.com/news/press-releases/nea-closes-on-two-funds-totaling-62-billion), as of 2023-01)
 - **Offices:** Menlo Park, New York, London, Timonium, San Francisco ([source](https://www.nea.com/contact), as of None)
 - **Latest fund:** approximately $6.2 billion across two funds, Jan. 26, 2023 ([source](https://www.nea.com/news/press-releases/nea-closes-on-two-funds-totaling-62-billion), as of 2023-01)
 - **Thesis quote:** We craft enduring partnerships with ambitious founders at every stage of company building. ([source](https://nea.com/), as of None)
-- **Leads rounds:** unknown ([source](https://nea.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.nea.com/news/press-releases/nea-names-philip-chopin-managing-director-head-of-europe-and-promotes-two-investors), as of 2026-06-29)
+- **Investment strategies:** venture capital ([source](https://www.nea.com/news/press-releases/nea-names-philip-chopin-managing-director-head-of-europe-and-promotes-two-investors), as of 2026-06-29)
+- **Stages:** seed through IPO ([source](https://www.nea.com/news/press-releases/nea-names-philip-chopin-managing-director-head-of-europe-and-promotes-two-investors), as of 2026-06-29)
+- **Sectors:** Technology, Healthcare ([source](https://www.nea.com/news/press-releases/nea-names-philip-chopin-managing-director-head-of-europe-and-promotes-two-investors), as of 2026-06-29)
+- **Leads rounds:** yes ([source](https://www.nea.com/blog/namespace-cicd-is-dead-agents-need-computers), as of 2026-03-23)
+- **AUM:** Lower bound (over): USD 35 billion (as of 2025-12-31) ([source](https://www.nea.com/news/press-releases/nea-names-philip-chopin-managing-director-head-of-europe-and-promotes-two-investors), as of 2025-12-31)
 
 ## Portfolio
 
@@ -79,6 +81,8 @@ Research date: 2026-10-03
 
 - [Source](https://nea.com/)
 - [Source](https://nea.com/news/press-releases/nea-promotes-arjun-jain-to-partner-and-mason-murray-to-principal)
+- [Source](https://www.nea.com/blog/namespace-cicd-is-dead-agents-need-computers)
 - [Source](https://www.nea.com/contact)
 - [Source](https://www.nea.com/news/press-releases/nea-closes-on-two-funds-totaling-62-billion)
+- [Source](https://www.nea.com/news/press-releases/nea-names-philip-chopin-managing-director-head-of-europe-and-promotes-two-investors)
 - [Source](https://www.nea.com/portfolio)

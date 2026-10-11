@@ -1,5 +1,5 @@
 ---
-jev-score: 90
+jev-score: 88
 ---
 
 # ScaleFund
@@ -10,21 +10,21 @@ Domain: scale-fund.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://twoisacrowd.prezly.com/scalefund-iii-raises-12-million-euros-for-belgian-tech-scale-ups-and-targets-30-million-euros), as of 2025-06)
 - **HQ:** Anderlecht, Belgium (registered office of Scale II SA) ([source](https://www.scale-fund.com/legal-mentions), as of None)
 - **Founded:** 2017 ([source](https://www.linkedin.com/posts/beangels_activity-7422674742907908096-jSAS), as of 2026-01)
-- **Stages:** seed, series-a ([source](https://www.scale-fund.com/), as of None)
-- **Sectors:** digital transformation, deeptech, cleantech ([source](https://www.scale-fund.com/), as of None)
 - **Check size min:** EUR 100K ([source](https://www.scale-fund.com/), as of None)
 - **Check size max:** EUR 1M ([source](https://www.scale-fund.com/), as of None)
-- **Leads rounds:** yes ([source](https://www.scale-fund.com/), as of None)
 - **Thesis quote:** We invest from seed to Series A in companies driving digital transformation, deeptech, and cleantech ([source](https://www.scale-fund.com/), as of None)
 - **Exclusions:** avoids overly capital-intensive projects ([source](https://www.linkedin.com/posts/beangels_activity-7422674742907908096-jSAS), as of 2026-01)
 - **LPs:** Wallonie Entreprendre and invest.bw (institutional); Agoria also an investor in fund III ([source](https://www.linkedin.com/posts/beangels_activity-7422674742907908096-jSAS), as of 2026-01)
+- **Type:** venture capital ([source](https://twoisacrowd.prezly.com/scalefund-iii-raises-12-million-euros-for-belgian-tech-scale-ups-and-targets-30-million-euros), as of 2025-05)
+- **Stages:** seed, Series A ([source](https://www.scale-fund.com/), as of not recorded)
+- **Sectors:** digital transformation, deeptech, cleantech ([source](https://www.scale-fund.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.scale-fund.com/), as of not recorded)
 
 ## Portfolio
 

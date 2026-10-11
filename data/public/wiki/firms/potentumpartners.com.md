@@ -1,8 +1,8 @@
 ---
-jev-score: 12
+jev-score: 13
 ---
 
-# Potentum partners
+# Potentum Partners
 
 [Website](https://potentumpartners.com)
 
@@ -10,15 +10,16 @@ Domain: potentumpartners.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://potentumpartners.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://potentumpartners.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://potentumpartners.com), as of not recorded)
+- **Type:** private markets asset manager ([source](https://www.potentumpartners.com/about/), as of not recorded)
+- **Investment strategies:** third-party fund investments, direct investments, co-investments, secondaries ([source](https://www.potentumpartners.com/about/), as of not recorded)
+- **Legal structure:** commingled funds, separately managed accounts ([source](https://www.potentumpartners.com/about/), as of not recorded)
+- **AUM:** Approximately AUD 1.7 billion (date not reported) ([source](https://www.potentumpartners.com/), as of not recorded)
 
 ## Portfolio
 
@@ -30,3 +31,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://potentumpartners.com)
+- [Source](https://www.potentumpartners.com/)
+- [Source](https://www.potentumpartners.com/about/)

@@ -1,8 +1,8 @@
 ---
-jev-score: 81
+jev-score: 85
 ---
 
-# Superhero Capital
+# Superhero Capital Oy
 
 [Website](https://superherocapital.com)
 
@@ -10,20 +10,21 @@ Domain: superherocapital.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://superherocapital.com/), as of None)
 - **HQ:** Helsinki, Finland ([source](https://www.borenius.com/references/borenius-advised-superhero-capital-on-the-formation-of-superhero-venture-fund-2024/), as of None)
 - **Founded:** 2015 ([source](https://www.borenius.com/references/borenius-advised-superhero-capital-on-the-formation-of-superhero-venture-fund-2024/), as of None)
-- **Stages:** seed ([source](https://superherocapital.com/), as of None)
-- **Sectors:** software-driven startups ([source](https://superherocapital.com/), as of None)
 - **Check size min:** 50K ([source](https://superherocapital.com/), as of None)
 - **Check size max:** 1M EUR ([source](https://superherocapital.com/), as of None)
 - **Thesis quote:** Seed funding for the superheroes; primary focus on software-driven startups in the New Nordics (Finland and the Baltics) ([source](https://superherocapital.com/), as of None)
 - **LPs:** Elo Mutual Pension Insurance Company; Tesi ([source](https://www.borenius.com/references/borenius-advised-superhero-capital-on-the-formation-of-superhero-venture-fund-2024/), as of None)
-- **Leads rounds:** unknown ([source](https://superherocapital.com), as of not recorded)
+- **Type:** venture capital ([source](https://superherocapital.com/transparency-disclosure/), as of not recorded)
+- **Investment strategies:** seed-stage venture capital ([source](https://superherocapital.com/transparency-disclosure/), as of not recorded)
+- **Legal structure:** Finnish limited liability company, Finnish limited partnerships (investment funds) ([source](https://superherocapital.com/transparency-disclosure/), as of not recorded)
+- **Stages:** seed ([source](https://superherocapital.com/transparency-disclosure/), as of not recorded)
+- **Sectors:** Software-driven startups ([source](https://superherocapital.com/), as of not recorded)
 
 ## Portfolio
 
@@ -53,4 +54,5 @@ Research date: 2026-10-03
 
 - [Source](https://superherocapital.com/)
 - [Source](https://superherocapital.com/portfolio)
+- [Source](https://superherocapital.com/transparency-disclosure/)
 - [Source](https://www.borenius.com/references/borenius-advised-superhero-capital-on-the-formation-of-superhero-venture-fund-2024/)

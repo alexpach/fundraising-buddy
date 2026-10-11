@@ -1,8 +1,8 @@
 ---
-jev-score: 24
+jev-score: 28
 ---
 
-# zigzag
+# Zigzag Ventures
 
 [Website](https://zigzag.vc/)
 
@@ -10,17 +10,17 @@ Domain: zigzag.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://zigzag.vc/), as of 2026-08-07)
-- **Stages:** pre-seed, seed ([source](https://zigzag.vc/), as of 2026-08-07)
 - **Geographies:** europe ([source](https://zigzag.vc/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://zigzag.vc/), as of not recorded)
 - **About:** zigzag (zigzag.vc) is a London-registered early-stage investor/venture-builder ("Investment Management Company" per its UK LinkedIn listing; Crunchbase lists it as a VC firm "aiding entrepreneurs in validating and launching startups"). Its own site frames itself as a pre-seed cash-investment + hands-on-guidance programme rather than a classic fund ([source](https://zigzag.vc/), as of 2026-08-07)
+- **Type:** startup investment program ([source](https://zigzag.vc/), as of not recorded)
+- **Investment strategies:** early-stage startup support, pre-seed cash investment ([source](https://zigzag.vc/), as of not recorded)
+- **Stages:** pre-seed ([source](https://zigzag.vc/), as of not recorded)
 
 ## Portfolio
 

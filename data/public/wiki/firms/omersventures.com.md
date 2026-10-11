@@ -1,5 +1,5 @@
 ---
-jev-score: 64
+jev-score: 76
 ---
 
 # OMERS Ventures
@@ -10,21 +10,23 @@ Domain: omersventures.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.unquote.com/unquote/official-record/3019192/omers-ventures-fund-iv-closes-on-usd750m), as of 2020-04)
 - **HQ:** Toronto, Ontario, Canada ([source](https://www.omersventures.com/contact-us), as of 2026-08)
 - **Founded:** 2011 ([source](https://www.theglobeandmail.com/business/article-omers-ventures-head-moves-to-kensington-capital-as-president/), as of 2026-07)
-- **Stages:** series-a, series-b, growth ([source](https://betakit.com/omers-ventures-announces-first-transatlantic-fund-at-750-million-usd/), as of 2020-04)
 - **Check size min:** $5M ([source](https://medium.com/omers-ventures/announcing-omers-ventures-fund-iv-68f46a04d4c2), as of 2020-04)
 - **Check size max:** $25M ([source](https://medium.com/omers-ventures/announcing-omers-ventures-fund-iv-68f46a04d4c2), as of 2020-04)
 - **Latest fund:** OMERS Ventures Fund IV, US$750M, closed April 2020 ([source](https://www.unquote.com/unquote/official-record/3019192/omers-ventures-fund-iv-closes-on-usd750m), as of 2020-04)
 - **Thesis quote:** We invest in early stage technology founders building solutions for a better tomorrow ([source](https://www.omersventures.com/), as of 2026-08)
 - **LPs:** Fund IV is solely funded by parent pension fund OMERS ([source](https://www.unquote.com/unquote/official-record/3019192/omers-ventures-fund-iv-closes-on-usd750m), as of 2020-04)
 - **Coinvestors:** Prior institutional LPs/co-investors in earlier funds included BMO, CIBC, National Bank, Sun Life, TD and the Wafra Group ([source](https://betakit.com/omers-ventures-announces-first-transatlantic-fund-at-750-million-usd/), as of 2020-04)
-- **Leads rounds:** unknown ([source](https://omersventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.omersventures.com/news/ov-3-0-the-constant-state-of-change), as of 2023-10-19)
+- **Investment strategies:** direct early-stage technology investing ([source](https://www.omersventures.com/news/ov-3-0-the-constant-state-of-change), as of 2023-10-19)
+- **Stages:** series A, series B, series C, early growth ([source](https://www.omersventures.com/news/ov-3-0-the-constant-state-of-change), as of 2023-10-19)
+- **Sectors:** Horizontal B2B software, Vertical B2B software, Fintech, Artificial intelligence ([source](https://www.omersventures.com/news/ov-3-0-the-constant-state-of-change), as of 2023-10-19)
+- **Leads rounds:** yes ([source](https://www.omersventures.com/news/ov-3-0-the-constant-state-of-change), as of 2023-10-19)
 
 ## Portfolio
 
@@ -50,5 +52,6 @@ Research date: 2026-08-25
 - [Source](https://omersventures.com/companies)
 - [Source](https://www.omersventures.com/)
 - [Source](https://www.omersventures.com/contact-us)
+- [Source](https://www.omersventures.com/news/ov-3-0-the-constant-state-of-change)
 - [Source](https://www.theglobeandmail.com/business/article-omers-ventures-head-moves-to-kensington-capital-as-president/)
 - [Source](https://www.unquote.com/unquote/official-record/3019192/omers-ventures-fund-iv-closes-on-usd750m)

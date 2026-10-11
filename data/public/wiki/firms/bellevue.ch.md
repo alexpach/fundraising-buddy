@@ -1,8 +1,8 @@
 ---
-jev-score: 12
+jev-score: 34
 ---
 
-# Bellevue Asset Management
+# Bellevue Asset Management AG
 
 [Website](https://bellevue.ch)
 
@@ -10,16 +10,16 @@ Domain: bellevue.ch
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://bellevue.ch), as of 2026-08-17)
-- **Stages:** any ([source](https://bellevue.ch), as of 2026-08-17)
 - **Geographies:** global ([source](https://bellevue.ch), as of 2026-08-17)
-- **Leads rounds:** unknown ([source](https://bellevue.ch), as of not recorded)
+- **Type:** asset manager ([source](https://report.bellevue.ch/2025/en/business-model-and-strategy), as of 2025)
+- **Investment strategies:** healthcare investments, small and mid-cap entrepreneur investments, multi-asset strategies, private equity secondaries ([source](https://report.bellevue.ch/2025/en/business-model-and-strategy), as of 2025)
+- **Sectors:** Healthcare ([source](https://report.bellevue.ch/2025/en/business-model-and-strategy), as of 2025)
 
 ## Portfolio
 
@@ -31,3 +31,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://bellevue.ch)
+- [Source](https://report.bellevue.ch/2025/en/business-model-and-strategy)
+- [Source](https://www.bellevue.ch/all-en/all/investor-relations/corporate-news/bellevue-asset-management-launches-debut-private-equity-secondaries-fund)

@@ -1,5 +1,5 @@
 ---
-jev-score: 85
+jev-score: 86
 ---
 
 # DAA Capital Partners

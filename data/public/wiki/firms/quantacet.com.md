@@ -1,5 +1,5 @@
 ---
-jev-score: 69
+jev-score: 72
 ---
 
 # Quantacet
@@ -10,18 +10,18 @@ Domain: quantacet.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://quantacet.com/en/quantacet-public-announcement), as of 2023-11)
 - **HQ:** Sherbrooke, Quebec ([source](https://quantacet.com/en/quantacet-public-announcement), as of 2023-11)
-- **Stages:** pre-seed, seed ([source](https://quantacet.com/en/about), as of None)
-- **Sectors:** quantum computing, quantum communications, quantum sensing, quantum materials, quantum supply chain ([source](https://quantacet.com/en/quantacet-public-announcement), as of 2023-11)
 - **Latest fund:** first closing of $20 million, announced 24 November 2023 ([source](https://quantacet.com/en/quantacet-public-announcement), as of 2023-11)
 - **Thesis quote:** Quantacet was created to fill the gap in the funding cycle at the earliest stages where technology development plays a big role ([source](https://quantacet.com/en/about), as of None)
 - **LPs:** Investissement Québec invested $10 million; some 20 private individuals and institutional investors ([source](https://quantacet.com/en/quantacet-public-announcement), as of 2023-11)
-- **Leads rounds:** unknown ([source](https://quantacet.com), as of not recorded)
+- **Type:** venture capital ([source](https://quantacet.com/en/about/), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://quantacet.com/en/about/), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://quantacet.com/en/about/), as of not recorded)
+- **Sectors:** quantum computing, quantum communications, quantum sensing, quantum materials, quantum supply chain ([source](https://quantacet.com/en/about/), as of not recorded)
 
 ## Portfolio
 
@@ -50,6 +50,8 @@ Research date: 2026-10-03
 
 ## Sources
 
+- [Source](https://acet.ca/en/newsroom/quantacet-a-new-20-million-fund-for-quantum-technology-startups/)
 - [Source](https://quantacet.com/en/about)
+- [Source](https://quantacet.com/en/about/)
 - [Source](https://quantacet.com/en/quantacet-public-announcement)
 - [Source](https://www.quantacet.com/en/clients/)

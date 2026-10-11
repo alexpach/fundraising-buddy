@@ -1,5 +1,5 @@
 ---
-jev-score: 75
+jev-score: 78
 ---
 
 # Icebreaker.vc
@@ -10,7 +10,7 @@ Domain: icebreaker.vc
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-03
 
 ## Public research
 
@@ -19,7 +19,8 @@ Research date: 2026-08-25
 - **Check size max:** €1.5M ([source](https://www.icebreaker.vc/about), as of 2026-08)
 - **Latest fund:** Icebreaker Fund II final close €100M plus €20M opportunity fund, April 2021 ([source](https://tech.eu/2021/04/20/helsinki-based-icebreaker-raises-e120-million-in-fresh-funds/), as of 2021-04)
 - **Thesis quote:** no stage is too early for us to invest ([source](https://siliconcanals.com/icebreaker-vc-raises-120m/), as of 2021-04)
-- **Leads rounds:** unknown ([source](https://icebreaker.vc), as of not recorded)
+- **Investment strategies:** idea-stage investing ([source](https://www.icebreaker.vc/about), as of not recorded)
+- **Stages:** idea stage, seed ([source](https://www.icebreaker.vc/), as of not recorded)
 
 ## Portfolio
 
@@ -49,5 +50,7 @@ Research date: 2026-08-25
 - [Source](https://icebreaker.vc)
 - [Source](https://siliconcanals.com/icebreaker-vc-raises-120m/)
 - [Source](https://tech.eu/2021/04/20/helsinki-based-icebreaker-raises-e120-million-in-fresh-funds/)
+- [Source](https://www.eif.org/files/calls/innovfin-equity-signed-deals.pdf)
 - [Source](https://www.icebreaker.vc)
+- [Source](https://www.icebreaker.vc/)
 - [Source](https://www.icebreaker.vc/about)

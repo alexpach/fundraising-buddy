@@ -1,5 +1,5 @@
 ---
-jev-score: 70
+jev-score: 82
 ---
 
 # Maveron
@@ -10,7 +10,7 @@ Domain: maveron.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-04
 
 ## Public research
 
@@ -18,7 +18,11 @@ Research date: 2026-08-25
 - **Latest fund:** Fund 8 (Maveron Equity Partners VIII), $225M, reported May 2022 ([source](https://www.geekwire.com/2022/maveron-raises-225m-for-its-8th-fund-to-back-more-consumer-focused-startups/), as of 2022-05)
 - **Thesis quote:** we specialize in what we do best: consumer ([source](https://www.maveron.com/), as of 2026-08)
 - **LPs:** A significant portion of LPs are children's hospitals, foundations, universities, and philanthropic families. ([source](https://www.maveron.com/), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://maveron.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.maveron.com/), as of not recorded)
+- **Investment strategies:** consumer-focused early-stage investing ([source](https://www.maveron.com/), as of not recorded)
+- **Stages:** early ([source](https://www.maveron.com/), as of not recorded)
+- **Sectors:** consumer, real estate, health care, finance, education, food, energy ([source](https://www.maveron.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.maveron.com/), as of not recorded)
 
 ## Portfolio
 

@@ -1,5 +1,5 @@
 ---
-jev-score: 80
+jev-score: 79
 ---
 
 # GGP Funds

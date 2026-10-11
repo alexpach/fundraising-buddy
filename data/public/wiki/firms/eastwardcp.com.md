@@ -1,8 +1,8 @@
 ---
-jev-score: 48
+jev-score: 40
 ---
 
-# Eastward Capital Partners
+# Eastward Capital Partners, LLC
 
 [Website](https://eastwardcp.com)
 
@@ -10,18 +10,18 @@ Domain: eastwardcp.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://www.crunchbase.com/organization/eastward-capital-partners), as of 2026-04-19)
-- **Stages:** series-a, series-b, growth ([source](https://www.crunchbase.com/organization/eastward-capital-partners), as of 2026-04-19)
 - **Geographies:** us ([source](https://www.crunchbase.com/organization/eastward-capital-partners), as of 2026-04-19)
-- **Sectors:** venture-debt, saas, fintech, hardware ([source](https://www.crunchbase.com/organization/eastward-capital-partners), as of 2026-04-19)
-- **Leads rounds:** unknown ([source](https://eastwardcp.com), as of not recorded)
 - **About:** Eastward Capital Partners is a Boston-area (West Newton, MA) venture-debt provider with a 30-year history and 270+ portfolio companies. The firm provides founder-friendly, minimally dilutive growth financing to VC-backed technology companies across SaaS, fintech, and hardware without restrictive covenants. ([source](https://www.crunchbase.com/organization/eastward-capital-partners), as of 2026-04-19)
+- **Type:** venture debt ([source](https://eastwardcp.com/about/), as of not recorded)
+- **Investment strategies:** growth financing, venture debt ([source](https://eastwardcp.com/about/), as of not recorded)
+- **Investment instruments:** debt, equity ([source](https://eastwardcp.com/about/), as of not recorded)
+- **Sectors:** SaaS, fintech, hardware ([source](https://eastwardcp.com/), as of not recorded)
 
 ## Portfolio
 
@@ -37,4 +37,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://eastwardcp.com)
+- [Source](https://eastwardcp.com/)
+- [Source](https://eastwardcp.com/about/)
 - [Source](https://www.crunchbase.com/organization/eastward-capital-partners)

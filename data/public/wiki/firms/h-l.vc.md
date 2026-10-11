@@ -1,5 +1,5 @@
 ---
-jev-score: 61
+jev-score: 76
 ---
 
 # H/L Ventures
@@ -10,18 +10,23 @@ Domain: h-l.vc
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.prweb.com/releases/galina-ozgur-elevated-to-general-partner-at-hl-ventures-recognized-for-over-a-decade-of-exceptional-contributions-to-founder-success-302312835.html), as of 2024-11)
 - **Founded:** 2009 ([source](https://www.prweb.com/releases/hl-ventures-announces-the-close-of-24m-cityrock-venture-partners-fund-ii-302204949.html), as of 2024-07)
 - **Geographies:** us ([source](https://vcwire.tech/2024/07/26/h-l-ventures-closes-cityrock-venture-partners-fund-ii-at-24m/), as of 2024-07)
 - **Check size min:** $500,000 ([source](https://vcwire.tech/2024/07/26/h-l-ventures-closes-cityrock-venture-partners-fund-ii-at-24m/), as of 2024-07)
 - **Check size max:** $1,500,000 ([source](https://vcwire.tech/2024/07/26/h-l-ventures-closes-cityrock-venture-partners-fund-ii-at-24m/), as of 2024-07)
 - **Legal name:** Hatzimemos / Libby Holdings LLC ([source](https://h-l.vc/disclosures), as of 2026-08)
 - **Latest fund:** CityRock Venture Partners Fund II closed at $24M, July 2024 ([source](https://www.prweb.com/releases/hl-ventures-announces-the-close-of-24m-cityrock-venture-partners-fund-ii-302204949.html), as of 2024-07)
-- **Leads rounds:** unknown ([source](https://h-l.vc), as of not recorded)
+- **Type:** venture capital; venture studio ([source](https://www.prweb.com/releases/hl-ventures-announces-the-close-of-24m-cityrock-venture-partners-fund-ii-302204949.html), as of 2024-07)
+- **Investment strategies:** growth, impact, diversity ([source](https://www.prweb.com/releases/hl-ventures-announces-the-close-of-24m-cityrock-venture-partners-fund-ii-302204949.html), as of 2024-07)
+- **Legal structure:** venture studio, family of venture funds ([source](https://www.prweb.com/releases/hl-ventures-announces-the-close-of-24m-cityrock-venture-partners-fund-ii-302204949.html), as of 2024-07)
+- **Investment instruments:** equity, credit ([source](https://www.prweb.com/releases/hl-ventures-announces-the-close-of-24m-cityrock-venture-partners-fund-ii-302204949.html), as of 2024-07)
+- **Stages:** seed, Series A and beyond ([source](https://h-l.vc/), as of not recorded)
+- **Sectors:** climate, energy, healthcare, fintech, protective industries, future of work ([source](https://www.prweb.com/releases/hl-ventures-announces-the-close-of-24m-cityrock-venture-partners-fund-ii-302204949.html), as of 2024-07)
+- **Leads rounds:** yes ([source](https://www.globenewswire.com/news-release/2021/04/01/2203476/0/en/Holler-Announces-36-Million-Series-B-To-Set-The-Stage-For-Next-Generation-Messaging.html), as of 2021-04)
 
 ## Portfolio
 
@@ -47,7 +52,9 @@ Research date: 2026-08-26
 ## Sources
 
 - [Source](https://h-l.vc)
+- [Source](https://h-l.vc/)
 - [Source](https://h-l.vc/disclosures)
 - [Source](https://vcwire.tech/2024/07/26/h-l-ventures-closes-cityrock-venture-partners-fund-ii-at-24m/)
+- [Source](https://www.globenewswire.com/news-release/2021/04/01/2203476/0/en/Holler-Announces-36-Million-Series-B-To-Set-The-Stage-For-Next-Generation-Messaging.html)
 - [Source](https://www.prweb.com/releases/galina-ozgur-elevated-to-general-partner-at-hl-ventures-recognized-for-over-a-decade-of-exceptional-contributions-to-founder-success-302312835.html)
 - [Source](https://www.prweb.com/releases/hl-ventures-announces-the-close-of-24m-cityrock-venture-partners-fund-ii-302204949.html)

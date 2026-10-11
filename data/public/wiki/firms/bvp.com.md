@@ -1,5 +1,5 @@
 ---
-jev-score: 74
+jev-score: 77
 ---
 
 # Bessemer Venture Partners
@@ -10,18 +10,20 @@ Domain: bvp.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.bvp.com/atlas/inside-bessemers-operating-model), as of 2025-10)
 - **HQ:** Redwood City, CA ([source](https://www.bvp.com/contact), as of 2026-08)
-- **Stages:** seed, series-a, series-b, growth ([source](https://www.bvp.com/atlas/inside-bessemers-operating-model), as of 2025-10)
-- **Sectors:** enterprise, deep tech, fintech, consumer, healthcare, cloud, cybersecurity, AI/ML, crypto, vertical software ([source](https://www.bvp.com/news/expanding-opportunities-with-3-85-billion-for-early-stage-investments), as of 2022-09)
-- **AUM:** $19 billion ([source](https://businesswire.com/news/home/20250902361880/en/MaintainX-Named-to-2025-Forbes-Cloud-100-for-Advancing-AI-Powered-Industrial-Maintenance), as of 2025-09)
 - **Latest fund:** BVP Forge II ($1 billion) and second India fund ($350 million), 2025 ([source](https://www.bvp.com/year-in-review-2025), as of 2025-12)
 - **Thesis quote:** It's about developing a thesis and pursuing ideas that might be off the beaten path. ([source](https://www.bvp.com/atlas/inside-bessemers-operating-model), as of 2025-10)
-- **Leads rounds:** unknown ([source](https://bvp.com), as of not recorded)
+- **Type:** venture capital firm ([source](https://www.bvp.com/news/expanding-opportunities-with-3-85-billion-for-early-stage-investments), as of 2022-09-08)
+- **Investment strategies:** early-stage venture investing, growth-stage support through IPO and beyond ([source](https://www.bvp.com/news/expanding-opportunities-with-3-85-billion-for-early-stage-investments), as of 2022-09-08)
+- **Legal structure:** independent venture firm ([source](https://www.bvp.com/news/expanding-opportunities-with-3-85-billion-for-early-stage-investments), as of 2022-09-08)
+- **Stages:** early stage, earliest stages through IPO and beyond ([source](https://www.bvp.com/news/expanding-opportunities-with-3-85-billion-for-early-stage-investments), as of 2022-09-08)
+- **Sectors:** enterprise, deep tech, fintech, consumer, healthcare ([source](https://www.bvp.com/news/expanding-opportunities-with-3-85-billion-for-early-stage-investments), as of 2022-09-08)
+- **Leads rounds:** yes ([source](https://www.bvp.com/news/our-investment-in-recurrency), as of not recorded)
+- **AUM:** Lower bound (over): USD 20 billion (as of 2022-09-08) ([source](https://www.bvp.com/news/expanding-opportunities-with-3-85-billion-for-early-stage-investments), as of 2022-09-08)
 
 ## Portfolio
 
@@ -50,12 +52,15 @@ Research date: 2026-08-25
 - [Source](https://businesswire.com/news/home/20250902361880/en/MaintainX-Named-to-2025-Forbes-Cloud-100-for-Advancing-AI-Powered-Industrial-Maintenance)
 - [Source](https://businesswire.com/news/home/20260729819576/en/ChipAgents-Expands-Series-A-Funding-to-134-Million-as-Demand-Grows-for-Agentic-AI-in-Semiconductor-Design)
 - [Source](https://bvp.com)
+- [Source](https://www.bvp.com/about)
 - [Source](https://www.bvp.com/atlas/inside-bessemers-operating-model)
 - [Source](https://www.bvp.com/contact)
 - [Source](https://www.bvp.com/news/building-legoras-collaborative-ai-platform-for-legal-workflow-automation)
 - [Source](https://www.bvp.com/news/expanding-opportunities-with-3-85-billion-for-early-stage-investments)
 - [Source](https://www.bvp.com/news/meet-the-founders-of-dlthub-matthaus-krzykowski-marcin-rudolf-adrian-brudaru-and-anna-hoffmann)
 - [Source](https://www.bvp.com/news/noda-ai-building-the-future-of-operational-collaborative-autonomy-at-the-frontlines)
+- [Source](https://www.bvp.com/news/onyx-security-defining-cybersecurity-in-the-agentic-era)
+- [Source](https://www.bvp.com/news/our-investment-in-recurrency)
 - [Source](https://www.bvp.com/news/saronic-technologies-redefining-maritime-superiority)
 - [Source](https://www.bvp.com/news/the-future-of-defense-is-software-defined-autonomy-our-investment-in-auterion)
 - [Source](https://www.bvp.com/news/waymo-drives-the-next-chapter-of-autonomous-mobility)

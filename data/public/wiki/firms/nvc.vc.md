@@ -10,17 +10,19 @@ Domain: nvc.vc
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.nvc.vc/approach), as of None)
 - **HQ:** Burlingame, CA ([source](https://www.nvc.vc/contact), as of None)
-- **Stages:** growth ([source](https://www.nvc.vc/portfolio), as of None)
-- **Sectors:** enterprise software, fintech, AI ([source](https://www.nvc.vc/portfolio), as of None)
-- **Leads rounds:** yes ([source](https://www.nvc.vc/approach), as of not recorded)
 - **Latest fund:** $544M additional raise for NVC Fund II and NVC SOF I ([source](https://www.nvc.vc/stories/newview-capital-engineered-to-meet-the-moment), as of 2022-02)
 - **Thesis quote:** We focus on investments in high-potential, growth-stage companies in enterprise software, fintech, and AI. ([source](https://www.nvc.vc/portfolio), as of None)
+- **Type:** venture capital ([source](https://www.nvc.vc/approach), as of not recorded)
+- **Investment strategies:** growth equity, portfolio acquisitions ([source](https://www.nvc.vc/approach), as of not recorded)
+- **Stages:** growth, early stage ([source](https://www.nvc.vc/stories/newview-capital-engineered-to-meet-the-moment), as of 2022-02-23)
+- **Sectors:** enterprise software, fintech, AI, consumer internet ([source](https://www.nvc.vc/portfolio), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.nvc.vc/approach), as of not recorded)
+- **AUM:** Approximately USD 3.3 billion (date not reported) ([source](https://www.nvc.vc/portfolio), as of not recorded)
 
 ## Portfolio
 

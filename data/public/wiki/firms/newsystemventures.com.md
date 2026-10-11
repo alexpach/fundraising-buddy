@@ -1,5 +1,5 @@
 ---
-jev-score: 13
+jev-score: 21
 ---
 
 # New System Ventures
@@ -10,15 +10,16 @@ Domain: newsystemventures.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://newsystemventures.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://newsystemventures.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://newsystemventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.newsystemventures.com/), as of not recorded)
+- **Investment strategies:** energy transition investing ([source](https://www.newsystemventures.com/), as of not recorded)
+- **Stages:** inception, Series B ([source](https://www.newsystemventures.com/), as of not recorded)
+- **Sectors:** Energy, Mobility, Industry ([source](https://www.newsystemventures.com/), as of not recorded)
 
 ## Portfolio
 
@@ -30,3 +31,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://newsystemventures.com)
+- [Source](https://www.newsystemventures.com/)
+- [Source](https://www.newsystemventures.com/contact)

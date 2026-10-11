@@ -1,8 +1,8 @@
 ---
-jev-score: 66
+jev-score: 68
 ---
 
-# Dimension Capital
+# Dimension
 
 [Website](https://dimensioncap.com)
 
@@ -14,14 +14,15 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://techfundingnews.com/dimension-iii-800m-fund-ai-biotech-hardware), as of 2026-07)
 - **HQ:** New York ([source](https://techfundingnews.com/dimension-iii-800m-fund-ai-biotech-hardware), as of 2026-07)
 - **Founded:** 2022 ([source](https://techfundingnews.com/dimension-iii-800m-fund-ai-biotech-hardware), as of 2026-07)
-- **Stages:** any ([source](https://research.dimensioncap.com/about), as of 2026-08)
-- **AUM:** $1.65 billion ([source](https://techfundingnews.com/dimension-iii-800m-fund-ai-biotech-hardware), as of 2026-07)
-- **Leads rounds:** maybe ([source](https://techfundingnews.com/dimension-iii-800m-fund-ai-biotech-hardware), as of 2026-07)
 - **Latest fund:** Dimension III, $800M, announced 2026-07-21 ([source](https://techfundingnews.com/dimension-iii-800m-fund-ai-biotech-hardware), as of 2026-07)
 - **Thesis quote:** multistage, research oriented, investment firm partnering with companies across the frontiers of science and compute ([source](https://dimensioncap.com/), as of None)
+- **Type:** venture capital ([source](https://www.dimensioncap.com/), as of not recorded)
+- **Investment strategies:** stage-agnostic, research-oriented ([source](https://www.dimensioncap.com/), as of not recorded)
+- **Stages:** any ([source](https://research.dimensioncap.com/about), as of not recorded)
+- **Sectors:** Technology, Machine learning, Life sciences, Science and compute ([source](https://research.dimensioncap.com/about), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.linkedin.com/posts/dimensioncap_chai-discovery-an-ai-drug-start-up-raises-activity-7482809887513550850-VId0), as of not recorded)
 
 ## Portfolio
 
@@ -47,3 +48,5 @@ Research date: 2026-10-03
 - [Source](https://dimensioncap.com/)
 - [Source](https://research.dimensioncap.com/about)
 - [Source](https://techfundingnews.com/dimension-iii-800m-fund-ai-biotech-hardware)
+- [Source](https://www.dimensioncap.com/)
+- [Source](https://www.linkedin.com/posts/dimensioncap_chai-discovery-an-ai-drug-start-up-raises-activity-7482809887513550850-VId0)

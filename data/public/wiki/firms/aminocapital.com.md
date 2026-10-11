@@ -1,5 +1,5 @@
 ---
-jev-score: 54
+jev-score: 51
 ---
 
 # Amino Capital
@@ -10,17 +10,16 @@ Domain: aminocapital.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://aminocapital.com), as of 2026-08)
 - **HQ:** 346 Emerson St, Palo Alto, CA 94301 ([source](https://aminocapital.com/team), as of 2026-08)
-- **Stages:** seed, series-a, series-b, growth ([source](https://aminocapital.com), as of 2026-08)
 - **Geographies:** global ([source](https://aminocapital.com), as of 2026-08)
-- **Sectors:** Consumer, PLG SaaS, Frontier Tech, Web3 ([source](https://aminocapital.com), as of 2026-08)
 - **Thesis quote:** data moat and network effect ([source](https://aminocapital.com), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://aminocapital.com), as of not recorded)
+- **Type:** venture capital firm ([source](https://www.aminocapital.com/), as of not recorded)
+- **Stages:** pre-seed, Series A, Series B ([source](https://www.aminocapital.com/how-we-invest), as of not recorded)
+- **Sectors:** AI infrastructure, frontier AI labs, physical AI and robotics, developer tools, fintech, healthcare, consumer products ([source](https://www.aminocapital.com/how-we-invest), as of not recorded)
 
 ## Portfolio
 
@@ -45,3 +44,6 @@ Research date: 2026-08-25
 - [Source](https://aminocapital.com)
 - [Source](https://aminocapital.com/portfolio)
 - [Source](https://aminocapital.com/team)
+- [Source](https://www.aminocapital.com/)
+- [Source](https://www.aminocapital.com/how-we-invest)
+- [Source](https://www.aminocapital.com/terms)

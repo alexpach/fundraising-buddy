@@ -1,5 +1,5 @@
 ---
-jev-score: 35
+jev-score: 37
 ---
 
 # Red Glass Ventures
@@ -10,18 +10,17 @@ Domain: redglass.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://redglass.vc), as of 2026-07-27)
-- **Stages:** seed, series-a ([source](https://redglass.vc), as of 2026-07-27)
 - **Geographies:** us ([source](https://redglass.vc), as of 2026-07-27)
-- **Sectors:** physical-ai, robotics, deep-tech ([source](https://redglass.vc), as of 2026-07-27)
-- **AUM:** 150M ([source](https://redglass.vc), as of 2026-07-27)
-- **Leads rounds:** unknown ([source](https://redglass.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.linkedin.com/company/red-glass), as of not recorded)
+- **Investment strategies:** early-stage investing at the intersection of AI and the physical world ([source](https://www.linkedin.com/company/red-glass), as of not recorded)
+- **Stages:** formation stage, Series A ([source](https://www.linkedin.com/company/red-glass), as of not recorded)
+- **Sectors:** AI and physical world, infrastructure, autonomy, robotics, industrials, manufacturing, automotive, construction, defense, national security, health, energy ([source](https://www.redglass.vc/), as of not recorded)
 
 ## Portfolio
 
@@ -33,3 +32,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://redglass.vc)
+- [Source](https://www.linkedin.com/company/red-glass)
+- [Source](https://www.redglass.vc/)

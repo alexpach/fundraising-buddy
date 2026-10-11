@@ -1,5 +1,5 @@
 ---
-jev-score: 54
+jev-score: 56
 ---
 
 # Alpha Edison
@@ -10,16 +10,18 @@ Domain: alphaedison.com
 
 Coverage: sourced
 
-Research date: 2026-09-01
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.prnewswire.com/news-releases/alpha-edison-grows-team-with-addition-of-andrew-darcovich-head-of-investor-relations-301912948.html), as of 2023-08)
 - **Founded:** 2016 ([source](https://www.prnewswire.com/news-releases/alpha-edison-grows-team-with-addition-of-andrew-darcovich-head-of-investor-relations-301912948.html), as of 2023-08)
-- **Sectors:** fintech, deep tech, software/AI, data & AI, other ([source](https://www.alphaedison.com/portfolio), as of 2026-08)
-- **Leads rounds:** maybe ([source](https://www.alphaedison.com/home), as of 2026-08)
 - **Thesis quote:** We partner with early-stage entrepreneurs using technology to unlock latent demand where behaviors are shifting. ([source](https://www.alphaedison.com/home), as of 2026-08)
 - **Coinvestors:** Morpheus Ventures (co-led Rize Series A); Madrona Venture Group (Riveter, seed-round participant, contributing to Series A) ([source](https://www.prnewswire.com/news-releases/rize-secures-11-4m-series-a-led-by-alpha-edison-and-morpheus-ventures-to-help-fintech-builders-build-flexible-financial-products-301387137.html), as of 2021-09)
+- **Type:** venture capital ([source](https://www.prnewswire.com/news-releases/rize-secures-11-4m-series-a-led-by-alpha-edison-and-morpheus-ventures-to-help-fintech-builders-build-flexible-financial-products-301387137.html), as of 2021-09-29)
+- **Investment strategies:** early-stage venture investing ([source](https://www.prnewswire.com/news-releases/rize-secures-11-4m-series-a-led-by-alpha-edison-and-morpheus-ventures-to-help-fintech-builders-build-flexible-financial-products-301387137.html), as of 2021-09-29)
+- **Stages:** early-stage ([source](https://www.alphaedison.com/home), as of not recorded)
+- **Sectors:** Fintech, Deep Tech, Software, Data & AI ([source](https://www.alphaedison.com/portfolio), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.prnewswire.com/news-releases/rize-secures-11-4m-series-a-led-by-alpha-edison-and-morpheus-ventures-to-help-fintech-builders-build-flexible-financial-products-301387137.html), as of 2021-09-29)
 
 ## Portfolio
 

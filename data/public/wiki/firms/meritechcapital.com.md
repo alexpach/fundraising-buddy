@@ -1,8 +1,8 @@
 ---
-jev-score: 46
+jev-score: 48
 ---
 
-# Meritech Capital
+# Meritech
 
 [Website](https://meritechcapital.com)
 
@@ -10,12 +10,15 @@ Domain: meritechcapital.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://en.wikipedia.org/wiki/Meritech_Capital_Partners), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://meritechcapital.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.prweb.com/releases/pendo_secures_25_million_series_c_funding_led_by_meritech_capital_partners/prweb14506071.htm), as of 2017-07-13)
+- **Investment strategies:** growth stage venture capital ([source](https://www.prweb.com/releases/pendo_secures_25_million_series_c_funding_led_by_meritech_capital_partners/prweb14506071.htm), as of 2017-07-13)
+- **Stages:** growth stage ([source](https://www.prweb.com/releases/pendo_secures_25_million_series_c_funding_led_by_meritech_capital_partners/prweb14506071.htm), as of 2017-07-13)
+- **Sectors:** private technology companies ([source](https://www.prweb.com/releases/pendo_secures_25_million_series_c_funding_led_by_meritech_capital_partners/prweb14506071.htm), as of 2017-07-13)
+- **Leads rounds:** yes ([source](https://www.prweb.com/releases/pendo_secures_25_million_series_c_funding_led_by_meritech_capital_partners/prweb14506071.htm), as of 2017-07-13)
 
 ## Portfolio
 
@@ -43,9 +46,12 @@ Research date: 2026-08-25
 
 - [Source](https://en.wikipedia.org/wiki/Meritech_Capital_Partners)
 - [Source](https://meritechcapital.com/)
+- [Source](https://www.meritechcapital.com/)
 - [Source](https://www.prnewswire.com/news-releases/verkada-raises-205m-to-build-the-operating-system-for-the-physical-world-301624198.html)
+- [Source](https://www.prweb.com/releases/pendo_secures_25_million_series_c_funding_led_by_meritech_capital_partners/prweb14506071.htm)
 - [Source](https://www.sec.gov/Archives/edgar/data/1192448/000119244813000001/primary_doc.xml)
 - [Source](https://www.sec.gov/Archives/edgar/data/1401680/000140168010000002/primary_doc.xml)
 - [Source](https://www.sec.gov/Archives/edgar/data/1407973/000138296314000053/primary_doc.xml)
 - [Source](https://www.sec.gov/Archives/edgar/data/1478484/000147848412000001/primary_doc.xml)
 - [Source](https://www.sec.gov/Archives/edgar/data/1554612/000155461215000001/primary_doc.xml)
+- [Source](https://www.targetpartners.de/news/instana-secures-usd30-million-series-c-investment-led-by-meritech)

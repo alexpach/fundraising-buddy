@@ -1,8 +1,8 @@
 ---
-jev-score: 41
+jev-score: 52
 ---
 
-# Thomson Reuters
+# Thomson Reuters Ventures
 
 [Website](https://www.trventures.com/)
 
@@ -10,18 +10,17 @@ Domain: trventures.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://www.trventures.com/), as of 2026-08-07)
-- **Stages:** seed, series-a, series-b ([source](https://www.trventures.com/), as of 2026-08-07)
 - **Geographies:** global ([source](https://www.trventures.com/), as of 2026-08-07)
-- **Sectors:** legal-tech, tax-tech, fraud-risk, compliance, insurtech, fintech ([source](https://www.trventures.com/), as of 2026-08-07)
-- **AUM:** 250M ([source](https://www.trventures.com/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.trventures.com/), as of not recorded)
+- **Type:** venture capital; corporate venture capital ([source](https://www.trventures.com/), as of not recorded)
+- **Investment strategies:** enterprise technology, strategic venture investment ([source](https://www.trventures.com/), as of not recorded)
+- **Stages:** Series A, earlier-stage opportunities, later-stage opportunities (flexible) ([source](https://www.thomsonreuters.com/en/press-releases/2025/february/thomson-reuters-announces-new-150-million-dollar-corporate-venture-capital-fund), as of 2025-02-10)
+- **Sectors:** tax tech, legal tech, fraud, risk, and compliance tech, news and media, fintech, insurtech ([source](https://www.trventures.com/thesis), as of not recorded)
 
 ## Portfolio
 
@@ -40,4 +39,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## Sources
 
+- [Source](https://www.thomsonreuters.com/en/press-releases/2025/february/thomson-reuters-announces-new-150-million-dollar-corporate-venture-capital-fund)
 - [Source](https://www.trventures.com/)
+- [Source](https://www.trventures.com/thesis)

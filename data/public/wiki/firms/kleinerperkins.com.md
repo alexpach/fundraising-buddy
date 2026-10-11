@@ -1,5 +1,5 @@
 ---
-jev-score: 67
+jev-score: 71
 ---
 
 # Kleiner Perkins
@@ -10,17 +10,19 @@ Domain: kleinerperkins.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/kleiner-perkins-caufield-byers), as of 2026-04)
 - **Founded:** 1972 ([source](https://en.wikipedia.org/wiki/Kleiner_Perkins), as of 2026-08)
-- **Sectors:** professional services, healthcare, autonomy, security, financial services, productivity, physical economy, ai ([source](https://kleinerperkins.com/perspectives/our-new-funds-kp22-select-iv-flex), as of 2026-03)
 - **Legal name:** Kleiner Perkins Caufield & Byers, LLC ([source](https://en.wikipedia.org/wiki/Kleiner_Perkins), as of 2026-08)
-- **Leads rounds:** yes ([source](https://www.kleinerperkins.com/), as of 2026-04)
 - **Latest fund:** KP22: $1B early-stage fund; plus $2.5B combined across two growth vehicles (KP Select IV $1.92B sold + Flex I $555M sold, per Form D). Announced March 24, 2026. ([source](https://kleinerperkins.com/perspectives/our-new-funds-kp22-select-iv-flex), as of 2026-03)
 - **Thesis quote:** To be the first call for founders who want to make history and to partner with them as company builders in pursuit of that goal. ([source](https://www.kleinerperkins.com/about), as of 2026-04)
+- **Type:** venture capital ([source](https://www.kleinerperkins.com/perspectives/announcing-kp21-and-select-iii/), as of 2024-06-28)
+- **Investment strategies:** early-stage venture, high-inflection investing ([source](https://www.kleinerperkins.com/perspectives/announcing-kp21-and-select-iii/), as of 2024-06-28)
+- **Stages:** early stage ([source](https://www.kleinerperkins.com/perspectives/announcing-kp21-and-select-iii/), as of 2024-06-28)
+- **Sectors:** enterprise software, consumer, healthcare, fintech, hardtech ([source](https://www.kleinerperkins.com/perspectives/announcing-kp21-and-select-iii/), as of 2024-06-28)
+- **Leads rounds:** yes ([source](https://www.kleinerperkins.com/perspectives/traversal_series_a/), as of 2025-06-18)
 
 ## Portfolio
 
@@ -56,3 +58,5 @@ Research date: 2026-08-26
 - [Source](https://www.crunchbase.com/organization/kleiner-perkins-caufield-byers)
 - [Source](https://www.kleinerperkins.com/)
 - [Source](https://www.kleinerperkins.com/about)
+- [Source](https://www.kleinerperkins.com/perspectives/announcing-kp21-and-select-iii/)
+- [Source](https://www.kleinerperkins.com/perspectives/traversal_series_a/)

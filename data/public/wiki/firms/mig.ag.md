@@ -1,8 +1,8 @@
 ---
-jev-score: 33
+jev-score: 49
 ---
 
-# MIG Capital
+# MIG Capital AG
 
 [Website](https://www.mig.ag/en/home/)
 
@@ -10,17 +10,18 @@ Domain: mig.ag
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.mig.ag/en/home/), as of 2026-08-07)
-- **Stages:** seed, series-a, series-b ([source](https://www.mig.ag/en/home/), as of 2026-08-07)
 - **Geographies:** europe ([source](https://www.mig.ag/en/home/), as of 2026-08-07)
-- **Sectors:** deep-tech, life-sciences ([source](https://www.mig.ag/en/home/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.mig.ag/en/home/), as of not recorded)
+- **Type:** venture capital ([source](https://www.mig.ag/en/about-us/), as of not recorded)
+- **Investment strategies:** venture capital ([source](https://www.mig.ag/en/about-us/), as of not recorded)
+- **Stages:** series A ([source](https://www.mig.ag/en/mig-capital-co-leads-e63-million-series-a-round-for-autoimmune-biotech-scirhom/), as of 2024-07-09)
+- **Sectors:** Deep tech, Life sciences ([source](https://www.mig.ag/en/about-us/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.mig.ag/en/mig-capital-co-leads-e63-million-series-a-round-for-autoimmune-biotech-scirhom/), as of 2024-07-09)
 
 ## Portfolio
 
@@ -40,4 +41,7 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## Sources
 
+- [Source](https://www.mig.ag/en/about-us/)
 - [Source](https://www.mig.ag/en/home/)
+- [Source](https://www.mig.ag/en/mig-capital-co-leads-e63-million-series-a-round-for-autoimmune-biotech-scirhom/)
+- [Source](https://www.mig.ag/en/mig-capital-leads-e5-million-series-a-financing-of-animal-healthcare-company-hawkcell-to-democratise-mri-imaging/)

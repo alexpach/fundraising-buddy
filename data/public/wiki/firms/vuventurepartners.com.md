@@ -1,5 +1,5 @@
 ---
-jev-score: 51
+jev-score: 49
 ---
 
 # VU Venture Partners
@@ -10,17 +10,17 @@ Domain: vuventurepartners.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://vuventurepartners.com/about), as of None)
-- **Stages:** pre-seed, seed, series-a, series-b ([source](https://www.vuventurepartners.com/regional-vc-funds), as of None)
 - **Geographies:** global ([source](https://www.vuventurepartners.com/), as of None)
-- **Sectors:** Consumer, Enterprise, FinTech, Frontier, Healthcare, PropTech ([source](https://www.vuventurepartners.com/regional-vc-funds), as of None)
 - **Offices:** San Francisco; Hong Kong; Munich; Burgas; Sao Paulo ([source](https://www.vuventurepartners.com/), as of None)
 - **Thesis quote:** A Global Early Stage Tech Venture Capital Fund ([source](https://www.vuventurepartners.com/), as of None)
-- **Leads rounds:** unknown ([source](https://vuventurepartners.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.vuventurepartners.com/), as of not recorded)
+- **Investment strategies:** early-stage technology ([source](https://www.vuventurepartners.com/), as of not recorded)
+- **Stages:** pre-seed, seed, series A, series B ([source](https://www.vuventurepartners.com/regional-vc-funds), as of not recorded)
+- **Sectors:** Consumer, Enterprise, FinTech, Frontier, Healthcare, PropTech ([source](https://www.vuventurepartners.com/), as of not recorded)
 
 ## Portfolio
 
@@ -55,4 +55,5 @@ Research date: 2026-10-03
 - [Source](https://vuventurepartners.com/about)
 - [Source](https://vuventurepartners.com/investments)
 - [Source](https://www.vuventurepartners.com/)
+- [Source](https://www.vuventurepartners.com/about)
 - [Source](https://www.vuventurepartners.com/regional-vc-funds)

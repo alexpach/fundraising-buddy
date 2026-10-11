@@ -1,5 +1,5 @@
 ---
-jev-score: 67
+jev-score: 80
 ---
 
 # Balderton Capital
@@ -10,19 +10,20 @@ Domain: balderton.com
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://balderton.com/news/balderton-announces-1-3b-in-new-funds-to-back-europes-top-entrepreneurs-as-they-build-world-changing-businesses), as of 2024-08)
 - **HQ:** London, UK ([source](https://balderton.com/about-balderton/), as of None)
-- **Stages:** seed to IPO ([source](https://balderton.com/news/balderton-announces-1-3b-in-new-funds-to-back-europes-top-entrepreneurs-as-they-build-world-changing-businesses), as of 2024-08)
 - **Geographies:** europe ([source](https://balderton.com/about-balderton/), as of None)
-- **Sectors:** technology ([source](https://balderton.com/news/balderton-announces-1-3b-in-new-funds-to-back-europes-top-entrepreneurs-as-they-build-world-changing-businesses), as of 2024-08)
 - **Offices:** London, Paris, Berlin ([source](https://balderton.com/about-balderton/), as of None)
 - **Latest fund:** $615 million Early Stage Fund IX and $685 million Growth Fund II announced ([source](https://balderton.com/news/balderton-announces-1-3b-in-new-funds-to-back-europes-top-entrepreneurs-as-they-build-world-changing-businesses), as of 2024-08)
 - **Thesis quote:** Balderton’s early stage and growth funds allow us to invest from Seed to IPO. ([source](https://balderton.com/about-balderton/), as of None)
-- **Leads rounds:** unknown ([source](https://balderton.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.balderton.com/news/balderton-announces-1-3b-in-new-funds-to-back-europes-top-entrepreneurs-as-they-build-world-changing-businesses/), as of 2024-08-12)
+- **Investment strategies:** early stage venture, growth venture ([source](https://www.balderton.com/news/balderton-announces-1-3b-in-new-funds-to-back-europes-top-entrepreneurs-as-they-build-world-changing-businesses/), as of 2024-08-12)
+- **Stages:** Seed to IPO ([source](https://www.balderton.com/news/balderton-announces-1-3b-in-new-funds-to-back-europes-top-entrepreneurs-as-they-build-world-changing-businesses/), as of 2024-08-12)
+- **Sectors:** AI, fintech, B2B SaaS, digital health, mobility, gaming, marketplaces ([source](https://www.balderton.com/news/balderton-announces-1-3b-in-new-funds-to-back-europes-top-entrepreneurs-as-they-build-world-changing-businesses/), as of 2024-08-12)
+- **Leads rounds:** yes ([source](https://www.balderton.com/news/geordie-raises-30m-to-help-enterprises-securely-adopt-agentic-ai-at-scale/), as of 2026-05-28)
 
 ## Portfolio
 
@@ -59,3 +60,6 @@ Research date: 2026-10-02
 - [Source](https://balderton.com/about-balderton/)
 - [Source](https://balderton.com/companies/)
 - [Source](https://balderton.com/news/balderton-announces-1-3b-in-new-funds-to-back-europes-top-entrepreneurs-as-they-build-world-changing-businesses)
+- [Source](https://www.balderton.com/about-balderton/)
+- [Source](https://www.balderton.com/news/balderton-announces-1-3b-in-new-funds-to-back-europes-top-entrepreneurs-as-they-build-world-changing-businesses/)
+- [Source](https://www.balderton.com/news/geordie-raises-30m-to-help-enterprises-securely-adopt-agentic-ai-at-scale/)

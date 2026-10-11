@@ -1,5 +1,5 @@
 ---
-jev-score: 15
+jev-score: 14
 ---
 
 # ND Capital

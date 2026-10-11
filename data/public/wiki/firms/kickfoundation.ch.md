@@ -1,5 +1,5 @@
 ---
-jev-score: 46
+jev-score: 39
 ---
 
 # Kick Foundation
@@ -10,18 +10,19 @@ Domain: kickfoundation.ch
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Stages:** seed ([source](https://www.kickfoundation.ch/), as of 2026-08-07)
 - **Geographies:** europe, switzerland ([source](https://www.kickfoundation.ch/), as of 2026-08-07)
-- **Sectors:** deep-tech ([source](https://www.kickfoundation.ch/), as of 2026-08-07)
 - **Check size min:** 12070 ([source](https://www.kickfoundation.ch/), as of 2026-08-07)
 - **Check size max:** 1030000 ([source](https://www.kickfoundation.ch/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.kickfoundation.ch/), as of not recorded)
+- **Type:** foundation ([source](https://www.kickfoundation.ch/), as of 2021)
+- **Investment strategies:** entrepreneurship support ([source](https://www.kickfoundation.ch/), as of 2021)
+- **Legal structure:** foundation ([source](https://www.kickfoundation.ch/), as of 2021)
+- **Sectors:** technology, innovation ([source](https://www.kickfoundation.ch/), as of not recorded)
 
 ## Portfolio
 

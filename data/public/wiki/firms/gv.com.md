@@ -1,5 +1,5 @@
 ---
-jev-score: 44
+jev-score: 48
 ---
 
 # GV
@@ -10,18 +10,15 @@ Domain: gv.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/google-ventures), as of 2026-06-08)
-- **Stages:** seed, growth ([source](https://www.crunchbase.com/organization/google-ventures), as of 2026-06-08)
 - **Geographies:** global, us, europe ([source](https://www.crunchbase.com/organization/google-ventures), as of 2026-06-08)
-- **Sectors:** ai, enterprise, consumer, security, energy, climate, life-sciences, robotics, hardware, autonomous-systems ([source](https://www.crunchbase.com/organization/google-ventures), as of 2026-06-08)
-- **Leads rounds:** unknown ([source](https://gv.com), as of not recorded)
 - **About:** GV is a venture capital firm founded in 2009. Its public materials emphasize seed, growth investing, and focus areas include ai, enterprise, consumer, security ([source](https://www.crunchbase.com/organization/google-ventures), as of 2026-06-08)
+- **Leads rounds:** yes ([source](https://www.gv.com/news/interview-with-nicholas-sharp-founder-of-attio), as of not recorded)
 
 ## Portfolio
 
@@ -43,3 +40,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 - [Source](https://gv.com)
 - [Source](https://www.crunchbase.com/organization/google-ventures)
+- [Source](https://www.gv.com/news/interview-with-nicholas-sharp-founder-of-attio)

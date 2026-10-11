@@ -1,5 +1,5 @@
 ---
-jev-score: 80
+jev-score: 81
 ---
 
 # Crosslink Capital
@@ -14,17 +14,19 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://crosslinkcapital.com/news/crosslink-launches-tenth-flagship-venture-fund-with-350-million), as of 2024-04)
 - **HQ:** Menlo Park, CA ([source](https://crosslinkcapital.com/team), as of 2026)
 - **Founded:** 1989 ([source](https://www.crosslinkcapital.com/), as of None)
-- **Stages:** pre-seed, seed, series-a ([source](https://crosslinkcapital.com/news/crosslink-launches-tenth-flagship-venture-fund-with-350-million), as of 2024-04)
-- **Sectors:** enterprise, consumer, vertical technologies ([source](https://crosslinkcapital.com/news/crosslink-launches-tenth-flagship-venture-fund-with-350-million), as of 2024-04)
 - **Check size min:** $1M ([source](https://www.crosslinkcapital.com/), as of None)
 - **Check size max:** $9M ([source](https://www.crosslinkcapital.com/), as of None)
 - **Legal name:** Crosslink Capital, Inc. ([source](https://crosslinkcapital.com/news/crosslink-launches-tenth-flagship-venture-fund-with-350-million), as of 2024-04)
-- **Leads rounds:** maybe ([source](https://www.crosslinkcapital.com/portfolio/), as of None)
 - **Latest fund:** Crosslink Ventures X, $350 million ([source](https://crosslinkcapital.com/news/crosslink-launches-tenth-flagship-venture-fund-with-350-million), as of 2024-04)
 - **Thesis quote:** Crosslink remains dedicated to investing in early-stage founders from inception ([source](https://crosslinkcapital.com/news/crosslink-launches-tenth-flagship-venture-fund-with-350-million), as of 2024-04)
+- **Type:** venture capital ([source](https://www.crosslinkcapital.com/news/crosslink-launches-tenth-flagship-venture-fund-with-350-million/), as of 2024-04-23)
+- **Investment strategies:** early-stage venture capital ([source](https://www.crosslinkcapital.com/news/crosslink-launches-tenth-flagship-venture-fund-with-350-million/), as of 2024-04-23)
+- **Stages:** pre-seed, seed, Series A ([source](https://www.crosslinkcapital.com/news/crosslink-launches-tenth-flagship-venture-fund-with-350-million/), as of 2024-04-23)
+- **Sectors:** enterprise, consumer, vertical technologies ([source](https://www.crosslinkcapital.com/news/crosslink-launches-tenth-flagship-venture-fund-with-350-million/), as of 2024-04-23)
+- **Leads rounds:** yes ([source](https://www.crosslinkcapital.com/news/leading-vcs-back-formaai-to-tune-of-10-million/), as of 2021-03-11)
+- **AUM:** USD 3.4 billion (date not reported) ([source](https://www.crosslinkcapital.com/), as of not recorded)
 
 ## Portfolio
 
@@ -54,4 +56,6 @@ Research date: 2026-10-03
 - [Source](https://crosslinkcapital.com/news/crosslink-launches-tenth-flagship-venture-fund-with-350-million)
 - [Source](https://crosslinkcapital.com/team)
 - [Source](https://www.crosslinkcapital.com/)
+- [Source](https://www.crosslinkcapital.com/news/crosslink-launches-tenth-flagship-venture-fund-with-350-million/)
+- [Source](https://www.crosslinkcapital.com/news/leading-vcs-back-formaai-to-tune-of-10-million/)
 - [Source](https://www.crosslinkcapital.com/portfolio/)

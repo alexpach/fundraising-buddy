@@ -1,5 +1,5 @@
 ---
-jev-score: 86
+jev-score: 84
 ---
 
 # AlleyCorp
@@ -14,16 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://alleycorp.com/about-us), as of None)
 - **HQ:** New York ([source](https://alleycorp.com/about-us), as of None)
 - **Founded:** 2007 ([source](https://fortune.com/2026/07/15/kevin-ryan-alleycorp-raises-new-335-million-fund-early-stage-bets/), as of 2026-07)
-- **Stages:** pre-seed, seed, series-a ([source](https://alleycorp.com/about-us), as of None)
 - **Geographies:** global ([source](https://alleycorp.com/about-us), as of None)
-- **Sectors:** Diversified Technology, Healthcare, Robotics, Economic Infrastructure ([source](https://alleycorp.com/about-us), as of None)
 - **Check size max:** under $10 million (first checks) ([source](https://fortune.com/2026/07/15/kevin-ryan-alleycorp-raises-new-335-million-fund-early-stage-bets/), as of 2026-07)
 - **Latest fund:** $335 million second fund reported July 2026 ([source](https://fortune.com/2026/07/15/kevin-ryan-alleycorp-raises-new-335-million-fund-early-stage-bets/), as of 2026-07)
 - **Thesis quote:** AlleyCorp founds and invests in transformative companies in New York and across the world ([source](https://alleycorp.com/about-us), as of None)
-- **Leads rounds:** yes ([source](https://www.crunchbase.com/organization/alleycorp), as of 2026-08-06)
+- **Type:** venture capital; company builder ([source](https://alleycorp.com/about-us/), as of not recorded)
+- **Investment strategies:** early-stage investing, company incubation ([source](https://alleycorp.com/about-us/), as of not recorded)
+- **Stages:** pre-seed, seed, Series A ([source](https://alleycorp.com/about-us/), as of not recorded)
+- **Sectors:** Diversified Technology, Healthcare, Robotics, Economic Infrastructure ([source](https://alleycorp.com/about-us/), as of not recorded)
 
 ## Portfolio
 
@@ -59,4 +59,5 @@ Research date: 2026-10-03
 
 - [Source](https://alleycorp.com/)
 - [Source](https://alleycorp.com/about-us)
+- [Source](https://alleycorp.com/about-us/)
 - [Source](https://fortune.com/2026/07/15/kevin-ryan-alleycorp-raises-new-335-million-fund-early-stage-bets/)

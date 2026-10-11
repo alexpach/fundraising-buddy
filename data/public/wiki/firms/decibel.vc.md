@@ -1,8 +1,8 @@
 ---
-jev-score: 57
+jev-score: 62
 ---
 
-# Decibel Partners
+# Decibel
 
 [Website](https://decibel.vc)
 
@@ -14,12 +14,14 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2019/m03/decibel-cisco-creates-a-vc-firm-from-scratch.html), as of 2019-03)
-- **Sectors:** Developer Platforms, Cyber Security, Data, ML, and AI ([source](https://www.decibel.vc/why-decibel), as of None)
 - **Thesis quote:** We invest in essential software used by engineering and security teams to build and protect our digital world. ([source](https://www.decibel.vc/), as of None)
 - **Exclusions:** We say no to investments outside of our expertise. ([source](https://www.decibel.vc/why-decibel), as of None)
 - **LPs:** Cisco as cornerstone limited partner ([source](https://globalventuring.com/corporate/decibel-makes-noise-with-275m-fund-target/), as of 2022-01)
-- **Leads rounds:** unknown ([source](https://decibel.vc), as of not recorded)
+- **Type:** venture capital ([source](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2019/m03/decibel-cisco-creates-a-vc-firm-from-scratch.html), as of 2019-03)
+- **Investment strategies:** early-stage investing ([source](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2019/m03/decibel-cisco-creates-a-vc-firm-from-scratch.html), as of 2019-03)
+- **Stages:** early stage ([source](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2019/m03/decibel-cisco-creates-a-vc-firm-from-scratch.html), as of 2019-03)
+- **Sectors:** Developer Platforms, Cyber Security, Data, ML, and AI ([source](https://www.decibel.vc/why-decibel), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.decibel.vc/articles/welcoming-alessio-fanelli-as-decibels-newest-partner), as of not recorded)
 
 ## Portfolio
 
@@ -48,5 +50,6 @@ Research date: 2026-10-03
 - [Source](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2019/m03/decibel-cisco-creates-a-vc-firm-from-scratch.html)
 - [Source](https://techcrunch.com/2019/03/26/former-nea-partner-jon-sakoda-takes-the-wraps-off-his-new-cisco-backed-venture-fund-decibel/)
 - [Source](https://www.decibel.vc/)
+- [Source](https://www.decibel.vc/articles/welcoming-alessio-fanelli-as-decibels-newest-partner)
 - [Source](https://www.decibel.vc/companies)
 - [Source](https://www.decibel.vc/why-decibel)

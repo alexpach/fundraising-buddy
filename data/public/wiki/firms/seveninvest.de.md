@@ -1,5 +1,5 @@
 ---
-jev-score: 19
+jev-score: 18
 ---
 
 # Seven Invest

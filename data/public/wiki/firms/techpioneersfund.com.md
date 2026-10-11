@@ -1,5 +1,5 @@
 ---
-jev-score: 23
+jev-score: 22
 ---
 
 # Tech Pioneers Fund

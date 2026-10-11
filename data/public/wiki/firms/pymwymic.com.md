@@ -1,5 +1,5 @@
 ---
-jev-score: 47
+jev-score: 46
 ---
 
 # Pymwymic
@@ -10,18 +10,17 @@ Domain: pymwymic.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://pymwymic.com/), as of 2026-08-06)
-- **Stages:** seed, series-a ([source](https://pymwymic.com/), as of 2026-08-06)
 - **Geographies:** europe, global ([source](https://pymwymic.com/), as of 2026-08-06)
-- **Sectors:** agtech, food-systems, impact, sustainability ([source](https://pymwymic.com/), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://pymwymic.com/), as of not recorded)
 - **About:** Pymwymic ("Put Your Money Where Your Meaning Is Community") is an Amsterdam-based investment cooperative founded in 1994 , one of Europe's oldest impact investors. It's a peer-to-peer holding of 250+ mission-aligned families, family foundations, and individual investors rather than a conventional fund manager, though it now also runs formal vehicles: the Healthy Food Systems Impact Fund I and II ( ([source](https://pymwymic.com/), as of 2026-08-06)
+- **Type:** venture capital ([source](https://pymwymic.com/about/), as of not recorded)
+- **Investment strategies:** impact investing ([source](https://pymwymic.com/about/), as of not recorded)
+- **Sectors:** Agriculture, Food systems ([source](https://pymwymic.com/portfolio-where-innovation-meets-impact/), as of not recorded)
 
 ## Portfolio
 
@@ -39,3 +38,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://pymwymic.com/)
+- [Source](https://pymwymic.com/about/)
+- [Source](https://pymwymic.com/portfolio-where-innovation-meets-impact/)

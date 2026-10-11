@@ -1,5 +1,5 @@
 ---
-jev-score: 49
+jev-score: 60
 ---
 
 # Savory Fund
@@ -10,19 +10,20 @@ Domain: savoryfund.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://savoryfund.com), as of 2026-08-06)
-- **Stages:** growth ([source](https://savoryfund.com), as of 2026-08-06)
 - **Geographies:** us ([source](https://savoryfund.com), as of 2026-08-06)
-- **Sectors:** restaurant, food-and-beverage, franchise-brands ([source](https://savoryfund.com), as of 2026-08-06)
-- **AUM:** 750M ([source](https://savoryfund.com), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://savoryfund.com), as of not recorded)
 - **About:** Savory Fund (savoryfund.com) is a Utah-based private equity firm, operating for 16 years, that provides growth capital exclusively to established multi-unit restaurant and food-and-beverage franchise brands. It reports over $750M in assets under management and is currently deploying its third vehicle, Savory Fund III. Its fourth Fund III investment, announced 2026-08-04, was a strategic-capital-pl ([source](https://savoryfund.com), as of 2026-08-06)
+- **Type:** private equity ([source](https://savoryfund.com/via-313-pizzeria-raises-32-5-million-to-double-footprint-in-three-years/), as of 2025-02-04)
+- **Investment strategies:** growth equity ([source](https://savoryfund.com/via-313-pizzeria-raises-32-5-million-to-double-footprint-in-three-years/), as of 2025-02-04)
+- **Investment instruments:** equity ([source](https://savoryfund.com/via-313-pizzeria-raises-32-5-million-to-double-footprint-in-three-years/), as of 2025-02-04)
+- **Stages:** growth ([source](https://savoryfund.com/), as of not recorded)
+- **Sectors:** restaurant ([source](https://savoryfund.com/via-313-pizzeria-raises-32-5-million-to-double-footprint-in-three-years/), as of 2025-02-04)
+- **AUM:** Lower bound (over): USD 750 million (date not reported) ([source](https://savoryfund.com/via-313-pizzeria-raises-32-5-million-to-double-footprint-in-three-years/), as of not recorded)
 
 ## Portfolio
 
@@ -39,3 +40,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://savoryfund.com)
+- [Source](https://savoryfund.com/)
+- [Source](https://savoryfund.com/via-313-pizzeria-raises-32-5-million-to-double-footprint-in-three-years/)

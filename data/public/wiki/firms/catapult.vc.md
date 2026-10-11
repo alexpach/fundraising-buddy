@@ -1,5 +1,5 @@
 ---
-jev-score: 33
+jev-score: 42
 ---
 
 # Catapult Ventures
@@ -10,17 +10,18 @@ Domain: catapult.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://catapult.vc/), as of 2026-08-06)
-- **Stages:** pre-seed, seed ([source](https://catapult.vc/), as of 2026-08-06)
 - **Geographies:** us ([source](https://catapult.vc/), as of 2026-08-06)
-- **Sectors:** robotics, hardware, ai, aerospace, automotive, iot ([source](https://catapult.vc/), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://catapult.vc/), as of not recorded)
+- **Type:** venture capital ([source](https://catapult.vc/about/), as of not recorded)
+- **Investment strategies:** early-stage, deep tech ([source](https://catapult.vc/about/), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://catapult.vc/), as of not recorded)
+- **Sectors:** artificial intelligence, automation, robotics, internet of things, embedded systems, automotive, aerospace, industrial manufacturing ([source](https://catapult.vc/), as of not recorded)
+- **Leads rounds:** yes ([source](https://catapult.vc/), as of not recorded)
 
 ## Portfolio
 
@@ -40,3 +41,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://catapult.vc/)
+- [Source](https://catapult.vc/about/)

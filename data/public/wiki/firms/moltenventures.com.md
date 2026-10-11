@@ -1,5 +1,5 @@
 ---
-jev-score: 63
+jev-score: 73
 ---
 
 # Molten Ventures plc
@@ -10,17 +10,20 @@ Domain: moltenventures.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://investors.moltenventures.com/storage/uploads/PLC/Factsheets/Mini-Sheet-FY26.pdf), as of 2025-11)
 - **HQ:** 20 Garrick Street, London, WC2E 9BT, United Kingdom ([source](https://investors.moltenventures.com/storage/uploads/PLC/Factsheets/Mini-Sheet-FY26.pdf), as of 2025-11)
-- **Stages:** series-a, series-b ([source](https://investors.moltenventures.com/storage/uploads/PLC/Factsheets/Mini-Sheet-FY26.pdf), as of 2025-11)
 - **Geographies:** europe ([source](https://investors.moltenventures.com/storage/uploads/PLC/Factsheets/Mini-Sheet-FY26.pdf), as of 2025-11)
 - **Legal name:** Molten Ventures plc ([source](https://investors.moltenventures.com/storage/uploads/PLC/Factsheets/Mini-Sheet-FY26.pdf), as of 2025-11)
 - **Thesis quote:** We provide investors with access to an actively managed portfolio of high-potential companies capable of generating outsized returns on invested capital. ([source](https://investors.moltenventures.com/about-molten), as of 2026-05)
-- **Leads rounds:** unknown ([source](https://moltenventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://investors.moltenventures.com/about-molten), as of not recorded)
+- **Investment strategies:** venture capital investment in high-growth private technology companies ([source](https://investors.moltenventures.com/about-molten), as of not recorded)
+- **Legal structure:** public limited company, Alternative Investment Fund ([source](https://investors.moltenventures.com/about-molten), as of not recorded)
+- **Stages:** Series A, Series B ([source](https://investors.moltenventures.com/about-molten), as of not recorded)
+- **Sectors:** Enterprise & SaaS Technology, AI, Hardware & Deeptech, Consumer Technology, Digital Health & Wellness ([source](https://investors.moltenventures.com/about-molten), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.moltenventures.com/news/molten-ventures-leads-12-million-series-a-in-anima), as of 2024-03-19)
 
 ## Portfolio
 
@@ -54,4 +57,5 @@ Research date: 2026-08-26
 - [Source](https://investors.moltenventures.com/about-molten)
 - [Source](https://investors.moltenventures.com/storage/uploads/PLC/Factsheets/Mini-Sheet-FY26.pdf)
 - [Source](https://moltenventures.com)
+- [Source](https://www.moltenventures.com/news/molten-ventures-leads-12-million-series-a-in-anima)
 - [Source](https://www.moltenventures.com/portfolio/all)

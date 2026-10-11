@@ -1,5 +1,5 @@
 ---
-jev-score: 13
+jev-score: 17
 ---
 
 # Y Combinator
@@ -10,15 +10,16 @@ Domain: ycombinator.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://ycombinator.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://ycombinator.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://ycombinator.com), as of not recorded)
+- **Type:** accelerator ([source](https://www.ycombinator.com/about), as of not recorded)
+- **Investment strategies:** accelerator investment ([source](https://www.ycombinator.com/about), as of not recorded)
+- **Investment instruments:** SAFE ([source](https://www.ycombinator.com/about), as of not recorded)
+- **Sectors:** robotics, hardware ([source](https://www.ycombinator.com/companies/industry/robotics), as of 2026-10)
 
 ## Portfolio
 
@@ -29,4 +30,6 @@ Not recorded.
 
 ## Sources
 
+- [Source](https://www.ycombinator.com/about)
+- [Source](https://www.ycombinator.com/companies/industry/robotics)
 - [Source](https://ycombinator.com)

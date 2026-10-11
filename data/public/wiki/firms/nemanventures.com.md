@@ -10,15 +10,14 @@ Domain: nemanventures.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://nemanventures.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://nemanventures.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://nemanventures.com), as of not recorded)
+- **Legal structure:** limited liability company ([source](https://www.nemanventures.com/disclaimers), as of not recorded)
+- **Sectors:** AI, robotics, quantum, deep science, consumer, health, wellness, sports ([source](https://www.nemanventures.com/), as of not recorded)
 
 ## Portfolio
 
@@ -30,3 +29,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://nemanventures.com)
+- [Source](https://www.nemanventures.com/)
+- [Source](https://www.nemanventures.com/disclaimers)

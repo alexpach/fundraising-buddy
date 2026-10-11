@@ -1,5 +1,5 @@
 ---
-jev-score: 59
+jev-score: 67
 ---
 
 # JLL Spark Global Ventures
@@ -10,14 +10,16 @@ Domain: spark.jllt.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** cvc ([source](https://www.jll.com/en-us/newsroom/jll-spark-announces-more-than-dollar-340m-in-investments), as of 2022-06)
 - **HQ:** San Francisco, California ([source](https://jll.com/en-us/newsroom/jll-spark-proptech-global-venture-fund), as of 2018-06)
 - **Founded:** 2017 ([source](https://jll.com/en-us/newsroom/jll-spark-proptech-global-venture-fund), as of 2018-06)
-- **Leads rounds:** unknown ([source](https://spark.jllt.com), as of not recorded)
+- **Type:** corporate venture capital ([source](https://www.jll.com/en-us/newsroom/jll-spark-announces-more-than-dollar-340m-in-investments), as of 2022-06)
+- **Investment strategies:** proptech ([source](https://www.jll.com/en-us/newsroom/jll-spark-announces-more-than-dollar-340m-in-investments), as of 2022-06)
+- **Stages:** seed, Series A, select later stage rounds ([source](https://www.jll.com/en-us/newsroom/jll-spark-proptech-global-venture-fund), as of 2018-06)
+- **Sectors:** construction tech, ESG, fintech, smart buildings, future of work ([source](https://www.jll.com/en-us/newsroom/jll-spark-announces-more-than-dollar-340m-in-investments), as of 2022-06)
 
 ## Portfolio
 
@@ -58,3 +60,4 @@ Research date: 2026-08-26
 - [Source](https://spark.jllt.com/jll-sparks-investment-themes)
 - [Source](https://spark.jllt.com/portfolio/)
 - [Source](https://www.jll.com/en-us/newsroom/jll-spark-announces-more-than-dollar-340m-in-investments)
+- [Source](https://www.jll.com/en-us/newsroom/jll-spark-proptech-global-venture-fund)

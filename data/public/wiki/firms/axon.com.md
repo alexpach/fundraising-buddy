@@ -1,5 +1,5 @@
 ---
-jev-score: 59
+jev-score: 60
 ---
 
 # Axon Venture Fund

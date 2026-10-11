@@ -1,8 +1,8 @@
 ---
-jev-score: 64
+jev-score: 65
 ---
 
-# CSL Capital Management
+# CSL Capital Management, L.P.
 
 [Website](https://cslenergy.com)
 
@@ -10,17 +10,21 @@ Domain: cslenergy.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
 - **Founded:** 2008 ([source](https://houston.citybuzz.co/article/566924/csl-capital-forms-csl-ventures), as of 2019-08)
-- **Sectors:** energy services, energy equipment, energy technology, industrial technology ([source](https://www.cslenergy.com/strategy.html), as of 2025-01)
 - **Check size min:** $500,000 (venture-style opportunities) ([source](https://www.cslenergy.com/strategy.html), as of 2025-01)
 - **Check size max:** $100,000,000 (private-equity-style opportunities) ([source](https://www.cslenergy.com/strategy.html), as of 2025-01)
-- **Leads rounds:** maybe ([source](https://www.cslenergy.com/news--resources.html), as of 2020-08)
 - **Thesis quote:** support both entrepreneurs and executive teams to grow their businesses by leveraging our expertise and extensive network ([source](https://www.cslenergy.com/strategy.html), as of 2025-01)
 - **Coinvestors:** Top Tier Capital Partners, Crosslink Capital, Bowery Capital, Blue Bear Capital, Schlumberger, Lavni Ventures, Blu Ventures, Texas Ventures, Texas Halo Fund ([source](https://www.cslenergy.com/news--resources.html), as of 2019-11)
+- **Type:** private equity; venture capital ([source](https://www.cslenergy.com/strategy.html), as of not recorded)
+- **Investment strategies:** private equity, venture capital ([source](https://www.cslenergy.com/strategy.html), as of not recorded)
+- **Legal structure:** limited partnership ([source](https://www.cslenergy.com/strategy.html), as of not recorded)
+- **Stages:** early stage, seed ([source](https://www.cslenergy.com/news--resources.html), as of 2019-08-16)
+- **Sectors:** energy services, energy equipment, energy technology ([source](https://www.cslenergy.com/strategy.html), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.cslenergy.com/news--resources.html), as of 2021-08-18)
 
 ## Portfolio
 

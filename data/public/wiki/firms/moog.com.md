@@ -1,8 +1,8 @@
 ---
-jev-score: 14
+jev-score: 13
 ---
 
-# Moog
+# Moog Inc.
 
 [Website](https://moog.com)
 
@@ -10,15 +10,14 @@ Domain: moog.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://moog.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://moog.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://moog.com), as of not recorded)
+- **Type:** industrial manufacturer ([source](https://www.moog.com/content/sites/global/en/investors.html), as of not recorded)
+- **Sectors:** aerospace, defense, industrial, medical ([source](https://www.moog.com/about-us.html), as of not recorded)
 
 ## Portfolio
 
@@ -30,3 +29,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://moog.com)
+- [Source](https://www.moog.com/about-us.html)
+- [Source](https://www.moog.com/content/sites/global/en/investors.html)

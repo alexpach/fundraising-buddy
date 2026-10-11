@@ -1,5 +1,5 @@
 ---
-jev-score: 14
+jev-score: 25
 ---
 
 # Lightrock
@@ -10,15 +10,18 @@ Domain: lightrock.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://lightrock.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://lightrock.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://lightrock.com), as of not recorded)
+- **Type:** global investment platform ([source](https://www.lightrock.com/about), as of not recorded)
+- **Investment strategies:** growth-stage private equity, small-cap public equity ([source](https://www.lightrock.com/about), as of not recorded)
+- **Investment instruments:** equity ([source](https://www.lightrock.com/about), as of not recorded)
+- **Stages:** growth-stage ([source](https://www.lightrock.com/about/private-equity/), as of not recorded)
+- **Sectors:** Energy Transition, Decarbonising Industries, Sustainable Food & Agriculture, Sustainable Transportation, Enabling Technologies & Solutions, Access to Finance, Smart Mobility & Transportation, Healthcare, Education, Access to Electricity, Clean Cooking ([source](https://www.lightrock.com/about/private-equity/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.lightrock.com/news/lightrock-latest-may-2022/), as of 2022-05)
 
 ## Portfolio
 
@@ -30,3 +33,6 @@ Not recorded.
 ## Sources
 
 - [Source](https://lightrock.com)
+- [Source](https://www.lightrock.com/about)
+- [Source](https://www.lightrock.com/about/private-equity/)
+- [Source](https://www.lightrock.com/news/lightrock-latest-may-2022/)

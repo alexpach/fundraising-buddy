@@ -1,5 +1,5 @@
 ---
-jev-score: 71
+jev-score: 75
 ---
 
 # Bison Ventures
@@ -14,13 +14,15 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.businesswire.com/news/home/20231107555162/en/Bison-Ventures-Debuts-%24135M-Fund-to-Invest-in-Frontier-Technology-Companies-Addressing-the-Worlds-Biggest-Challenges), as of 2023-11)
 - **HQ:** San Francisco, CA ([source](https://www.bison.vc/), as of 2026-10)
 - **Founded:** 2022 ([source](https://www.businesswire.com/news/home/20231107555162/en/Bison-Ventures-Debuts-%24135M-Fund-to-Invest-in-Frontier-Technology-Companies-Addressing-the-Worlds-Biggest-Challenges), as of 2023-11)
-- **Sectors:** frontier technology, deep technology, AI in the physical world, techbio, climate + sustainability, 10x hardware, food & agriculture, connectivity ([source](https://www.bison.vc/), as of 2026-10)
 - **Latest fund:** Debut $135M fund close announced Nov 7, 2023 ([source](https://www.businesswire.com/news/home/20231107555162/en/Bison-Ventures-Debuts-%24135M-Fund-to-Invest-in-Frontier-Technology-Companies-Addressing-the-Worlds-Biggest-Challenges), as of 2023-11)
 - **Thesis quote:** We invest in frontier technology companies that use innovative science and deep technology to address some of the world’s most pressing challenges. ([source](https://www.bison.vc/), as of 2026-10)
-- **Leads rounds:** unknown ([source](https://bison.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.businesswire.com/news/home/20231107555162/en/Bison-Ventures-Debuts-$135M-Fund-to-Invest-in-Frontier-Technology-Companies-Addressing-the-Worlds-Biggest-Challenges), as of 2023-11-07)
+- **Investment strategies:** early-stage frontier technology investing ([source](https://www.businesswire.com/news/home/20231107555162/en/Bison-Ventures-Debuts-$135M-Fund-to-Invest-in-Frontier-Technology-Companies-Addressing-the-Worlds-Biggest-Challenges), as of 2023-11-07)
+- **Legal structure:** investment manager LLC ([source](https://www.businesswire.com/news/home/20231107555162/en/Bison-Ventures-Debuts-$135M-Fund-to-Invest-in-Frontier-Technology-Companies-Addressing-the-Worlds-Biggest-Challenges), as of 2023-11-07)
+- **Stages:** early stage ([source](https://www.businesswire.com/news/home/20231107555162/en/Bison-Ventures-Debuts-$135M-Fund-to-Invest-in-Frontier-Technology-Companies-Addressing-the-Worlds-Biggest-Challenges), as of 2023-11-07)
+- **Sectors:** AI in the physical world, techbio, climate and sustainability, 10x hardware, food and agriculture, connectivity, digital and physical ([source](https://www.bison.vc/), as of not recorded)
 
 ## Portfolio
 
@@ -46,7 +48,9 @@ Research date: 2026-10-03
 
 - [Source](https://bison.vc)
 - [Source](https://www.bison.vc/)
+- [Source](https://www.bison.vc/legal)
 - [Source](https://www.bison.vc/team/ben-hemani)
 - [Source](https://www.bison.vc/team/caleb-appleton)
 - [Source](https://www.bison.vc/team/tom-biegala)
+- [Source](https://www.businesswire.com/news/home/20231107555162/en/Bison-Ventures-Debuts-$135M-Fund-to-Invest-in-Frontier-Technology-Companies-Addressing-the-Worlds-Biggest-Challenges)
 - [Source](https://www.businesswire.com/news/home/20231107555162/en/Bison-Ventures-Debuts-%24135M-Fund-to-Invest-in-Frontier-Technology-Companies-Addressing-the-Worlds-Biggest-Challenges)

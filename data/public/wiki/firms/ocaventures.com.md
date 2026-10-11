@@ -1,5 +1,5 @@
 ---
-jev-score: 63
+jev-score: 62
 ---
 
 # OCA Ventures
@@ -10,18 +10,20 @@ Domain: ocaventures.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://ocaventures.com/team), as of 2026-10)
 - **Founded:** 1999 ([source](https://www.ocaventures.com/jim-dugan/), as of 2026-10)
-- **Stages:** seed, series-a, series-b ([source](https://ocaventures.com/team), as of 2026-10)
-- **Sectors:** enterprise software, consumer software, fintech, digital health ([source](https://ocaventures.com/team), as of 2026-10)
 - **Check size min:** $1M ([source](https://ocaventures.com/team), as of 2026-10)
 - **Check size max:** $3M ([source](https://ocaventures.com/team), as of 2026-10)
 - **Thesis quote:** early stage venture capital firm focused on equity investments in companies with dramatic growth potential ([source](https://ocaventures.com/team), as of 2026-10)
-- **Leads rounds:** unknown ([source](https://ocaventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.ocaventures.com/about/), as of not recorded)
+- **Investment strategies:** early-stage equity investing ([source](https://www.ocaventures.com/about/), as of not recorded)
+- **Investment instruments:** equity ([source](https://www.ocaventures.com/about/), as of not recorded)
+- **Stages:** Seed, Series A, Series B ([source](https://www.ocaventures.com/about/), as of not recorded)
+- **Sectors:** enterprise software, consumer software, fintech, digital health ([source](https://www.ocaventures.com/about/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.ocaventures.com/about/), as of not recorded)
 
 ## Portfolio
 
@@ -53,4 +55,5 @@ Research date: 2026-10-03
 - [Source](https://ocaventures.com/portfolio)
 - [Source](https://ocaventures.com/team)
 - [Source](https://www.ocaventures.com/)
+- [Source](https://www.ocaventures.com/about/)
 - [Source](https://www.ocaventures.com/jim-dugan/)

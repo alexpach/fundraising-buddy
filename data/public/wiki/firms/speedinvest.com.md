@@ -1,8 +1,8 @@
 ---
-jev-score: 85
+jev-score: 86
 ---
 
-# Speedinvest
+# Speedinvest GmbH
 
 [Website](https://speedinvest.com)
 
@@ -10,22 +10,25 @@ Domain: speedinvest.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://speedinvest.com/knowledge/speedinvest-closes-oversubscribed-fourth-flagship-fund-at-eu350-million-eu50-million-above-target), as of 2024-01)
 - **HQ:** Vienna, Austria ([source](https://www.speedinvest.com/legal/imprint), as of None)
 - **Founded:** 2011 ([source](https://speedinvest.com/knowledge/speedinvest-closes-oversubscribed-fourth-flagship-fund-at-eu350-million-eu50-million-above-target), as of 2024-01)
-- **Stages:** pre-seed, seed, growth ([source](https://speedinvest.com/how-we-work), as of None)
-- **Sectors:** Climate Tech & Industrial Tech, Deep Tech, Fintech, Health & Bio, Marketplaces & Consumer, SaaS & Infrastructure ([source](https://speedinvest.com/knowledge/speedinvest-closes-oversubscribed-fourth-flagship-fund-at-eu350-million-eu50-million-above-target), as of 2024-01)
 - **Check size min:** EUR 250K ([source](https://speedinvest.com/how-we-work), as of None)
 - **Check size max:** EUR 30M (growth, Series B to Pre-IPO) ([source](https://speedinvest.com/how-we-work), as of None)
 - **Legal name:** Speedinvest GmbH ([source](https://www.speedinvest.com/legal/imprint), as of None)
 - **Latest fund:** Speedinvest 4 final close at EUR 350 million ([source](https://speedinvest.com/knowledge/speedinvest-closes-oversubscribed-fourth-flagship-fund-at-eu350-million-eu50-million-above-target), as of 2024-01)
 - **Thesis quote:** Our specialist investment teams each back just 4 to 6 new companies per year, leading 85% of initial rounds ([source](https://speedinvest.com/how-we-work), as of None)
 - **LPs:** Aviva, PwC Germany, Bitburger, ODDO BHF, Abeille Assurances Ventures (final close); EIF, Generali (first close) ([source](https://speedinvest.com/knowledge/speedinvest-closes-oversubscribed-fourth-flagship-fund-at-eu350-million-eu50-million-above-target), as of 2024-01)
-- **Leads rounds:** yes ([source](https://speedinvest.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.speedinvest.com/legal/imprint), as of not recorded)
+- **Investment strategies:** early-stage investing, growth-stage investing ([source](https://www.speedinvest.com/legal/imprint), as of not recorded)
+- **Legal structure:** limited liability company ([source](https://www.speedinvest.com/legal/imprint), as of not recorded)
+- **Stages:** pre-seed, seed, growth ([source](https://www.speedinvest.com/how-we-work), as of not recorded)
+- **Sectors:** AI & Infra, Climate Tech & Industrial Tech, Deep Tech, Fintech & DeFi, Health & Bio, Marketplaces & Consumer ([source](https://www.speedinvest.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.speedinvest.com/), as of not recorded)
+- **AUM:** Lower bound (over): EUR 1 billion (as of 2024-01) ([source](https://www.speedinvest.com/knowledge/speedinvest-closes-oversubscribed-fourth-flagship-fund-at-eu350-million-eu50-million-above-target), as of 2024-01)
 
 ## Portfolio
 
@@ -66,4 +69,7 @@ Research date: 2026-10-03
 
 - [Source](https://speedinvest.com/how-we-work)
 - [Source](https://speedinvest.com/knowledge/speedinvest-closes-oversubscribed-fourth-flagship-fund-at-eu350-million-eu50-million-above-target)
+- [Source](https://www.speedinvest.com/)
+- [Source](https://www.speedinvest.com/how-we-work)
+- [Source](https://www.speedinvest.com/knowledge/speedinvest-closes-oversubscribed-fourth-flagship-fund-at-eu350-million-eu50-million-above-target)
 - [Source](https://www.speedinvest.com/legal/imprint)

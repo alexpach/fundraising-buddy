@@ -1,5 +1,5 @@
 ---
-jev-score: 66
+jev-score: 70
 ---
 
 # Lightspeed Venture Partners
@@ -10,18 +10,19 @@ Domain: lsvp.com
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.davispolk.com/experience/lightspeed-9-billion-fundraise-across-six-new-funds), as of 2025-12)
 - **Founded:** 2000 ([source](https://www.davispolk.com/experience/lightspeed-9-billion-fundraise-across-six-new-funds), as of 2025-12)
 - **Geographies:** global ([source](https://www.moneycontrol.com/news/business/startup/lightspeed-venture-partners-mops-up-more-than-9-billion-across-six-funds-13726915.html), as of 2025-12)
-- **Sectors:** artificial intelligence, enterprise software, fintech, healthcare, consumer technology ([source](https://www.moneycontrol.com/news/business/startup/lightspeed-venture-partners-mops-up-more-than-9-billion-across-six-funds-13726915.html), as of 2025-12)
-- **AUM:** over $40 billion ([source](https://www.davispolk.com/experience/lightspeed-9-billion-fundraise-across-six-new-funds), as of 2025-12)
 - **Latest fund:** more than $9 billion across six funds, closed December 2025 ([source](https://techcrunch.com/2025/12/15/lightspeed-raises-record-9b-in-fresh-capital/), as of 2025-12)
 - **Thesis quote:** AI is the most transformative technology shift in a generation ([source](https://www.mitsloanme.com/article/lightspeed-closes-record-9-billion-fund/), as of 2025-12)
-- **Leads rounds:** unknown ([source](https://lsvp.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.davispolk.com/experience/lightspeed-9-billion-fundraise-across-six-new-funds), as of 2025-12)
+- **Investment strategies:** multi-stage venture capital ([source](https://www.davispolk.com/experience/lightspeed-9-billion-fundraise-across-six-new-funds), as of 2025-12)
+- **Stages:** seed, series A, series B, series C, series D, series E, series F ([source](https://lsvp.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://lsvp.com/stories/the-developer-platform-for-world-models-our-series-a-in-reactor/), as of 2026-05-28)
+- **AUM:** Lower bound (over): USD 40 billion (date not reported) ([source](https://www.davispolk.com/experience/lightspeed-9-billion-fundraise-across-six-new-funds), as of not recorded)
 
 ## Portfolio
 
@@ -45,7 +46,9 @@ Research date: 2026-09-20
 ## Sources
 
 - [Source](https://lsvp.com)
+- [Source](https://lsvp.com/)
 - [Source](https://lsvp.com/companies/)
+- [Source](https://lsvp.com/stories/the-developer-platform-for-world-models-our-series-a-in-reactor/)
 - [Source](https://techcrunch.com/2025/12/15/lightspeed-raises-record-9b-in-fresh-capital/)
 - [Source](https://www.davispolk.com/experience/lightspeed-9-billion-fundraise-across-six-new-funds)
 - [Source](https://www.mitsloanme.com/article/lightspeed-closes-record-9-billion-fund/)

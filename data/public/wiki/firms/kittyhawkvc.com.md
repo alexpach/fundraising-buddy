@@ -1,5 +1,5 @@
 ---
-jev-score: 61
+jev-score: 71
 ---
 
 # KittyHawk
@@ -14,14 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.kittyhawkvc.com/kittyhawkfrontier), as of None)
 - **HQ:** Los Angeles, California ([source](https://www.prnewswire.com/news-releases/kittyhawk-acquires-exit-ventures-paul-burgon-joins-as-partner-to-lead-energy--climate-investments-302589363.html), as of 2025-10)
 - **Founded:** 2015 ([source](https://kittyhawkvc.com), as of None)
 - **Geographies:** global ([source](https://www.prnewswire.com/news-releases/kittyhawk-acquires-exit-ventures-paul-burgon-joins-as-partner-to-lead-energy--climate-investments-302589363.html), as of 2025-10)
-- **Sectors:** Healthcare / Bio / Longevity, Robotics / Advanced Materials, Web3, AI / Quantum, Energy, Aerospace ([source](https://kittyhawkvc.com), as of None)
 - **Offices:** San Francisco, Salt Lake City, Austin, New York, London, the UAE, Riyadh, Australia ([source](https://www.prnewswire.com/news-releases/kittyhawk-acquires-exit-ventures-paul-burgon-joins-as-partner-to-lead-energy--climate-investments-302589363.html), as of 2025-10)
 - **Thesis quote:** At KittyHawk we believe that we’re living in an incredible time, one where technology is the dominant force driving humanity forward. ([source](https://kittyhawkvc.com), as of None)
-- **Leads rounds:** maybe ([source](https://kittyhawkvc.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.kittyhawkvc.com/kittyhawkfrontier), as of not recorded)
+- **Investment strategies:** seed-stage frontier venture, late-stage private-market secondaries ([source](https://www.kittyhawkvc.com/kittyhawkfrontier), as of not recorded)
+- **Stages:** seed, early stage, late stage ([source](https://www.kittyhawkvc.com/kittyhawkfrontier), as of not recorded)
+- **Sectors:** AI & quantum, Energy, Aerospace, Robotics & advanced materials, Healthcare & bio, Web3 ([source](https://www.kittyhawkvc.com/kittyhawkfrontier), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.kittyhawkvc.com/kittyhawkfrontier), as of not recorded)
 
 ## Portfolio
 
@@ -54,5 +56,6 @@ Research date: 2026-10-03
 - [Source](https://kittyhawkvc.com)
 - [Source](https://kittyhawkvc.com/investments/amply)
 - [Source](https://www.caplight.com/investor/kittyhawk-ventures)
+- [Source](https://www.kittyhawkvc.com/)
 - [Source](https://www.kittyhawkvc.com/kittyhawkfrontier)
 - [Source](https://www.prnewswire.com/news-releases/kittyhawk-acquires-exit-ventures-paul-burgon-joins-as-partner-to-lead-energy--climate-investments-302589363.html)

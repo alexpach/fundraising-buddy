@@ -1,8 +1,8 @@
 ---
-jev-score: 55
+jev-score: 65
 ---
 
-# Nextech Invest
+# Nextech Invest Ltd.
 
 [Website](https://nextechinvest.com)
 
@@ -10,17 +10,19 @@ Domain: nextechinvest.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.sec.gov/Archives/edgar/data/2040858/000204085824000002/primary_doc.xml), as of 2024-10)
 - **HQ:** Zurich, Switzerland ([source](https://nextechinvest.com/contact), as of 2026-08)
 - **Geographies:** europe, us, global ([source](https://nextechinvest.com), as of 2026-08)
-- **Sectors:** oncology, precision medicine, biotechnology, drug discovery ([source](https://nextechinvest.com), as of 2026-08)
 - **Legal name:** Nextech Invest AG ([source](https://nextechinvest.com/legal-notices), as of 2026-08)
 - **Offices:** Zurich, Switzerland, Boston, MA, USA, San Francisco, CA, USA ([source](https://nextechinvest.com/contact), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://nextechinvest.com), as of not recorded)
+- **Type:** private equity investor ([source](https://www.nextechinvest.com/pdfs/Nextech_BluePrint%20IPO_30_April_2015_ENGL.pdf), as of 2015-04-30)
+- **Investment strategies:** oncology-focused investing ([source](https://www.nextechinvest.com/pdfs/Nextech_BluePrint%20IPO_30_April_2015_ENGL.pdf), as of 2015-04-30)
+- **Stages:** Series B ([source](https://www.nextechinvest.com/pdfs/Nextech_BluePrint%20IPO_30_April_2015_ENGL.pdf), as of 2015-04-30)
+- **Sectors:** oncology ([source](https://www.nextechinvest.com/portfolio/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.nextechinvest.com/pdfs/Nextech_BluePrint%20IPO_30_April_2015_ENGL.pdf), as of 2015-04-30)
 
 ## Portfolio
 
@@ -51,4 +53,7 @@ Research date: 2026-08-26
 - [Source](https://nextechinvest.com/contact)
 - [Source](https://nextechinvest.com/legal-notices)
 - [Source](https://nextechinvest.com/portfolio)
+- [Source](https://www.nextechinvest.com/contact/)
+- [Source](https://www.nextechinvest.com/pdfs/Nextech_BluePrint%20IPO_30_April_2015_ENGL.pdf)
+- [Source](https://www.nextechinvest.com/portfolio/)
 - [Source](https://www.sec.gov/Archives/edgar/data/2040858/000204085824000002/primary_doc.xml)

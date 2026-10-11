@@ -1,5 +1,5 @@
 ---
-jev-score: 63
+jev-score: 64
 ---
 
 # Amazon Alexa Fund
@@ -10,17 +10,17 @@ Domain: developer.amazon.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** cvc ([source](https://angelspartners.com/firm/amazon-alexa-fund), as of 2026-08)
 - **Founded:** 2015 ([source](https://techcrunch.com/2023/01/24/alexa-funds-paul-bernard-talks-openai-whats-catching-his-eye-and-remaining-relevant-as-amazon-restructures/), as of 2023-01)
-- **Sectors:** voice technology, artificial intelligence, hardware, entertainment, generative media, smart agents, robotics ([source](https://developer.amazon.com/en-US/alexa/alexa-fund-venture-capital/), as of 2026-08)
-- **AUM:** at least $200 million cumulative commitment (initial $100M in 2015 plus a further $100M roughly two years later); invested off Amazon's balance sheet, not a fixed fund ([source](https://techcrunch.com/2023/01/24/alexa-funds-paul-bernard-talks-openai-whats-catching-his-eye-and-remaining-relevant-as-amazon-restructures/), as of 2023-01)
 - **Thesis quote:** We believe in supporting entrepreneurs who advance the state of the art and working with them to innovate on behalf of customers. ([source](https://developer.amazon.com/en-US/alexa/alexa-fund-venture-capital/), as of 2026-08)
 - **LPs:** No external limited partners; investments are made off Amazon's own corporate balance sheet. ([source](https://techcrunch.com/2023/01/24/alexa-funds-paul-bernard-talks-openai-whats-catching-his-eye-and-remaining-relevant-as-amazon-restructures/), as of 2023-01)
-- **Leads rounds:** unknown ([source](https://developer.amazon.com), as of not recorded)
+- **Type:** corporate venture capital; venture capital program ([source](https://developer.amazon.com/en-US/blogs/alexa/post/59185373-0fd2-41a3-b7aa-6e46e78ab63d/alexa-fund-goes-abroad-with-up-to-100-million-in-new-global-investment), as of 2017-11-29)
+- **Investment strategies:** venture capital ([source](https://developer.amazon.com/en-US/blogs/alexa/post/59185373-0fd2-41a3-b7aa-6e46e78ab63d/alexa-fund-goes-abroad-with-up-to-100-million-in-new-global-investment), as of 2017-11-29)
+- **Investment instruments:** equity ([source](https://developer.amazon.com/en-US/blogs/alexa/post/59185373-0fd2-41a3-b7aa-6e46e78ab63d/alexa-fund-goes-abroad-with-up-to-100-million-in-new-global-investment), as of 2017-11-29)
+- **Sectors:** voice technology, artificial intelligence, hardware, entertainment, generative media, smart agents, emerging AI architectures ([source](https://press.aboutamazon.com/2015/6/amazon-introduces-the-alexa-fund-100-million-in-investments-to-fuel-voice-technology-innovation), as of 2015-06-25)
 
 ## Portfolio
 
@@ -52,6 +52,7 @@ Research date: 2026-08-25
 - [Source](https://developer.amazon.com/)
 - [Source](https://developer.amazon.com/en-US/alexa/alexa-fund-venture-capital/)
 - [Source](https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2025/03/alexa-funds-announcement)
+- [Source](https://developer.amazon.com/en-US/blogs/alexa/post/59185373-0fd2-41a3-b7aa-6e46e78ab63d/alexa-fund-goes-abroad-with-up-to-100-million-in-new-global-investment)
 - [Source](https://press.aboutamazon.com/2015/6/amazon-introduces-the-alexa-fund-100-million-in-investments-to-fuel-voice-technology-innovation)
 - [Source](https://techcrunch.com/2023/01/24/alexa-funds-paul-bernard-talks-openai-whats-catching-his-eye-and-remaining-relevant-as-amazon-restructures/)
 - [Source](https://tecxposition.com/speakers/zain-a-gulamali/)

@@ -1,5 +1,5 @@
 ---
-jev-score: 48
+jev-score: 61
 ---
 
 # DeepWork Capital
@@ -10,18 +10,19 @@ Domain: deepworkcapital.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.deepworkcapital.com), as of 2026-08-06)
-- **Stages:** seed, series-a ([source](https://www.deepworkcapital.com), as of 2026-08-06)
 - **Geographies:** us ([source](https://www.deepworkcapital.com), as of 2026-08-06)
-- **Sectors:** healthcare, deep-tech, saas, space ([source](https://www.deepworkcapital.com), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://www.deepworkcapital.com), as of not recorded)
 - **About:** DeepWork Capital is an early-stage venture firm founded in 2015 and based in Orlando, Florida; it was previously known as the FAN Fund. It invests at seed and Series A in technology and life sciences, and is explicit that its thesis is geographic as much as sectoral , it targets globally scalable companies built in US regions that venture capital has historically under-served, chiefly Florida and  ([source](https://www.deepworkcapital.com), as of 2026-08-06)
+- **Type:** venture capital firm ([source](https://www.deepworkcapital.com/), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://www.deepworkcapital.com/), as of not recorded)
+- **Stages:** seed, series A ([source](https://www.deepworkcapital.com/), as of not recorded)
+- **Sectors:** life sciences, space technology, B2B SaaS ([source](https://www.deepworkcapital.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.deepworkcapital.com/circuitry-ai-closes-seed-funding), as of not recorded)
 
 ## Portfolio
 
@@ -42,3 +43,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.deepworkcapital.com)
+- [Source](https://www.deepworkcapital.com/)
+- [Source](https://www.deepworkcapital.com/circuitry-ai-closes-seed-funding)

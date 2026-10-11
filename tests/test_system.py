@@ -386,6 +386,14 @@ class SystemTests(unittest.TestCase):
         handler.do_GET()
         self.assertEqual(output[-1][0], 403)
         handler.headers = {"Host": "127.0.0.1:8765"}
+        config_path = self.root / "workspace/config.json"
+        config = json.loads(config_path.read_text())
+        config.update(extra_domains=["ALIAS.INVALID", "alias.invalid"], owner_emails=["owner@private.invalid"])
+        config_path.write_text(json.dumps(config))
+        handler.do_GET()
+        self.assertEqual(output[-1][0], 200)
+        self.assertEqual(json.loads(output[-1][1])["extra_domains"], ["alias.invalid"])
+        self.assertNotIn("owner@private.invalid", output[-1][1])
         for path in ["/workspace/config.json", "/api/page?id=../../workspace/config.json"]:
             handler.path = path
             handler.do_GET()

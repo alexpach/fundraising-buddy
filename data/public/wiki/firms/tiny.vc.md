@@ -1,5 +1,5 @@
 ---
-jev-score: 73
+jev-score: 72
 ---
 
 # Tiny VC

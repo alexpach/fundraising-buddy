@@ -10,17 +10,20 @@ Domain: menlovc.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://menlovc.com/), as of 2026-08)
 - **Founded:** 1976 ([source](https://menlovc.com/perspective/menlo-turns-50-and-announces-3b-in-fresh-capital-to-go-all-in-on-ai/), as of 2026-06)
-- **Sectors:** ai, infrastructure, enterprise, healthcare, consumer ([source](https://menlovc.com/perspective/menlo-turns-50-and-announces-3b-in-fresh-capital-to-go-all-in-on-ai/), as of 2026-06)
 - **Check size min:** ~$100K per founder (Inception Fund pre-seed SAFE) ([source](https://menlovc.com/inception-fund/), as of 2026-08)
-- **Leads rounds:** yes ([source](https://menlovc.com/perspective/menlo-turns-50-and-announces-3b-in-fresh-capital-to-go-all-in-on-ai/), as of 2026-06)
 - **Latest fund:** $3 billion in new capital across two flagship funds (Menlo Ventures XVII, seed-to-Series-A, and Menlo Inflection IV, Series B and beyond), announced with the firm's 50th anniversary ([source](https://menlovc.com/perspective/menlo-turns-50-and-announces-3b-in-fresh-capital-to-go-all-in-on-ai/), as of 2026-06)
 - **Thesis quote:** Backs early-stage founders before the opportunity is obvious, across three internal stages: Inception, Venture, and Inflection. ([source](https://menlovc.com/about/), as of 2026-08)
+- **Type:** venture capital ([source](https://menlovc.com/about/), as of not recorded)
+- **Investment strategies:** pre-seed, early-stage, early growth, AI-native ([source](https://menlovc.com/about/), as of not recorded)
+- **Stages:** pre-seed, seed, series A, series B, early growth ([source](https://menlovc.com/inception-fund/), as of not recorded)
+- **Sectors:** Artificial Intelligence, Bio + Healthcare, Consumer, Cybersecurity, Defense, Fintech, Infrastructure, Robotics + Hardware, SaaS, Supply Chain + Automation ([source](https://menlovc.com/about/), as of not recorded)
+- **Leads rounds:** yes ([source](https://menlovc.com/perspective/q2-2025-update-from-the-anthology-fund/), as of not recorded)
+- **AUM:** Lower bound (over): USD 7.6 billion (date not reported) ([source](https://menlovc.com/about/), as of not recorded)
 
 ## Portfolio
 
@@ -57,4 +60,5 @@ Research date: 2026-08-26
 - [Source](https://menlovc.com/inception-fund/)
 - [Source](https://menlovc.com/perspective/aurora-developing-therapies-for-the-millions-of-patients-with-rare-diseases)
 - [Source](https://menlovc.com/perspective/menlo-turns-50-and-announces-3b-in-fresh-capital-to-go-all-in-on-ai/)
+- [Source](https://menlovc.com/perspective/q2-2025-update-from-the-anthology-fund/)
 - [Source](https://menlovc.com/portfolio/)

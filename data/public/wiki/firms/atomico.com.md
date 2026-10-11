@@ -1,5 +1,5 @@
 ---
-jev-score: 70
+jev-score: 71
 ---
 
 # Atomico

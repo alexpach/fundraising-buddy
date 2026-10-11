@@ -10,18 +10,18 @@ Domain: brinc.io
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** accelerator ([source](https://www.crunchbase.com/organization/brinc-io), as of 2026-07-28)
-- **Stages:** pre-seed, seed ([source](https://www.crunchbase.com/organization/brinc-io), as of 2026-07-28)
 - **Geographies:** global, apac ([source](https://www.crunchbase.com/organization/brinc-io), as of 2026-07-28)
-- **Sectors:** hardware, iot, food-tech, deep-tech, drones, robotics, clean-energy, blockchain ([source](https://www.crunchbase.com/organization/brinc-io), as of 2026-07-28)
-- **Leads rounds:** unknown ([source](https://brinc.io), as of not recorded)
 - **About:** Brinc is a Hong Kong–headquartered global venture accelerator founded in 2014 (Manav Gupta). Current positioning (2026 site): "Shaping the Future of Private Markets" , corporate/government accelerator programs, investor access to private deals, and founder support ([source](https://www.crunchbase.com/organization/brinc-io), as of 2026-07-28)
+- **Type:** accelerator ([source](https://brinc.io/partners), as of not recorded)
+- **Investment strategies:** private-market co-investment ([source](https://brinc.io/partners), as of not recorded)
+- **Stages:** pre-seed, Series A ([source](https://brinc.io/investors), as of not recorded)
+- **Sectors:** Digitalization, Decentralization, Decarbonization ([source](https://brinc.io/investors), as of not recorded)
 
 ## Portfolio
 
@@ -33,4 +33,7 @@ Not recorded.
 ## Sources
 
 - [Source](https://brinc.io)
+- [Source](https://brinc.io/)
+- [Source](https://brinc.io/investors)
+- [Source](https://brinc.io/partners)
 - [Source](https://www.crunchbase.com/organization/brinc-io)

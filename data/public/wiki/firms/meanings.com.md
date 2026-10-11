@@ -1,5 +1,5 @@
 ---
-jev-score: 32
+jev-score: 35
 ---
 
 # Meanings Capital Partners
@@ -10,17 +10,19 @@ Domain: meanings.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://www.meanings.com), as of 2026-08-07)
-- **Stages:** growth ([source](https://www.meanings.com), as of 2026-08-07)
 - **Geographies:** europe ([source](https://www.meanings.com), as of 2026-08-07)
-- **Sectors:** mid-cap, small-cap, infrastructure, real-estate ([source](https://www.meanings.com), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.meanings.com), as of not recorded)
+- **Type:** private equity; infrastructure investment; real estate investment ([source](https://www.meanings.com/), as of not recorded)
+- **Investment strategies:** growth and transformation investing, mid-cap private equity ([source](https://www.meanings.com/), as of not recorded)
+- **Legal structure:** investment management company ([source](https://www.meanings.com/), as of not recorded)
+- **Investment instruments:** equity ([source](https://www.meanings.com/), as of not recorded)
+- **Stages:** growth ([source](https://www.meanings.com/expertises/mid-cap), as of not recorded)
+- **Sectors:** Private equity, Infrastructure, Real estate ([source](https://www.meanings.com/), as of not recorded)
 
 ## Portfolio
 
@@ -41,3 +43,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.meanings.com)
+- [Source](https://www.meanings.com/)
+- [Source](https://www.meanings.com/expertises/mid-cap)

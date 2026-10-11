@@ -1,5 +1,5 @@
 ---
-jev-score: 66
+jev-score: 69
 ---
 
 # Index Ventures
@@ -10,18 +10,20 @@ Domain: indexventures.com
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-03
 
 ## Public research
 
 - **Founded:** 1996 ([source](https://indexventures.com/team), as of None)
-- **Stages:** seed, venture, growth ([source](https://indexventures.com/perspectives/30-years-in-perfecting-our-craft), as of 2026-07)
 - **Geographies:** global ([source](https://indexventures.com/perspectives/30-years-in-perfecting-our-craft), as of 2026-07)
-- **Sectors:** AI, infrastructure, cybersecurity, fintech, healthcare, productivity, consumer ([source](https://indexventures.com/perspectives/30-years-in-perfecting-our-craft), as of 2026-07)
 - **Offices:** San Francisco, London, New York, Geneva, Jersey ([source](https://www.indexventures.com/contact-us/), as of None)
 - **Latest fund:** New seed ($400M), venture ($900M) and growth ($2.2B) funds announced ([source](https://indexventures.com/perspectives/30-years-in-perfecting-our-craft), as of 2026-07)
 - **Thesis quote:** our job is to find the best people early and stay with them for as long as it takes ([source](https://indexventures.com/perspectives/30-years-in-perfecting-our-craft), as of 2026-07)
-- **Leads rounds:** unknown ([source](https://indexventures.com), as of not recorded)
+- **Type:** venture capital firm ([source](https://www.ogier.com/news-and-insights/deals/ogier-advises-index-ventures-on-three-fund-closings-totalling-us-35-billion/), as of 2026-08-03)
+- **Investment strategies:** early-stage investing, growth investing ([source](https://www.ogier.com/news-and-insights/deals/ogier-advises-index-ventures-on-three-fund-closings-totalling-us-35-billion/), as of 2026-08-03)
+- **Stages:** seed, growth, pre-Series A, early-stage, late-stage, IPO ([source](https://www.indexventures.com/companies/), as of not recorded)
+- **Sectors:** digital and technology ([source](https://www.ogier.com/news-and-insights/deals/ogier-advises-index-ventures-on-three-fund-closings-totalling-us-35-billion/), as of 2026-08-03)
+- **Leads rounds:** yes ([source](https://www.indexventures.com/perspectives/ethonai-series-a/), as of 2024-05-30)
 
 ## Portfolio
 
@@ -48,4 +50,8 @@ Research date: 2026-10-02
 - [Source](https://indexventures.com)
 - [Source](https://indexventures.com/perspectives/30-years-in-perfecting-our-craft)
 - [Source](https://indexventures.com/team)
+- [Source](https://www.indexventures.com/companies/)
 - [Source](https://www.indexventures.com/contact-us/)
+- [Source](https://www.indexventures.com/perspectives/ethonai-series-a/)
+- [Source](https://www.indexventures.com/team)
+- [Source](https://www.ogier.com/news-and-insights/deals/ogier-advises-index-ventures-on-three-fund-closings-totalling-us-35-billion/)

@@ -1,8 +1,8 @@
 ---
-jev-score: 78
+jev-score: 80
 ---
 
-# xdeck
+# XDECK GmbH
 
 [Website](https://xdeck.vc)
 
@@ -10,23 +10,24 @@ Domain: xdeck.vc
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://xdeck.vc/articles/from-accelerator-to-venture-capital-fund-xdecks-transition-to-a-venture-platform-supporting-early-stage-tech-companies), as of None)
 - **HQ:** Cologne, Germany ([source](https://xdeck.vc/imprint/), as of None)
 - **Founded:** 2019 ([source](https://xdeck.vc/articles/from-accelerator-to-venture-capital-fund-xdecks-transition-to-a-venture-platform-supporting-early-stage-tech-companies), as of None)
-- **Stages:** pre-seed, seed ([source](https://xdeck.vc/), as of None)
 - **Geographies:** europe ([source](https://xdeck.vc/), as of None)
-- **Sectors:** B2B tech, process automation, applied big data / AI, sustainability tech ([source](https://xdeck.vc/), as of None)
 - **Check size min:** EUR 200k ([source](https://xdeck.vc/), as of None)
 - **Check size max:** EUR 500k ([source](https://xdeck.vc/), as of None)
 - **Legal name:** XDECK GmbH ([source](https://xdeck.vc/imprint/), as of None)
-- **Leads rounds:** yes ([source](https://xdeck.vc/), as of None)
 - **Thesis quote:** B2B tech, especially automation processes, applied big data & AI and sustainability tech & apps ([source](https://xdeck.vc/), as of None)
 - **Exclusions:** distilled alcoholic beverages and related products, tobacco, casinos and gambling, weapons ([source](https://xdeck.vc/sfdr), as of None)
 - **Coinvestors:** 10x Founders, Atlantic Labs, Capnamic, Sequoia ([source](https://xdeck.vc/articles/from-accelerator-to-venture-capital-fund-xdecks-transition-to-a-venture-platform-supporting-early-stage-tech-companies), as of None)
+- **Type:** venture capital ([source](https://xdeck.vc/articles/from-accelerator-to-venture-capital-fund-xdecks-transition-to-a-venture-platform-supporting-early-stage-tech-companies/), as of 2023-01-26)
+- **Investment strategies:** early-stage ([source](https://xdeck.vc/articles/from-accelerator-to-venture-capital-fund-xdecks-transition-to-a-venture-platform-supporting-early-stage-tech-companies/), as of 2023-01-26)
+- **Stages:** pre-seed, seed ([source](https://xdeck.vc/), as of not recorded)
+- **Sectors:** B2B tech, process automation, applied big data / AI, sustainability tech ([source](https://xdeck.vc/), as of not recorded)
+- **Leads rounds:** yes ([source](https://xdeck.vc/), as of not recorded)
 
 ## Portfolio
 
@@ -51,6 +52,7 @@ Research date: 2026-10-03
 - [Source](https://xdeck.vc/)
 - [Source](https://xdeck.vc/articles/cracking-the-churn-code-why-we-invested-in-venmate)
 - [Source](https://xdeck.vc/articles/from-accelerator-to-venture-capital-fund-xdecks-transition-to-a-venture-platform-supporting-early-stage-tech-companies)
+- [Source](https://xdeck.vc/articles/from-accelerator-to-venture-capital-fund-xdecks-transition-to-a-venture-platform-supporting-early-stage-tech-companies/)
 - [Source](https://xdeck.vc/articles/investing-in-data-centric-ai-kern-ais-unique-approach-to-nlp-models)
 - [Source](https://xdeck.vc/imprint/)
 - [Source](https://xdeck.vc/sfdr)

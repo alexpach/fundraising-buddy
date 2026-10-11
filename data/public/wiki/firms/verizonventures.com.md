@@ -1,5 +1,5 @@
 ---
-jev-score: 6
+jev-score: 5
 ---
 
 # Verizon

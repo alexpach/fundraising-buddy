@@ -1,5 +1,5 @@
 ---
-jev-score: 85
+jev-score: 84
 ---
 
 # Voyager Capital
@@ -10,19 +10,22 @@ Domain: voyagercapital.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
 - **Founded:** 1997 ([source](https://voyagercapital.com/why-voyager), as of 2026-08)
-- **Stages:** seed, series-a ([source](https://betakit.com/voyager-capital-sets-sights-on-western-canada-following-130-million-cad-fund-close/), as of 2019-10)
 - **Geographies:** us ([source](https://voyagercapital.com/why-voyager), as of 2026-08)
-- **Sectors:** AI-driven business solutions, software-driven hardware, sustainable agriculture, supply chain ([source](https://voyagercapital.com/why-voyager), as of 2026-08)
 - **Check size max:** $3,000,000 ([source](https://betakit.com/voyager-capital-sets-sights-on-western-canada-following-130-million-cad-fund-close/), as of 2019-10)
 - **Latest fund:** Fund V, $100 million, closed October 2019 ([source](https://www.geekwire.com/2019/voyager-capital-raises-100m-fifth-fund-doubles-pacific-northwest/), as of 2019-10)
 - **Thesis quote:** Voyager invests in entrepreneurs who have the passion and discipline to unleash ideas, push boundaries and thrive on disruptive changes. ([source](https://voyagercapital.com), as of 2026-08)
 - **Exclusions:** No longer invests in California companies ([source](https://www.geekwire.com/2019/voyager-capital-raises-100m-fifth-fund-doubles-pacific-northwest/), as of 2019-10)
-- **Leads rounds:** unknown ([source](https://voyagercapital.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.voyagercapital.com/why-voyager), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://www.voyagercapital.com/why-voyager), as of not recorded)
+- **Stages:** early-stage ([source](https://www.voyagercapital.com/why-voyager), as of not recorded)
+- **Sectors:** AI-driven business solutions, software-driven hardware, sustainable agriculture, supply chain ([source](https://www.voyagercapital.com/why-voyager), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.voyagercapital.com/latest-news/https-wwwprnewswirecom-news-releases-pay-equity-leader-syndi), as of 2020-05-15)
+- **AUM:** Lower bound (over): USD 565 million (date not reported) ([source](https://www.voyagercapital.com/why-voyager), as of not recorded)
 
 ## Portfolio
 
@@ -68,3 +71,5 @@ Research date: 2026-08-26
 - [Source](https://voyagercapital.com/why-voyager)
 - [Source](https://www.geekwire.com/2019/voyager-capital-raises-100m-fifth-fund-doubles-pacific-northwest/)
 - [Source](https://www.geekwire.com/2023/voyager-capital-targeting-100m-for-its-sixth-fund-to-back-more-b2b-startups-in-the-pacific-northwest/)
+- [Source](https://www.voyagercapital.com/latest-news/https-wwwprnewswirecom-news-releases-pay-equity-leader-syndi)
+- [Source](https://www.voyagercapital.com/why-voyager)

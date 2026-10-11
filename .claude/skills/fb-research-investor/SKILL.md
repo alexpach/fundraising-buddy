@@ -17,7 +17,9 @@ After a public catalog change run `uv run python tools/export_public.py` and `uv
 
 ## Batch dossier pipeline
 
-For firms worth a decision-grade profile (not a quick field lookup), use the citation-gated batch pipeline. It rests on one rule: **a fact may exist only if a verbatim quote supporting it sits in a cached source file**, which turns fabrication into a mechanically detectable error and lets a cheap model do the research while a strict script polices it.
+For audits of existing fund records, use [fb-revalidate-funds](../fb-revalidate-funds/SKILL.md). That workflow supersedes the legacy dossier import below for revalidation. Keep its reports private until independent review; do not feed them to the legacy importer or overwrite them with inferred lead flags.
+
+The legacy dossier pipeline checks that verbatim quotes exist in cached sources. This detects missing or invented quotations, but cannot establish that a quote supports a classification. Independent semantic review must distinguish AUM from capital raised, debt from equity, firm from vehicle, and observed co-leading from investment preferences.
 
 ```
 queue -> [dossier-researcher agent, isolated context] -> workspace/cache/vc/<slug>/dossier.json

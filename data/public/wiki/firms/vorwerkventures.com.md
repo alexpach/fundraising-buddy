@@ -1,5 +1,5 @@
 ---
-jev-score: 84
+jev-score: 91
 ---
 
 # Vorwerk Ventures
@@ -10,21 +10,25 @@ Domain: vorwerkventures.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://vorwerkventures.com), as of 2026-08)
 - **HQ:** Berlin, Germany ([source](https://vorwerkventures.com/imprint), as of 2026-08)
 - **Founded:** 2007 ([source](https://vorwerkventures.com), as of 2026-08)
 - **Geographies:** europe ([source](https://vorwerkventures.com/sfdr), as of 2026-07)
-- **Sectors:** Tech-Enabled Services, Vertical Software, Mittelstand Transformation, Consumer & Prosumer, Health & Food, Business & Energy Efficiency, consumer tech, enabling technologies ([source](https://vorwerkventures.com), as of 2026-08)
 - **Check size min:** €1m ([source](https://vorwerkventures.com), as of 2026-08)
 - **Legal name:** MM Venture Management GmbH ([source](https://vorwerkventures.com/sfdr), as of 2026-07)
 - **Offices:** Berlin, Germany (Charlottenstr. 43, 10117 Berlin) ([source](https://vorwerkventures.com/imprint), as of 2026-08)
 - **Latest fund:** New early-stage fund of €150 million closed, announced August 2022 ([source](https://www.fyb.de/en/vorwerk-ventures-with-new-e-150-million-early-stage-fund/), as of 2022-08)
 - **Thesis quote:** We don’t chase hype. We invest in businesses in established markets with solid fundamentals, genuine customer demand, and a clear exit path. ([source](https://vorwerkventures.com), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://vorwerkventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://vorwerkventures.com/), as of not recorded)
+- **Investment strategies:** early-stage venture capital ([source](https://vorwerkventures.com/), as of not recorded)
+- **Legal structure:** GmbH manager, GmbH & Co. KG fund vehicles ([source](https://vorwerkventures.com/), as of not recorded)
+- **Investment instruments:** equity, equity-related investments ([source](https://vorwerkventures.com/), as of not recorded)
+- **Stages:** (Pre-) Seed, Series A ([source](https://vorwerkventures.com/), as of not recorded)
+- **Sectors:** Tech-Enabled Services, Vertical Software, Mittelstand Transformation ([source](https://vorwerkventures.com/), as of not recorded)
+- **AUM:** EUR 400 million (date not reported) ([source](https://vorwerkventures.com/), as of not recorded)
 
 ## Portfolio
 
@@ -61,6 +65,9 @@ Research date: 2026-08-25
 ## Sources
 
 - [Source](https://vorwerkventures.com)
+- [Source](https://vorwerkventures.com/)
 - [Source](https://vorwerkventures.com/imprint)
+- [Source](https://vorwerkventures.com/imprint/)
 - [Source](https://vorwerkventures.com/sfdr)
+- [Source](https://vorwerkventures.com/sfdr/)
 - [Source](https://www.fyb.de/en/vorwerk-ventures-with-new-e-150-million-early-stage-fund/)

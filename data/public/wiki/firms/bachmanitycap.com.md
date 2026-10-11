@@ -1,5 +1,5 @@
 ---
-jev-score: 13
+jev-score: 21
 ---
 
 # Bachmanity Capital
@@ -10,15 +10,17 @@ Domain: bachmanitycap.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://bachmanitycap.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://bachmanitycap.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://bachmanitycap.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.bachmanitycap.com/), as of not recorded)
+- **Investment strategies:** generalist ([source](https://www.bachmanitycap.com/), as of not recorded)
+- **Legal structure:** limited liability company ([source](https://www.bachmanitycap.com/), as of not recorded)
+- **Stages:** seed, Series A, later stage ([source](https://www.bachmanitycap.com/), as of not recorded)
+- **Sectors:** Deep Tech, Space, B2B, Fintech, AI, Prop Tech, Mental Health, Defense ([source](https://www.bachmanitycap.com/), as of not recorded)
 
 ## Portfolio
 
@@ -30,3 +32,4 @@ Not recorded.
 ## Sources
 
 - [Source](https://bachmanitycap.com)
+- [Source](https://www.bachmanitycap.com/)

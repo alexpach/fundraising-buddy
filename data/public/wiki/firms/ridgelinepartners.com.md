@@ -1,5 +1,5 @@
 ---
-jev-score: 13
+jev-score: 14
 ---
 
 # Ridgeline

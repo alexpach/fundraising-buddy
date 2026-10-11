@@ -1,5 +1,5 @@
 ---
-jev-score: 75
+jev-score: 82
 ---
 
 # Andera Partners
@@ -10,21 +10,24 @@ Domain: anderapartners.com
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** pe ([source](https://www.anderapartners.com/en/), as of None)
 - **HQ:** 2 place Rio de Janeiro, 75008 Paris, France ([source](https://www.anderapartners.com/en/contact/), as of None)
 - **Founded:** 2001 ([source](https://www.anderapartners.com/en/edrip-becomes-andera-partners/), as of 2018-04)
-- **Stages:** growth ([source](https://www.anderapartners.com/en/expertise/), as of None)
 - **Geographies:** europe, us ([source](https://www.anderapartners.com/en/investment-portfolio/), as of None)
-- **Sectors:** Sustainable Energy, Transportation & Logistics, Agribusiness, B2B/B2C services, Building / Construction, Cosmetics, Distribution, Industry, IT services & software, Media, Medical technology, Real estate, Therapeutic products, Tourism ([source](https://www.anderapartners.com/en/investment-portfolio/), as of None)
-- **AUM:** €6 billion ([source](https://www.anderapartners.com/en/investment-portfolio/), as of None)
 - **Offices:** Paris, Munich, Antwerp, Milan, Madrid, Frankfurt ([source](https://www.anderapartners.com/en/contact/), as of None)
 - **Latest fund:** andera Expansion, €430M (announced 08.07.2026) ([source](https://www.anderapartners.com/en/), as of 2026-07)
 - **Thesis quote:** We have an in-depth understanding of the challenges faced by growing companies. As experts in investment and business strategy, we like to see ourselves as sparring partners for entrepreneurs and management teams ([source](https://www.anderapartners.com/en/expertise/), as of None)
-- **Leads rounds:** unknown ([source](https://anderapartners.com), as of not recorded)
+- **Type:** asset management firm ([source](https://www.anderapartners.com/en/), as of not recorded)
+- **Investment strategies:** private equity, life sciences investment ([source](https://www.anderapartners.com/en/), as of not recorded)
+- **Legal structure:** asset manager ([source](https://www.anderapartners.com/en/), as of not recorded)
+- **Investment instruments:** equity ([source](https://www.anderapartners.com/en/), as of not recorded)
+- **Stages:** early-stage, growth/late-stage ([source](https://www.anderapartners.com/en/expertise/life-sciences-biotechnologies/), as of not recorded)
+- **Sectors:** Life sciences ([source](https://www.anderapartners.com/en/expertise/life-sciences-biotechnologies/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.anderapartners.com/en/eg-427-raises-e27-million-in-successful-series-b-co-led-by-andera-partners-and-bpifrance-to-finance-on-going-clinical-study-and-platform-development/), as of 2025-02-20)
+- **AUM:** EUR 5.1 billion (as of 2025-09-30) ([source](https://www.anderapartners.com/en/andera-partners-strengthens-its-position-among-the-leading-players-in-private-equity/), as of 2025-09-30)
 
 ## Portfolio
 
@@ -75,7 +78,10 @@ Research date: 2026-09-20
 
 - [Source](https://anderapartners.com)
 - [Source](https://www.anderapartners.com/en/)
+- [Source](https://www.anderapartners.com/en/andera-partners-strengthens-its-position-among-the-leading-players-in-private-equity/)
 - [Source](https://www.anderapartners.com/en/contact/)
 - [Source](https://www.anderapartners.com/en/edrip-becomes-andera-partners/)
+- [Source](https://www.anderapartners.com/en/eg-427-raises-e27-million-in-successful-series-b-co-led-by-andera-partners-and-bpifrance-to-finance-on-going-clinical-study-and-platform-development/)
 - [Source](https://www.anderapartners.com/en/expertise/)
+- [Source](https://www.anderapartners.com/en/expertise/life-sciences-biotechnologies/)
 - [Source](https://www.anderapartners.com/en/investment-portfolio/)

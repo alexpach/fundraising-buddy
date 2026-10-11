@@ -1,8 +1,8 @@
 ---
-jev-score: 13
+jev-score: 30
 ---
 
-# Piedmont Capital
+# Piedmont Capital Investments
 
 [Website](https://piedmontinvest.com)
 
@@ -10,15 +10,16 @@ Domain: piedmontinvest.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://piedmontinvest.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://piedmontinvest.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://piedmontinvest.com), as of not recorded)
+- **Type:** venture capital ([source](https://piedmontinvest.com/), as of not recorded)
+- **Investment strategies:** venture investing in American resilience through energy, manufacturing, and defense innovation ([source](https://piedmontinvest.com/), as of not recorded)
+- **Stages:** seed, growth ([source](https://piedmontinvest.com/about-us), as of not recorded)
+- **Sectors:** energy, manufacturing, defense ([source](https://piedmontinvest.com/), as of not recorded)
 
 ## Portfolio
 
@@ -30,3 +31,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://piedmontinvest.com)
+- [Source](https://piedmontinvest.com/)
+- [Source](https://piedmontinvest.com/about-us)

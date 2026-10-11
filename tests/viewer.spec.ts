@@ -28,8 +28,11 @@ test('directory, filters, navigation, export, and private wiki', async ({ page }
   await page.getByRole('link',{name:'Back to funds'}).click();
   await page.getByRole('button',{name:'Fund',exact:true}).click();
   await expect(page.getByRole('columnheader',{name:'Fund',exact:true})).toHaveAttribute('aria-sort','descending');
+  await expect(page.locator('.topbar').getByRole('button',{name:'Export domains'})).toHaveCount(0);
+  await page.getByRole('link',{name:'Domains',exact:true}).click();
+  await expect(page.getByRole('heading',{name:'Domains',exact:true})).toBeVisible();
   const download=page.waitForEvent('download');
-  await page.getByRole('button',{name:'Export domains'}).click();
+  await page.getByRole('button',{name:'Export filtered list'}).click();
   expect((await download).suggestedFilename()).toBe('investor-domains.txt');
   await page.getByRole('link',{name:'People',exact:true}).click();
   await expect(page.getByRole('heading',{name:'People',exact:true})).toBeVisible();
@@ -298,4 +301,36 @@ test('old default grouping is cleared but explicit grouping persists', async ({ 
   await expect(page.locator('.fund-group')).not.toHaveCount(0);
   await page.reload();
   await expect(page.locator('.fund-group')).not.toHaveCount(0);
+});
+
+test('domains combine sources, filter, sort, link out, and export every match',async({page})=>{
+  await page.route('**/api/catalog',async route=>{
+    const response=await route.fetch(),data=await response.json();
+    data.firms=Array.from({length:120},(_,i)=>({id:'domain-'+i,name:'Fund '+i,domain:'fund'+String(i).padStart(3,'0')+'.vc',website:'',record_level:i%2?'directory':'sourced',fields:{sectors:['robotics']},sources:[],portfolio:[]}));
+    data.private_firms=[{id:'private-fund',name:'Private fund',domain:'private.vc',status:'target'},{id:'domain-0',name:'Fund 0',domain:'fund000.vc',status:'engaged'}];
+    data.extra_domains=['alias.vc','fund000.vc'];await route.fulfill({json:data});
+  });
+  await page.goto('/#domains');
+  await expect(page.getByRole('heading',{name:'Domains',exact:true})).toBeVisible();
+  await expect(page.locator('.domains-controls [role=status]')).toHaveText('122 of 122 domains');
+  await expect(page.locator('.topbar').getByRole('button',{name:'Export domains'})).toHaveCount(0);
+  await page.getByLabel('Source',{exact:true}).selectOption('Catalog');
+  await page.getByLabel('Research',{exact:true}).selectOption('Sourced');
+  await expect(page.locator('.domains-controls [role=status]')).toHaveText('60 of 122 domains');
+  await page.getByRole('button',{name:'Domain',exact:true}).click();
+  await expect(page.locator('.domain-link').first()).toHaveText('fund118.vc');
+  await expect(page.locator('.domain-link').first()).toHaveAttribute('href','https://fund118.vc');
+  await expect(page.locator('.domain-link').first()).toHaveAttribute('target','_blank');
+  const downloaded=page.waitForEvent('download');await page.getByRole('button',{name:'Export filtered list'}).click();
+  const stream=await (await downloaded).createReadStream();let text='';for await(const chunk of stream!)text+=chunk.toString();
+  expect(text.trim().split('\n')).toEqual(Array.from({length:60},(_,i)=>'fund'+String(118-i*2).padStart(3,'0')+'.vc'));
+  await page.getByRole('button',{name:'Clear filters',exact:true}).click();
+  await page.getByLabel('Source',{exact:true}).selectOption('Configured alias');
+  await expect(page.locator('.domains-controls [role=status]')).toHaveText('2 of 122 domains');
+  await page.getByRole('searchbox',{name:'Search domains'}).fill('alias');
+  await expect(page.locator('.domain-link')).toHaveCount(1);
+  await page.reload();await expect(page.locator('.domain-link')).toHaveText('alias.vc');
+  await page.setViewportSize({width:390,height:844});
+  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+  await page.screenshot({path:'tmp/domains-mobile.png',fullPage:true});
 });

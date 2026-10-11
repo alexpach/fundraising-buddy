@@ -1,5 +1,5 @@
 ---
-jev-score: 77
+jev-score: 80
 ---
 
 # Time BioVentures
@@ -10,20 +10,21 @@ Domain: timebioventures.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://timebioventures.com), as of None)
 - **HQ:** Southern California ([source](https://timebioventures.com), as of None)
-- **Stages:** early-stage ([source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html), as of 2022-10)
 - **Geographies:** us ([source](https://timebioventures.com), as of None)
-- **Sectors:** therapeutics, diagnostics, research tools, devices, care delivery ([source](https://www.timebioventures.com/portfolio), as of None)
 - **Latest fund:** Time BioVentures I, LP closed October 2022 at $100 million AUM ([source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html), as of 2022-10)
 - **Thesis quote:** We finance brilliant entrepreneurs with game-changing technologies to give patients more of life's most valuable asset: time. ([source](https://timebioventures.com), as of None)
 - **LPs:** Chris Sacca, Ron Burkle, Wildcat Partner Holdings ([source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html), as of 2022-10)
 - **Coinvestors:** Adams Street Partners, Hummingbird Ventures, Baillie Gifford, Neotribe Ventures, Norwest Venture Partners ([source](https://timebioventures.com), as of None)
-- **Leads rounds:** maybe ([source](https://timebioventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html), as of 2022-10)
+- **Investment strategies:** early-stage life sciences investing ([source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html), as of 2022-10)
+- **Stages:** early-stage ([source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html), as of 2022-10)
+- **Sectors:** Therapeutics, Diagnostics, Research Tools, Devices, Care Delivery ([source](https://www.timebioventures.com/healthcare-startups), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.timebioventures.com/), as of not recorded)
 
 ## Portfolio
 
@@ -45,5 +46,7 @@ Research date: 2026-10-03
 
 - [Source](https://timebioventures.com)
 - [Source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html)
+- [Source](https://www.timebioventures.com/)
 - [Source](https://www.timebioventures.com/healthcare-investment-news/time-bioventures-completes-its-first-investment-with-a-1m-convertible-note-in-iterative-scopes)
+- [Source](https://www.timebioventures.com/healthcare-startups)
 - [Source](https://www.timebioventures.com/portfolio)

@@ -1,5 +1,5 @@
 ---
-jev-score: 33
+jev-score: 51
 ---
 
 # Cervin Ventures
@@ -10,17 +10,17 @@ Domain: cervinventures.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.cervinventures.com), as of 2026-08-07)
-- **Stages:** seed, series-a, series-b ([source](https://www.cervinventures.com), as of 2026-08-07)
 - **Geographies:** us ([source](https://www.cervinventures.com), as of 2026-08-07)
-- **Sectors:** enterprise-software, security, infrastructure ([source](https://www.cervinventures.com), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.cervinventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.cervinventures.com/news/loophole-labs-investing-in-the-future-of-infrastructure), as of 2026-09-24)
+- **Stages:** Seed ([source](https://www.cervinventures.com/news/loophole-labs-investing-in-the-future-of-infrastructure), as of 2026-09-24)
+- **Sectors:** Enterprise software, Data infrastructure, Networking, Artificial intelligence ([source](https://www.cervinventures.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.cervinventures.com/news/loophole-labs-investing-in-the-future-of-infrastructure), as of 2026-09-24)
 
 ## Portfolio
 
@@ -38,3 +38,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.cervinventures.com)
+- [Source](https://www.cervinventures.com/)
+- [Source](https://www.cervinventures.com/news/loophole-labs-investing-in-the-future-of-infrastructure)

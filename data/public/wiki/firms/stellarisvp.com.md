@@ -1,5 +1,5 @@
 ---
-jev-score: 79
+jev-score: 81
 ---
 
 # Stellaris Venture Partners
@@ -10,17 +10,20 @@ Domain: stellarisvp.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](http://stellarisvp.com/investor-relations), as of None)
 - **HQ:** Bangalore, India ([source](http://stellarisvp.com/investor-relations), as of None)
 - **Geographies:** apac ([source](https://stellarisvp.com/blog/stellaris-closes-300m-fund-announces-new-partner), as of 2024-11)
-- **Sectors:** technology, technology enabled sectors, consumer tech, AI, SaaS, financial services ([source](https://stellarisvp.com/blog/stellaris-closes-300m-fund-announces-new-partner), as of 2024-11)
-- **Leads rounds:** yes ([source](https://www.stellarisvp.com/approach), as of None)
 - **Latest fund:** Third fund of $300 million ([source](https://stellarisvp.com/blog/stellaris-closes-300m-fund-announces-new-partner), as of 2024-11)
 - **Thesis quote:** We will continue to back companies in technology and technology enabled sectors, partnering with them early in their journey. ([source](https://stellarisvp.com/blog/stellaris-closes-300m-fund-announces-new-partner), as of 2024-11)
+- **Type:** venture capital ([source](https://www.stellarisvp.com/approach), as of 2024)
+- **Investment strategies:** early-stage venture capital ([source](https://www.stellarisvp.com/approach), as of 2024)
+- **Stages:** idea, seed, series A ([source](https://www.stellarisvp.com/portfolio), as of not recorded)
+- **Sectors:** AI, Software, Consumer tech, Healthcare, Sustainability, Fintech, Brands ([source](https://www.stellarisvp.com/portfolio), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.stellarisvp.com/approach), as of 2024)
+- **AUM:** Lower bound (over): USD 600 million (as of 2024) ([source](https://www.stellarisvp.com/approach), as of 2024)
 
 ## Portfolio
 
@@ -57,4 +60,6 @@ Research date: 2026-10-03
 - [Source](https://stellarisvp.com)
 - [Source](https://stellarisvp.com/blog/stellaris-closes-300m-fund-announces-new-partner)
 - [Source](https://stellarisvp.com/portfolio)
+- [Source](https://www.stellarisvp.com/)
 - [Source](https://www.stellarisvp.com/approach)
+- [Source](https://www.stellarisvp.com/portfolio)

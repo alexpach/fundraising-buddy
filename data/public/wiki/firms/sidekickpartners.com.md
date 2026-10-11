@@ -1,5 +1,5 @@
 ---
-jev-score: 48
+jev-score: 47
 ---
 
 # Sidekick Partners
@@ -10,18 +10,18 @@ Domain: sidekickpartners.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/sidekick-fund), as of 2026-08-06)
-- **Stages:** seed, series-a ([source](https://www.crunchbase.com/organization/sidekick-fund), as of 2026-08-06)
 - **Geographies:** us ([source](https://www.crunchbase.com/organization/sidekick-fund), as of 2026-08-06)
-- **Sectors:** consumer, fintech, healthcare ([source](https://www.crunchbase.com/organization/sidekick-fund), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://www.sidekickpartners.com), as of not recorded)
 - **About:** Sidekick Partners is a US venture firm (community based across New York, Texas, and California) founded in 2013, structured as a network of successful entrepreneurs, private-equity partners, and corporate executives who invest alongside operational and strategic support (a "value-add" model) rather than pure capital. Its portfolio spans consumer, fintech, and healthcare, and it has been a long-tim ([source](https://www.crunchbase.com/organization/sidekick-fund), as of 2026-08-06)
+- **Type:** venture capital ([source](https://www.sidekickpartners.com/pages/process), as of not recorded)
+- **Investment strategies:** venture capital, private equity discipline ([source](https://www.sidekickpartners.com/pages/process), as of not recorded)
+- **Stages:** seed, series A, series B ([source](https://www.sidekickpartners.com/pages/portfolio), as of not recorded)
+- **Sectors:** Consumer, Fintech, Healthcare ([source](https://www.sidekickpartners.com/pages/portfolio), as of not recorded)
 
 ## Portfolio
 
@@ -40,3 +40,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 - [Source](https://www.crunchbase.com/organization/sidekick-fund)
 - [Source](https://www.sidekickpartners.com)
+- [Source](https://www.sidekickpartners.com/)
+- [Source](https://www.sidekickpartners.com/pages/portfolio)
+- [Source](https://www.sidekickpartners.com/pages/process)

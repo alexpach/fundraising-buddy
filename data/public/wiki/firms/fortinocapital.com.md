@@ -1,5 +1,5 @@
 ---
-jev-score: 67
+jev-score: 66
 ---
 
 # Fortino Capital

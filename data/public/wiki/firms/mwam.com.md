@@ -1,5 +1,5 @@
 ---
-jev-score: 17
+jev-score: 19
 ---
 
 # Marshall Wace
@@ -10,15 +10,16 @@ Domain: mwam.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
 - **Geographies:** global ([source](https://www.mwam.com), as of 2026-08-06)
-- **AUM:** 82B ([source](https://www.mwam.com), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://www.mwam.com), as of not recorded)
+- **Type:** alternative investment manager; hedge fund manager ([source](https://www.mwam.com/about-us/), as of not recorded)
+- **Investment strategies:** quantitative, systematic, fundamental, long/short equity ([source](https://www.mwam.com/about-us/), as of not recorded)
+- **Investment instruments:** equity ([source](https://www.mwam.com/about-us/), as of not recorded)
 
 ## Portfolio
 
@@ -32,3 +33,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.mwam.com)
+- [Source](https://www.mwam.com/about-us/)
+- [Source](https://www.mwam.com/regulatory-disclosures/)

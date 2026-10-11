@@ -1,5 +1,5 @@
 ---
-jev-score: 59
+jev-score: 58
 ---
 
 # Wakestream Ventures
@@ -10,17 +10,17 @@ Domain: wakestreamventures.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://michiganvca.org/investor/wakestream-ventures/), as of None)
-- **Stages:** early stage ([source](https://www.wakestreamventures.com/), as of None)
-- **Sectors:** generalist, physical products converging with the internet ([source](https://michiganvca.org/investor/wakestream-ventures/), as of None)
 - **Check size min:** $150K ([source](https://www.wakestreamventures.com/), as of None)
 - **Check size max:** $500K initial; up to $1.5M cumulative with follow-ons ([source](https://www.wakestreamventures.com/), as of None)
-- **Leads rounds:** maybe ([source](https://www.wakestreamventures.com/news/2018/5/7/real-estate-and-fintech-solution-certifid-raises-17m-in-seed-round-financing), as of 2018-05)
 - **Thesis quote:** Wakestream backs fascinating founders working where physical products converge with the internet. ([source](https://michiganvca.org/investor/wakestream-ventures/), as of None)
+- **Type:** venture capital ([source](https://www.wakestreamventures.com/), as of not recorded)
+- **Investment strategies:** early stage generalist ([source](https://www.wakestreamventures.com/), as of not recorded)
+- **Stages:** early stage ([source](https://www.wakestreamventures.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.wakestreamventures.com/news/2018/5/7/real-estate-and-fintech-solution-certifid-raises-17m-in-seed-round-financing), as of 2018-05)
 
 ## Portfolio
 
@@ -50,3 +50,4 @@ Research date: 2026-10-03
 - [Source](https://www.wakestreamventures.com/news)
 - [Source](https://www.wakestreamventures.com/news/2018/5/24/portfolio-co-urbaneer-urbaneer-provides-downtown-living-space-solutions)
 - [Source](https://www.wakestreamventures.com/news/2018/5/7/real-estate-and-fintech-solution-certifid-raises-17m-in-seed-round-financing)
+- [Source](https://www.wakestreamventures.com/rick-devos)

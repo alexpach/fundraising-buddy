@@ -1,5 +1,5 @@
 ---
-jev-score: 83
+jev-score: 85
 ---
 
 # Mosaic Ventures
@@ -10,21 +10,22 @@ Domain: mosaicventures.com
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.mosaicventures.com/), as of None)
 - **Founded:** 2014 ([source](https://www.eu-startups.com/2018/10/venture-capital-firm-mosaic-ventures-closes-new-150-million-fund-to-invest-in-europes-best-founders/), as of 2018-10)
-- **Stages:** seed, series-a ([source](https://www.mosaicventures.com/), as of None)
 - **Geographies:** europe ([source](https://www.mosaicventures.com/), as of None)
-- **Sectors:** AI applications ([source](https://www.mosaicventures.com/), as of None)
 - **Check size min:** $1M ([source](https://www.mosaicventures.com/), as of None)
 - **Check size max:** $10M ([source](https://www.mosaicventures.com/), as of None)
 - **Latest fund:** Mosaic II, $150m, announced 2018-10-08 ([source](https://www.cityam.com/london-vc-firm-mosaic-ventures-closes-150m-second-fund/), as of 2018-10)
 - **Thesis quote:** We back outlier founders and management teams with unique insight, building in the AI application layer. ([source](https://www.mosaicventures.com/), as of None)
 - **Exclusions:** only invest in early-stage AI applications ([source](https://www.mosaicventures.com/our-story), as of None)
-- **Leads rounds:** unknown ([source](https://mosaicventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.mosaicventures.com/home), as of not recorded)
+- **Investment strategies:** early-stage AI application investing ([source](https://www.mosaicventures.com/home), as of not recorded)
+- **Stages:** Seed, Series A ([source](https://www.mosaicventures.com/home), as of not recorded)
+- **Sectors:** AI applications ([source](https://www.mosaicventures.com/home), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.mosaicventures.com/home), as of not recorded)
 
 ## Portfolio
 
@@ -59,5 +60,7 @@ Research date: 2026-10-03
 - [Source](https://www.cityam.com/london-vc-firm-mosaic-ventures-closes-150m-second-fund/)
 - [Source](https://www.eu-startups.com/2018/10/venture-capital-firm-mosaic-ventures-closes-new-150-million-fund-to-invest-in-europes-best-founders/)
 - [Source](https://www.mosaicventures.com/)
+- [Source](https://www.mosaicventures.com/blog/our-investment-in-tray-io)
+- [Source](https://www.mosaicventures.com/home)
 - [Source](https://www.mosaicventures.com/our-story)
 - [Source](https://www.mosaicventures.com/portfolio)

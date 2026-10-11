@@ -1,5 +1,5 @@
 ---
-jev-score: 48
+jev-score: 52
 ---
 
 # JAZZ Venture Partners
@@ -10,13 +10,14 @@ Domain: jazzvp.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Sectors:** enterprise, wellness, healthcare, consumer ([source](https://jazzvp.com/), as of 2026-08)
 - **Thesis quote:** JAZZ seeks breakthroughs at the convergence of technology, science, and humanity, improving how we live, work, and experience the world. ([source](https://jazzvp.com/), as of 2026-08)
-- **Leads rounds:** maybe ([source](https://jazzvp.com), as of not recorded)
+- **Type:** venture capital ([source](https://woebothealth.com/woebot-health-closes-90-million-series-b-funding/), as of 2021-07-21)
+- **Sectors:** health, mind-body wellness, accelerated learning and training, sports, entertainment, enterprise ([source](https://woebothealth.com/woebot-health-closes-90-million-series-b-funding/), as of 2021-07-21)
+- **Leads rounds:** yes ([source](https://woebothealth.com/woebot-health-closes-90-million-series-b-funding/), as of 2021-07-21)
 
 ## Portfolio
 
@@ -49,3 +50,4 @@ Research date: 2026-08-26
 - [Source](https://jazzvp.com)
 - [Source](https://jazzvp.com/)
 - [Source](https://woebothealth.com/woebot-health-closes-90-million-series-b-funding)
+- [Source](https://woebothealth.com/woebot-health-closes-90-million-series-b-funding/)

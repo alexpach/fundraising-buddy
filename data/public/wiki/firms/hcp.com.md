@@ -1,5 +1,5 @@
 ---
-jev-score: 36
+jev-score: 54
 ---
 
 # Highland Capital Partners
@@ -10,13 +10,15 @@ Domain: hcp.com
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://linkedin.com/company/highland-capital-partners), as of None)
-- **Sectors:** consumer technology, enterprise technology ([source](https://linkedin.com/company/highland-capital-partners), as of None)
-- **Leads rounds:** unknown ([source](https://hcp.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.prnewswire.com/news-releases/highland-capital-partners-establishes-25-million-leap-fund-fuels-businesses-based-on-leap-motion-technology-212392611.html), as of 2013-06)
+- **Stages:** Series A, early stage, growth stage ([source](https://www.prnewswire.com/news-releases/highland-capital-partners-establishes-25-million-leap-fund-fuels-businesses-based-on-leap-motion-technology-212392611.html), as of 2013-06)
+- **Sectors:** consumer technology, enterprise technology ([source](https://www.prnewswire.com/news-releases/highland-capital-partners-establishes-25-million-leap-fund-fuels-businesses-based-on-leap-motion-technology-212392611.html), as of 2013-06)
+- **Leads rounds:** yes ([source](https://www.prnewswire.com/news-releases/highland-capital-partners-establishes-25-million-leap-fund-fuels-businesses-based-on-leap-motion-technology-212392611.html), as of 2013-06)
+- **AUM:** USD 7 billion (date not reported) ([source](https://www.hcp.com/), as of not recorded)
 
 ## Portfolio
 
@@ -39,4 +41,7 @@ Research date: 2026-10-02
 - [Source](https://hcp.com/)
 - [Source](https://linkedin.com/company/highland-capital-partners)
 - [Source](https://techcrunch.com/2013/02/12/virtual-storage-performance-company-infinio-raises-10m-from-highland-capital-and-bessemer-venture-partners/)
+- [Source](https://www.hcp.com/)
+- [Source](https://www.prnewswire.com/news-releases/highland-capital-partners-announces-new-partners-in-massachusetts--california-231724371.html)
+- [Source](https://www.prnewswire.com/news-releases/highland-capital-partners-establishes-25-million-leap-fund-fuels-businesses-based-on-leap-motion-technology-212392611.html)
 - [Source](https://www.prnewswire.com/news-releases/nutonomy-completes-16m-series-a-funding-to-accelerate-delivery-of-self-driving-car-software-300273796.html)

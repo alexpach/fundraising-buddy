@@ -1,5 +1,5 @@
 ---
-jev-score: 52
+jev-score: 48
 ---
 
 # Parcel B
@@ -10,19 +10,19 @@ Domain: parcelb.vc
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/parcel-b), as of 2026-05-29)
-- **Stages:** seed, series-a ([source](https://www.crunchbase.com/organization/parcel-b), as of 2026-05-29)
 - **Geographies:** us ([source](https://www.crunchbase.com/organization/parcel-b), as of 2026-05-29)
-- **Sectors:** hardware, robotics, frontier-tech, engineering ([source](https://www.crunchbase.com/organization/parcel-b), as of 2026-05-29)
 - **Check size min:** 100K ([source](https://www.crunchbase.com/organization/parcel-b), as of 2026-05-29)
 - **Check size max:** 1M ([source](https://www.crunchbase.com/organization/parcel-b), as of 2026-05-29)
-- **Leads rounds:** unknown ([source](https://parcelb.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.olin.edu/articles/story-qa-lee-edwards-07-general-partner-root-ventures), as of 2023-03-29)
+- **Investment strategies:** early stage ([source](https://www.olin.edu/articles/story-qa-lee-edwards-07-general-partner-root-ventures), as of 2023-03-29)
+- **Legal structure:** investment collective, formalized fund ([source](https://www.olin.edu/articles/story-qa-lee-edwards-07-general-partner-root-ventures), as of 2023-03-29)
+- **Stages:** early stage, seed ([source](https://parcelb.vc/), as of not recorded)
 
 ## Portfolio
 
@@ -38,4 +38,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://parcelb.vc)
+- [Source](https://parcelb.vc/)
 - [Source](https://www.crunchbase.com/organization/parcel-b)
+- [Source](https://www.olin.edu/articles/story-qa-lee-edwards-07-general-partner-root-ventures)

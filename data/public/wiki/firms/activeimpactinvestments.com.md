@@ -1,5 +1,5 @@
 ---
-jev-score: 12
+jev-score: 21
 ---
 
 # Active Impact Investments
@@ -10,15 +10,16 @@ Domain: activeimpactinvestments.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://activeimpactinvestments.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://activeimpactinvestments.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://activeimpactinvestments.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.activeimpactinvestments.com/thesis), as of not recorded)
+- **Investment strategies:** climate technology ([source](https://www.activeimpactinvestments.com/thesis), as of not recorded)
+- **Stages:** early-stage, seed ([source](https://www.activeimpactinvestments.com/), as of not recorded)
+- **Sectors:** Clean energy & transportation, Infrastructure & carbon solutions, Sustainable food & water, Circular & sharing economy ([source](https://www.activeimpactinvestments.com/thesis), as of not recorded)
 
 ## Portfolio
 
@@ -30,3 +31,5 @@ Not recorded.
 ## Sources
 
 - [Source](https://activeimpactinvestments.com)
+- [Source](https://www.activeimpactinvestments.com/)
+- [Source](https://www.activeimpactinvestments.com/thesis)

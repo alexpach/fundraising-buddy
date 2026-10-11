@@ -1,5 +1,5 @@
 ---
-jev-score: 41
+jev-score: 42
 ---
 
 # Actyus
@@ -10,18 +10,16 @@ Domain: actyus.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://actyus.com/en/), as of 2026-08-07)
-- **Stages:** seed, growth ([source](https://actyus.com/en/), as of 2026-08-07)
 - **Geographies:** europe, spain, latam ([source](https://actyus.com/en/), as of 2026-08-07)
-- **Sectors:** fintech, venture-debt, private-equity, real-estate, sports-and-entertainment ([source](https://actyus.com/en/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://actyus.com/en/), as of not recorded)
 - **About:** Actyus is a Barcelona/Andorra-based alternative-investment manager (part of the Andbank group, a private-banking/asset-management group operating in Spain, Brazil, Mexico, the US and others) running strategies across venture debt, fintech, private equity, real estate, secondaries and sports/entertainment. Not a pure venture fund , it is closer to a multi-strategy investment house that occasionally ([source](https://actyus.com/en/), as of 2026-08-07)
+- **Type:** alternative investment manager ([source](https://actyus.com/en/), as of not recorded)
+- **Investment strategies:** venture debt ([source](https://actyus.com/en/), as of not recorded)
 
 ## Portfolio
 
@@ -40,3 +38,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://actyus.com/en/)
+- [Source](https://actyus.com/en/bcas-recibe-17-millones-de-euros-de-myinvestor-actyus-y-el-fei-para-pagar-a-los-centros-de-formacion/)

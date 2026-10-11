@@ -1,8 +1,8 @@
 ---
-jev-score: 68
+jev-score: 71
 ---
 
-# Technology Crossover Ventures (TCV)
+# TCV
 
 [Website](https://tcv.com)
 
@@ -10,19 +10,22 @@ Domain: tcv.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
 - **HQ:** Menlo Park, California ([source](https://www.tcv.com/approach), as of 2026-08)
 - **Founded:** 1995 ([source](https://tcv.com/team/jay-hoag), as of 2026-08)
 - **Geographies:** global ([source](https://www.tcv.com/approach), as of 2026-08)
-- **AUM:** $23B ([source](https://www.tcv.com/approach), as of 2026-08)
 - **Check size min:** $10M ([source](https://www.tcv.com/approach), as of 2026-08)
 - **Check size max:** $500M ([source](https://www.tcv.com/approach), as of 2026-08)
 - **Legal name:** Technology Crossover Ventures ([source](https://tcv.com/2014), as of 2014-12)
 - **Offices:** Menlo Park, New York, London ([source](https://www.tcv.com/approach), as of 2026-08)
-- **Leads rounds:** maybe ([source](https://tcv.com/2014), as of 2014-12)
+- **Type:** growth equity investor ([source](https://www.tcv.com/approach), as of 2026-06-30)
+- **Investment strategies:** growth equity ([source](https://www.tcv.com/approach), as of 2026-06-30)
+- **Investment instruments:** equity ([source](https://www.tcv.com/approach), as of 2026-06-30)
+- **Leads rounds:** yes ([source](https://www.tcv.com/news/allica-full-suite-sme-banking-that-customers-love), as of 2022-12-05)
+- **AUM:** USD 23 billion (as of 2026-06-30) ([source](https://www.tcv.com/approach), as of 2026-06-30)
 
 ## Portfolio
 
@@ -52,3 +55,5 @@ Research date: 2026-08-26
 - [Source](https://tcv.com/team/jay-hoag)
 - [Source](https://www.tcv.com/)
 - [Source](https://www.tcv.com/approach)
+- [Source](https://www.tcv.com/news/allica-full-suite-sme-banking-that-customers-love)
+- [Source](https://www.tcv.com/team/jay-hoag)

@@ -1,5 +1,5 @@
 ---
-jev-score: 42
+jev-score: 57
 ---
 
 # Jump Capital
@@ -10,18 +10,19 @@ Domain: jumpcap.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://jumpcap.com), as of 2026-08-07)
-- **Stages:** seed, series-a, series-b ([source](https://jumpcap.com), as of 2026-08-07)
 - **Geographies:** us ([source](https://jumpcap.com), as of 2026-08-07)
-- **Sectors:** fintech, saas, ai, crypto, data-infrastructure ([source](https://jumpcap.com), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://jumpcap.com), as of not recorded)
 - **About:** Jump Capital is a Chicago-based early-stage venture firm affiliated with the Jump Trading ecosystem. It invests across fintech, B2B SaaS, IT and data infrastructure, AI and , via a dedicated team , the crypto/blockchain stack ([source](https://jumpcap.com), as of 2026-08-07)
+- **Type:** venture capital ([source](https://jumpcap.com/), as of not recorded)
+- **Investment strategies:** early-stage venture investing ([source](https://jumpcap.com/), as of not recorded)
+- **Stages:** early stage ([source](https://jumpcap.com/), as of not recorded)
+- **Sectors:** AI vertical applications, Cybersecurity, AI infrastructure ([source](https://jumpcap.com/insights/jump-capital-fund-8-three-shifts-shaping-ai/), as of 2026-07)
+- **Leads rounds:** yes ([source](https://jumpcap.com/insights/acretrader-why-we-invested/), as of not recorded)
 
 ## Portfolio
 
@@ -41,3 +42,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://jumpcap.com)
+- [Source](https://jumpcap.com/)
+- [Source](https://jumpcap.com/insights/acretrader-why-we-invested/)
+- [Source](https://jumpcap.com/insights/jump-capital-fund-8-three-shifts-shaping-ai/)

@@ -1,5 +1,5 @@
 ---
-jev-score: 42
+jev-score: 51
 ---
 
 # Mission BioCapital
@@ -10,18 +10,18 @@ Domain: missionbiocapital.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.missionbiocapital.com/), as of 2026-08-07)
-- **Stages:** pre-seed, seed ([source](https://www.missionbiocapital.com/), as of 2026-08-07)
 - **Geographies:** us, global ([source](https://www.missionbiocapital.com/), as of 2026-08-07)
-- **Sectors:** biotech, life-sciences ([source](https://www.missionbiocapital.com/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.missionbiocapital.com/), as of not recorded)
 - **About:** Mission BioCapital (founded 2009, US) makes pivotal early-stage investments in life-science companies and runs shared lab space (mbcbiolabs, plus ties to LabCentral / BioLabs) to incubate them. Now investing out of its fifth fund ([source](https://www.missionbiocapital.com/), as of 2026-08-07)
+- **Type:** venture capital ([source](https://www.missionbiocapital.com/mission-biocapital-launches-platinum-program-to-help-life-sciences-entrepreneurs/), as of 2021-11-04)
+- **Investment strategies:** early-stage life science investment, company creation ([source](https://www.missionbiocapital.com/mission-biocapital-launches-platinum-program-to-help-life-sciences-entrepreneurs/), as of 2021-11-04)
+- **Stages:** pre-seed, seed, early-stage ([source](https://www.missionbiocapital.com/mission-biocapital-announces-first-winners-of-platinum-program-and-inaugural-service-sponsors/), as of 2024-10-30)
+- **Sectors:** life sciences, therapeutics, diagnostics, medical devices, laboratory tools, drug delivery ([source](https://www.missionbiocapital.com/mission-biocapital-launches-platinum-program-to-help-life-sciences-entrepreneurs/), as of 2021-11-04)
 
 ## Portfolio
 
@@ -35,3 +35,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.missionbiocapital.com/)
+- [Source](https://www.missionbiocapital.com/mission-biocapital-announces-first-winners-of-platinum-program-and-inaugural-service-sponsors/)
+- [Source](https://www.missionbiocapital.com/mission-biocapital-launches-platinum-program-to-help-life-sciences-entrepreneurs/)

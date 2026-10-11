@@ -1,5 +1,5 @@
 ---
-jev-score: 90
+jev-score: 91
 ---
 
 # Davidovs Venture Collective
@@ -10,21 +10,21 @@ Domain: dvc.ai
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://dvc.ai/), as of 2026-08)
 - **HQ:** San Francisco, United States ([source](https://aicurator.io/dvc-funding/), as of 2025-10)
 - **Founded:** 2021 ([source](https://pathfounders.com/p/dvc-davidovs-venture-collective-vc-raise-75m-ai-agents), as of 2025-10)
-- **Stages:** pre-seed, seed, series-a, series-b ([source](https://dvc.ai/), as of 2026-08)
 - **Geographies:** us ([source](https://aicurator.io/dvc-funding/), as of 2025-10)
-- **Sectors:** ai ([source](https://dvc.ai/), as of 2026-08)
 - **Check size min:** $100K ([source](https://dvc.ai/), as of 2026-08)
 - **Latest fund:** DVC AI Fund I, $75M, first close, deployed into 5 companies as of the reporting date ([source](https://aicurator.io/dvc-funding/), as of 2025-10)
 - **Thesis quote:** We invest in AI startups led by repeat or experienced founders on pre-seed and seed stages. ([source](https://dvc.ai/), as of 2026-08)
 - **LPs:** 61 LPs in DVC AI Fund I (5 institutional, remainder founders/angels), including Mike Arrington (Arrington Capital), Denis Yarats (Perplexity), Andrew Filev (Wrike) and Oleg Shchegolev (Semrush); broader network draws founder-LPs from OpenAI, Google, Meta, Tesla and SpaceX. ([source](https://murphcapital.substack.com/p/emerging-manager-q-and-a-nick-davidov), as of 2025-12)
-- **Leads rounds:** unknown ([source](https://dvc.ai), as of not recorded)
+- **Type:** venture capital ([source](https://dvc.ai/), as of not recorded)
+- **Investment strategies:** early-stage AI venture capital, seed follow-on investing ([source](https://dvc.ai/), as of not recorded)
+- **Stages:** pre-seed, seed, series A, series B ([source](https://dvc.ai/), as of not recorded)
+- **Sectors:** AI ([source](https://dvc.ai/), as of not recorded)
 
 ## Portfolio
 

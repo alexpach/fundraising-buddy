@@ -1,5 +1,5 @@
 ---
-jev-score: 83
+jev-score: 87
 ---
 
 # SmartGateVC
@@ -10,18 +10,20 @@ Domain: smartgate.vc
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.smartgate.vc/post/tim-draper-invests-in-smartgatevc), as of 2018-02)
 - **HQ:** Glendale, CA, US ([source](https://www.smartgate.vc/), as of 2026-08)
-- **Stages:** pre-seed, seed ([source](https://www.smartgate.vc/), as of 2026-08)
 - **Geographies:** us ([source](https://www.smartgate.vc/), as of 2026-08)
 - **Check size max:** $1M ([source](https://www.smartgate.vc/founder-resources), as of 2026-08)
 - **Offices:** Glendale, CA, US, Yerevan, Armenia ([source](https://www.smartgate.vc/), as of 2026-08)
-- **Leads rounds:** maybe ([source](https://www.smartgate.vc/founder-resources), as of 2026-08)
 - **Thesis quote:** In 2018 we started investing in AI ahead of the wave - our pilot fund ranked in the top decile. Today we invest in what we believe is the next one: bringing AI into the physical world. ([source](https://www.smartgate.vc/ashot-arzumanyan), as of 2026-08)
+- **Type:** venture capital ([source](https://www.smartgate.vc/), as of not recorded)
+- **Investment strategies:** pre-seed and seed investing, deep tech ([source](https://www.smartgate.vc/), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://www.smartgate.vc/), as of not recorded)
+- **Sectors:** AI Infrastructure & Physical AI, Robotics, Cybersecurity, Neurotech & Brain-Computer Interfaces ([source](https://www.smartgate.vc/portfolio), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.smartgate.vc/portfolio), as of not recorded)
 
 ## Portfolio
 

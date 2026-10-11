@@ -1,5 +1,5 @@
 ---
-jev-score: 55
+jev-score: 47
 ---
 
 # BDC Capital
@@ -10,18 +10,20 @@ Domain: bdc.ca
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Stages:** series-a, growth ([source](https://www.crunchbase.com/organization/bdc-venture-capital), as of 2026-08-07)
 - **Geographies:** canada ([source](https://www.crunchbase.com/organization/bdc-venture-capital), as of 2026-08-07)
-- **Sectors:** venture-capital, deep-tech, climate-tech ([source](https://www.crunchbase.com/organization/bdc-venture-capital), as of 2026-08-07)
-- **AUM:** $6B+ ([source](https://www.crunchbase.com/organization/bdc-venture-capital), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.bdc.ca/en/bdc-capital), as of not recorded)
 - **About:** BDC Capital is the investment arm of the Business Development Bank of Canada, a federal Crown corporation (state-owned development bank). It manages $6B+ in assets, including specialized vehicles like a $500M Thrive Venture Fund and a $400M Climate Tech Fund, investing directly and as an LP into Canadian venture and growth-stage companies ([source](https://www.crunchbase.com/organization/bdc-venture-capital), as of 2026-08-07)
+- **Type:** venture capital investor; growth equity investor ([source](https://www.bdc.ca/en/bdc-capital), as of not recorded)
+- **Investment strategies:** seed venture capital, growth equity ([source](https://www.bdc.ca/en/bdc-capital), as of not recorded)
+- **Legal structure:** investment arm of BDC ([source](https://www.bdc.ca/en/bdc-capital), as of not recorded)
+- **Investment instruments:** equity ([source](https://www.bdc.ca/en/bdc-capital), as of not recorded)
+- **Stages:** seed, growth ([source](https://www.bdc.ca/en/bdc-capital/venture-capital/funds/seed-fund), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.bdc.ca/en/bdc-capital/growth-equity), as of not recorded)
 
 ## Portfolio
 
@@ -39,4 +41,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://www.bdc.ca/en/bdc-capital)
+- [Source](https://www.bdc.ca/en/bdc-capital/growth-equity)
+- [Source](https://www.bdc.ca/en/bdc-capital/venture-capital/funds/seed-fund)
 - [Source](https://www.crunchbase.com/organization/bdc-venture-capital)

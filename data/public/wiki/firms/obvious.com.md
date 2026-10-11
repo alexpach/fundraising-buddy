@@ -1,8 +1,8 @@
 ---
-jev-score: 43
+jev-score: 50
 ---
 
-# Obvious
+# Obvious Ventures
 
 [Website](https://obvious.com)
 
@@ -10,18 +10,19 @@ Domain: obvious.com
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/obvious), as of 2026-04-20)
-- **Stages:** growth, late ([source](https://www.crunchbase.com/organization/obvious), as of 2026-04-20)
 - **Geographies:** global, us ([source](https://www.crunchbase.com/organization/obvious), as of 2026-04-20)
-- **Sectors:** ai, consumer, security, energy, climate, healthcare, hardware, space, sustainability ([source](https://www.crunchbase.com/organization/obvious), as of 2026-04-20)
-- **Leads rounds:** unknown ([source](https://obvious.com), as of not recorded)
 - **About:** Obvious is a San Francisco, California-based venture capital firm founded in 2025. Its public materials emphasize growth, late-stage investing, and focus areas include ai, consumer, security, energy ([source](https://www.crunchbase.com/organization/obvious), as of 2026-04-20)
+- **Type:** venture capital ([source](https://obvious.com/ideas/obvious-in-hindsight/), as of 2024-05-21)
+- **Investment strategies:** thematic early-stage venture investing ([source](https://obvious.com/ideas/obvious-in-hindsight/), as of 2024-05-21)
+- **Stages:** Seed, Series A ([source](https://obvious.com/ideas/obvious-in-hindsight/), as of 2024-05-21)
+- **Sectors:** Planetary health, Human health, Economic health ([source](https://obvious.com/ideas/obvious-in-hindsight/), as of 2024-05-21)
+- **Leads rounds:** yes ([source](https://obvious.com/ideas/obvious-in-hindsight/), as of 2024-05-21)
 
 ## Portfolio
 
@@ -38,4 +39,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 ## Sources
 
 - [Source](https://obvious.com)
+- [Source](https://obvious.com/ideas/obvious-in-hindsight/)
 - [Source](https://www.crunchbase.com/organization/obvious)

@@ -1,8 +1,8 @@
 ---
-jev-score: 75
+jev-score: 79
 ---
 
-# GFT Ventures
+# Global Frontier Technology Ventures (GFT Ventures)
 
 [Website](https://gft.vc)
 
@@ -10,19 +10,20 @@ Domain: gft.vc
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.gft.vc/post/ai-powerhouse-gft-ventures-raises-oversubscribed-140m-inaugural-fund), as of 2023-09)
 - **HQ:** Palo Alto, CA ([source](https://www.gft.vc/post/ai-powerhouse-gft-ventures-raises-oversubscribed-140m-inaugural-fund), as of 2023-09)
-- **Stages:** seed, series-a ([source](https://www.gft.vc/post/ai-powerhouse-gft-ventures-raises-oversubscribed-140m-inaugural-fund), as of 2023-09)
 - **Geographies:** us, israel ([source](https://www.gft.vc/post/ai-powerhouse-gft-ventures-raises-oversubscribed-140m-inaugural-fund), as of 2023-09)
-- **Sectors:** AI & Data Science, Autonomous Machines, Other Frontier ([source](https://www.gft.vc/), as of 2026-09)
 - **Legal name:** Global Frontier Technology Ventures ([source](https://www.gft.vc/post/ai-powerhouse-gft-ventures-raises-oversubscribed-140m-inaugural-fund), as of 2023-09)
 - **Latest fund:** Fund I closed oversubscribed at $140M, September 2023 ([source](https://www.gft.vc/post/ai-powerhouse-gft-ventures-raises-oversubscribed-140m-inaugural-fund), as of 2023-09)
 - **Thesis quote:** We invest in category leading startups developing disruptive technologies that solve the world's hardest problems. ([source](https://www.gft.vc/), as of 2026-09)
-- **Leads rounds:** unknown ([source](https://gft.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.gft.vc/), as of not recorded)
+- **Investment strategies:** early-stage frontier technology ([source](https://www.gft.vc/), as of not recorded)
+- **Stages:** seed, series A ([source](https://www.gft.vc/post/ai-powerhouse-gft-ventures-raises-oversubscribed-140m-inaugural-fund), as of 2023-09)
+- **Sectors:** AI & Data Science, Autonomous Machines, Other Frontier ([source](https://www.gft.vc/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.gft.vc/post/gft-co-leads-linqalpha-s-series-a), as of not recorded)
 
 ## Portfolio
 
@@ -61,3 +62,4 @@ Research date: 2026-09-20
 - [Source](https://www.gft.vc/)
 - [Source](https://www.gft.vc/portfolio)
 - [Source](https://www.gft.vc/post/ai-powerhouse-gft-ventures-raises-oversubscribed-140m-inaugural-fund)
+- [Source](https://www.gft.vc/post/gft-co-leads-linqalpha-s-series-a)

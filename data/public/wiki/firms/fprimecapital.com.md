@@ -1,5 +1,5 @@
 ---
-jev-score: 50
+jev-score: 51
 ---
 
 # F-Prime Capital
@@ -14,13 +14,13 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://fprimecapital.com/), as of 2026)
-- **Stages:** early-stage by choice, any (stage-agnostic in healthcare) ([source](https://fprimecapital.com/about), as of None)
 - **Geographies:** global ([source](https://fprimecapital.com/about), as of None)
-- **Sectors:** therapeutics, medtech, healthtech + services, enterprise software, fintech, frontier tech, crypto ([source](https://fprimecapital.com/about), as of None)
 - **Offices:** Cambridge, MA, London, San Francisco, CA ([source](https://fprimecapital.com/), as of 2026)
 - **Thesis quote:** We focus on therapeutics, medtech, and healthtech + services in a stage-agnostic fashion ([source](https://fprimecapital.com/about), as of None)
-- **Leads rounds:** unknown ([source](https://fprimecapital.com), as of not recorded)
+- **Type:** venture capital ([source](https://fprimecapital.com/life-sciences-summer-fellowship/), as of 2026)
+- **Stages:** early stage, any stage (healthcare is stage-agnostic) ([source](https://www.fprimecapital.com/about/), as of not recorded)
+- **Sectors:** life sciences, technology, healthtech + services, crypto, therapeutics, medtech, enterprise software, fintech, frontier tech ([source](https://www.fprimecapital.com/about/), as of not recorded)
+- **AUM:** Lower bound (over): USD 5.3 billion (date not reported) ([source](https://www.fprimecapital.com/about/), as of not recorded)
 
 ## Portfolio
 
@@ -43,4 +43,6 @@ Research date: 2026-10-03
 
 - [Source](https://fprimecapital.com/)
 - [Source](https://fprimecapital.com/about)
+- [Source](https://fprimecapital.com/life-sciences-summer-fellowship/)
 - [Source](https://fprimecapital.com/portfolio/)
+- [Source](https://www.fprimecapital.com/about/)

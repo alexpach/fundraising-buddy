@@ -1,5 +1,5 @@
 ---
-jev-score: 89
+jev-score: 93
 ---
 
 # age1
@@ -10,22 +10,22 @@ Domain: age1.com
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://longevity.technology/news/venture-firm-age1-launches-with-35-million-to-extend-healthy-lifespan/), as of 2023-09)
 - **HQ:** San Francisco, CA ([source](https://longevity.technology/news/venture-firm-age1-launches-with-35-million-to-extend-healthy-lifespan/), as of 2023-09)
 - **Founded:** 2023 ([source](https://longevity.technology/news/venture-firm-age1-launches-with-35-million-to-extend-healthy-lifespan/), as of 2023-09)
-- **Stages:** pre-seed, seed, series-a ([source](https://age1.com), as of None)
 - **Geographies:** us, global ([source](https://age1.com), as of None)
-- **Sectors:** longevity, aging biology, therapeutics, biotech tools and technologies ([source](https://age1.com), as of None)
 - **Check size min:** $500,000 ([source](https://age1.com), as of None)
 - **Check size max:** $4,000,000 ([source](https://age1.com), as of None)
 - **Offices:** Coworking office in downtown San Francisco ([source](https://age1.com), as of None)
-- **Leads rounds:** maybe ([source](https://age1.com), as of None)
 - **Latest fund:** $35 million initial closing, announced Sep 19, 2023 ([source](https://longevity.technology/news/venture-firm-age1-launches-with-35-million-to-extend-healthy-lifespan/), as of 2023-09)
 - **Thesis quote:** Exceptional founders in the US and around the globe developing therapeutics, tools, and technologies targeting aging and age-related disease that will help extend healthy lifespan. ([source](https://age1.com), as of None)
+- **Type:** venture capital firm ([source](https://ml.firstwordpharma.com/v1/articles/rendered/5782365), as of 2023-09)
+- **Investment strategies:** longevity-focused investing, healthy lifespan extension ([source](https://ml.firstwordpharma.com/v1/articles/rendered/5782365), as of 2023-09)
+- **Stages:** pre-seed, seed, Series A ([source](https://age1.com/), as of not recorded)
+- **Sectors:** longevity, aging biology and age-related disease, therapeutics, biotech tools and technologies ([source](https://age1.com/), as of not recorded)
 
 ## Portfolio
 
@@ -67,5 +67,7 @@ Research date: 2026-09-20
 ## Sources
 
 - [Source](https://age1.com)
+- [Source](https://age1.com/)
 - [Source](https://age1.com/portfolio)
 - [Source](https://longevity.technology/news/venture-firm-age1-launches-with-35-million-to-extend-healthy-lifespan/)
+- [Source](https://ml.firstwordpharma.com/v1/articles/rendered/5782365)

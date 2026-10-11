@@ -1,5 +1,5 @@
 ---
-jev-score: 77
+jev-score: 84
 ---
 
 # Lux Capital
@@ -10,19 +10,21 @@ Domain: luxcapital.com
 
 Coverage: sourced
 
-Research date: 2026-10-02
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.luxcapital.com/contact), as of None)
 - **Founded:** 2000 ([source](https://luxcapital.com/news/announcing-lux-ventures-ix), as of 2026-01)
-- **Stages:** any ([source](https://luxcapital.com/news/announcing-lux-ventures-ix), as of 2026-01)
 - **Check size min:** $100K ([source](https://luxcapital.com/news/announcing-lux-ventures-ix), as of 2026-01)
 - **Check size max:** $100M ([source](https://luxcapital.com/news/announcing-lux-ventures-ix), as of 2026-01)
 - **Offices:** New York City; Silicon Valley ([source](https://www.luxcapital.com/contact), as of None)
 - **Latest fund:** Lux Ventures IX, $1.5B, announced January 7, 2026 ([source](https://luxcapital.com/news/announcing-lux-ventures-ix), as of 2026-01)
 - **Thesis quote:** the biggest opportunities lie at the frontier of science and technology that others find too hard, too early, or too confusing ([source](https://luxcapital.com/news/announcing-lux-ventures-ix), as of 2026-01)
-- **Leads rounds:** unknown ([source](https://luxcapital.com), as of not recorded)
+- **Type:** venture capital ([source](https://luxcapital.com/news/announcing-lux-ventures-ix), as of 2026-01-07)
+- **Investment strategies:** deep tech ([source](https://luxcapital.com/news/announcing-lux-ventures-ix), as of 2026-01-07)
+- **Stages:** any ([source](https://luxcapital.com/news/announcing-lux-ventures-ix), as of 2026-01-07)
+- **Sectors:** Aerospace, Biotechnology, Defense, Industrials, Transportation ([source](https://luxcapital.com/news/announcing-lux-ventures-ix), as of 2026-01-07)
+- **AUM:** USD 7 billion (as of 2026-01-07) ([source](https://luxcapital.com/news/announcing-lux-ventures-ix), as of 2026-01-07)
 
 ## Portfolio
 

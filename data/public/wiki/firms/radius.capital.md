@@ -1,8 +1,8 @@
 ---
-jev-score: 57
+jev-score: 64
 ---
 
-# Radius Capital
+# Radius Capital Ventures
 
 [Website](https://radius.capital)
 
@@ -10,16 +10,17 @@ Domain: radius.capital
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://incubatorlist.com/peter-shannon), as of 2026-05)
 - **HQ:** San Francisco, CA ([source](https://www.radius.capital/), as of 2026-08)
-- **Sectors:** aerospace, software, ai, robotics, advanced manufacturing, design and development tools, physical ai ([source](https://www.linkedin.com/company/radius-capital-ventures), as of 2026-08)
 - **Offices:** San Francisco (HQ); Tulsa ([source](https://www.radius.capital/), as of 2026-08)
 - **Thesis quote:** Physical AI is artificial intelligence applied to the physical world. We focus on the companies using it to engineer, build, and operate physical things in ways that weren't possible before. ([source](https://www.radius.capital/), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://radius.capital), as of not recorded)
+- **Type:** venture capital ([source](https://www.radius.capital/), as of not recorded)
+- **Investment strategies:** physical AI, aerospace technology ([source](https://www.radius.capital/), as of not recorded)
+- **Stages:** Series A ([source](https://www.physicsx.ai/newsroom/physicsx-raises-32m-to-give-engineers-ai-superpowers-to-accelerate-design-of-advanced-technologies), as of 2023-11-27)
+- **Sectors:** aerospace, physical AI ([source](https://www.radius.capital/), as of not recorded)
 
 ## Portfolio
 
@@ -48,5 +49,7 @@ Research date: 2026-08-26
 - [Source](https://www.businesswire.com/news/home/20260318195296/en/Swarmer-Announces-Closing-of-Initial-Public-Offering-of-Common-Stock-and-Full-Exercise-of-Underwriters-Option-to-Purchase-Additional-Shares)
 - [Source](https://www.linkedin.com/company/radius-capital-ventures)
 - [Source](https://www.physicsx.ai/newsroom/physicsx-announces-300m-series-c-to-accelerate-physics-ai-for-industrial-engineering)
+- [Source](https://www.physicsx.ai/newsroom/physicsx-raises-32m-to-give-engineers-ai-superpowers-to-accelerate-design-of-advanced-technologies)
 - [Source](https://www.radius.capital/)
 - [Source](https://www.radius.capital/portfolio)
+- [Source](https://www.radius.capital/team)

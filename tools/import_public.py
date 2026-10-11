@@ -30,7 +30,7 @@ import yaml
 from fundraising_buddy.catalog import EMAIL, domain, public_url, write_catalog
 
 LEADS_MAP = {"yes": "yes", "true": "yes", "lead": "yes", "no": "no", "follow": "no", "cannot-lead": "no",
-             "maybe": "maybe", "sometimes": "maybe", "co-lead": "maybe", "unknown": "unknown"}
+             "maybe": "maybe", "sometimes": "maybe", "co-lead": "yes", "unknown": "unknown"}
 
 
 def clean(value):

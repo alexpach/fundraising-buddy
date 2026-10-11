@@ -1,5 +1,5 @@
 ---
-jev-score: 59
+jev-score: 52
 ---
 
 # August Capital
@@ -14,15 +14,14 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://augustcap.com/about), as of None)
 - **HQ:** SF Bay Area ([source](https://augustcap.com/about), as of None)
 - **Founded:** 1995 ([source](https://augustcap.com/about), as of None)
-- **Stages:** early stage, opportunistic later stage ([source](https://augustcap.com/about), as of None)
-- **AUM:** approximately $2 Billion in aggregate capital commitments ([source](https://augustcap.com/about), as of None)
 - **Legal name:** August Capital Master Management Company, LLC ([source](https://www.augustcap.com/team/), as of 2026)
 - **Thesis quote:** For over twenty years, the partners at August Capital have invested in breakthrough startups across the information technology sector. ([source](https://augustcap.com/about), as of None)
 - **LPs:** endowments, private foundations, fund of funds, public charitable organizations and corporate strategic investors ([source](https://augustcap.com/about), as of None)
-- **Leads rounds:** unknown ([source](https://augustcap.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.augustcap.com/about/), as of not recorded)
+- **Stages:** early stage, opportunistic later stage ([source](https://www.augustcap.com/about/), as of not recorded)
+- **Sectors:** information technology ([source](https://www.augustcap.com/about/), as of not recorded)
 
 ## Portfolio
 
@@ -53,5 +52,6 @@ Research date: 2026-10-03
 - [Source](https://augustcap.com/about)
 - [Source](https://augustcap.com/team/david-hornik)
 - [Source](https://www.augustcap.com/)
+- [Source](https://www.augustcap.com/about/)
 - [Source](https://www.augustcap.com/portfolio/active-funds/)
 - [Source](https://www.augustcap.com/team/)

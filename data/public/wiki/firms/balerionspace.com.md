@@ -1,5 +1,5 @@
 ---
-jev-score: 68
+jev-score: 70
 ---
 
 # Balerion Space Ventures
@@ -14,12 +14,12 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.prnewswire.com/news-releases/balerion-space-ventures-expands-leadership-team-and-establishes-dallas-headquarters-at-iconic-old-parkland-campus-302750315.html), as of 2026-04)
 - **HQ:** Dallas, Texas, US ([source](https://www.venturecapitaljournal.com/balerion-space-ventures-closes-on-90-4m-for-fund-ii-targeting-200m/), as of 2026-05)
-- **Sectors:** space, defense, deep technology ([source](https://www.prnewswire.com/news-releases/balerion-space-ventures-expands-leadership-team-and-establishes-dallas-headquarters-at-iconic-old-parkland-campus-302750315.html), as of 2026-04)
 - **Latest fund:** Fund II $90.4m, targeting $200m ([source](https://www.venturecapitaljournal.com/balerion-space-ventures-closes-on-90-4m-for-fund-ii-targeting-200m/), as of 2026-05)
 - **Thesis quote:** Balerion Space Ventures invests in founders building the technologies that secure freedom and define the new space frontier. ([source](https://www.balerionspace.com/), as of None)
-- **Leads rounds:** unknown ([source](https://balerionspace.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.prnewswire.com/news-releases/balerion-space-ventures-expands-leadership-team-and-establishes-dallas-headquarters-at-iconic-old-parkland-campus-302750315.html), as of 2026-04-23)
+- **Investment strategies:** space infrastructure, dual-use space technologies ([source](https://www.prnewswire.com/news-releases/balerion-space-ventures-expands-leadership-team-and-establishes-dallas-headquarters-at-iconic-old-parkland-campus-302750315.html), as of 2026-04-23)
+- **Sectors:** space, defense, deep technology ([source](https://www.prnewswire.com/news-releases/balerion-space-ventures-expands-leadership-team-and-establishes-dallas-headquarters-at-iconic-old-parkland-campus-302750315.html), as of 2026-04-23)
 
 ## Portfolio
 

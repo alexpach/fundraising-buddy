@@ -25,7 +25,7 @@ class LeadsTests(unittest.TestCase):
 
     def test_import_mapping_lands_on_the_four_options(self):
         self.assertTrue(set(LEADS_MAP.values()) <= catalog.LEADS_OPTIONS)
-        self.assertEqual((LEADS_MAP["sometimes"], LEADS_MAP["follow"], LEADS_MAP["co-lead"]), ("maybe", "no", "maybe"))
+        self.assertEqual((LEADS_MAP["sometimes"], LEADS_MAP["follow"], LEADS_MAP["co-lead"]), ("maybe", "no", "yes"))
 
     def test_jev_leads_offline_check(self):
         jev_leads.self_check()

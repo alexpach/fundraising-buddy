@@ -1,5 +1,5 @@
 ---
-jev-score: 84
+jev-score: 93
 ---
 
 # Decisive Point
@@ -10,21 +10,22 @@ Domain: decisivepoint.com
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://nsin.mil/news/2023-06-15-decisive-point), as of 2023-06)
 - **HQ:** New York, NY ([source](https://www.sec.gov/Archives/edgar/data/1975522/000197552225000002/primary_doc.xml), as of 2025-08)
 - **Founded:** 2018 ([source](https://nsin.mil/news/2023-06-15-decisive-point), as of 2023-06)
 - **Geographies:** us ([source](https://www.decisivepoint.com/advisory), as of 2026-08)
-- **Sectors:** defense, national security, energy, infrastructure, dual-use hardware, robotics/autonomous systems ([source](https://f4.fund/firms/decisive-point), as of 2026-05)
 - **Legal name:** Decisive Point Ventures, LLC ([source](https://www.sec.gov/Archives/edgar/data/1975522/000197552225000002/primary_doc.xml), as of 2025-08)
 - **Latest fund:** Decisive Point Ventures Fund IIA, L.P. ,  $60M, fully sold as of the SEC Form D/A filed 2025-08-27 ([source](https://www.sec.gov/Archives/edgar/data/1975522/000197552225000002/primary_doc.xml), as of 2025-08)
 - **Thesis quote:** Amplify founder impact through capital paired with deep expertise in government market access, federal R&D funding capture, and government contracting strategy. ([source](https://f4.fund/firms/decisive-point), as of 2026-05)
 - **Exclusions:** Pure consumer applications, consumer social networks, ventures without government/defense relevance, companies without clear federal contract potential ([source](https://f4.fund/firms/decisive-point), as of 2026-05)
 - **Coinvestors:** Lockheed Martin Ventures, In-Q-Tel, Cubit Capital, Booz Allen Ventures, Washington Harbour Partners, Noblis Ventures ([source](https://fmd.vc/i/decisive-point), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://decisivepoint.com), as of not recorded)
+- **Type:** venture capital firm ([source](https://www.decisivepoint.com/), as of not recorded)
+- **Investment strategies:** early-stage dual-use investing ([source](https://www.decisivepoint.com/), as of not recorded)
+- **Stages:** early-stage ([source](https://www.prnewswire.com/news-releases/decisive-point-announces-the-initial-close-of-first-venture-capital-fund-301213385.html), as of 2021-01)
+- **Sectors:** Defense, Energy, Infrastructure, Robotics and autonomous systems, High performance computing, Power generation and battery technology, Mobility and logistics, Artificial intelligence, Human health and disease prevention, Space awareness and in-orbit services, Advanced materials and manufacturing ([source](https://www.decisivepoint.com/), as of not recorded)
 
 ## Portfolio
 
@@ -58,6 +59,8 @@ Research date: 2026-08-25
 - [Source](https://f4.fund/firms/decisive-point)
 - [Source](https://fmd.vc/i/decisive-point)
 - [Source](https://nsin.mil/news/2023-06-15-decisive-point)
+- [Source](https://www.decisivepoint.com/)
 - [Source](https://www.decisivepoint.com/advisory)
 - [Source](https://www.decisivepoint.com/portfolio)
+- [Source](https://www.prnewswire.com/news-releases/decisive-point-announces-the-initial-close-of-first-venture-capital-fund-301213385.html)
 - [Source](https://www.sec.gov/Archives/edgar/data/1975522/000197552225000002/primary_doc.xml)

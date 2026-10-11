@@ -1,5 +1,5 @@
 ---
-jev-score: 80
+jev-score: 85
 ---
 
 # Fly Ventures
@@ -14,9 +14,7 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://fly.vc/), as of None)
 - **HQ:** Berlin ([source](https://techcrunch.com/2024/12/06/fly-ventures-sets-its-eyes-on-technical-founders-with-a-fresh-e80m-fund/), as of 2024-12)
-- **Stages:** pre-seed, seed ([source](https://fly.vc/how-we-invest), as of None)
 - **Geographies:** europe, us ([source](https://fly.vc/how-we-invest), as of None)
 - **Check size min:** EUR 1M ([source](https://techcrunch.com/2024/12/06/fly-ventures-sets-its-eyes-on-technical-founders-with-a-fresh-e80m-fund/), as of 2024-12)
 - **Check size max:** EUR 4M ([source](https://techcrunch.com/2024/12/06/fly-ventures-sets-its-eyes-on-technical-founders-with-a-fresh-e80m-fund/), as of 2024-12)
@@ -25,7 +23,12 @@ Research date: 2026-10-03
 - **Thesis quote:** Fly Ventures is a first-check VC backing founders everyone wants to meet but nobody dares to invest in. ([source](https://fly.vc/how-we-invest), as of None)
 - **Exclusions:** Areas of interest, not investment boundaries ([source](https://fly.vc/how-we-invest), as of None)
 - **LPs:** European Investment Fund (EIF), Korelya Capital and unnamed family offices (Fund I) ([source](https://techcrunch.com/2017/12/21/fly-ventures/), as of 2017-12)
-- **Leads rounds:** unknown ([source](https://fly.vc), as of not recorded)
+- **Type:** venture capital ([source](https://fly.vc/), as of not recorded)
+- **Investment strategies:** early-stage venture ([source](https://fly.vc/), as of not recorded)
+- **Investment instruments:** equity, equity-related investments ([source](https://fly.vc/), as of not recorded)
+- **Stages:** pre-seed, seed ([source](https://fly.vc/how-we-invest), as of not recorded)
+- **Sectors:** technology companies, artificial intelligence, robotics, embodied AI, developer tools, data infrastructure, cybersecurity, materials science ([source](https://fly.vc/sfdr), as of 2023-12)
+- **Leads rounds:** yes ([source](https://fly.vc/how-we-invest), as of not recorded)
 
 ## Portfolio
 
@@ -54,6 +57,7 @@ Research date: 2026-10-03
 - [Source](https://fly.vc/)
 - [Source](https://fly.vc/how-we-invest)
 - [Source](https://fly.vc/portfolio)
+- [Source](https://fly.vc/sfdr)
 - [Source](https://fly.vc/team)
 - [Source](https://techcrunch.com/2017/12/21/fly-ventures/)
 - [Source](https://techcrunch.com/2024/12/06/fly-ventures-sets-its-eyes-on-technical-founders-with-a-fresh-e80m-fund/)

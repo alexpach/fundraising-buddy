@@ -1,5 +1,5 @@
 ---
-jev-score: 52
+jev-score: 60
 ---
 
 # Battery Ventures
@@ -10,18 +10,20 @@ Domain: battery.com
 
 Coverage: sourced
 
-Research date: 2026-09-20
+Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.battery.com/about/), as of None)
 - **HQ:** Boston, Massachusetts ([source](https://www.battery.com/contact/), as of None)
 - **Founded:** 1983 ([source](https://www.battery.com/about/), as of None)
 - **Geographies:** us, europe, global ([source](https://www.battery.com/about/), as of None)
-- **Sectors:** Application Software, Infrastructure Software, Consumer, Industrial Tech + Life Science Tools ([source](https://www.battery.com/about/), as of None)
 - **Offices:** Boston, San Francisco, Menlo Park, Tel Aviv, London, New York City ([source](https://www.battery.com/about/), as of None)
 - **Thesis quote:** Battery partners with talented founders and teams building category-defining businesses at all stages of growth. ([source](https://www.battery.com/about/), as of None)
-- **Leads rounds:** unknown ([source](https://battery.com), as of not recorded)
+- **Type:** venture capital; private equity ([source](https://www.battery.com/about/), as of not recorded)
+- **Investment strategies:** early-stage investing, growth investing, buyout investing ([source](https://www.battery.com/about/), as of not recorded)
+- **Stages:** seed, early, growth, buyout ([source](https://www.battery.com/application-software/), as of not recorded)
+- **Sectors:** Application Software, Infrastructure Software, Consumer, Industrial Tech + Life Science Tools ([source](https://www.battery.com/about/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.battery.com/blog/jumping-ahead-revolutionizing-financial-advisory-with-ai-powered-client-intelligence/), as of 2025-02-03)
 
 ## Portfolio
 
@@ -46,6 +48,8 @@ Research date: 2026-09-20
 
 - [Source](https://battery.com)
 - [Source](https://www.battery.com/about/)
+- [Source](https://www.battery.com/application-software/)
+- [Source](https://www.battery.com/blog/jumping-ahead-revolutionizing-financial-advisory-with-ai-powered-client-intelligence/)
 - [Source](https://www.battery.com/company/6sense/)
 - [Source](https://www.battery.com/company/affirm/)
 - [Source](https://www.battery.com/company/amplitude/)

@@ -1,5 +1,5 @@
 ---
-jev-score: 73
+jev-score: 79
 ---
 
 # Venrock
@@ -10,17 +10,20 @@ Domain: venrock.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://en.wikipedia.org/wiki/Venrock), as of 2026-08)
 - **HQ:** Palo Alto, California ([source](https://en.wikipedia.org/wiki/Venrock), as of 2026-08)
 - **Founded:** 1969 ([source](https://en.wikipedia.org/wiki/Venrock), as of 2026-08)
 - **Legal name:** Venrock Management, LLC ([source](https://en.wikipedia.org/wiki/Venrock), as of 2026-08)
 - **Latest fund:** Venrock Associates X, L.P. reported $650,000,000 sold, first sale dated 2024-01-04 (Form D) ([source](https://www.sec.gov/Archives/edgar/data/1998991/000110465924002265/primary_doc.xml), as of 2024-01)
 - **Thesis quote:** Venrock focuses its investments on early-stage and start-up companies in information technology, healthcare and emerging technologies. ([source](https://en.wikipedia.org/wiki/Venrock), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://venrock.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.venrock.com/companies/), as of not recorded)
+- **Investment strategies:** early-stage investing, later-stage healthcare investing ([source](https://www.venrock.com/companies/), as of not recorded)
+- **Stages:** seed, Series A ([source](https://www.venrock.com/insights/venrock10/), as of not recorded)
+- **Sectors:** Technology, Healthcare ([source](https://www.venrock.com/companies/), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.venrock.com/insights/building-a-responsive-future-for-space-launch-venrocks-investment-into-abl-space/), as of not recorded)
 
 ## Portfolio
 
@@ -49,3 +52,6 @@ Research date: 2026-08-26
 - [Source](https://venrock.com)
 - [Source](https://www.sec.gov/Archives/edgar/data/1998991/000110465924002265/primary_doc.xml)
 - [Source](https://www.venrock.com/companies)
+- [Source](https://www.venrock.com/companies/)
+- [Source](https://www.venrock.com/insights/building-a-responsive-future-for-space-launch-venrocks-investment-into-abl-space/)
+- [Source](https://www.venrock.com/insights/venrock10/)

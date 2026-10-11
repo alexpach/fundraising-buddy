@@ -2,7 +2,7 @@
 jev-score: 85
 ---
 
-# BMW i Ventures
+# BMW i Ventures, Inc.
 
 [Website](https://bmwiventures.com)
 
@@ -10,20 +10,23 @@ Domain: bmwiventures.com
 
 Coverage: sourced
 
-Research date: 2026-08-26
+Research date: 2026-10-03
 
 ## Public research
 
 - **Founded:** 2011 ([source](https://bmwiventures.com), as of 2026-08)
-- **Stages:** seed, series-a, series-b ([source](https://bmwiventures.com/about-us), as of 2026-08)
 - **Geographies:** us, europe ([source](https://bmwiventures.com/about-us), as of 2026-08)
-- **Sectors:** car development, digital sales and services, information technology, manufacturing, supply chain, sustainability ([source](https://bmwiventures.com/about-us), as of 2026-08)
 - **Check size max:** $10M initial check ([source](https://bmwiventures.com/about-us), as of 2026-08)
 - **Latest fund:** BMW i Ventures Fund III, $300M, closed April 2026 ([source](https://bmwiventures.com/news/bmw-i-ventures-closes-300m-fund-iii-to-back-ai-across-the-automotive-ecosystem), as of 2026-04)
 - **Thesis quote:** We are proud to announce BMW i Ventures Fund III, a new $300 million fund dedicated to backing the companies building at the intersection of artificial intelligence, advanced manufacturing, and the evolving automotive ecosystem. ([source](https://bmwiventures.com/news/bmw-i-ventures-closes-300m-fund-iii-to-back-ai-across-the-automotive-ecosystem), as of 2026-04)
 - **LPs:** Fully backed by BMW Group as sole limited partner. ([source](https://bmwiventures.com/news/off-the-back-of-our-top-quartile-performing-fund-i-we-are-excited-to-announce-our-300m-bmw-i-ventures-fund-ii), as of 2021-06)
 - **Coinvestors:** Single-round sample, not a general co-investor pattern: RunSafe Security Series B (2024-09) syndicate included Critical Ventures, SineWave Venture Partners, Working Lab Capital, Lockheed Martin Ventures, HyperLink Ventures, Iron Gate Ventures, Alsop Louie Partners, and NextGen Venture Partners. ([source](https://press.bmwgroup.com/usa/article/detail/T0445104EN_US/bmw-i-ventures-announces-investment-in-runsafe-security-to-bolster-cybersecurity-for-critical-infrastructure), as of 2024-09)
-- **Leads rounds:** unknown ([source](https://bmwiventures.com), as of not recorded)
+- **Type:** venture capital ([source](https://www.bmwiventures.com/news/bmw-i-ventures-closes-300m-fund-iii-to-back-ai-across-the-automotive-ecosystem), as of 2026-04)
+- **Investment strategies:** early-stage venture investing ([source](https://www.bmwiventures.com/news/bmw-i-ventures-closes-300m-fund-iii-to-back-ai-across-the-automotive-ecosystem), as of 2026-04)
+- **Stages:** Seed, Series A, Series B ([source](https://www.bmwiventures.com/about-us), as of not recorded)
+- **Sectors:** Car Development, Digital Sales and Services, Information Technology, Manufacturing, Supply Chain, Sustainability ([source](https://www.bmwiventures.com/about-us), as of not recorded)
+- **Leads rounds:** yes ([source](https://www.bmwiventures.com/news/operationalizing-robot-fleets-at-scale-our-lead-investment-in-formant), as of 2023-10)
+- **AUM:** Lower bound (over): USD 1.1 billion (date not reported) ([source](https://www.bmwiventures.com/), as of not recorded)
 
 ## Portfolio
 
@@ -55,3 +58,7 @@ Research date: 2026-08-26
 - [Source](https://bmwiventures.com/news/off-the-back-of-our-top-quartile-performing-fund-i-we-are-excited-to-announce-our-300m-bmw-i-ventures-fund-ii)
 - [Source](https://bmwiventures.com/portfolio)
 - [Source](https://press.bmwgroup.com/usa/article/detail/T0445104EN_US/bmw-i-ventures-announces-investment-in-runsafe-security-to-bolster-cybersecurity-for-critical-infrastructure)
+- [Source](https://www.bmwiventures.com/)
+- [Source](https://www.bmwiventures.com/about-us)
+- [Source](https://www.bmwiventures.com/news/bmw-i-ventures-closes-300m-fund-iii-to-back-ai-across-the-automotive-ecosystem)
+- [Source](https://www.bmwiventures.com/news/operationalizing-robot-fleets-at-scale-our-lead-investment-in-formant)

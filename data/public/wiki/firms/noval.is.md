@@ -1,5 +1,5 @@
 ---
-jev-score: 44
+jev-score: 47
 ---
 
 # Novalis Biotech
@@ -10,18 +10,18 @@ Domain: noval.is
 
 Coverage: directory
 
-Research date: Not recorded
+Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://noval.is), as of 2026-08-07)
-- **Stages:** pre-seed, seed, series-a ([source](https://noval.is), as of 2026-08-07)
 - **Geographies:** europe, global ([source](https://noval.is), as of 2026-08-07)
-- **Sectors:** biotech, life-sciences, genomics, digital-health ([source](https://noval.is), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://noval.is), as of not recorded)
 - **About:** Novalis Biotech Incubation ("Novalis Biotech") is a Belgium-based (Ghent) early-stage venture capital investor in life sciences, focused on "enabling technologies": research/manufacturing tools, bioinformatics, genomics, diagnostics, digital health. Invests from (pre-)seed through Series A, often as a founding/first-check investor ([source](https://noval.is), as of 2026-08-07)
+- **Type:** venture capital ([source](https://noval.is), as of not recorded)
+- **Investment strategies:** early-stage life sciences venture capital ([source](https://noval.is), as of not recorded)
+- **Stages:** pre-seed, seed, series A ([source](https://noval.is), as of not recorded)
+- **Sectors:** life sciences, research and manufacturing tools, bioinformatics, genomics, diagnostics, digital health ([source](https://noval.is), as of not recorded)
 
 ## Portfolio
 

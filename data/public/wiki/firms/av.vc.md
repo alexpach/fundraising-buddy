@@ -1,5 +1,5 @@
 ---
-jev-score: 50
+jev-score: 60
 ---
 
 # Alumni Ventures
@@ -14,14 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.av.vc/portfolio), as of None)
 - **HQ:** Manchester NH ([source](https://av.vc/investors), as of None)
 - **Founded:** 2014 ([source](https://av.vc/investors), as of None)
 - **Offices:** New York, Boston, Menlo Park, Chicago, London, Tokyo, Manchester NH ([source](https://av.vc/investors), as of None)
 - **Thesis quote:** We back bold innovation and believe that venture is for more than just institutions ([source](https://av.vc/investors), as of None)
 - **LPs:** Accredited individual investors and syndicate members (25,000) ([source](https://av.vc/investors), as of None)
 - **Coinvestors:** Andreessen Horowitz, Sequoia, Bessemer, Y Combinator, Founders Fund, Kleiner Perkins, Khosla Ventures ([source](https://av.vc/Womens), as of None)
-- **Leads rounds:** unknown ([source](https://av.vc), as of not recorded)
+- **Type:** venture capital ([source](https://www.av.vc/faq), as of not recorded)
+- **Investment strategies:** co-investing, diversified venture portfolios ([source](https://www.av.vc/faq), as of not recorded)
+- **Stages:** pre-seed, seed, early, growth, pre-IPO ([source](https://www.av.vc/faq), as of not recorded)
+- **Leads rounds:** no ([source](https://www.av.vc/for-founders), as of not recorded)
 
 ## Portfolio
 
@@ -50,4 +52,7 @@ Research date: 2026-10-03
 - [Source](https://av.vc)
 - [Source](https://av.vc/Womens)
 - [Source](https://av.vc/investors)
+- [Source](https://www.av.vc/blog/vc-101-the-stages-of-investing)
+- [Source](https://www.av.vc/faq)
+- [Source](https://www.av.vc/for-founders)
 - [Source](https://www.av.vc/portfolio)

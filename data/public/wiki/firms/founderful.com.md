@@ -1,5 +1,5 @@
 ---
-jev-score: 75
+jev-score: 77
 ---
 
 # Founderful
@@ -14,16 +14,16 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://www.founderful.com/about), as of None)
 - **HQ:** Zurich, Switzerland ([source](https://www.founderful.com/), as of None)
 - **Founded:** 2019 ([source](https://www.globenewswire.com/news-release/2024/11/14/2981038/0/en/Founderful-defies-European-VC-consolidation-trend-with-oversubscribed-140m-Fund-II.html), as of 2024-11)
-- **Stages:** pre-seed ([source](https://www.founderful.com/about), as of None)
 - **Legal name:** Founderful AG ([source](https://www.founderful.com/), as of None)
 - **Offices:** Zurich, Luxembourg ([source](https://www.founderful.com/), as of None)
-- **Leads rounds:** yes ([source](https://www.founderful.com/about), as of None)
 - **Latest fund:** Fund II, $140 million, oversubscribed ([source](https://www.globenewswire.com/news-release/2024/11/14/2981038/0/en/Founderful-defies-European-VC-consolidation-trend-with-oversubscribed-140m-Fund-II.html), as of 2024-11)
 - **Thesis quote:** We back founder teams as their lead investor in their first financing round ([source](https://www.founderful.com/), as of None)
 - **LPs:** Institutions, family offices and founders of Duolingo, Climeworks, GetYourGuide, On, Proton, Scandit ([source](https://vcwire.tech/2024/11/14/founderful-closes-fund-ii-at-140m/), as of 2024-11)
+- **Type:** venture capital ([source](https://www.founderful.com/), as of not recorded)
+- **Stages:** pre-seed ([source](https://www.globenewswire.com/news-release/2024/11/14/2981038/0/en/Founderful-defies-European-VC-consolidation-trend-with-oversubscribed-140m-Fund-II.html), as of 2024-11)
+- **Leads rounds:** yes ([source](https://www.founderful.com/), as of not recorded)
 
 ## Portfolio
 

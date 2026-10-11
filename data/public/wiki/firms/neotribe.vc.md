@@ -1,5 +1,5 @@
 ---
-jev-score: 75
+jev-score: 79
 ---
 
 # Neotribe Ventures
@@ -10,17 +10,19 @@ Domain: neotribe.vc
 
 Coverage: sourced
 
-Research date: 2026-08-25
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://www.prnewswire.com/news-releases/neotribe-ventures-launches-ignite-a-90m-fund-to-back-growth-stage-companies-developing-breakthrough-technologies-301497188.html), as of 2022-03)
 - **HQ:** Menlo Park, CA ([source](https://www.sec.gov/Archives/edgar/data/2075781/000207578125000001/primary_doc.xml), as of 2025-07)
 - **Founded:** 2017 ([source](https://www.neotribe.vc/about), as of 2026-08)
 - **Geographies:** us ([source](https://www.neotribe.vc/about), as of 2026-08)
-- **Sectors:** enterprise software, security, software infrastructure, AI/ML, robotics, climate tech, computational biology ([source](https://www.neotribe.vc/portfolio), as of 2026-08)
-- **Leads rounds:** maybe ([source](https://www.finsmes.com/2022/03/neotribe-ventures-launches-90m-fund.html), as of 2022-03)
 - **LPs:** J.P. Morgan Asset Management, Common Fund ([source](https://www.prnewswire.com/news-releases/neotribe-ventures-launches-ignite-a-90m-fund-to-back-growth-stage-companies-developing-breakthrough-technologies-301497188.html), as of 2022-03)
+- **Type:** venture capital ([source](https://blog.neotribe.vc/neotribe-ventures-launches-90m-fund-to-investment-in-early-growth-stage-companies/), as of 2022-03)
+- **Investment strategies:** early-stage venture capital, growth-stage venture capital ([source](https://blog.neotribe.vc/neotribe-ventures-launches-90m-fund-to-investment-in-early-growth-stage-companies/), as of 2022-03)
+- **Stages:** Seed, Series A, Series B or later ([source](https://blog.neotribe.vc/neotribe-ventures-launches-90m-fund-to-investment-in-early-growth-stage-companies/), as of 2022-03)
+- **Sectors:** computational biology, enterprise security, AI, clean tech ([source](https://blog.neotribe.vc/neotribe-ignite-fund-faq/), as of 2025-03)
+- **Leads rounds:** yes ([source](https://blog.neotribe.vc/neotribe-ventures-launches-90m-fund-to-investment-in-early-growth-stage-companies/), as of 2022-03)
 
 ## Portfolio
 
@@ -42,6 +44,8 @@ Research date: 2026-08-25
 
 ## Sources
 
+- [Source](https://blog.neotribe.vc/neotribe-ignite-fund-faq/)
+- [Source](https://blog.neotribe.vc/neotribe-ventures-launches-90m-fund-to-investment-in-early-growth-stage-companies/)
 - [Source](https://neotribe.vc)
 - [Source](https://www.finsmes.com/2022/03/neotribe-ventures-launches-90m-fund.html)
 - [Source](https://www.neotribe.vc/about)

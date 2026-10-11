@@ -1,5 +1,5 @@
 ---
-jev-score: 79
+jev-score: 82
 ---
 
 # Day One Capital
@@ -14,17 +14,19 @@ Research date: 2026-10-03
 
 ## Public research
 
-- **Type:** vc ([source](https://dayonecapital.substack.com/p/day-one-capital-announces-its-new), as of 2025-11)
 - **HQ:** Budapest, Hungary ([source](https://dayonecapital.com/), as of None)
 - **Founded:** 2012 ([source](https://dayonecapital.substack.com/p/day-one-capital-announces-its-new), as of 2025-11)
-- **Stages:** pre-seed, seed ([source](https://dayonecapital.com/), as of None)
 - **Geographies:** europe ([source](https://dayonecapital.com/), as of None)
 - **Check size min:** €300K ([source](https://dayonecapital.com/), as of None)
 - **Check size max:** €2M ([source](https://dayonecapital.com/), as of None)
-- **Leads rounds:** maybe ([source](https://dayonecapital.com/), as of None)
 - **Latest fund:** €45M second close, final close expected early 2026 ([source](https://dayonecapital.substack.com/p/day-one-capital-announces-its-new), as of 2025-11)
 - **Thesis quote:** We back CEE founders with conviction capital as they rebuild how the world works, how businesses run, how people create things, how we stay safe. ([source](https://dayonecapital.com/), as of None)
 - **LPs:** Supported by InnovFin Equity and Horizon 2020 (EIF, European Commission logos) ([source](https://dayonecapital.com/), as of None)
+- **Type:** venture capital ([source](https://dayonecapital.com/), as of not recorded)
+- **Stages:** Pre-Seed, Seed ([source](https://dayonecapital.com/), as of not recorded)
+- **Sectors:** AI-native software, Robotics, drones, and autonomous systems, Cybersecurity and data infrastructure, Defense, security, and resilience, Creative industries ([source](https://dayonecapital.com/), as of not recorded)
+- **Leads rounds:** yes ([source](https://dayonecapital.com/), as of not recorded)
+- **AUM:** EUR 94 million (date not reported) ([source](https://dayonecapital.com/), as of not recorded)
 
 ## Portfolio
 

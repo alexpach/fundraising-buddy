@@ -1,5 +1,5 @@
 ---
-jev-score: 75
+jev-score: 74
 ---
 
 # SixThirty Ventures
@@ -10,20 +10,20 @@ Domain: sixthirty.co
 
 Coverage: sourced
 
-Research date: 2026-10-03
+Research date: 2026-10-04
 
 ## Public research
 
-- **Type:** vc ([source](https://sixthirty.co), as of None)
 - **HQ:** St. Louis, Missouri ([source](https://sixthirty.co/about), as of None)
-- **Stages:** early-stage ([source](https://sixthirty.co), as of None)
 - **Geographies:** global ([source](https://sixthirty.co), as of None)
-- **Sectors:** fintech, insurtech, privacy, digital health ([source](https://sixthirty.co), as of None)
 - **Legal name:** SixThirty Ventures, LLC ([source](https://sixthirty.co), as of None)
 - **Latest fund:** SixThirty Fund III final close, $66MM ([source](https://www.prnewswire.com/news-releases/sixthirty-ventures-closes-66mm-fund-iii-with-the-backing-of-category-leading-corporate-lps-from-across-financial-services-insurance-and-healthcare-301758070.html), as of 2023-02)
 - **Thesis quote:** SixThirty is a global venture capital firm that invests in early-stage companies at the intersection of health, wealth and privacy. ([source](https://sixthirty.co), as of None)
 - **LPs:** Edward Jones, RGA, Allianz Life, BNY Mellon \| Pershing, Commerce Bancshares, Unum Group, and others (Fund III) ([source](https://www.prnewswire.com/news-releases/sixthirty-ventures-closes-66mm-fund-iii-with-the-backing-of-category-leading-corporate-lps-from-across-financial-services-insurance-and-healthcare-301758070.html), as of 2023-02)
-- **Leads rounds:** unknown ([source](https://sixthirty.co), as of not recorded)
+- **Type:** venture capital ([source](https://sixthirty.co/), as of not recorded)
+- **Investment strategies:** early-stage venture investment ([source](https://sixthirty.co/), as of not recorded)
+- **Stages:** early-stage ([source](https://sixthirty.co/), as of not recorded)
+- **Sectors:** fintech, insurtech, privacy, digital health ([source](https://sixthirty.co/), as of not recorded)
 
 ## Portfolio
 
@@ -49,6 +49,7 @@ Research date: 2026-10-03
 ## Sources
 
 - [Source](https://sixthirty.co)
+- [Source](https://sixthirty.co/)
 - [Source](https://sixthirty.co/about)
 - [Source](https://sixthirty.co/sixthirty-builds-for-the-future-with-two-key-hires)
 - [Source](https://www.prnewswire.com/news-releases/sixthirty-ventures-closes-66mm-fund-iii-with-the-backing-of-category-leading-corporate-lps-from-across-financial-services-insurance-and-healthcare-301758070.html)
