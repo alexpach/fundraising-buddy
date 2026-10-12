@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Browse the public Fundraising Buddy catalog: investment stages, sectors, geographies, team members, portfolio companies, and research sources.">
+  <title>Funds | Fundraising Buddy</title>
+  <link rel="stylesheet" href="./style.css"><script type="module" src="./app.js"></script>
+</head>
+<body>
+<header><a class="brand" href="./"><span class="mark">F</span>Fundraising Buddy</a><nav aria-label="Resources"><a href="./data/public/catalog.json" download>Download JSON</a><a href="https://github.com/alexpach/fundraising-buddy">GitHub ↗</a></nav></header>
+<main>
+  <div class="heading"><div><p class="eyebrow">PUBLIC CATALOG</p><h1>Funds</h1><p class="intro">Investment focus, team members, and research sources.</p></div><div class="total"><strong id="total">...</strong><span>funds in the catalog</span></div></div>
+  <section class="directory" aria-label="Fund directory">
+    <form id="filters" role="search"><label class="search"><span>Search funds</span><input id="search" type="search" placeholder="Name, focus, location, or person" autocomplete="off"></label><label>Stage<select id="stage"><option value="">All stages</option></select></label><label>Sector<select id="sector"><option value="">All sectors</option></select></label><label>Research<select id="research"><option value="">All records</option><option value="sourced">Sourced</option><option value="directory">Directory</option></select></label><button id="reset" type="reset">Reset</button></form>
+    <div class="table-meta"><span id="count" role="status" aria-live="polite">Loading catalog...</span><details class="columns"><summary>Columns</summary><div id="column-options"></div></details></div>
+    <div class="table-scroll" tabindex="0" aria-label="Scrollable fund table"><table><thead id="head"></thead><tbody id="rows"></tbody></table></div>
+    <div id="empty" hidden>No funds match these filters. Try a broader search.</div>
+    <div class="pagination"><button id="previous" type="button">← Previous</button><span id="page"></span><button id="next" type="button">Next →</button></div>
+  </section>
+  <p class="note">Directory records may contain incomplete research. Unknown means unrecorded. Source dates are shown in each fund profile.</p>
+</main>
+<dialog id="profile" aria-labelledby="profile-title"><div class="dialog-toolbar"><span>FUND PROFILE</span><button id="close" aria-label="Close fund profile">✕</button></div><div id="profile-content"></div></dialog>
+<footer><span>Fundraising Buddy · Public research</span><a href="https://github.com/alexpach/fundraising-buddy/blob/main/data/public/catalog.json">View source data ↗</a></footer>
+</body></html>

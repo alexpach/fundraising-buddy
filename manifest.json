@@ -1,0 +1,10 @@
+{
+  "funds": 971,
+  "sha256": {
+    "index.html": "ab26e9260ed63beeab450a31353ab7ad153110121203a34874800b7e9aa3e8ea",
+    "style.css": "c71547b633b7356460d2c8042dd92360efe3f47fa010fcabb42ec89bb2ceafaf",
+    "app.js": "f4bcd6e825fe9586e5b30a1485518aed0973a1ed26130a5f2ead8bd18b91827e",
+    "data/public/catalog.json": "1d5fed5772d26f08aa8ac90d3d00701d84dfd8ff6f1fb7b2dd2c1bec4c5f750a",
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}
