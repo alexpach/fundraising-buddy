@@ -1,0 +1,39 @@
+name: Publish public fund directory
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/public/catalog.json'
+      - 'public-site/**'
+      - 'tools/package_pages.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: public-fund-directory
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: '3.12'
+      - run: uv run python3 tools/package_pages.py
+      - name: Publish allowlisted assets
+        run: |
+          mkdir -p tmp/pages
+          unzip dist/github-pages.zip -d tmp/pages
+          git -C tmp/pages init -b gh-pages
+          git -C tmp/pages config user.name github-actions[bot]
+          git -C tmp/pages config user.email github-actions[bot]@users.noreply.github.com
+          git -C tmp/pages add .
+          git -C tmp/pages commit -m "Publish public fund directory"
+          git fetch origin gh-pages
+          git -C tmp/pages fetch "$GITHUB_WORKSPACE" refs/remotes/origin/gh-pages
+          parent=$(git -C tmp/pages rev-parse FETCH_HEAD)
+          tree=$(git -C tmp/pages rev-parse HEAD^{tree})
+          commit=$(echo "Update public fund directory" | git -C tmp/pages commit-tree "$tree" -p "$parent")
+          git fetch ./tmp/pages "$commit"
+          git push origin FETCH_HEAD:refs/heads/gh-pages
