@@ -1,50 +1,64 @@
 ---
+type: Investor Firm
+title: True Ventures
+description: venture capital; pre-seed, seed, series A; AI.
+resource: https://trueventures.com
+tags:
+- investor-firm
+- directory
+domain: trueventures.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 58
+status: draft
+sources:
+- id: s-74568ad2
+  resource: https://trueventures.com
+- id: s-6726edcc
+  resource: https://www.trueventures.com/
+- id: s-16c72ca5
+  resource: https://www.trueventures.com/opinions/concentrate-ai-llm-governance
+- id: s-afdc46d6
+  resource: https://www.trueventures.com/opinions/true-fund-vii-select-fund-iv
+- id: s-d49f1bfd
+  resource: https://www.trueventures.com/pitch
 ---
 
 # True Ventures
-
-[Website](https://trueventures.com)
-
-Domain: trueventures.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** us ([source](https://trueventures.com), as of 2026-04-19)
-- **About:** True Ventures is an early-stage venture firm with offices in San Francisco and Palo Alto, investing in AI and technology startups at Seed and Series A. The firm has been active for over two decades. ([source](https://trueventures.com), as of 2026-04-19)
-- **Type:** venture capital ([source](https://www.trueventures.com/opinions/true-fund-vii-select-fund-iv), as of 2020-10-14)
-- **Investment strategies:** early-stage venture ([source](https://www.trueventures.com/opinions/true-fund-vii-select-fund-iv), as of 2020-10-14)
-- **Stages:** pre-seed, seed, series A ([source](https://www.trueventures.com/pitch), as of not recorded)
-- **Sectors:** AI ([source](https://www.trueventures.com/opinions/concentrate-ai-llm-governance), as of 2026-06-10)
-- **Leads rounds:** yes ([source](https://www.trueventures.com/opinions/concentrate-ai-llm-governance), as of 2026-06-10)
-- **AUM:** USD 2.8 billion (as of 2020-10-14) ([source](https://www.trueventures.com/opinions/true-fund-vii-select-fund-iv), as of 2020-10-14)
+- **Geographies:** us (as of 2026-04-19)[^s-74568ad2]
+- **About:** True Ventures is an early-stage venture firm with offices in San Francisco and Palo Alto, investing in AI and technology startups at Seed and Series A. The firm has been active for over two decades. (as of 2026-04-19)[^s-74568ad2]
+- **Type:** venture capital (as of 2020-10-14)[^s-afdc46d6]
+- **Investment strategies:** early-stage venture (as of 2020-10-14)[^s-afdc46d6]
+- **Stages:** pre-seed, seed, series A[^s-d49f1bfd]
+- **Sectors:** AI (as of 2026-06-10)[^s-16c72ca5]
+- **Leads rounds:** yes (as of 2026-06-10)[^s-16c72ca5]
+- **AUM:** USD 2.8 billion (as of 2020-10-14) (as of 2020-10-14)[^s-afdc46d6]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Ring | Not recorded | Not recorded | Not recorded | [Source](https://trueventures.com) |
-| 3D Robotics / 3DR | Not recorded | Not recorded | Not recorded | [Source](https://trueventures.com) |
-| Peloton | Not recorded | Not recorded | Not recorded | [Source](https://trueventures.com) |
-| Fitbit | Not recorded | Not recorded | Not recorded | [Source](https://trueventures.com) |
-| Automattic / WordPress | Not recorded | Not recorded | Not recorded | [Source](https://trueventures.com) |
-| Blue Bottle Coffee | Not recorded | Not recorded | Not recorded | [Source](https://trueventures.com) |
-| Hims & Hers | Not recorded | Not recorded | Not recorded | [Source](https://trueventures.com) |
-| Kickstarter | Not recorded | Not recorded | Not recorded | [Source](https://trueventures.com) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Ring[^s-74568ad2] | Not recorded | Not recorded | Not recorded |
+| 3D Robotics / 3DR[^s-74568ad2] | Not recorded | Not recorded | Not recorded |
+| Peloton[^s-74568ad2] | Not recorded | Not recorded | Not recorded |
+| Fitbit[^s-74568ad2] | Not recorded | Not recorded | Not recorded |
+| Automattic / WordPress[^s-74568ad2] | Not recorded | Not recorded | Not recorded |
+| Blue Bottle Coffee[^s-74568ad2] | Not recorded | Not recorded | Not recorded |
+| Hims & Hers[^s-74568ad2] | Not recorded | Not recorded | Not recorded |
+| Kickstarter[^s-74568ad2] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://trueventures.com)
-- [Source](https://www.trueventures.com/)
-- [Source](https://www.trueventures.com/opinions/concentrate-ai-llm-governance)
-- [Source](https://www.trueventures.com/opinions/true-fund-vii-select-fund-iv)
-- [Source](https://www.trueventures.com/pitch)
+[^s-74568ad2]: <https://trueventures.com>
+[^s-6726edcc]: <https://www.trueventures.com/>
+[^s-16c72ca5]: <https://www.trueventures.com/opinions/concentrate-ai-llm-governance>
+[^s-afdc46d6]: <https://www.trueventures.com/opinions/true-fund-vii-select-fund-iv>
+[^s-d49f1bfd]: <https://www.trueventures.com/pitch>

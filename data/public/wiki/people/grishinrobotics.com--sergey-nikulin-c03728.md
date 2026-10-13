@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Sergey Nikulin
+description: CTO at Grishin Robotics.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-539d203a
+  resource: https://www.grishinrobotics.com/team
+---
+
 # Sergey Nikulin
 
-[[public/firms/grishinrobotics.com|Firm profile]]
+[Firm profile](../firms/grishinrobotics.com.md)
 
-Role: CTO
+Role: CTO[^s-539d203a]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.grishinrobotics.com/team)
+[^s-539d203a]: <https://www.grishinrobotics.com/team>

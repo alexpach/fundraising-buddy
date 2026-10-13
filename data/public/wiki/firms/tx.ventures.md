@@ -1,56 +1,67 @@
 ---
+type: Investor Firm
+title: TX Ventures
+description: venture capital; seed, series A; Fintech & Insurtech, Proptech, Cybertech,
+  Digital Assets.
+resource: https://tx.ventures
+tags:
+- investor-firm
+- sourced
+domain: tx.ventures
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 73
+sources:
+- id: s-535ae0a9
+  resource: https://www.tx.ventures/
+- id: s-9beff01c
+  resource: https://www.tx.ventures/news
+- id: s-22201a41
+  resource: https://www.tx.ventures/portfolio
+- id: s-be89336d
+  resource: https://www.tx.ventures/team
 ---
 
 # TX Ventures
 
-[Website](https://tx.ventures)
-
-Domain: tx.ventures
-
-Coverage: sourced
-
-Research date: 2026-10-04
-
 ## Public research
 
-- **HQ:** Zurich, Switzerland ([source](https://www.tx.ventures/), as of None)
-- **Geographies:** europe ([source](https://www.tx.ventures/), as of None)
-- **Check size min:** CHF 1.0m ([source](https://www.tx.ventures/), as of None)
-- **Check size max:** CHF 5.0m ([source](https://www.tx.ventures/), as of None)
-- **Thesis quote:** Our mission is to invest in Fintechs democratizing access to financial products, empowering people to gain financial security and improving efficiency as well as sustainability. ([source](https://www.tx.ventures/team), as of None)
-- **LPs:** TX Group ([source](https://www.tx.ventures/team), as of None)
-- **Type:** venture capital ([source](https://www.tx.ventures/), as of not recorded)
-- **Investment strategies:** fintech ([source](https://www.tx.ventures/), as of not recorded)
-- **Stages:** seed, series A ([source](https://www.tx.ventures/), as of not recorded)
-- **Sectors:** Fintech & Insurtech, Proptech, Cybertech, Digital Assets ([source](https://www.tx.ventures/), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.tx.ventures/portfolio), as of not recorded)
+- **HQ:** Zurich, Switzerland (as of None)[^s-535ae0a9]
+- **Geographies:** europe (as of None)[^s-535ae0a9]
+- **Check size min:** CHF 1.0m (as of None)[^s-535ae0a9]
+- **Check size max:** CHF 5.0m (as of None)[^s-535ae0a9]
+- **Thesis quote:** Our mission is to invest in Fintechs democratizing access to financial products, empowering people to gain financial security and improving efficiency as well as sustainability. (as of None)[^s-be89336d]
+- **LPs:** TX Group (as of None)[^s-be89336d]
+- **Type:** venture capital[^s-535ae0a9]
+- **Investment strategies:** fintech[^s-535ae0a9]
+- **Stages:** seed, series A[^s-535ae0a9]
+- **Sectors:** Fintech & Insurtech, Proptech, Cybertech, Digital Assets[^s-535ae0a9]
+- **Leads rounds:** yes[^s-22201a41]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Cashlink | Tokenization | Series A (led) | 2023 | [Source](https://www.tx.ventures/portfolio) |
-| Helvengo | Insurtech | Seed (led) | 2021 | [Source](https://www.tx.ventures/portfolio) |
-| Monito | Money Transfer | Series A (led) | 2018 | [Source](https://www.tx.ventures/portfolio) |
-| neon | NeoBank | Series A and CLA round (led) | Not recorded | [Source](https://www.tx.ventures/portfolio) |
-| PriceHubble | Proptech | Series B | Not recorded | [Source](https://www.tx.ventures/portfolio) |
-| MoneyPark | Mortgage & Real Estate | exited 2022 | 2014 | [Source](https://www.tx.ventures/portfolio) |
-| Everon | Personal Finance | invested | 2021 | [Source](https://www.tx.ventures/portfolio) |
-| Lyfegen | Healthcare | led CHF 5m round | December 11, 2024 | [Source](https://www.tx.ventures/news) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Cashlink[^s-22201a41] | Tokenization | Series A (led) | 2023 |
+| Helvengo[^s-22201a41] | Insurtech | Seed (led) | 2021 |
+| Monito[^s-22201a41] | Money Transfer | Series A (led) | 2018 |
+| neon[^s-22201a41] | NeoBank | Series A and CLA round (led) | Not recorded |
+| PriceHubble[^s-22201a41] | Proptech | Series B | Not recorded |
+| MoneyPark[^s-22201a41] | Mortgage & Real Estate | exited 2022 | 2014 |
+| Everon[^s-22201a41] | Personal Finance | invested | 2021 |
+| Lyfegen[^s-9beff01c] | Healthcare | led CHF 5m round | December 11, 2024 |
 
 ## People
 
-- [[public/people/tx.ventures--clarisse-lam-7469e2|Clarisse Lam]]: Investment Manager
-- [[public/people/tx.ventures--dr-ulrich-schmitt-75c64a|Dr. Ulrich Schmitt]]: Head of TX Investment Committee
-- [[public/people/tx.ventures--jens-schleuniger-d591c4|Jens Schleuniger]]: Managing Partner
-- [[public/people/tx.ventures--klaudia-kasperczyk-ab44f2|Klaudia Kasperczyk]]: Principal
-- [[public/people/tx.ventures--krzysztof-bialkowski-e2fcfa|Krzysztof Bialkowski]]: Managing Partner
-- [[public/people/tx.ventures--laurent-oberholzer-51ea98|Laurent Oberholzer]]: Venture Partner
+- [Clarisse Lam](../people/tx.ventures--clarisse-lam-7469e2.md) - Investment Manager
+- [Dr. Ulrich Schmitt](../people/tx.ventures--dr-ulrich-schmitt-75c64a.md) - Head of TX Investment Committee
+- [Jens Schleuniger](../people/tx.ventures--jens-schleuniger-d591c4.md) - Managing Partner
+- [Klaudia Kasperczyk](../people/tx.ventures--klaudia-kasperczyk-ab44f2.md) - Principal
+- [Krzysztof Bialkowski](../people/tx.ventures--krzysztof-bialkowski-e2fcfa.md) - Managing Partner
+- [Laurent Oberholzer](../people/tx.ventures--laurent-oberholzer-51ea98.md) - Venture Partner
 
-## Sources
-
-- [Source](https://www.tx.ventures/)
-- [Source](https://www.tx.ventures/news)
-- [Source](https://www.tx.ventures/portfolio)
-- [Source](https://www.tx.ventures/team)
+[^s-535ae0a9]: <https://www.tx.ventures/>
+[^s-9beff01c]: <https://www.tx.ventures/news>
+[^s-22201a41]: <https://www.tx.ventures/portfolio>
+[^s-be89336d]: <https://www.tx.ventures/team>

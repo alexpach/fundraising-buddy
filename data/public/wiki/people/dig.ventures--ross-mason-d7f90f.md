@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Ross Mason
+description: Founding Partner at DIG Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-889efec0
+  resource: https://dig.ventures/team
+---
+
 # Ross Mason
 
-[[public/firms/dig.ventures|Firm profile]]
+[Firm profile](../firms/dig.ventures.md)
 
-Role: Founding Partner
+Role: Founding Partner[^s-889efec0]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://dig.ventures/team)
+[^s-889efec0]: <https://dig.ventures/team>

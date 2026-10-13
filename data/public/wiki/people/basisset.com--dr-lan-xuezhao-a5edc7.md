@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Dr. Lan Xuezhao
+description: Founder & Partner at Basis Set Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-7d23ba8f
+  resource: https://www.basisset.com/team
+---
+
 # Dr. Lan Xuezhao
 
-[[public/firms/basisset.com|Firm profile]]
+[Firm profile](../firms/basisset.com.md)
 
-Role: Founder & Partner
+Role: Founder & Partner[^s-7d23ba8f]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.basisset.com/team)
+[^s-7d23ba8f]: <https://www.basisset.com/team>

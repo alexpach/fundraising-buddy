@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Jackie Vullinghs
+description: Partner at AirTree Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-2342e1aa
+  resource: https://airtree.vc/team
+---
+
 # Jackie Vullinghs
 
-[[public/firms/airtree.vc|Firm profile]]
+[Firm profile](../firms/airtree.vc.md)
 
-Role: Partner
+Role: Partner[^s-2342e1aa]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://airtree.vc/team)
+[^s-2342e1aa]: <https://airtree.vc/team>

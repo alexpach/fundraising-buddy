@@ -1,48 +1,63 @@
 ---
+type: Investor Firm
+title: Tandem Capital
+description: seed-stage venture fund; seed; Food and beverage, Media and entertainment,
+  Construction technology, Transportation and logistics.
+resource: https://tandemcap.com
+tags:
+- investor-firm
+- directory
+domain: tandemcap.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 52
+status: draft
+sources:
+- id: s-9f7b0e4b
+  resource: https://tandemcap.com
+- id: s-d5d860b2
+  resource: https://tandemcap.com/
+- id: s-d033bfb2
+  resource: https://tandemcap.com/contact/
+- id: s-7e22535a
+  resource: https://tandemcap.com/portfolio/
+- id: s-0a9538b9
+  resource: https://www.crunchbase.com/organization/tandem-capital-2
 ---
 
 # Tandem Capital
-
-[Website](https://tandemcap.com)
-
-Domain: tandemcap.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** us ([source](https://www.crunchbase.com/organization/tandem-capital-2), as of 2026-04-19)
-- **About:** Tandem Capital is a Menlo Park-based seed fund "backing traditional industry disruption" , teams applying tech and go-to-market innovation to transportation, logistics, media, food/CPG, construction, and real estate. The firm leads or co-leads seed rounds with reserved follow-on capital and prefers Bay Area ties. ([source](https://www.crunchbase.com/organization/tandem-capital-2), as of 2026-04-19)
-- **Type:** seed-stage venture fund ([source](https://tandemcap.com/), as of not recorded)
-- **Investment strategies:** seed-stage investing, go-to-market innovation ([source](https://tandemcap.com/), as of not recorded)
-- **Stages:** seed ([source](https://tandemcap.com/), as of not recorded)
-- **Sectors:** Food and beverage, Media and entertainment, Construction technology, Transportation and logistics ([source](https://tandemcap.com/portfolio/), as of not recorded)
+- **Geographies:** us (as of 2026-04-19)[^s-0a9538b9]
+- **About:** Tandem Capital is a Menlo Park-based seed fund "backing traditional industry disruption" , teams applying tech and go-to-market innovation to transportation, logistics, media, food/CPG, construction, and real estate. The firm leads or co-leads seed rounds with reserved follow-on capital and prefers Bay Area ties. (as of 2026-04-19)[^s-0a9538b9]
+- **Type:** seed-stage venture fund[^s-d5d860b2]
+- **Investment strategies:** seed-stage investing, go-to-market innovation[^s-d5d860b2]
+- **Stages:** seed[^s-d5d860b2]
+- **Sectors:** Food and beverage, Media and entertainment, Construction technology, Transportation and logistics[^s-7e22535a]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Bellwether Coffee | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/tandem-capital-2) |
-| Curri | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/tandem-capital-2) |
-| Whistle | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/tandem-capital-2) |
-| Dispatch | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/tandem-capital-2) |
-| Spoiler Alert | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/tandem-capital-2) |
-| Vive | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/tandem-capital-2) |
-| Prisma | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/tandem-capital-2) |
-| SupplyPike | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/tandem-capital-2) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Bellwether Coffee[^s-0a9538b9] | Not recorded | Not recorded | Not recorded |
+| Curri[^s-0a9538b9] | Not recorded | Not recorded | Not recorded |
+| Whistle[^s-0a9538b9] | Not recorded | Not recorded | Not recorded |
+| Dispatch[^s-0a9538b9] | Not recorded | Not recorded | Not recorded |
+| Spoiler Alert[^s-0a9538b9] | Not recorded | Not recorded | Not recorded |
+| Vive[^s-0a9538b9] | Not recorded | Not recorded | Not recorded |
+| Prisma[^s-0a9538b9] | Not recorded | Not recorded | Not recorded |
+| SupplyPike[^s-0a9538b9] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://tandemcap.com)
-- [Source](https://tandemcap.com/)
-- [Source](https://tandemcap.com/contact/)
-- [Source](https://tandemcap.com/portfolio/)
-- [Source](https://www.crunchbase.com/organization/tandem-capital-2)
+[^s-9f7b0e4b]: <https://tandemcap.com>
+[^s-d5d860b2]: <https://tandemcap.com/>
+[^s-d033bfb2]: <https://tandemcap.com/contact/>
+[^s-7e22535a]: <https://tandemcap.com/portfolio/>
+[^s-0a9538b9]: <https://www.crunchbase.com/organization/tandem-capital-2>

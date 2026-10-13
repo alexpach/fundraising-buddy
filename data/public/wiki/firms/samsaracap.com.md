@@ -1,41 +1,54 @@
 ---
+type: Investor Firm
+title: Samsara BioCapital
+description: venture capital; biotechnology, oncology, immunology, neuroscience, life
+  sciences tools and diagnostics.
+resource: https://www.samsaracap.com
+tags:
+- investor-firm
+- directory
+domain: samsaracap.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 47
+status: draft
+sources:
+- id: s-c8a0ddce
+  resource: https://www.samsaracap.com
+- id: s-0dc20f91
+  resource: https://www.samsaracap.com/
+- id: s-891d353d
+  resource: https://www.samsaracap.com/portfolio/
+- id: s-99782fed
+  resource: https://www.samsaracap.com/team/
 ---
 
 # Samsara BioCapital
-
-[Website](https://www.samsaracap.com)
-
-Domain: samsaracap.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** us ([source](https://www.samsaracap.com), as of 2026-08-06)
-- **About:** Samsara BioCapital is a Palo Alto, California-based venture capital firm founded in 2016, dedicated to therapeutics investing across biotech, life sciences, and drug discovery. It runs $300M+ funds and has backed 88+ companies to date, primarily at Series A/B, including Nura Bio (the deal captured below). ([source](https://www.samsaracap.com), as of 2026-08-06)
-- **Type:** venture capital ([source](https://www.samsaracap.com/), as of not recorded)
-- **Investment strategies:** therapeutics investing, public equity ([source](https://www.samsaracap.com/), as of not recorded)
-- **Sectors:** biotechnology, oncology, immunology, neuroscience, life sciences tools and diagnostics ([source](https://www.samsaracap.com/portfolio/), as of not recorded)
+- **Geographies:** us (as of 2026-08-06)[^s-c8a0ddce]
+- **About:** Samsara BioCapital is a Palo Alto, California-based venture capital firm founded in 2016, dedicated to therapeutics investing across biotech, life sciences, and drug discovery. It runs $300M+ funds and has backed 88+ companies to date, primarily at Series A/B, including Nura Bio (the deal captured below). (as of 2026-08-06)[^s-c8a0ddce]
+- **Type:** venture capital[^s-0dc20f91]
+- **Investment strategies:** therapeutics investing, public equity[^s-0dc20f91]
+- **Sectors:** biotechnology, oncology, immunology, neuroscience, life sciences tools and diagnostics[^s-891d353d]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Nura Bio | Not recorded | Not recorded | Not recorded | [Source](https://www.samsaracap.com) |
-| ImmunOs Therapeutics | Not recorded | Not recorded | Not recorded | [Source](https://www.samsaracap.com) |
-| Dewpoint Therapeutics | Not recorded | Not recorded | Not recorded | [Source](https://www.samsaracap.com) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Nura Bio[^s-c8a0ddce] | Not recorded | Not recorded | Not recorded |
+| ImmunOs Therapeutics[^s-c8a0ddce] | Not recorded | Not recorded | Not recorded |
+| Dewpoint Therapeutics[^s-c8a0ddce] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.samsaracap.com)
-- [Source](https://www.samsaracap.com/)
-- [Source](https://www.samsaracap.com/portfolio/)
-- [Source](https://www.samsaracap.com/team/)
+[^s-c8a0ddce]: <https://www.samsaracap.com>
+[^s-0dc20f91]: <https://www.samsaracap.com/>
+[^s-891d353d]: <https://www.samsaracap.com/portfolio/>
+[^s-99782fed]: <https://www.samsaracap.com/team/>

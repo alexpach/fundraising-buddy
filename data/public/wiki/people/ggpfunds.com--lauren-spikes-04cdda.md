@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Lauren Spikes
+description: Senior Associate at GGP Funds.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
+sources:
+- id: s-73afc7ed
+  resource: https://ggpfunds.com/teams/lauren-spikes
+---
+
 # Lauren Spikes
 
-[[public/firms/ggpfunds.com|Firm profile]]
+[Firm profile](../firms/ggpfunds.com.md)
 
-Role: Senior Associate
+Role: Senior Associate[^s-73afc7ed]
 
 Focus: Sourcing and executing new investment opportunities; portfolio-company support
 
-## Public sources
-
-- [Source](https://ggpfunds.com/teams/lauren-spikes)
+[^s-73afc7ed]: <https://ggpfunds.com/teams/lauren-spikes>

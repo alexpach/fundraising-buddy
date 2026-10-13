@@ -1,65 +1,74 @@
 ---
+type: Investor Firm
+title: Scale Venture Partners
+description: venture capital; Series A, Series B; AI, B2B software, vertical software,
+  DevTools and infrastructure, security.
+resource: https://scalevp.com
+tags:
+- investor-firm
+- sourced
+domain: scalevp.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 78
+sources:
+- id: s-5e54e8de
+  resource: https://www.scalevp.com/
+- id: s-a5f4fc0e
+  resource: https://www.scalevp.com/frequently-asked-questions
+- id: s-b4c4f328
+  resource: https://www.scalevp.com/press/bland-ai-emerges-from-stealth-with--16m-series-a-led-by-scale-venture-partners
 ---
 
 # Scale Venture Partners
 
-[Website](https://scalevp.com)
-
-Domain: scalevp.com
-
-Coverage: sourced
-
-Research date: 2026-10-04
-
 ## Public research
 
-- **HQ:** Bay Area ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
-- **Founded:** 2000 ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
-- **Geographies:** us, europe ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
-- **Check size min:** $5 million ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
-- **Check size max:** $50 million ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
-- **Latest fund:** Fund VIII, $900M, raised in 2022 ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
-- **Thesis quote:** AI and B2B software ([source](https://www.scalevp.com/frequently-asked-questions), as of None)
-- **Type:** venture capital ([source](https://www.scalevp.com/frequently-asked-questions), as of not recorded)
-- **Investment strategies:** early-stage venture capital ([source](https://www.scalevp.com/frequently-asked-questions), as of not recorded)
-- **Stages:** Series A, Series B ([source](https://www.scalevp.com/frequently-asked-questions), as of not recorded)
-- **Sectors:** AI, B2B software, vertical software, DevTools and infrastructure, security ([source](https://www.scalevp.com/frequently-asked-questions), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.scalevp.com/frequently-asked-questions), as of not recorded)
-- **AUM:** USD 2.8 billion (date not reported) ([source](https://www.scalevp.com/frequently-asked-questions), as of not recorded)
+- **HQ:** Bay Area (as of None)[^s-a5f4fc0e]
+- **Founded:** 2000 (as of None)[^s-a5f4fc0e]
+- **Geographies:** us, europe (as of None)[^s-a5f4fc0e]
+- **Check size min:** $5 million (as of None)[^s-a5f4fc0e]
+- **Check size max:** $50 million (as of None)[^s-a5f4fc0e]
+- **Latest fund:** Fund VIII, $900M, raised in 2022 (as of None)[^s-a5f4fc0e]
+- **Thesis quote:** AI and B2B software (as of None)[^s-a5f4fc0e]
+- **Type:** venture capital[^s-a5f4fc0e]
+- **Investment strategies:** early-stage venture capital[^s-a5f4fc0e]
+- **Stages:** Series A, Series B[^s-a5f4fc0e]
+- **Sectors:** AI, B2B software, vertical software, DevTools and infrastructure, security[^s-a5f4fc0e]
+- **Leads rounds:** yes[^s-a5f4fc0e]
+- **AUM:** USD 2.8 billion (date not reported)[^s-a5f4fc0e]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| DocuSign | B2B software | Not recorded | Not recorded | [Source](https://www.scalevp.com/frequently-asked-questions) |
-| Box | B2B software | Not recorded | Not recorded | [Source](https://www.scalevp.com/frequently-asked-questions) |
-| HubSpot | B2B software | Not recorded | Not recorded | [Source](https://www.scalevp.com/frequently-asked-questions) |
-| BILL | B2B software | Not recorded | Not recorded | [Source](https://www.scalevp.com/frequently-asked-questions) |
-| JFrog | B2B software | Not recorded | Not recorded | [Source](https://www.scalevp.com/frequently-asked-questions) |
-| Motive | B2B software | Not recorded | Not recorded | [Source](https://www.scalevp.com/frequently-asked-questions) |
-| CodeRabbit | AI | Not recorded | Not recorded | [Source](https://www.scalevp.com/frequently-asked-questions) |
-| Bland | AI | Not recorded | Not recorded | [Source](https://www.scalevp.com/frequently-asked-questions) |
-| GC AI | AI | Not recorded | Not recorded | [Source](https://www.scalevp.com/frequently-asked-questions) |
-| Fin | AI | Not recorded | Not recorded | [Source](https://www.scalevp.com/frequently-asked-questions) |
-| Paraform | AI | Not recorded | Not recorded | [Source](https://www.scalevp.com/frequently-asked-questions) |
-| Generalist | AI robotics | Not recorded | Not recorded | [Source](https://www.scalevp.com/frequently-asked-questions) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| DocuSign[^s-a5f4fc0e] | B2B software | Not recorded | Not recorded |
+| Box[^s-a5f4fc0e] | B2B software | Not recorded | Not recorded |
+| HubSpot[^s-a5f4fc0e] | B2B software | Not recorded | Not recorded |
+| BILL[^s-a5f4fc0e] | B2B software | Not recorded | Not recorded |
+| JFrog[^s-a5f4fc0e] | B2B software | Not recorded | Not recorded |
+| Motive[^s-a5f4fc0e] | B2B software | Not recorded | Not recorded |
+| CodeRabbit[^s-a5f4fc0e] | AI | Not recorded | Not recorded |
+| Bland[^s-a5f4fc0e] | AI | Not recorded | Not recorded |
+| GC AI[^s-a5f4fc0e] | AI | Not recorded | Not recorded |
+| Fin[^s-a5f4fc0e] | AI | Not recorded | Not recorded |
+| Paraform[^s-a5f4fc0e] | AI | Not recorded | Not recorded |
+| Generalist[^s-a5f4fc0e] | AI robotics | Not recorded | Not recorded |
 
 ## People
 
-- [[public/people/scalevp.com--alex-niehenke-8311fe|Alex Niehenke]]: Partner
-- [[public/people/scalevp.com--andy-vitus-f2607a|Andy Vitus]]: Partner
-- [[public/people/scalevp.com--ariel-tseitlin-551c3a|Ariel Tseitlin]]: Partner
-- [[public/people/scalevp.com--eric-anderson-a3335d|Eric Anderson]]: Venture Partner
-- [[public/people/scalevp.com--javier-redondo-b24b41|Javier Redondo]]: Partner
-- [[public/people/scalevp.com--jeremy-kaufmann-2dfa24|Jeremy Kaufmann]]: Partner
-- [[public/people/scalevp.com--max-abram-121ea2|Max Abram]]: Partner
-- [[public/people/scalevp.com--rory-o-driscoll-e9611f|Rory O'Driscoll]]: Partner
-- [[public/people/scalevp.com--siddharth-ramakrishnan-488b60|Siddharth Ramakrishnan]]: Partner
-- [[public/people/scalevp.com--stacey-bishop-62a341|Stacey Bishop]]: Partner
+- [Alex Niehenke](../people/scalevp.com--alex-niehenke-8311fe.md) - Partner
+- [Andy Vitus](../people/scalevp.com--andy-vitus-f2607a.md) - Partner
+- [Ariel Tseitlin](../people/scalevp.com--ariel-tseitlin-551c3a.md) - Partner
+- [Eric Anderson](../people/scalevp.com--eric-anderson-a3335d.md) - Venture Partner
+- [Javier Redondo](../people/scalevp.com--javier-redondo-b24b41.md) - Partner
+- [Jeremy Kaufmann](../people/scalevp.com--jeremy-kaufmann-2dfa24.md) - Partner
+- [Max Abram](../people/scalevp.com--max-abram-121ea2.md) - Partner
+- [Rory O'Driscoll](../people/scalevp.com--rory-o-driscoll-e9611f.md) - Partner
+- [Siddharth Ramakrishnan](../people/scalevp.com--siddharth-ramakrishnan-488b60.md) - Partner
+- [Stacey Bishop](../people/scalevp.com--stacey-bishop-62a341.md) - Partner
 
-## Sources
-
-- [Source](https://www.scalevp.com/)
-- [Source](https://www.scalevp.com/frequently-asked-questions)
-- [Source](https://www.scalevp.com/press/bland-ai-emerges-from-stealth-with--16m-series-a-led-by-scale-venture-partners)
+[^s-5e54e8de]: <https://www.scalevp.com/>
+[^s-a5f4fc0e]: <https://www.scalevp.com/frequently-asked-questions>
+[^s-b4c4f328]: <https://www.scalevp.com/press/bland-ai-emerges-from-stealth-with--16m-series-a-led-by-scale-venture-partners>

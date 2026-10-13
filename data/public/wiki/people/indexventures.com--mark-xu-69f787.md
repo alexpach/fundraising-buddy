@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Mark Xu
+description: Partner at Index Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-02T00:00:00Z'
+sources:
+- id: s-72111e43
+  resource: https://www.indexventures.com/team/mark-xu/
+---
+
 # Mark Xu
 
-[[public/firms/indexventures.com|Firm profile]]
+[Firm profile](../firms/indexventures.com.md)
 
-Role: Partner
+Role: Partner[^s-72111e43]
 
 Focus: cybersecurity, infrastructure, and AI
 
-## Public sources
-
-- [Source](https://www.indexventures.com/team/mark-xu/)
+[^s-72111e43]: <https://www.indexventures.com/team/mark-xu/>

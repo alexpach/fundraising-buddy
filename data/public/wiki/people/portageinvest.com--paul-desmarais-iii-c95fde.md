@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Paul Desmarais III
+description: Chairman and CEO of Sagard at Portage Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-4b6cdfcf
+  resource: https://portageinvest.com/team
+---
+
 # Paul Desmarais III
 
-[[public/firms/portageinvest.com|Firm profile]]
+[Firm profile](../firms/portageinvest.com.md)
 
-Role: Chairman and CEO of Sagard
+Role: Chairman and CEO of Sagard[^s-4b6cdfcf]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://portageinvest.com/team)
+[^s-4b6cdfcf]: <https://portageinvest.com/team>

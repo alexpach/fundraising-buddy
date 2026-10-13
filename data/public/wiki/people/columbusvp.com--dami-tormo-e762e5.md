@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Damià Tormo
+description: General Partner at Columbus Venture Partners.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-a13d4421
+  resource: https://columbusvp.com/equipo/
+---
+
 # Damià Tormo
 
-[[public/firms/columbusvp.com|Firm profile]]
+[Firm profile](../firms/columbusvp.com.md)
 
-Role: General Partner
+Role: General Partner[^s-a13d4421]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://columbusvp.com/equipo/)
+[^s-a13d4421]: <https://columbusvp.com/equipo/>

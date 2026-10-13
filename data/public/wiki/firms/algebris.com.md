@@ -1,28 +1,37 @@
 ---
+type: Investor Firm
+title: Algebris Investments
+description: independent global asset manager; financial services.
+resource: https://www.algebris.com
+tags:
+- investor-firm
+- directory
+domain: algebris.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 40
+status: draft
+sources:
+- id: s-7ec5163b
+  resource: https://media.algebris.com/content/Press-Release-Algebris-Investments_Geosec.pdf
+- id: s-e2dd0dba
+  resource: https://www.algebris.com
 ---
 
 # Algebris Investments
-
-[Website](https://www.algebris.com)
-
-Domain: algebris.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe, global ([source](https://www.algebris.com), as of 2026-08-06)
-- **Type:** independent global asset manager ([source](https://media.algebris.com/content/Press-Release-Algebris-Investments_Geosec.pdf), as of 2026-04-30)
-- **Investment strategies:** global credit and global equity, private equity solutions focused on green transition ([source](https://media.algebris.com/content/Press-Release-Algebris-Investments_Geosec.pdf), as of 2026-04-30)
-- **Legal structure:** independent asset manager with a private equity fund strategy ([source](https://media.algebris.com/content/Press-Release-Algebris-Investments_Geosec.pdf), as of 2026-04-30)
-- **Investment instruments:** credit, equity, private debt, private equity ([source](https://media.algebris.com/content/Press-Release-Algebris-Investments_Geosec.pdf), as of 2026-04-30)
-- **Sectors:** financial services ([source](https://media.algebris.com/content/Press-Release-Algebris-Investments_Geosec.pdf), as of 2026-04-30)
-- **AUM:** Approximately EUR 34 billion (as of 2025-12-31) ([source](https://media.algebris.com/content/Press-Release-Algebris-Investments_Geosec.pdf), as of 2025-12-31)
+- **Geographies:** europe, global (as of 2026-08-06)[^s-e2dd0dba]
+- **Type:** independent global asset manager (as of 2026-04-30)[^s-7ec5163b]
+- **Investment strategies:** global credit and global equity, private equity solutions focused on green transition (as of 2026-04-30)[^s-7ec5163b]
+- **Legal structure:** independent asset manager with a private equity fund strategy (as of 2026-04-30)[^s-7ec5163b]
+- **Investment instruments:** credit, equity, private debt, private equity (as of 2026-04-30)[^s-7ec5163b]
+- **Sectors:** financial services (as of 2026-04-30)[^s-7ec5163b]
+- **AUM:** Approximately EUR 34 billion (as of 2025-12-31) (as of 2025-12-31)[^s-7ec5163b]
 
 ## Portfolio
 
@@ -30,8 +39,7 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://media.algebris.com/content/Press-Release-Algebris-Investments_Geosec.pdf)
-- [Source](https://www.algebris.com)
+[^s-7ec5163b]: <https://media.algebris.com/content/Press-Release-Algebris-Investments_Geosec.pdf>
+[^s-e2dd0dba]: <https://www.algebris.com>

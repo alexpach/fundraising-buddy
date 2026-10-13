@@ -1,24 +1,30 @@
 ---
+type: Investor Firm
+title: Village Global
+description: vc; robotics, hardware, physical-ai.
+resource: https://villageglobal.vc
+tags:
+- investor-firm
+- directory
+domain: villageglobal.vc
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 13
+status: draft
+sources:
+- id: s-2959ef76
+  resource: https://villageglobal.vc
 ---
 
 # Village Global
-
-[Website](https://villageglobal.vc)
-
-Domain: villageglobal.vc
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://villageglobal.vc), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://villageglobal.vc), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://villageglobal.vc), as of not recorded)
+- **Type:** vc (as of 2026-04-24)[^s-2959ef76]
+- **Sectors:** robotics, hardware, physical-ai (as of 2026-04-24)[^s-2959ef76]
+- **Leads rounds:** unknown[^s-2959ef76]
 
 ## Portfolio
 
@@ -26,7 +32,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://villageglobal.vc)
+[^s-2959ef76]: <https://villageglobal.vc>

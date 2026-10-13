@@ -1,41 +1,46 @@
 ---
+type: Investor Firm
+title: Safran
+description: seed, series-a, growth; aerospace, defense, space, decarbonization, digital.
+resource: https://www.safran-group.com/
+tags:
+- investor-firm
+- directory
+domain: safran-group.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 28
+status: draft
+sources:
+- id: s-e61dfc7e
+  resource: https://www.safran-group.com/
 ---
 
 # Safran
-
-[Website](https://www.safran-group.com/)
-
-Domain: safran-group.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Stages:** seed, series-a, growth ([source](https://www.safran-group.com/), as of 2026-08-06)
-- **Geographies:** europe, global ([source](https://www.safran-group.com/), as of 2026-08-06)
-- **Sectors:** aerospace, defense, space, decarbonization, digital ([source](https://www.safran-group.com/), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://www.safran-group.com/), as of not recorded)
+- **Stages:** seed, series-a, growth (as of 2026-08-06)[^s-e61dfc7e]
+- **Geographies:** europe, global (as of 2026-08-06)[^s-e61dfc7e]
+- **Sectors:** aerospace, defense, space, decarbonization, digital (as of 2026-08-06)[^s-e61dfc7e]
+- **Leads rounds:** unknown[^s-e61dfc7e]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Ineratec | Not recorded | Not recorded | Not recorded | [Source](https://www.safran-group.com/) |
-| Avnos | Not recorded | Not recorded | Not recorded | [Source](https://www.safran-group.com/) |
-| Cranfield Aerospace Solutions | Not recorded | Not recorded | Not recorded | [Source](https://www.safran-group.com/) |
-| Vyoma | Not recorded | Not recorded | Not recorded | [Source](https://www.safran-group.com/) |
-| Numalis | Not recorded | Not recorded | Not recorded | [Source](https://www.safran-group.com/) |
-| SkyFive | Not recorded | Not recorded | Not recorded | [Source](https://www.safran-group.com/) |
-| Metavonics | Not recorded | Not recorded | Not recorded | [Source](https://www.safran-group.com/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Ineratec[^s-e61dfc7e] | Not recorded | Not recorded | Not recorded |
+| Avnos[^s-e61dfc7e] | Not recorded | Not recorded | Not recorded |
+| Cranfield Aerospace Solutions[^s-e61dfc7e] | Not recorded | Not recorded | Not recorded |
+| Vyoma[^s-e61dfc7e] | Not recorded | Not recorded | Not recorded |
+| Numalis[^s-e61dfc7e] | Not recorded | Not recorded | Not recorded |
+| SkyFive[^s-e61dfc7e] | Not recorded | Not recorded | Not recorded |
+| Metavonics[^s-e61dfc7e] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.safran-group.com/)
+[^s-e61dfc7e]: <https://www.safran-group.com/>

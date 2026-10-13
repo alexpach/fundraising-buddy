@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Josh Cohen
+description: Partner at City Light Capital.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-152dc30d
+  resource: https://citylight.vc/team
+---
+
 # Josh Cohen
 
-[[public/firms/citylight.vc|Firm profile]]
+[Firm profile](../firms/citylight.vc.md)
 
-Role: Partner
+Role: Partner[^s-152dc30d]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://citylight.vc/team)
+[^s-152dc30d]: <https://citylight.vc/team>

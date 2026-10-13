@@ -1,40 +1,48 @@
 ---
+type: Investor Firm
+title: Autonomy Ventures
+description: vc; pre-seed, seed; autonomous-systems, robotics, ai, drones, deep-tech,
+  hardware, defense, physical-ai.
+resource: https://autonomyventures.com
+tags:
+- investor-firm
+- directory
+domain: autonomyventures.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 55
+status: draft
+sources:
+- id: s-ee11da6a
+  resource: https://autonomyventures.com
+- id: s-cedef1ba
+  resource: https://www.crunchbase.com/organization/autonomy-ventures
 ---
 
 # Autonomy Ventures
-
-[Website](https://autonomyventures.com)
-
-Domain: autonomyventures.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/autonomy-ventures), as of 2026-04-19)
-- **Stages:** pre-seed, seed ([source](https://www.crunchbase.com/organization/autonomy-ventures), as of 2026-04-19)
-- **Geographies:** us ([source](https://www.crunchbase.com/organization/autonomy-ventures), as of 2026-04-19)
-- **Sectors:** autonomous-systems, robotics, ai, drones, deep-tech, hardware, defense, physical-ai ([source](https://www.crunchbase.com/organization/autonomy-ventures), as of 2026-04-19)
-- **Check size min:** 250K ([source](https://www.crunchbase.com/organization/autonomy-ventures), as of 2026-04-19)
-- **Check size max:** 2M ([source](https://www.crunchbase.com/organization/autonomy-ventures), as of 2026-04-19)
-- **Leads rounds:** unknown ([source](https://autonomyventures.com), as of not recorded)
-- **About:** Autonomy Ventures is an early-stage venture firm focused on autonomous systems, robotics, and AI. The firm backs founders building the next generation of intelligent machines and software-defined autonomous platforms. ([source](https://www.crunchbase.com/organization/autonomy-ventures), as of 2026-04-19)
+- **Type:** vc (as of 2026-04-19)[^s-cedef1ba]
+- **Stages:** pre-seed, seed (as of 2026-04-19)[^s-cedef1ba]
+- **Geographies:** us (as of 2026-04-19)[^s-cedef1ba]
+- **Sectors:** autonomous-systems, robotics, ai, drones, deep-tech, hardware, defense, physical-ai (as of 2026-04-19)[^s-cedef1ba]
+- **Check size min:** 250K (as of 2026-04-19)[^s-cedef1ba]
+- **Check size max:** 2M (as of 2026-04-19)[^s-cedef1ba]
+- **Leads rounds:** unknown[^s-ee11da6a]
+- **About:** Autonomy Ventures is an early-stage venture firm focused on autonomous systems, robotics, and AI. The firm backs founders building the next generation of intelligent machines and software-defined autonomous platforms. (as of 2026-04-19)[^s-cedef1ba]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Notable investments | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/autonomy-ventures) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Notable investments[^s-cedef1ba] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://autonomyventures.com)
-- [Source](https://www.crunchbase.com/organization/autonomy-ventures)
+[^s-ee11da6a]: <https://autonomyventures.com>
+[^s-cedef1ba]: <https://www.crunchbase.com/organization/autonomy-ventures>

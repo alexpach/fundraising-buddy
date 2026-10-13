@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Cyrill Osterwalder
+description: Operating Partner at Vi Partners.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-04573b13
+  resource: https://www.vipartners.ch/team
+---
+
 # Cyrill Osterwalder
 
-[[public/firms/vipartners.ch|Firm profile]]
+[Firm profile](../firms/vipartners.ch.md)
 
-Role: Operating Partner
+Role: Operating Partner[^s-04573b13]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.vipartners.ch/team)
+[^s-04573b13]: <https://www.vipartners.ch/team>

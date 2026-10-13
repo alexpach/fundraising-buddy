@@ -1,11 +1,24 @@
+---
+type: Investor
+title: Ann Chung
+description: Senior Managing Director and Global Head of Consumer for Blackstone Growth
+  at Blackstone Inc.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-02T00:00:00Z'
+sources:
+- id: s-19824d4d
+  resource: https://www.blackstone.com/the-firm/our-people/
+---
+
 # Ann Chung
 
-[[public/firms/blackstone.com|Firm profile]]
+[Firm profile](../firms/blackstone.com.md)
 
-Role: Senior Managing Director and Global Head of Consumer for Blackstone Growth
+Role: Senior Managing Director and Global Head of Consumer for Blackstone Growth[^s-19824d4d]
 
 Focus: Consumer
 
-## Public sources
-
-- [Source](https://www.blackstone.com/the-firm/our-people/)
+[^s-19824d4d]: <https://www.blackstone.com/the-firm/our-people/>

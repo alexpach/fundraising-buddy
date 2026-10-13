@@ -1,42 +1,47 @@
 ---
+type: Investor Firm
+title: Blockchange Ventures
+description: vc; seed, series-a; crypto, web3, defi, blockchain-infrastructure.
+resource: https://blockchange.vc
+tags:
+- investor-firm
+- directory
+domain: blockchange.vc
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 51
+status: draft
+sources:
+- id: s-a53200db
+  resource: https://blockchange.vc
 ---
 
 # Blockchange Ventures
-
-[Website](https://blockchange.vc)
-
-Domain: blockchange.vc
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://blockchange.vc), as of 2026-08-06)
-- **Stages:** seed, series-a ([source](https://blockchange.vc), as of 2026-08-06)
-- **Geographies:** us, global ([source](https://blockchange.vc), as of 2026-08-06)
-- **Sectors:** crypto, web3, defi, blockchain-infrastructure ([source](https://blockchange.vc), as of 2026-08-06)
-- **Leads rounds:** yes ([source](https://blockchange.vc), as of not recorded)
-- **About:** Blockchange Ventures is a New York-based venture firm founded in 2017 by Ken Seiff (with GPs Rob Schmults, Matthew Immerso, John Squire), investing exclusively in early-stage blockchain, crypto-native protocol, and decentralized-application companies. 100+ investments across 68 rounds (25 as lead), 62 active portfolio companies including Solana, NEAR Protocol, Flow, SKALE, and Axelar ([source](https://blockchange.vc), as of 2026-08-06)
+- **Type:** vc (as of 2026-08-06)[^s-a53200db]
+- **Stages:** seed, series-a (as of 2026-08-06)[^s-a53200db]
+- **Geographies:** us, global (as of 2026-08-06)[^s-a53200db]
+- **Sectors:** crypto, web3, defi, blockchain-infrastructure (as of 2026-08-06)[^s-a53200db]
+- **Leads rounds:** yes[^s-a53200db]
+- **About:** Blockchange Ventures is a New York-based venture firm founded in 2017 by Ken Seiff (with GPs Rob Schmults, Matthew Immerso, John Squire), investing exclusively in early-stage blockchain, crypto-native protocol, and decentralized-application companies. 100+ investments across 68 rounds (25 as lead), 62 active portfolio companies including Solana, NEAR Protocol, Flow, SKALE, and Axelar (as of 2026-08-06)[^s-a53200db]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Solana | Not recorded | Not recorded | Not recorded | [Source](https://blockchange.vc) |
-| NEAR Protocol | Not recorded | Not recorded | Not recorded | [Source](https://blockchange.vc) |
-| Flow | Not recorded | Not recorded | Not recorded | [Source](https://blockchange.vc) |
-| SKALE | Not recorded | Not recorded | Not recorded | [Source](https://blockchange.vc) |
-| Axelar | Not recorded | Not recorded | Not recorded | [Source](https://blockchange.vc) |
-| Cycles | Not recorded | Not recorded | Not recorded | [Source](https://blockchange.vc) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Solana[^s-a53200db] | Not recorded | Not recorded | Not recorded |
+| NEAR Protocol[^s-a53200db] | Not recorded | Not recorded | Not recorded |
+| Flow[^s-a53200db] | Not recorded | Not recorded | Not recorded |
+| SKALE[^s-a53200db] | Not recorded | Not recorded | Not recorded |
+| Axelar[^s-a53200db] | Not recorded | Not recorded | Not recorded |
+| Cycles[^s-a53200db] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://blockchange.vc)
+[^s-a53200db]: <https://blockchange.vc>

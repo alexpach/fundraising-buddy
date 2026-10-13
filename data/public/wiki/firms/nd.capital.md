@@ -1,25 +1,31 @@
 ---
+type: Investor Firm
+title: ND Capital
+description: vc; seed, series-a.
+resource: https://nd.capital
+tags:
+- investor-firm
+- directory
+domain: nd.capital
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 14
+status: draft
+sources:
+- id: s-7c366d8a
+  resource: https://nd.capital
 ---
 
 # ND Capital
-
-[Website](https://nd.capital)
-
-Domain: nd.capital
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://nd.capital), as of 2026-08-17)
-- **Stages:** seed, series-a ([source](https://nd.capital), as of 2026-08-17)
-- **Geographies:** global ([source](https://nd.capital), as of 2026-08-17)
-- **Leads rounds:** unknown ([source](https://nd.capital), as of not recorded)
+- **Type:** vc (as of 2026-08-17)[^s-7c366d8a]
+- **Stages:** seed, series-a (as of 2026-08-17)[^s-7c366d8a]
+- **Geographies:** global (as of 2026-08-17)[^s-7c366d8a]
+- **Leads rounds:** unknown[^s-7c366d8a]
 
 ## Portfolio
 
@@ -27,7 +33,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://nd.capital)
+[^s-7c366d8a]: <https://nd.capital>

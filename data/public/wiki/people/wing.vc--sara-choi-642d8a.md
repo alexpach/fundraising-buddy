@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Sara Choi
+description: Partner at Wing Venture Capital.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-18e31d03
+  resource: https://www.wing.vc/team
+---
+
 # Sara Choi
 
-[[public/firms/wing.vc|Firm profile]]
+[Firm profile](../firms/wing.vc.md)
 
-Role: Partner
+Role: Partner[^s-18e31d03]
 
 Focus: medicine and healthcare
 
-## Public sources
-
-- [Source](https://www.wing.vc/team)
+[^s-18e31d03]: <https://www.wing.vc/team>

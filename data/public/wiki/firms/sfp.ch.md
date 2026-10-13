@@ -1,26 +1,32 @@
 ---
+type: Investor Firm
+title: Swiss Finance & Property Group AG
+description: pe; real-estate, infrastructure, fund-management.
+resource: https://www.sfp.ch/en/
+tags:
+- investor-firm
+- directory
+domain: sfp.ch
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 28
+status: draft
+sources:
+- id: s-c5dafb3d
+  resource: https://www.sfp.ch/en/
 ---
 
 # Swiss Finance & Property Group AG
-
-[Website](https://www.sfp.ch/en/)
-
-Domain: sfp.ch
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://www.sfp.ch/en/), as of 2026-08-06)
-- **Geographies:** europe, switzerland ([source](https://www.sfp.ch/en/), as of 2026-08-06)
-- **Sectors:** real-estate, infrastructure, fund-management ([source](https://www.sfp.ch/en/), as of 2026-08-06)
-- **AUM:** CHF 14.8B ([source](https://www.sfp.ch/en/), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://www.sfp.ch/en/), as of not recorded)
+- **Type:** pe (as of 2026-08-06)[^s-c5dafb3d]
+- **Geographies:** europe, switzerland (as of 2026-08-06)[^s-c5dafb3d]
+- **Sectors:** real-estate, infrastructure, fund-management (as of 2026-08-06)[^s-c5dafb3d]
+- **AUM:** CHF 14.8B (as of 2026-08-06)[^s-c5dafb3d]
+- **Leads rounds:** unknown[^s-c5dafb3d]
 
 ## Portfolio
 
@@ -28,7 +34,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.sfp.ch/en/)
+[^s-c5dafb3d]: <https://www.sfp.ch/en/>

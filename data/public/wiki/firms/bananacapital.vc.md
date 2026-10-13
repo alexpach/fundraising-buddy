@@ -1,42 +1,50 @@
 ---
+type: Investor Firm
+title: Banana Capital
+description: venture capital; pre-seed, seed.
+resource: https://www.bananacapital.vc
+tags:
+- investor-firm
+- directory
+domain: bananacapital.vc
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 41
+status: draft
+sources:
+- id: s-59bce8e8
+  resource: https://www.bananacapital.vc
+- id: s-5640b38f
+  resource: https://www.bananacapital.vc/
 ---
 
 # Banana Capital
-
-[Website](https://www.bananacapital.vc)
-
-Domain: bananacapital.vc
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** us, europe, apac ([source](https://www.bananacapital.vc), as of 2026-08-07)
-- **Check size max:** 250K ([source](https://www.bananacapital.vc), as of 2026-08-07)
-- **Type:** venture capital ([source](https://www.bananacapital.vc/), as of not recorded)
-- **Investment strategies:** early-stage venture capital ([source](https://www.bananacapital.vc/), as of not recorded)
-- **Stages:** pre-seed, seed ([source](https://www.bananacapital.vc/), as of not recorded)
+- **Geographies:** us, europe, apac (as of 2026-08-07)[^s-59bce8e8]
+- **Check size max:** 250K (as of 2026-08-07)[^s-59bce8e8]
+- **Type:** venture capital[^s-5640b38f]
+- **Investment strategies:** early-stage venture capital[^s-5640b38f]
+- **Stages:** pre-seed, seed[^s-5640b38f]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| BeReal | Not recorded | Not recorded | Not recorded | [Source](https://www.bananacapital.vc) |
-| Bun | Not recorded | Not recorded | Not recorded | [Source](https://www.bananacapital.vc) |
-| Chainguard | Not recorded | Not recorded | Not recorded | [Source](https://www.bananacapital.vc) |
-| Secureframe | Not recorded | Not recorded | Not recorded | [Source](https://www.bananacapital.vc) |
-| Liveblocks | Not recorded | Not recorded | Not recorded | [Source](https://www.bananacapital.vc) |
-| Primer | Not recorded | Not recorded | Not recorded | [Source](https://www.bananacapital.vc) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| BeReal[^s-59bce8e8] | Not recorded | Not recorded | Not recorded |
+| Bun[^s-59bce8e8] | Not recorded | Not recorded | Not recorded |
+| Chainguard[^s-59bce8e8] | Not recorded | Not recorded | Not recorded |
+| Secureframe[^s-59bce8e8] | Not recorded | Not recorded | Not recorded |
+| Liveblocks[^s-59bce8e8] | Not recorded | Not recorded | Not recorded |
+| Primer[^s-59bce8e8] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.bananacapital.vc)
-- [Source](https://www.bananacapital.vc/)
+[^s-59bce8e8]: <https://www.bananacapital.vc>
+[^s-5640b38f]: <https://www.bananacapital.vc/>

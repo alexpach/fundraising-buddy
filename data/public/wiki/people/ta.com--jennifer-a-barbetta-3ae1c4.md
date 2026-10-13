@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Jennifer A. Barbetta
+description: Managing Director and Chief Operating Officer at TA Associates.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
+sources:
+- id: s-16a8497a
+  resource: https://ta.com/team
+---
+
 # Jennifer A. Barbetta
 
-[[public/firms/ta.com|Firm profile]]
+[Firm profile](../firms/ta.com.md)
 
-Role: Managing Director and Chief Operating Officer
+Role: Managing Director and Chief Operating Officer[^s-16a8497a]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://ta.com/team)
+[^s-16a8497a]: <https://ta.com/team>

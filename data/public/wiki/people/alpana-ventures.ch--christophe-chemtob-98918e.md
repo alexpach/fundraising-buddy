@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Christophe Chemtob
+description: Partner - Geneva at Alpana Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-7f1b18d4
+  resource: https://alpana-ventures.ch/people/
+---
+
 # Christophe Chemtob
 
-[[public/firms/alpana-ventures.ch|Firm profile]]
+[Firm profile](../firms/alpana-ventures.ch.md)
 
-Role: Partner - Geneva
+Role: Partner - Geneva[^s-7f1b18d4]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://alpana-ventures.ch/people/)
+[^s-7f1b18d4]: <https://alpana-ventures.ch/people/>

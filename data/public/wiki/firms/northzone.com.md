@@ -1,64 +1,75 @@
 ---
+type: Investor Firm
+title: Northzone
+description: venture capital; seed, growth, pre-IPO, IPO; Fintech, Healthtech, SaaS,
+  Consumer.
+resource: https://northzone.com
+tags:
+- investor-firm
+- sourced
+domain: northzone.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 77
+sources:
+- id: s-83548533
+  resource: https://northzone.com/
+- id: s-98930c3f
+  resource: https://northzone.com/insights/weve-raised-e1bn-investing-from-seed-to-growth-in-category-defining-entrepreneurs
+- id: s-fc821017
+  resource: https://northzone.com/portfolio
+- id: s-a5e9484c
+  resource: https://www.reuters.com/markets/europe/venture-capital-firm-northzone-raises-1-bln-euros-2022-09-13/
 ---
 
 # Northzone
 
-[Website](https://northzone.com)
-
-Domain: northzone.com
-
-Coverage: sourced
-
-Research date: 2026-10-04
-
 ## Public research
 
-- **Founded:** 1996 ([source](https://northzone.com/), as of None)
-- **Geographies:** europe, us ([source](https://northzone.com/insights/weve-raised-e1bn-investing-from-seed-to-growth-in-category-defining-entrepreneurs), as of 2022-09)
-- **Offices:** London, New York, Berlin, Stockholm, Amsterdam ([source](https://northzone.com/), as of None)
-- **Latest fund:** EUR 1bn tenth fund, announced Sept 2022 ([source](https://www.reuters.com/markets/europe/venture-capital-firm-northzone-raises-1-bln-euros-2022-09-13/), as of 2022-09)
-- **Thesis quote:** Backing world-changing companies from inception to IPO ([source](https://northzone.com/), as of None)
-- **Type:** venture capital ([source](https://northzone.com/insights/weve-raised-e1bn-investing-from-seed-to-growth-in-category-defining-entrepreneurs), as of 2022-09)
-- **Investment strategies:** seed-stage venture, growth-stage venture ([source](https://northzone.com/insights/weve-raised-e1bn-investing-from-seed-to-growth-in-category-defining-entrepreneurs), as of 2022-09)
-- **Stages:** seed, growth, pre-IPO, IPO ([source](https://northzone.com/insights/weve-raised-e1bn-investing-from-seed-to-growth-in-category-defining-entrepreneurs), as of 2022-09)
-- **Sectors:** Fintech, Healthtech, SaaS, Consumer ([source](https://northzone.com/insights/weve-raised-e1bn-investing-from-seed-to-growth-in-category-defining-entrepreneurs), as of 2022-09)
-- **AUM:** Lower bound (over): USD 3.1 billion (date not reported) ([source](https://northzone.com/), as of not recorded)
+- **Founded:** 1996 (as of None)[^s-83548533]
+- **Geographies:** europe, us (as of 2022-09)[^s-98930c3f]
+- **Offices:** London, New York, Berlin, Stockholm, Amsterdam (as of None)[^s-83548533]
+- **Latest fund:** EUR 1bn tenth fund, announced Sept 2022 (as of 2022-09)[^s-a5e9484c]
+- **Thesis quote:** Backing world-changing companies from inception to IPO (as of None)[^s-83548533]
+- **Type:** venture capital (as of 2022-09)[^s-98930c3f]
+- **Investment strategies:** seed-stage venture, growth-stage venture (as of 2022-09)[^s-98930c3f]
+- **Stages:** seed, growth, pre-IPO, IPO (as of 2022-09)[^s-98930c3f]
+- **Sectors:** Fintech, Healthtech, SaaS, Consumer (as of 2022-09)[^s-98930c3f]
+- **AUM:** Lower bound (over): USD 3.1 billion (date not reported)[^s-83548533]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Spotify | Not recorded | Early (partnered stage); status IPO | 2008 (year shown on portfolio page) | [Source](https://northzone.com/portfolio) |
-| Klarna | Not recorded | Early (partnered stage); status IPO | 2015 (year shown on portfolio page) | [Source](https://northzone.com/portfolio) |
-| Personio | Not recorded | Early (partnered stage); status Active | 2017 (year shown on portfolio page) | [Source](https://northzone.com/portfolio) |
-| Spring Health | Not recorded | Early (partnered stage); status Active | 2020 (year shown on portfolio page) | [Source](https://northzone.com/portfolio) |
-| Blitzy | Not recorded | Growth (partnered stage); status Active | 2026 (year shown on portfolio page) | [Source](https://northzone.com/portfolio) |
-| Black Forest Labs | Not recorded | Early (partnered stage); status Active | 2024 (year shown on portfolio page) | [Source](https://northzone.com/portfolio) |
-| Avito | Not recorded | Early (partnered stage); status Acquired | 2010 (year shown on portfolio page) | [Source](https://northzone.com/portfolio) |
-| Zettle | Not recorded | Early (partnered stage); status Acquired | 2012 (year shown on portfolio page) | [Source](https://northzone.com/portfolio) |
-| Kahoot! | Not recorded | Early (partnered stage); status IPO | 2015 (year shown on portfolio page) | [Source](https://northzone.com/portfolio) |
-| Trustpilot | Not recorded | Early (partnered stage); status IPO | 2012 (year shown on portfolio page) | [Source](https://northzone.com/portfolio) |
-| StepStone | Not recorded | Early (partnered stage); status IPO | 1997 (year shown on portfolio page) | [Source](https://northzone.com/portfolio) |
-| TrueLayer | Not recorded | Early (partnered stage); status Active | 2018 (year shown on portfolio page) | [Source](https://northzone.com/portfolio) |
-| Zopa | Not recorded | Early (partnered stage); status Active | 2017 (year shown on portfolio page) | [Source](https://northzone.com/portfolio) |
-| Tandem Health | Not recorded | Early (partnered stage); status Active | 2024 (year shown on portfolio page) | [Source](https://northzone.com/portfolio) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Spotify[^s-fc821017] | Not recorded | Early (partnered stage); status IPO | 2008 (year shown on portfolio page) |
+| Klarna[^s-fc821017] | Not recorded | Early (partnered stage); status IPO | 2015 (year shown on portfolio page) |
+| Personio[^s-fc821017] | Not recorded | Early (partnered stage); status Active | 2017 (year shown on portfolio page) |
+| Spring Health[^s-fc821017] | Not recorded | Early (partnered stage); status Active | 2020 (year shown on portfolio page) |
+| Blitzy[^s-fc821017] | Not recorded | Growth (partnered stage); status Active | 2026 (year shown on portfolio page) |
+| Black Forest Labs[^s-fc821017] | Not recorded | Early (partnered stage); status Active | 2024 (year shown on portfolio page) |
+| Avito[^s-fc821017] | Not recorded | Early (partnered stage); status Acquired | 2010 (year shown on portfolio page) |
+| Zettle[^s-fc821017] | Not recorded | Early (partnered stage); status Acquired | 2012 (year shown on portfolio page) |
+| Kahoot![^s-fc821017] | Not recorded | Early (partnered stage); status IPO | 2015 (year shown on portfolio page) |
+| Trustpilot[^s-fc821017] | Not recorded | Early (partnered stage); status IPO | 2012 (year shown on portfolio page) |
+| StepStone[^s-fc821017] | Not recorded | Early (partnered stage); status IPO | 1997 (year shown on portfolio page) |
+| TrueLayer[^s-fc821017] | Not recorded | Early (partnered stage); status Active | 2018 (year shown on portfolio page) |
+| Zopa[^s-fc821017] | Not recorded | Early (partnered stage); status Active | 2017 (year shown on portfolio page) |
+| Tandem Health[^s-fc821017] | Not recorded | Early (partnered stage); status Active | 2024 (year shown on portfolio page) |
 
 ## People
 
-- [[public/people/northzone.com--elena-pantazi-083e9d|Elena Pantazi]]: Partner & Head of Platform
-- [[public/people/northzone.com--jeppe-zink-daad74|Jeppe Zink]]: Partner
-- [[public/people/northzone.com--jessica-schultz-ad8d09|Jessica Schultz]]: Partner
-- [[public/people/northzone.com--michiel-kotting-4d6082|Michiel Kotting]]: Partner
-- [[public/people/northzone.com--molly-alter-0ab3c1|Molly Alter]]: Partner
-- [[public/people/northzone.com--p-r-j-rgen-p-rson-e6d0b4|Pär-Jörgen Pärson]]: Partner
-- [[public/people/northzone.com--sam-endacott-2649f9|Sam Endacott]]: Partner
-- [[public/people/northzone.com--sanjot-malhi-fa2565|Sanjot Malhi]]: Partner
-- [[public/people/northzone.com--wendy-xiao-47831c|Wendy Xiao]]: Partner
+- [Elena Pantazi](../people/northzone.com--elena-pantazi-083e9d.md) - Partner & Head of Platform
+- [Jeppe Zink](../people/northzone.com--jeppe-zink-daad74.md) - Partner
+- [Jessica Schultz](../people/northzone.com--jessica-schultz-ad8d09.md) - Partner
+- [Michiel Kotting](../people/northzone.com--michiel-kotting-4d6082.md) - Partner
+- [Molly Alter](../people/northzone.com--molly-alter-0ab3c1.md) - Partner
+- [Pär-Jörgen Pärson](../people/northzone.com--p-r-j-rgen-p-rson-e6d0b4.md) - Partner
+- [Sam Endacott](../people/northzone.com--sam-endacott-2649f9.md) - Partner
+- [Sanjot Malhi](../people/northzone.com--sanjot-malhi-fa2565.md) - Partner
+- [Wendy Xiao](../people/northzone.com--wendy-xiao-47831c.md) - Partner
 
-## Sources
-
-- [Source](https://northzone.com/)
-- [Source](https://northzone.com/insights/weve-raised-e1bn-investing-from-seed-to-growth-in-category-defining-entrepreneurs)
-- [Source](https://northzone.com/portfolio)
-- [Source](https://www.reuters.com/markets/europe/venture-capital-firm-northzone-raises-1-bln-euros-2022-09-13/)
+[^s-83548533]: <https://northzone.com/>
+[^s-98930c3f]: <https://northzone.com/insights/weve-raised-e1bn-investing-from-seed-to-growth-in-category-defining-entrepreneurs>
+[^s-fc821017]: <https://northzone.com/portfolio>
+[^s-a5e9484c]: <https://www.reuters.com/markets/europe/venture-capital-firm-northzone-raises-1-bln-euros-2022-09-13/>

@@ -1,25 +1,35 @@
 ---
+type: Investor Firm
+title: 9Yards Capital
+description: technology investment firm; growth; critical infrastructure for foundational
+  industries.
+resource: https://9yardscapital.com
+tags:
+- investor-firm
+- directory
+domain: 9yardscapital.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 22
+status: draft
+sources:
+- id: s-0c883252
+  resource: https://9yardscapital.com
+- id: s-2d1f7547
+  resource: https://www.9yardscapital.com/
 ---
 
 # 9Yards Capital
-
-[Website](https://9yardscapital.com)
-
-Domain: 9yardscapital.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** technology investment firm ([source](https://www.9yardscapital.com/), as of not recorded)
-- **Investment strategies:** growth-stage investing ([source](https://www.9yardscapital.com/), as of not recorded)
-- **Stages:** growth ([source](https://www.9yardscapital.com/), as of not recorded)
-- **Sectors:** critical infrastructure for foundational industries ([source](https://www.9yardscapital.com/), as of not recorded)
+- **Type:** technology investment firm[^s-2d1f7547]
+- **Investment strategies:** growth-stage investing[^s-2d1f7547]
+- **Stages:** growth[^s-2d1f7547]
+- **Sectors:** critical infrastructure for foundational industries[^s-2d1f7547]
 
 ## Portfolio
 
@@ -27,8 +37,7 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://9yardscapital.com)
-- [Source](https://www.9yardscapital.com/)
+[^s-0c883252]: <https://9yardscapital.com>
+[^s-2d1f7547]: <https://www.9yardscapital.com/>

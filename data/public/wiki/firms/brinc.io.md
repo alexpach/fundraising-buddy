@@ -1,27 +1,42 @@
 ---
+type: Investor Firm
+title: Brinc
+description: accelerator; pre-seed, Series A; Digitalization, Decentralization, Decarbonization.
+resource: https://brinc.io
+tags:
+- investor-firm
+- directory
+domain: brinc.io
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 41
+status: draft
+sources:
+- id: s-37f72e79
+  resource: https://brinc.io
+- id: s-b31847ab
+  resource: https://brinc.io/
+- id: s-f9b6d53f
+  resource: https://brinc.io/investors
+- id: s-926eaf1a
+  resource: https://brinc.io/partners
+- id: s-c7a08659
+  resource: https://www.crunchbase.com/organization/brinc-io
 ---
 
 # Brinc
-
-[Website](https://brinc.io)
-
-Domain: brinc.io
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** global, apac ([source](https://www.crunchbase.com/organization/brinc-io), as of 2026-07-28)
-- **About:** Brinc is a Hong Kong–headquartered global venture accelerator founded in 2014 (Manav Gupta). Current positioning (2026 site): "Shaping the Future of Private Markets" , corporate/government accelerator programs, investor access to private deals, and founder support ([source](https://www.crunchbase.com/organization/brinc-io), as of 2026-07-28)
-- **Type:** accelerator ([source](https://brinc.io/partners), as of not recorded)
-- **Investment strategies:** private-market co-investment ([source](https://brinc.io/partners), as of not recorded)
-- **Stages:** pre-seed, Series A ([source](https://brinc.io/investors), as of not recorded)
-- **Sectors:** Digitalization, Decentralization, Decarbonization ([source](https://brinc.io/investors), as of not recorded)
+- **Geographies:** global, apac (as of 2026-07-28)[^s-c7a08659]
+- **About:** Brinc is a Hong Kong–headquartered global venture accelerator founded in 2014 (Manav Gupta). Current positioning (2026 site): "Shaping the Future of Private Markets" , corporate/government accelerator programs, investor access to private deals, and founder support (as of 2026-07-28)[^s-c7a08659]
+- **Type:** accelerator[^s-926eaf1a]
+- **Investment strategies:** private-market co-investment[^s-926eaf1a]
+- **Stages:** pre-seed, Series A[^s-f9b6d53f]
+- **Sectors:** Digitalization, Decentralization, Decarbonization[^s-f9b6d53f]
 
 ## Portfolio
 
@@ -29,11 +44,10 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://brinc.io)
-- [Source](https://brinc.io/)
-- [Source](https://brinc.io/investors)
-- [Source](https://brinc.io/partners)
-- [Source](https://www.crunchbase.com/organization/brinc-io)
+[^s-37f72e79]: <https://brinc.io>
+[^s-b31847ab]: <https://brinc.io/>
+[^s-f9b6d53f]: <https://brinc.io/investors>
+[^s-926eaf1a]: <https://brinc.io/partners>
+[^s-c7a08659]: <https://www.crunchbase.com/organization/brinc-io>

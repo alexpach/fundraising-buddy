@@ -1,11 +1,24 @@
+---
+type: Investor
+title: Anna Sane
+description: Portfolio Manager at Impact Invest (brand of SIIN AB (SVB), manager of
+  SIIN Capital AB).
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-acb6a0f0
+  resource: https://impactinvest.se/
+---
+
 # Anna Sane
 
-[[public/firms/impactinvest.se|Firm profile]]
+[Firm profile](../firms/impactinvest.se.md)
 
-Role: Portfolio Manager
+Role: Portfolio Manager[^s-acb6a0f0]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://impactinvest.se/)
+[^s-acb6a0f0]: <https://impactinvest.se/>

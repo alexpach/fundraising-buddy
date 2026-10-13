@@ -1,11 +1,23 @@
+---
+type: Investor
+title: D.A. Wallach
+description: General Partner at Time BioVentures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-ef453855
+  resource: https://timebioventures.com/team-1/category/Core+Team
+---
+
 # D.A. Wallach
 
-[[public/firms/timebioventures.com|Firm profile]]
+[Firm profile](../firms/timebioventures.com.md)
 
-Role: General Partner
+Role: General Partner[^s-ef453855]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://timebioventures.com/team-1/category/Core+Team)
+[^s-ef453855]: <https://timebioventures.com/team-1/category/Core+Team>

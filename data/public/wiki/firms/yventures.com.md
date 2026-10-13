@@ -1,27 +1,35 @@
 ---
+type: Investor Firm
+title: Y Ventures
+description: vc; seed; consumer-internet.
+resource: https://www.yventures.com/
+tags:
+- investor-firm
+- directory
+domain: yventures.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 40
+status: draft
+sources:
+- id: s-389c469b
+  resource: https://www.crunchbase.com/organization/youniversity-ventures
+- id: s-5b3567c5
+  resource: https://www.yventures.com/
 ---
 
 # Y Ventures
-
-[Website](https://www.yventures.com/)
-
-Domain: yventures.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/youniversity-ventures), as of 2026-08-06)
-- **Stages:** seed ([source](https://www.crunchbase.com/organization/youniversity-ventures), as of 2026-08-06)
-- **Geographies:** us ([source](https://www.crunchbase.com/organization/youniversity-ventures), as of 2026-08-06)
-- **Sectors:** consumer-internet ([source](https://www.crunchbase.com/organization/youniversity-ventures), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://www.yventures.com/), as of not recorded)
-- **About:** Y Ventures (formerly Youniversity Ventures) is an early-stage venture investment group founded by YouTube co-founder Jawed Karim together with Keith Rabois and Kevin Hartz. It backs internet/consumer-space founders, historically with a focus on students and first-time entrepreneurs ([source](https://www.crunchbase.com/organization/youniversity-ventures), as of 2026-08-06)
+- **Type:** vc (as of 2026-08-06)[^s-389c469b]
+- **Stages:** seed (as of 2026-08-06)[^s-389c469b]
+- **Geographies:** us (as of 2026-08-06)[^s-389c469b]
+- **Sectors:** consumer-internet (as of 2026-08-06)[^s-389c469b]
+- **Leads rounds:** unknown[^s-5b3567c5]
+- **About:** Y Ventures (formerly Youniversity Ventures) is an early-stage venture investment group founded by YouTube co-founder Jawed Karim together with Keith Rabois and Kevin Hartz. It backs internet/consumer-space founders, historically with a focus on students and first-time entrepreneurs (as of 2026-08-06)[^s-389c469b]
 
 ## Portfolio
 
@@ -29,8 +37,7 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.crunchbase.com/organization/youniversity-ventures)
-- [Source](https://www.yventures.com/)
+[^s-389c469b]: <https://www.crunchbase.com/organization/youniversity-ventures>
+[^s-5b3567c5]: <https://www.yventures.com/>

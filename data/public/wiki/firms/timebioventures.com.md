@@ -1,52 +1,67 @@
 ---
+type: Investor Firm
+title: Time BioVentures
+description: venture capital; early-stage; Therapeutics, Diagnostics, Research Tools,
+  Devices, Care Delivery.
+resource: https://timebioventures.com
+tags:
+- investor-firm
+- sourced
+domain: timebioventures.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 80
+sources:
+- id: s-8325976e
+  resource: https://timebioventures.com
+- id: s-8a3e329a
+  resource: https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html
+- id: s-c56da73a
+  resource: https://www.timebioventures.com/
+- id: s-54ba742e
+  resource: https://www.timebioventures.com/healthcare-investment-news/time-bioventures-completes-its-first-investment-with-a-1m-convertible-note-in-iterative-scopes
+- id: s-3d01b264
+  resource: https://www.timebioventures.com/healthcare-startups
+- id: s-7f9e8dc4
+  resource: https://www.timebioventures.com/portfolio
 ---
 
 # Time BioVentures
 
-[Website](https://timebioventures.com)
-
-Domain: timebioventures.com
-
-Coverage: sourced
-
-Research date: 2026-10-04
-
 ## Public research
 
-- **HQ:** Southern California ([source](https://timebioventures.com), as of None)
-- **Geographies:** us ([source](https://timebioventures.com), as of None)
-- **Latest fund:** Time BioVentures I, LP closed October 2022 at $100 million AUM ([source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html), as of 2022-10)
-- **Thesis quote:** We finance brilliant entrepreneurs with game-changing technologies to give patients more of life's most valuable asset: time. ([source](https://timebioventures.com), as of None)
-- **LPs:** Chris Sacca, Ron Burkle, Wildcat Partner Holdings ([source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html), as of 2022-10)
-- **Coinvestors:** Adams Street Partners, Hummingbird Ventures, Baillie Gifford, Neotribe Ventures, Norwest Venture Partners ([source](https://timebioventures.com), as of None)
-- **Type:** venture capital ([source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html), as of 2022-10)
-- **Investment strategies:** early-stage life sciences investing ([source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html), as of 2022-10)
-- **Stages:** early-stage ([source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html), as of 2022-10)
-- **Sectors:** Therapeutics, Diagnostics, Research Tools, Devices, Care Delivery ([source](https://www.timebioventures.com/healthcare-startups), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.timebioventures.com/), as of not recorded)
+- **HQ:** Southern California (as of None)[^s-8325976e]
+- **Geographies:** us (as of None)[^s-8325976e]
+- **Latest fund:** Time BioVentures I, LP closed October 2022 at $100 million AUM (as of 2022-10)[^s-8a3e329a]
+- **Thesis quote:** We finance brilliant entrepreneurs with game-changing technologies to give patients more of life's most valuable asset: time. (as of None)[^s-8325976e]
+- **LPs:** Chris Sacca, Ron Burkle, Wildcat Partner Holdings (as of 2022-10)[^s-8a3e329a]
+- **Coinvestors:** Adams Street Partners, Hummingbird Ventures, Baillie Gifford, Neotribe Ventures, Norwest Venture Partners (as of None)[^s-8325976e]
+- **Type:** venture capital (as of 2022-10)[^s-8a3e329a]
+- **Investment strategies:** early-stage life sciences investing (as of 2022-10)[^s-8a3e329a]
+- **Stages:** early-stage (as of 2022-10)[^s-8a3e329a]
+- **Sectors:** Therapeutics, Diagnostics, Research Tools, Devices, Care Delivery[^s-3d01b264]
+- **Leads rounds:** yes[^s-c56da73a]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Phantom Neuro | Devices | $6M seed, led by Time BioVentures | Not recorded | [Source](https://timebioventures.com) |
-| BillionToOne | Diagnostics | Series C ($125M round) | Not recorded | [Source](https://timebioventures.com) |
-| Neuralink | Devices | initial investment of Fund I | 2022-10 | [Source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html) |
-| Kling Biotherapeutics | Therapeutics | initial investment of Fund I | 2022-10 | [Source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html) |
-| Iterative Scopes | Diagnostics / AI | first investment (Dec 2020 convertible note); follow-on in $30M Series A | 2020-12 | [Source](https://www.timebioventures.com/healthcare-investment-news/time-bioventures-completes-its-first-investment-with-a-1m-convertible-note-in-iterative-scopes) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Phantom Neuro[^s-8325976e] | Devices | $6M seed, led by Time BioVentures | Not recorded |
+| BillionToOne[^s-8325976e] | Diagnostics | Series C ($125M round) | Not recorded |
+| Neuralink[^s-8a3e329a] | Devices | initial investment of Fund I | 2022-10 |
+| Kling Biotherapeutics[^s-8a3e329a] | Therapeutics | initial investment of Fund I | 2022-10 |
+| Iterative Scopes[^s-54ba742e] | Diagnostics / AI | first investment (Dec 2020 convertible note); follow-on in $30M Series A | 2020-12 |
 
 ## People
 
-- [[public/people/timebioventures.com--d-a-wallach-6724a5|D.A. Wallach]]: General Partner
-- [[public/people/timebioventures.com--ryan-moriarty-e5da5b|Ryan Moriarty]]: Associate
-- [[public/people/timebioventures.com--tim-wright-m-d-0ea807|Tim Wright, M.D.]]: General Partner
+- [D.A. Wallach](../people/timebioventures.com--d-a-wallach-6724a5.md) - General Partner
+- [Ryan Moriarty](../people/timebioventures.com--ryan-moriarty-e5da5b.md) - Associate
+- [Tim Wright, M.D.](../people/timebioventures.com--tim-wright-m-d-0ea807.md) - General Partner
 
-## Sources
-
-- [Source](https://timebioventures.com)
-- [Source](https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html)
-- [Source](https://www.timebioventures.com/)
-- [Source](https://www.timebioventures.com/healthcare-investment-news/time-bioventures-completes-its-first-investment-with-a-1m-convertible-note-in-iterative-scopes)
-- [Source](https://www.timebioventures.com/healthcare-startups)
-- [Source](https://www.timebioventures.com/portfolio)
+[^s-8325976e]: <https://timebioventures.com>
+[^s-8a3e329a]: <https://www.prnewswire.com/news-releases/time-bioventures-launches-unconventional-new-biotech-fund-with-100-million-aum-and-a-list-backers-301659398.html>
+[^s-c56da73a]: <https://www.timebioventures.com/>
+[^s-54ba742e]: <https://www.timebioventures.com/healthcare-investment-news/time-bioventures-completes-its-first-investment-with-a-1m-convertible-note-in-iterative-scopes>
+[^s-3d01b264]: <https://www.timebioventures.com/healthcare-startups>
+[^s-7f9e8dc4]: <https://www.timebioventures.com/portfolio>

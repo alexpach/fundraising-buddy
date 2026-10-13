@@ -1,47 +1,58 @@
 ---
+type: Investor Firm
+title: DeepWork Capital
+description: venture capital firm; seed, series A; life sciences, space technology,
+  B2B SaaS.
+resource: https://www.deepworkcapital.com
+tags:
+- investor-firm
+- directory
+domain: deepworkcapital.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 61
+status: draft
+sources:
+- id: s-786f98c5
+  resource: https://www.deepworkcapital.com
+- id: s-7155fb26
+  resource: https://www.deepworkcapital.com/
+- id: s-8e0e097b
+  resource: https://www.deepworkcapital.com/circuitry-ai-closes-seed-funding
 ---
 
 # DeepWork Capital
-
-[Website](https://www.deepworkcapital.com)
-
-Domain: deepworkcapital.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** us ([source](https://www.deepworkcapital.com), as of 2026-08-06)
-- **About:** DeepWork Capital is an early-stage venture firm founded in 2015 and based in Orlando, Florida; it was previously known as the FAN Fund. It invests at seed and Series A in technology and life sciences, and is explicit that its thesis is geographic as much as sectoral , it targets globally scalable companies built in US regions that venture capital has historically under-served, chiefly Florida and  ([source](https://www.deepworkcapital.com), as of 2026-08-06)
-- **Type:** venture capital firm ([source](https://www.deepworkcapital.com/), as of not recorded)
-- **Investment strategies:** early-stage venture capital ([source](https://www.deepworkcapital.com/), as of not recorded)
-- **Stages:** seed, series A ([source](https://www.deepworkcapital.com/), as of not recorded)
-- **Sectors:** life sciences, space technology, B2B SaaS ([source](https://www.deepworkcapital.com/), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.deepworkcapital.com/circuitry-ai-closes-seed-funding), as of not recorded)
+- **Geographies:** us (as of 2026-08-06)[^s-786f98c5]
+- **About:** DeepWork Capital is an early-stage venture firm founded in 2015 and based in Orlando, Florida; it was previously known as the FAN Fund. It invests at seed and Series A in technology and life sciences, and is explicit that its thesis is geographic as much as sectoral , it targets globally scalable companies built in US regions that venture capital has historically under-served, chiefly Florida and  (as of 2026-08-06)[^s-786f98c5]
+- **Type:** venture capital firm[^s-7155fb26]
+- **Investment strategies:** early-stage venture capital[^s-7155fb26]
+- **Stages:** seed, series A[^s-7155fb26]
+- **Sectors:** life sciences, space technology, B2B SaaS[^s-7155fb26]
+- **Leads rounds:** yes[^s-8e0e097b]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Cardurion Pharmaceuticals | Not recorded | Not recorded | Not recorded | [Source](https://www.deepworkcapital.com) |
-| Astrocyte Pharmaceuticals | Not recorded | Not recorded | Not recorded | [Source](https://www.deepworkcapital.com) |
-| Aegle Therapeutics | Not recorded | Not recorded | Not recorded | [Source](https://www.deepworkcapital.com) |
-| Canaery | Not recorded | Not recorded | Not recorded | [Source](https://www.deepworkcapital.com) |
-| Caspia Technologies | Not recorded | Not recorded | Not recorded | [Source](https://www.deepworkcapital.com) |
-| Allergy Amulet | Not recorded | Not recorded | Not recorded | [Source](https://www.deepworkcapital.com) |
-| Circuitry.AI | Not recorded | Not recorded | Not recorded | [Source](https://www.deepworkcapital.com) |
-| AbFero Pharmaceuticals | Not recorded | Not recorded | Not recorded | [Source](https://www.deepworkcapital.com) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Cardurion Pharmaceuticals[^s-786f98c5] | Not recorded | Not recorded | Not recorded |
+| Astrocyte Pharmaceuticals[^s-786f98c5] | Not recorded | Not recorded | Not recorded |
+| Aegle Therapeutics[^s-786f98c5] | Not recorded | Not recorded | Not recorded |
+| Canaery[^s-786f98c5] | Not recorded | Not recorded | Not recorded |
+| Caspia Technologies[^s-786f98c5] | Not recorded | Not recorded | Not recorded |
+| Allergy Amulet[^s-786f98c5] | Not recorded | Not recorded | Not recorded |
+| Circuitry.AI[^s-786f98c5] | Not recorded | Not recorded | Not recorded |
+| AbFero Pharmaceuticals[^s-786f98c5] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.deepworkcapital.com)
-- [Source](https://www.deepworkcapital.com/)
-- [Source](https://www.deepworkcapital.com/circuitry-ai-closes-seed-funding)
+[^s-786f98c5]: <https://www.deepworkcapital.com>
+[^s-7155fb26]: <https://www.deepworkcapital.com/>
+[^s-8e0e097b]: <https://www.deepworkcapital.com/circuitry-ai-closes-seed-funding>

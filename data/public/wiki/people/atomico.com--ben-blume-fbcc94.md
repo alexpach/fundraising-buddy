@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Ben Blume
+description: Partner at Atomico.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-02T00:00:00Z'
+sources:
+- id: s-36aedc8f
+  resource: https://atomico.com/team/ben-blume
+---
+
 # Ben Blume
 
-[[public/firms/atomico.com|Firm profile]]
+[Firm profile](../firms/atomico.com.md)
 
-Role: Partner
+Role: Partner[^s-36aedc8f]
 
 Focus: AI automating core enterprise functions and advanced software in complex physical industries
 
-## Public sources
-
-- [Source](https://atomico.com/team/ben-blume)
+[^s-36aedc8f]: <https://atomico.com/team/ben-blume>

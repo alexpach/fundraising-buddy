@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Rama Bethmangalkar
+description: Managing Director, India at Qualcomm Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-25T00:00:00Z'
+sources:
+- id: s-74f44ffe
+  resource: https://www.qualcommventures.com/team/
+---
+
 # Rama Bethmangalkar
 
-[[public/firms/qualcommventures.com|Firm profile]]
+[Firm profile](../firms/qualcommventures.com.md)
 
-Role: Managing Director, India
+Role: Managing Director, India[^s-74f44ffe]
 
 Focus: India
 
-## Public sources
-
-- [Source](https://www.qualcommventures.com/team/)
+[^s-74f44ffe]: <https://www.qualcommventures.com/team/>

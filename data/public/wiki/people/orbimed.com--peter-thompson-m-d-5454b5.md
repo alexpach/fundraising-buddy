@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Peter Thompson, M.D.
+description: General Partner at OrbiMed.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-f88842c1
+  resource: https://www.orbimed.com/leadership/
+---
+
 # Peter Thompson, M.D.
 
-[[public/firms/orbimed.com|Firm profile]]
+[Firm profile](../firms/orbimed.com.md)
 
-Role: General Partner
+Role: General Partner[^s-f88842c1]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.orbimed.com/leadership/)
+[^s-f88842c1]: <https://www.orbimed.com/leadership/>

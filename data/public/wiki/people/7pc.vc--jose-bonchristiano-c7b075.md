@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Jose Bonchristiano
+description: Partner Advisor, LPAC Chair at 7percent Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
+sources:
+- id: s-a0f9f29a
+  resource: https://7pc.vc/team
+---
+
 # Jose Bonchristiano
 
-[[public/firms/7pc.vc|Firm profile]]
+[Firm profile](../firms/7pc.vc.md)
 
-Role: Partner Advisor, LPAC Chair
+Role: Partner Advisor, LPAC Chair[^s-a0f9f29a]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://7pc.vc/team)
+[^s-a0f9f29a]: <https://7pc.vc/team>

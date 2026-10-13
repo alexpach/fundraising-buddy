@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Simon Faure
+description: Head of Interogo Global Private Equity at Interogo Holding.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-09-30T00:00:00Z'
+sources:
+- id: s-6f342ccb
+  resource: https://www.interogo-group.com/our-team/head-of-business/
+---
+
 # Simon Faure
 
-[[public/firms/interogo-group.com|Firm profile]]
+[Firm profile](../firms/interogo-group.com.md)
 
-Role: Head of Interogo Global Private Equity
+Role: Head of Interogo Global Private Equity[^s-6f342ccb]
 
 Focus: Funds and co-investments
 
-## Public sources
-
-- [Source](https://www.interogo-group.com/our-team/head-of-business/)
+[^s-6f342ccb]: <https://www.interogo-group.com/our-team/head-of-business/>

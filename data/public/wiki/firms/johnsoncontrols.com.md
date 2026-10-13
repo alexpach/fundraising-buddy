@@ -1,23 +1,29 @@
 ---
+type: Investor Firm
+title: Johnson Controls
+description: cvc.
+resource: https://www.johnsoncontrols.com
+tags:
+- investor-firm
+- directory
+domain: johnsoncontrols.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 5
+status: draft
+sources:
+- id: s-fb6c2795
+  resource: https://www.johnsoncontrols.com
 ---
 
 # Johnson Controls
-
-[Website](https://www.johnsoncontrols.com)
-
-Domain: johnsoncontrols.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://www.johnsoncontrols.com), as of 2026-04-25)
-- **Leads rounds:** unknown ([source](https://www.johnsoncontrols.com), as of not recorded)
+- **Type:** cvc (as of 2026-04-25)[^s-fb6c2795]
+- **Leads rounds:** unknown[^s-fb6c2795]
 
 ## Portfolio
 
@@ -25,7 +31,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.johnsoncontrols.com)
+[^s-fb6c2795]: <https://www.johnsoncontrols.com>

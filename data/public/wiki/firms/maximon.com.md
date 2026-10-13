@@ -1,25 +1,36 @@
 ---
+type: Investor Firm
+title: Maximon AG
+description: company builder; longevity and healthy aging, senior services.
+resource: https://maximon.com
+tags:
+- investor-firm
+- directory
+domain: maximon.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 23
+status: draft
+sources:
+- id: s-41218ad2
+  resource: https://maximon.com
+- id: s-99c1372a
+  resource: https://www.maximon.com/about
+- id: s-7a0110db
+  resource: https://www.maximon.com/company-builder
 ---
 
 # Maximon AG
-
-[Website](https://maximon.com)
-
-Domain: maximon.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe ([source](https://maximon.com), as of 2026-08-17)
-- **Type:** company builder ([source](https://www.maximon.com/company-builder), as of not recorded)
-- **Investment strategies:** venture building ([source](https://www.maximon.com/company-builder), as of not recorded)
-- **Sectors:** longevity and healthy aging, senior services ([source](https://www.maximon.com/about), as of not recorded)
+- **Geographies:** europe (as of 2026-08-17)[^s-41218ad2]
+- **Type:** company builder[^s-7a0110db]
+- **Investment strategies:** venture building[^s-7a0110db]
+- **Sectors:** longevity and healthy aging, senior services[^s-99c1372a]
 
 ## Portfolio
 
@@ -27,9 +38,8 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://maximon.com)
-- [Source](https://www.maximon.com/about)
-- [Source](https://www.maximon.com/company-builder)
+[^s-41218ad2]: <https://maximon.com>
+[^s-99c1372a]: <https://www.maximon.com/about>
+[^s-7a0110db]: <https://www.maximon.com/company-builder>

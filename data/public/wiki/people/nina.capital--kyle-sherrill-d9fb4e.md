@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Kyle Sherrill
+description: investment manager at Nina Capital SGEIC, S.A. (Nina Capital).
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-ad37b612
+  resource: https://www.nina.capital/team
+---
+
 # Kyle Sherrill
 
-[[public/firms/nina.capital|Firm profile]]
+[Firm profile](../firms/nina.capital.md)
 
-Role: investment manager
+Role: investment manager[^s-ad37b612]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.nina.capital/team)
+[^s-ad37b612]: <https://www.nina.capital/team>

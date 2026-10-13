@@ -1,46 +1,57 @@
 ---
+type: Investor Firm
+title: Alpaca VC
+description: venture capital; pre-seed, seed; Manufacturing, Logistics and supply
+  chain, Energy, Construction and infrastructure, Defense, Commerce infrastructure.
+resource: https://alpaca.vc
+tags:
+- investor-firm
+- directory
+domain: alpaca.vc
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 56
+status: draft
+sources:
+- id: s-69c17502
+  resource: https://alpaca.vc
+- id: s-6f0122eb
+  resource: https://alpaca.vc/approach
+- id: s-8b9c08af
+  resource: https://www.crunchbase.com/organization/alpaca-vc
 ---
 
 # Alpaca VC
-
-[Website](https://alpaca.vc)
-
-Domain: alpaca.vc
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** us ([source](https://www.crunchbase.com/organization/alpaca-vc), as of 2026-04-19)
-- **About:** Alpaca VC is a New York City venture firm founded by former operators that invests in real estate and commerce startups "at the intersection of atoms and algorithms" , manufacturing, energy, logistics, agriculture, real estate, and commerce. The firm backs early-to-growth stage companies where physical-digital convergence creates leverage. ([source](https://www.crunchbase.com/organization/alpaca-vc), as of 2026-04-19)
-- **Type:** venture capital ([source](https://alpaca.vc/approach), as of not recorded)
-- **Investment strategies:** early-stage venture investing ([source](https://alpaca.vc/approach), as of not recorded)
-- **Stages:** pre-seed, seed ([source](https://alpaca.vc/approach), as of not recorded)
-- **Sectors:** Manufacturing, Logistics and supply chain, Energy, Construction and infrastructure, Defense, Commerce infrastructure ([source](https://alpaca.vc/approach), as of not recorded)
-- **Leads rounds:** yes ([source](https://alpaca.vc/approach), as of not recorded)
+- **Geographies:** us (as of 2026-04-19)[^s-8b9c08af]
+- **About:** Alpaca VC is a New York City venture firm founded by former operators that invests in real estate and commerce startups "at the intersection of atoms and algorithms" , manufacturing, energy, logistics, agriculture, real estate, and commerce. The firm backs early-to-growth stage companies where physical-digital convergence creates leverage. (as of 2026-04-19)[^s-8b9c08af]
+- **Type:** venture capital[^s-6f0122eb]
+- **Investment strategies:** early-stage venture investing[^s-6f0122eb]
+- **Stages:** pre-seed, seed[^s-6f0122eb]
+- **Sectors:** Manufacturing, Logistics and supply chain, Energy, Construction and infrastructure, Defense, Commerce infrastructure[^s-6f0122eb]
+- **Leads rounds:** yes[^s-6f0122eb]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Bowery Farming | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/alpaca-vc) |
-| Dandelion Energy | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/alpaca-vc) |
-| Ghost | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/alpaca-vc) |
-| Industrious | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/alpaca-vc) |
-| Measurabl | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/alpaca-vc) |
-| Fernish | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/alpaca-vc) |
-| Livble | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/alpaca-vc) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Bowery Farming[^s-8b9c08af] | Not recorded | Not recorded | Not recorded |
+| Dandelion Energy[^s-8b9c08af] | Not recorded | Not recorded | Not recorded |
+| Ghost[^s-8b9c08af] | Not recorded | Not recorded | Not recorded |
+| Industrious[^s-8b9c08af] | Not recorded | Not recorded | Not recorded |
+| Measurabl[^s-8b9c08af] | Not recorded | Not recorded | Not recorded |
+| Fernish[^s-8b9c08af] | Not recorded | Not recorded | Not recorded |
+| Livble[^s-8b9c08af] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://alpaca.vc)
-- [Source](https://alpaca.vc/approach)
-- [Source](https://www.crunchbase.com/organization/alpaca-vc)
+[^s-69c17502]: <https://alpaca.vc>
+[^s-6f0122eb]: <https://alpaca.vc/approach>
+[^s-8b9c08af]: <https://www.crunchbase.com/organization/alpaca-vc>

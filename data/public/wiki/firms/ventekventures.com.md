@@ -1,29 +1,37 @@
 ---
+type: Investor Firm
+title: VenTek Ventures
+description: vc; seed, series-a; platform, marketplaces, b2b, consumer.
+resource: https://ventekventures.com
+tags:
+- investor-firm
+- directory
+domain: ventekventures.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 51
+status: draft
+sources:
+- id: s-0d59bb5d
+  resource: https://ventekventures.com
+- id: s-1252748a
+  resource: https://www.crunchbase.com/organization/ventek-ventures
 ---
 
 # VenTek Ventures
-
-[Website](https://ventekventures.com)
-
-Domain: ventekventures.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/ventek-ventures), as of 2026-04-24)
-- **Stages:** seed, series-a ([source](https://www.crunchbase.com/organization/ventek-ventures), as of 2026-04-24)
-- **Geographies:** us, global ([source](https://www.crunchbase.com/organization/ventek-ventures), as of 2026-04-24)
-- **Sectors:** platform, marketplaces, b2b, consumer ([source](https://www.crunchbase.com/organization/ventek-ventures), as of 2026-04-24)
-- **Check size min:** 250K ([source](https://www.crunchbase.com/organization/ventek-ventures), as of 2026-04-24)
-- **Check size max:** 2M ([source](https://www.crunchbase.com/organization/ventek-ventures), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://ventekventures.com), as of not recorded)
-- **About:** VenTek Ventures is a small seed/Series-A fund founded in 2013 by Tony Zhang (Managing Director / Founding Partner). Invests in platform businesses in 25+ countries ([source](https://www.crunchbase.com/organization/ventek-ventures), as of 2026-04-24)
+- **Type:** vc (as of 2026-04-24)[^s-1252748a]
+- **Stages:** seed, series-a (as of 2026-04-24)[^s-1252748a]
+- **Geographies:** us, global (as of 2026-04-24)[^s-1252748a]
+- **Sectors:** platform, marketplaces, b2b, consumer (as of 2026-04-24)[^s-1252748a]
+- **Check size min:** 250K (as of 2026-04-24)[^s-1252748a]
+- **Check size max:** 2M (as of 2026-04-24)[^s-1252748a]
+- **Leads rounds:** unknown[^s-0d59bb5d]
+- **About:** VenTek Ventures is a small seed/Series-A fund founded in 2013 by Tony Zhang (Managing Director / Founding Partner). Invests in platform businesses in 25+ countries (as of 2026-04-24)[^s-1252748a]
 
 ## Portfolio
 
@@ -31,8 +39,7 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://ventekventures.com)
-- [Source](https://www.crunchbase.com/organization/ventek-ventures)
+[^s-0d59bb5d]: <https://ventekventures.com>
+[^s-1252748a]: <https://www.crunchbase.com/organization/ventek-ventures>

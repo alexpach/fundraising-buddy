@@ -235,7 +235,7 @@ def merge_catalogs(existing: dict, new: dict) -> dict:
         cur = people.get(p["id"])
         if cur is None or str(p.get("researched_at", "")) >= str(cur.get("researched_at", "")):
             people[p["id"]] = p
-    people = {pid: p for pid, p in people.items() if p["firm_id"] in firms}
+    people = {pid: p for pid, p in people.items() if not p["firm_id"] or p["firm_id"] in firms}
     return {"schema_version": 2, "firms": sorted(firms.values(), key=lambda x: x["name"].casefold()),
             "people": sorted(people.values(), key=lambda x: (x["name"].casefold(), x["firm_id"]))}
 

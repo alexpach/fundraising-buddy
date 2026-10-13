@@ -1,46 +1,58 @@
 ---
+type: Investor Firm
+title: Flare Capital Partners
+description: venture capital; Seed, Series A, Series B; healthcare technology.
+resource: https://www.flarecapital.com
+tags:
+- investor-firm
+- directory
+domain: flarecapital.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 48
+status: draft
+sources:
+- id: s-36ab3559
+  resource: https://www.flarecapital.com
+- id: s-aebe6d82
+  resource: https://www.flarecapital.com/
+- id: s-501cd986
+  resource: https://www.flarecapital.com/insight/investing-in-keebler-health/
+- id: s-06b47d2c
+  resource: https://www.flarecapital.com/our-approach/
 ---
 
 # Flare Capital Partners
-
-[Website](https://www.flarecapital.com)
-
-Domain: flarecapital.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** us ([source](https://www.flarecapital.com), as of 2026-08-07)
-- **Type:** venture capital ([source](https://www.flarecapital.com/our-approach/), as of not recorded)
-- **Investment strategies:** healthtech venture investing ([source](https://www.flarecapital.com/our-approach/), as of not recorded)
-- **Stages:** Seed, Series A, Series B ([source](https://www.flarecapital.com/our-approach/), as of not recorded)
-- **Sectors:** healthcare technology ([source](https://www.flarecapital.com/our-approach/), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.flarecapital.com/insight/investing-in-keebler-health/), as of 2026-04-15)
-- **AUM:** Approximately USD 1 billion (date not reported) ([source](https://www.flarecapital.com/our-approach/), as of not recorded)
+- **Geographies:** us (as of 2026-08-07)[^s-36ab3559]
+- **Type:** venture capital[^s-06b47d2c]
+- **Investment strategies:** healthtech venture investing[^s-06b47d2c]
+- **Stages:** Seed, Series A, Series B[^s-06b47d2c]
+- **Sectors:** healthcare technology[^s-06b47d2c]
+- **Leads rounds:** yes (as of 2026-04-15)[^s-501cd986]
+- **AUM:** Approximately USD 1 billion (date not reported)[^s-06b47d2c]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Keebler Health | Not recorded | Not recorded | Not recorded | [Source](https://www.flarecapital.com) |
-| Isaac Health | Not recorded | Not recorded | Not recorded | [Source](https://www.flarecapital.com) |
-| Oshi Health | Not recorded | Not recorded | Not recorded | [Source](https://www.flarecapital.com) |
-| RightMove | Not recorded | Not recorded | Not recorded | [Source](https://www.flarecapital.com) |
-| Qualified Health | Not recorded | Not recorded | Not recorded | [Source](https://www.flarecapital.com) |
-| Rx Redefined | Not recorded | Not recorded | Not recorded | [Source](https://www.flarecapital.com) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Keebler Health[^s-36ab3559] | Not recorded | Not recorded | Not recorded |
+| Isaac Health[^s-36ab3559] | Not recorded | Not recorded | Not recorded |
+| Oshi Health[^s-36ab3559] | Not recorded | Not recorded | Not recorded |
+| RightMove[^s-36ab3559] | Not recorded | Not recorded | Not recorded |
+| Qualified Health[^s-36ab3559] | Not recorded | Not recorded | Not recorded |
+| Rx Redefined[^s-36ab3559] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.flarecapital.com)
-- [Source](https://www.flarecapital.com/)
-- [Source](https://www.flarecapital.com/insight/investing-in-keebler-health/)
-- [Source](https://www.flarecapital.com/our-approach/)
+[^s-36ab3559]: <https://www.flarecapital.com>
+[^s-aebe6d82]: <https://www.flarecapital.com/>
+[^s-501cd986]: <https://www.flarecapital.com/insight/investing-in-keebler-health/>
+[^s-06b47d2c]: <https://www.flarecapital.com/our-approach/>

@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Adam Kalish
+description: Partner, Capital Formation at Lux Capital.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-02T00:00:00Z'
+sources:
+- id: s-54efca46
+  resource: https://luxcapital.com/team
+---
+
 # Adam Kalish
 
-[[public/firms/luxcapital.com|Firm profile]]
+[Firm profile](../firms/luxcapital.com.md)
 
-Role: Partner, Capital Formation
+Role: Partner, Capital Formation[^s-54efca46]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://luxcapital.com/team)
+[^s-54efca46]: <https://luxcapital.com/team>

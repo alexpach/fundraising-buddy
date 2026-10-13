@@ -1,26 +1,34 @@
 ---
+type: Investor Firm
+title: SeaX Ventures
+description: venture capital; early-stage; healthtech, biotech, AI infrastructure,
+  advanced materials, climate tech.
+resource: https://seaxventures.vc/
+tags:
+- investor-firm
+- directory
+domain: seaxventures.vc
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 35
+status: draft
+sources:
+- id: s-5cea7e6c
+  resource: https://seaxventures.vc/
 ---
 
 # SeaX Ventures
-
-[Website](https://seaxventures.vc/)
-
-Domain: seaxventures.vc
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** us, apac, global ([source](https://seaxventures.vc/), as of 2026-08-06)
-- **About:** SeaX Ventures ("Southeast Asia Exponential Ventures") is a global early-stage VC founded in 2018 by Dr. Kid Parchariyanon, with offices in San Francisco and Bangkok ([source](https://seaxventures.vc/), as of 2026-08-06)
-- **Type:** venture capital ([source](https://seaxventures.vc/), as of not recorded)
-- **Stages:** early-stage ([source](https://seaxventures.vc/), as of not recorded)
-- **Sectors:** healthtech, biotech, AI infrastructure, advanced materials, climate tech ([source](https://seaxventures.vc/), as of not recorded)
+- **Geographies:** us, apac, global (as of 2026-08-06)[^s-5cea7e6c]
+- **About:** SeaX Ventures ("Southeast Asia Exponential Ventures") is a global early-stage VC founded in 2018 by Dr. Kid Parchariyanon, with offices in San Francisco and Bangkok (as of 2026-08-06)[^s-5cea7e6c]
+- **Type:** venture capital[^s-5cea7e6c]
+- **Stages:** early-stage[^s-5cea7e6c]
+- **Sectors:** healthtech, biotech, AI infrastructure, advanced materials, climate tech[^s-5cea7e6c]
 
 ## Portfolio
 
@@ -28,7 +36,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://seaxventures.vc/)
+[^s-5cea7e6c]: <https://seaxventures.vc/>

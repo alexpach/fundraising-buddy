@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Javier Garabal
+description: General Partner at Archipélago Next.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-e796b2e1
+  resource: https://www.archipelagonext.com/equipo
+---
+
 # Javier Garabal
 
-[[public/firms/archipelagonext.com|Firm profile]]
+[Firm profile](../firms/archipelagonext.com.md)
 
-Role: General Partner
+Role: General Partner[^s-e796b2e1]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.archipelagonext.com/equipo)
+[^s-e796b2e1]: <https://www.archipelagonext.com/equipo>

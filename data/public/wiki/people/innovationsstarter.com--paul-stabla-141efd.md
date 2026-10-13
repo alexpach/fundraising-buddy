@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Paul Stabla
+description: Investment controller at IFB Innovationsstarter GmbH.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-974bcc6d
+  resource: https://innovationsstarter.com/team/
+---
+
 # Paul Stabla
 
-[[public/firms/innovationsstarter.com|Firm profile]]
+[Firm profile](../firms/innovationsstarter.com.md)
 
-Role: Investment controller
+Role: Investment controller[^s-974bcc6d]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://innovationsstarter.com/team/)
+[^s-974bcc6d]: <https://innovationsstarter.com/team/>

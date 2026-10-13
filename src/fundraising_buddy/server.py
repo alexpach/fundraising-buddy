@@ -28,11 +28,19 @@ def render(body: str):
         key = target if target.startswith("public/") else "private/" + target
         return f"[{label or target}](#page={quote(key, safe='')})"
     body = re.sub(r"\[\[([^\]]+)\]\]", link, body)
-    rendered = markdown.markdown(body, extensions=["tables", "fenced_code", "nl2br"])
+    rendered = markdown.markdown(body, extensions=["tables", "fenced_code", "nl2br", "footnotes"])
     # No images, scripts, style, embeds, event handlers or remote asset requests.
-    return bleach.clean(rendered, tags={"p", "br", "hr", "h1", "h2", "h3", "h4", "ul", "ol", "li",
+    # Footnote anchors (#fn:, #fnref:) would hijack the hash router, so they render as plain text.
+    return bleach.clean(rendered, tags={"p", "br", "hr", "h1", "h2", "h3", "h4", "ul", "ol", "li", "sup",
         "strong", "em", "a", "blockquote", "pre", "code", "table", "thead", "tbody", "tr", "th", "td"},
-        attributes={"a": ["href", "title"]}, protocols={"http", "https"}, strip=True)
+        attributes={"a": lambda _tag, name, value: name == "title" or (name == "href" and not value.startswith("#fn"))},
+        protocols={"http", "https"}, strip=True)
+
+
+def public_links(body: str):
+    """Resolve OKF relative concept links (../firms/x.md) to viewer page keys."""
+    return re.sub(r"\]\(\.\./(firms|people)/([^)\s]+)\.md\)",
+                  lambda m: f"](#page={quote(f'public/{m.group(1)}/{m.group(2)}', safe='')})", body)
 
 
 def page_index(root: Path):
@@ -40,9 +48,9 @@ def page_index(root: Path):
     def with_properties(meta, body):
         if meta:
             body += "\n\n## Properties\n\n" + "\n".join(
-                f"- **{html.escape(str(k))}:** {html.escape(str(v))}" for k, v in meta.items())
+                f"- **{html.escape(str(k))}:** {html.escape(str(v))}" for k, v in meta.items() if k != "sources")
         return body
-    pages = {"public/" + k: with_properties(*split_frontmatter(v)) for k, v in public_pages(data).items()}
+    pages = {"public/" + k: public_links(with_properties(*split_frontmatter(v))) for k, v in public_pages(data).items()}
     pages.update({"private/prospect-lists/" + s["id"]: prospects.markdown(s) for s in prospects.lists(root)})
     base = root / "workspace/wiki"
     for path in base.rglob("*.md"):

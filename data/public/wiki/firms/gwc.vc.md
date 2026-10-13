@@ -1,29 +1,35 @@
 ---
+type: Investor Firm
+title: Growth Warrior Capital
+description: vc; seed, series-a; enterprise-ai, industrial-ai, automation, b2b-software.
+resource: https://www.gwc.vc
+tags:
+- investor-firm
+- directory
+domain: gwc.vc
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 44
+status: draft
+sources:
+- id: s-e6efc3cb
+  resource: https://www.gwc.vc
 ---
 
 # Growth Warrior Capital
-
-[Website](https://www.gwc.vc)
-
-Domain: gwc.vc
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.gwc.vc), as of 2026-07-14)
-- **Stages:** seed, series-a ([source](https://www.gwc.vc), as of 2026-07-14)
-- **Geographies:** us ([source](https://www.gwc.vc), as of 2026-07-14)
-- **Sectors:** enterprise-ai, industrial-ai, automation, b2b-software ([source](https://www.gwc.vc), as of 2026-07-14)
-- **AUM:** 26M ([source](https://www.gwc.vc), as of 2026-07-14)
-- **Check size min:** 1M ([source](https://www.gwc.vc), as of 2026-07-14)
-- **Check size max:** 5M ([source](https://www.gwc.vc), as of 2026-07-14)
-- **Leads rounds:** unknown ([source](https://www.gwc.vc), as of not recorded)
+- **Type:** vc (as of 2026-07-14)[^s-e6efc3cb]
+- **Stages:** seed, series-a (as of 2026-07-14)[^s-e6efc3cb]
+- **Geographies:** us (as of 2026-07-14)[^s-e6efc3cb]
+- **Sectors:** enterprise-ai, industrial-ai, automation, b2b-software (as of 2026-07-14)[^s-e6efc3cb]
+- **AUM:** 26M (as of 2026-07-14)[^s-e6efc3cb]
+- **Check size min:** 1M (as of 2026-07-14)[^s-e6efc3cb]
+- **Check size max:** 5M (as of 2026-07-14)[^s-e6efc3cb]
+- **Leads rounds:** unknown[^s-e6efc3cb]
 
 ## Portfolio
 
@@ -31,7 +37,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.gwc.vc)
+[^s-e6efc3cb]: <https://www.gwc.vc>

@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Rob Ward
+description: Co-Founder & General Partner at Meritech.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-25T00:00:00Z'
+sources:
+- id: s-a9406e93
+  resource: https://www.meritechcapital.com/team
+---
+
 # Rob Ward
 
-[[public/firms/meritechcapital.com|Firm profile]]
+[Firm profile](../firms/meritechcapital.com.md)
 
-Role: Co-Founder & General Partner
+Role: Co-Founder & General Partner[^s-a9406e93]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.meritechcapital.com/team)
+[^s-a9406e93]: <https://www.meritechcapital.com/team>

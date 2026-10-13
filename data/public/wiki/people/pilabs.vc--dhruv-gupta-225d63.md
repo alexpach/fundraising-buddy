@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Dhruv Gupta
+description: Principal at Pi Labs.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-09-20T00:00:00Z'
+sources:
+- id: s-22de8300
+  resource: https://pilabs.vc/team
+---
+
 # Dhruv Gupta
 
-[[public/firms/pilabs.vc|Firm profile]]
+[Firm profile](../firms/pilabs.vc.md)
 
-Role: Principal
+Role: Principal[^s-22de8300]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://pilabs.vc/team)
+[^s-22de8300]: <https://pilabs.vc/team>

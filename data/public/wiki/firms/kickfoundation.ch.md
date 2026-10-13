@@ -1,44 +1,50 @@
 ---
+type: Investor Firm
+title: Kick Foundation
+description: foundation; technology, innovation.
+resource: https://www.kickfoundation.ch/
+tags:
+- investor-firm
+- directory
+domain: kickfoundation.ch
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 39
+status: draft
+sources:
+- id: s-24fdd61b
+  resource: https://www.kickfoundation.ch/
 ---
 
 # Kick Foundation
-
-[Website](https://www.kickfoundation.ch/)
-
-Domain: kickfoundation.ch
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe, switzerland ([source](https://www.kickfoundation.ch/), as of 2026-08-07)
-- **Check size min:** 12070 ([source](https://www.kickfoundation.ch/), as of 2026-08-07)
-- **Check size max:** 1030000 ([source](https://www.kickfoundation.ch/), as of 2026-08-07)
-- **Type:** foundation ([source](https://www.kickfoundation.ch/), as of 2021)
-- **Investment strategies:** entrepreneurship support ([source](https://www.kickfoundation.ch/), as of 2021)
-- **Legal structure:** foundation ([source](https://www.kickfoundation.ch/), as of 2021)
-- **Sectors:** technology, innovation ([source](https://www.kickfoundation.ch/), as of not recorded)
+- **Geographies:** europe, switzerland (as of 2026-08-07)[^s-24fdd61b]
+- **Check size min:** 12070 (as of 2026-08-07)[^s-24fdd61b]
+- **Check size max:** 1030000 (as of 2026-08-07)[^s-24fdd61b]
+- **Type:** foundation (as of 2021)[^s-24fdd61b]
+- **Investment strategies:** entrepreneurship support (as of 2021)[^s-24fdd61b]
+- **Legal structure:** foundation (as of 2021)[^s-24fdd61b]
+- **Sectors:** technology, innovation[^s-24fdd61b]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Mosaic SoC | Not recorded | Not recorded | Not recorded | [Source](https://www.kickfoundation.ch/) |
-| Flyability | Not recorded | Not recorded | Not recorded | [Source](https://www.kickfoundation.ch/) |
-| Climeworks | Not recorded | Not recorded | Not recorded | [Source](https://www.kickfoundation.ch/) |
-| Abionic | Not recorded | Not recorded | Not recorded | [Source](https://www.kickfoundation.ch/) |
-| MindMaze | Not recorded | Not recorded | Not recorded | [Source](https://www.kickfoundation.ch/) |
-| Beekeeper | Not recorded | Not recorded | Not recorded | [Source](https://www.kickfoundation.ch/) |
-| Lunaphore | Not recorded | Not recorded | Not recorded | [Source](https://www.kickfoundation.ch/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Mosaic SoC[^s-24fdd61b] | Not recorded | Not recorded | Not recorded |
+| Flyability[^s-24fdd61b] | Not recorded | Not recorded | Not recorded |
+| Climeworks[^s-24fdd61b] | Not recorded | Not recorded | Not recorded |
+| Abionic[^s-24fdd61b] | Not recorded | Not recorded | Not recorded |
+| MindMaze[^s-24fdd61b] | Not recorded | Not recorded | Not recorded |
+| Beekeeper[^s-24fdd61b] | Not recorded | Not recorded | Not recorded |
+| Lunaphore[^s-24fdd61b] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.kickfoundation.ch/)
+[^s-24fdd61b]: <https://www.kickfoundation.ch/>

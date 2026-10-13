@@ -1,44 +1,52 @@
 ---
+type: Investor Firm
+title: Touchdown VC
+description: vc; seed, series-a, series-b; ag-food, built-world, healthcare, industrial,
+  it-media, security, iot.
+resource: https://touchdownvc.com
+tags:
+- investor-firm
+- directory
+domain: touchdownvc.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 64
+status: draft
+sources:
+- id: s-f8b66510
+  resource: https://touchdownvc.com
+- id: s-9bf0379d
+  resource: https://www.crunchbase.com/organization/touchdown-ventures
 ---
 
 # Touchdown VC
-
-[Website](https://touchdownvc.com)
-
-Domain: touchdownvc.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/touchdown-ventures), as of 2026-04-19)
-- **Stages:** seed, series-a, series-b ([source](https://www.crunchbase.com/organization/touchdown-ventures), as of 2026-04-19)
-- **Geographies:** us ([source](https://www.crunchbase.com/organization/touchdown-ventures), as of 2026-04-19)
-- **Sectors:** ag-food, built-world, healthcare, industrial, it-media, security, iot ([source](https://www.crunchbase.com/organization/touchdown-ventures), as of 2026-04-19)
-- **Check size min:** 100K ([source](https://www.crunchbase.com/organization/touchdown-ventures), as of 2026-04-19)
-- **Check size max:** 30M ([source](https://www.crunchbase.com/organization/touchdown-ventures), as of 2026-04-19)
-- **Leads rounds:** unknown ([source](https://touchdownvc.com), as of not recorded)
-- **About:** Touchdown Ventures is a Los Angeles-headquartered venture capital firm founded in 2014 by David Horowitz, Scott Lenet, and Rich Grant that pioneered a "Venture Capital as a Service" model, establishing and managing dedicated CVC programs on behalf of 25+ Fortune 500 corporations such as Kellogg (eighteen94 capital), TEGNA, Allegion, Avery Dennison, and Colorcon. The firm has backed more than 100 p ([source](https://www.crunchbase.com/organization/touchdown-ventures), as of 2026-04-19)
+- **Type:** vc (as of 2026-04-19)[^s-9bf0379d]
+- **Stages:** seed, series-a, series-b (as of 2026-04-19)[^s-9bf0379d]
+- **Geographies:** us (as of 2026-04-19)[^s-9bf0379d]
+- **Sectors:** ag-food, built-world, healthcare, industrial, it-media, security, iot (as of 2026-04-19)[^s-9bf0379d]
+- **Check size min:** 100K (as of 2026-04-19)[^s-9bf0379d]
+- **Check size max:** 30M (as of 2026-04-19)[^s-9bf0379d]
+- **Leads rounds:** unknown[^s-f8b66510]
+- **About:** Touchdown Ventures is a Los Angeles-headquartered venture capital firm founded in 2014 by David Horowitz, Scott Lenet, and Rich Grant that pioneered a "Venture Capital as a Service" model, establishing and managing dedicated CVC programs on behalf of 25+ Fortune 500 corporations such as Kellogg (eighteen94 capital), TEGNA, Allegion, Avery Dennison, and Colorcon. The firm has backed more than 100 p (as of 2026-04-19)[^s-9bf0379d]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Touchland | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/touchdown-ventures) |
-| Voxel51 | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/touchdown-ventures) |
-| LiquiDonate | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/touchdown-ventures) |
-| Nori | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/touchdown-ventures) |
-| [specific Allegion | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/touchdown-ventures) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Touchland[^s-9bf0379d] | Not recorded | Not recorded | Not recorded |
+| Voxel51[^s-9bf0379d] | Not recorded | Not recorded | Not recorded |
+| LiquiDonate[^s-9bf0379d] | Not recorded | Not recorded | Not recorded |
+| Nori[^s-9bf0379d] | Not recorded | Not recorded | Not recorded |
+| [specific Allegion[^s-9bf0379d] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://touchdownvc.com)
-- [Source](https://www.crunchbase.com/organization/touchdown-ventures)
+[^s-f8b66510]: <https://touchdownvc.com>
+[^s-9bf0379d]: <https://www.crunchbase.com/organization/touchdown-ventures>

@@ -1,31 +1,41 @@
 ---
+type: Investor Firm
+title: Smile Sail
+description: private equity; growth, buyout; B2B software, IT services, AI, Healthcare,
+  Industry 5.0, Financial & Business Services.
+resource: https://www.smile-sail.com/
+tags:
+- investor-firm
+- directory
+domain: smile-sail.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 53
+status: draft
+sources:
+- id: s-8f89f226
+  resource: https://www.smile-sail.com/
+- id: s-3fb97f58
+  resource: https://www.smile-sail.com/our-approach
 ---
 
 # Smile Sail
-
-[Website](https://www.smile-sail.com/)
-
-Domain: smile-sail.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe ([source](https://www.smile-sail.com/), as of 2026-08-06)
-- **Check size min:** 5M ([source](https://www.smile-sail.com/), as of 2026-08-06)
-- **Check size max:** 50M ([source](https://www.smile-sail.com/), as of 2026-08-06)
-- **About:** Smile Sail is an evergreen private-equity fund focused on European B2B Software, AI, and IT-services entrepreneurs. It takes majority or minority equity positions and invests €5–50M per deal ([source](https://www.smile-sail.com/), as of 2026-08-06)
-- **Type:** private equity ([source](https://www.smile-sail.com/), as of not recorded)
-- **Investment strategies:** growth capital, growth buyouts ([source](https://www.smile-sail.com/), as of not recorded)
-- **Legal structure:** evergreen fund ([source](https://www.smile-sail.com/), as of not recorded)
-- **Investment instruments:** equity ([source](https://www.smile-sail.com/), as of not recorded)
-- **Stages:** growth, buyout ([source](https://www.smile-sail.com/our-approach), as of not recorded)
-- **Sectors:** B2B software, IT services, AI, Healthcare, Industry 5.0, Financial & Business Services ([source](https://www.smile-sail.com/our-approach), as of not recorded)
+- **Geographies:** europe (as of 2026-08-06)[^s-8f89f226]
+- **Check size min:** 5M (as of 2026-08-06)[^s-8f89f226]
+- **Check size max:** 50M (as of 2026-08-06)[^s-8f89f226]
+- **About:** Smile Sail is an evergreen private-equity fund focused on European B2B Software, AI, and IT-services entrepreneurs. It takes majority or minority equity positions and invests €5–50M per deal (as of 2026-08-06)[^s-8f89f226]
+- **Type:** private equity[^s-8f89f226]
+- **Investment strategies:** growth capital, growth buyouts[^s-8f89f226]
+- **Legal structure:** evergreen fund[^s-8f89f226]
+- **Investment instruments:** equity[^s-8f89f226]
+- **Stages:** growth, buyout[^s-3fb97f58]
+- **Sectors:** B2B software, IT services, AI, Healthcare, Industry 5.0, Financial & Business Services[^s-3fb97f58]
 
 ## Portfolio
 
@@ -33,8 +43,7 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.smile-sail.com/)
-- [Source](https://www.smile-sail.com/our-approach)
+[^s-8f89f226]: <https://www.smile-sail.com/>
+[^s-3fb97f58]: <https://www.smile-sail.com/our-approach>

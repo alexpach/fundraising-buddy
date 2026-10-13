@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Annie Duke
+description: Special Partner at Renegade Partners.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-9bcde8b6
+  resource: https://www.renegadepartners.com/team
+---
+
 # Annie Duke
 
-[[public/firms/renegadepartners.com|Firm profile]]
+[Firm profile](../firms/renegadepartners.com.md)
 
-Role: Special Partner
+Role: Special Partner[^s-9bcde8b6]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.renegadepartners.com/team)
+[^s-9bcde8b6]: <https://www.renegadepartners.com/team>

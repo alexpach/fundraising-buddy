@@ -1,45 +1,66 @@
 ---
+type: Investor Firm
+title: GIMIC Ventures
+description: pre-seed, seed, series-a.
+resource: https://gimic.vc
+tags:
+- investor-firm
+- sourced
+domain: gimic.vc
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
 jev-score: 48
+sources:
+- id: s-177d3bf6
+  resource: https://gimic.vc/
+- id: s-5a7e5733
+  resource: https://gimic.vc/about
+- id: s-3eddfd6a
+  resource: https://gimic.vc/portfolio/curotis
+- id: s-fb8ca550
+  resource: https://gimic.vc/portfolio/garoma
+- id: s-bf11fc1f
+  resource: https://gimic.vc/portfolio/hyimpulse
+- id: s-98322006
+  resource: https://gimic.vc/portfolio/qdrant
+- id: s-4bc000da
+  resource: https://gimic.vc/portfolio/stealth
+- id: s-80ce4783
+  resource: https://gimic.vc/portfolio/zepta
+- id: s-38ab83d2
+  resource: https://gimic.vc
 ---
 
 # GIMIC Ventures
 
-[Website](https://gimic.vc)
-
-Domain: gimic.vc
-
-Coverage: sourced
-
-Research date: 2026-08-26
-
 ## Public research
 
-- **Stages:** pre-seed, seed, series-a ([source](https://gimic.vc/about), as of 2026-05)
-- **Check size max:** €2,000,000 ([source](https://gimic.vc/about), as of 2026-05)
-- **Leads rounds:** unknown ([source](https://gimic.vc), as of not recorded)
+- **Stages:** pre-seed, seed, series-a (as of 2026-05)[^s-5a7e5733]
+- **Check size max:** €2,000,000 (as of 2026-05)[^s-5a7e5733]
+- **Leads rounds:** unknown[^s-38ab83d2]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| HyImpulse | SpaceTech / DeepTech | Series A | Not recorded | [Source](https://gimic.vc/portfolio/hyimpulse) |
-| Sapper Intelligence | DeepTech / Defense | Seed | Not recorded | [Source](https://gimic.vc/portfolio/stealth) |
-| Qdrant | AI / vector search infrastructure | Series-B | Not recorded | [Source](https://gimic.vc/portfolio/qdrant) |
-| Garoma | B2B SaaS | Pre-Seed | Not recorded | [Source](https://gimic.vc/portfolio/garoma) |
-| Zepta | B2B SaaS / IoT | Seed | Not recorded | [Source](https://gimic.vc/portfolio/zepta) |
-| Vacis / CuroTis | HealthTech | Pre-Seed | Not recorded | [Source](https://gimic.vc/portfolio/curotis) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| HyImpulse[^s-bf11fc1f] | SpaceTech / DeepTech | Series A | Not recorded |
+| Sapper Intelligence[^s-4bc000da] | DeepTech / Defense | Seed | Not recorded |
+| Qdrant[^s-98322006] | AI / vector search infrastructure | Series-B | Not recorded |
+| Garoma[^s-fb8ca550] | B2B SaaS | Pre-Seed | Not recorded |
+| Zepta[^s-80ce4783] | B2B SaaS / IoT | Seed | Not recorded |
+| Vacis / CuroTis[^s-3eddfd6a] | HealthTech | Pre-Seed | Not recorded |
 
 ## People
 
-- [[public/people/gimic.vc--mi-le-31b6c2|Mi Le]]: Managing Partner
+- [Mi Le](../people/gimic.vc--mi-le-31b6c2.md) - Managing Partner
 
-## Sources
-
-- [Source](https://gimic.vc/)
-- [Source](https://gimic.vc/about)
-- [Source](https://gimic.vc/portfolio/curotis)
-- [Source](https://gimic.vc/portfolio/garoma)
-- [Source](https://gimic.vc/portfolio/hyimpulse)
-- [Source](https://gimic.vc/portfolio/qdrant)
-- [Source](https://gimic.vc/portfolio/stealth)
-- [Source](https://gimic.vc/portfolio/zepta)
+[^s-177d3bf6]: <https://gimic.vc/>
+[^s-5a7e5733]: <https://gimic.vc/about>
+[^s-3eddfd6a]: <https://gimic.vc/portfolio/curotis>
+[^s-fb8ca550]: <https://gimic.vc/portfolio/garoma>
+[^s-bf11fc1f]: <https://gimic.vc/portfolio/hyimpulse>
+[^s-98322006]: <https://gimic.vc/portfolio/qdrant>
+[^s-4bc000da]: <https://gimic.vc/portfolio/stealth>
+[^s-80ce4783]: <https://gimic.vc/portfolio/zepta>
+[^s-38ab83d2]: <https://gimic.vc>

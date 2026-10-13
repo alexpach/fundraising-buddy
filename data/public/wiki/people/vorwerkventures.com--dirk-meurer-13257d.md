@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Dirk Meurer
+description: Managing Partner at Vorwerk Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-25T00:00:00Z'
+sources:
+- id: s-3cf5c14a
+  resource: https://vorwerkventures.com
+---
+
 # Dirk Meurer
 
-[[public/firms/vorwerkventures.com|Firm profile]]
+[Firm profile](../firms/vorwerkventures.com.md)
 
-Role: Managing Partner
+Role: Managing Partner[^s-3cf5c14a]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://vorwerkventures.com)
+[^s-3cf5c14a]: <https://vorwerkventures.com>

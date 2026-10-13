@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Marie-Helene Ametsreiter
+description: General Partner at Speedinvest GmbH.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-b3dd20c3
+  resource: https://speedinvest.com/team
+---
+
 # Marie-Helene Ametsreiter
 
-[[public/firms/speedinvest.com|Firm profile]]
+[Firm profile](../firms/speedinvest.com.md)
 
-Role: General Partner
+Role: General Partner[^s-b3dd20c3]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://speedinvest.com/team)
+[^s-b3dd20c3]: <https://speedinvest.com/team>

@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Helena Richardson
+description: Partner at Highland Europe.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-02957a86
+  resource: https://highlandeurope.com/people/
+---
+
 # Helena Richardson
 
-[[public/firms/highlandeurope.com|Firm profile]]
+[Firm profile](../firms/highlandeurope.com.md)
 
-Role: Partner
+Role: Partner[^s-02957a86]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://highlandeurope.com/people/)
+[^s-02957a86]: <https://highlandeurope.com/people/>

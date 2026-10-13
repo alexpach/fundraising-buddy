@@ -1,27 +1,38 @@
 ---
+type: Investor Firm
+title: Anlagestiftung VALYOU
+description: pension investment foundation; infrastructure, energy, agriculture.
+resource: https://valyou.ch
+tags:
+- investor-firm
+- directory
+domain: valyou.ch
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 27
+status: draft
+sources:
+- id: s-73a3dd1a
+  resource: https://valyou.ch
+- id: s-ab4b66bc
+  resource: https://valyou.ch/
+- id: s-063a8a56
+  resource: https://valyou.ch/wp-content/uploads/2025/05/FS_VALYOU_Darlehen-3.25.pdf
 ---
 
 # Anlagestiftung VALYOU
-
-[Website](https://valyou.ch)
-
-Domain: valyou.ch
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe ([source](https://valyou.ch), as of 2026-08-06)
-- **Type:** pension investment foundation ([source](https://valyou.ch/wp-content/uploads/2025/05/FS_VALYOU_Darlehen-3.25.pdf), as of 2025-03)
-- **Investment strategies:** infrastructure investing, SME lending ([source](https://valyou.ch/wp-content/uploads/2025/05/FS_VALYOU_Darlehen-3.25.pdf), as of 2025-03)
-- **Legal structure:** investment foundation ([source](https://valyou.ch/wp-content/uploads/2025/05/FS_VALYOU_Darlehen-3.25.pdf), as of 2025-03)
-- **Investment instruments:** debt, mezzanine ([source](https://valyou.ch/wp-content/uploads/2025/05/FS_VALYOU_Darlehen-3.25.pdf), as of 2025-03)
-- **Sectors:** infrastructure, energy, agriculture ([source](https://valyou.ch/), as of not recorded)
+- **Geographies:** europe (as of 2026-08-06)[^s-73a3dd1a]
+- **Type:** pension investment foundation (as of 2025-03)[^s-063a8a56]
+- **Investment strategies:** infrastructure investing, SME lending (as of 2025-03)[^s-063a8a56]
+- **Legal structure:** investment foundation (as of 2025-03)[^s-063a8a56]
+- **Investment instruments:** debt, mezzanine (as of 2025-03)[^s-063a8a56]
+- **Sectors:** infrastructure, energy, agriculture[^s-ab4b66bc]
 
 ## Portfolio
 
@@ -29,9 +40,8 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://valyou.ch)
-- [Source](https://valyou.ch/)
-- [Source](https://valyou.ch/wp-content/uploads/2025/05/FS_VALYOU_Darlehen-3.25.pdf)
+[^s-73a3dd1a]: <https://valyou.ch>
+[^s-ab4b66bc]: <https://valyou.ch/>
+[^s-063a8a56]: <https://valyou.ch/wp-content/uploads/2025/05/FS_VALYOU_Darlehen-3.25.pdf>

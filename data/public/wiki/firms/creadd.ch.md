@@ -1,25 +1,31 @@
 ---
+type: Investor Firm
+title: Creadd
+description: vc; series-a, series-b.
+resource: https://creadd.ch
+tags:
+- investor-firm
+- directory
+domain: creadd.ch
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 19
+status: draft
+sources:
+- id: s-e5a30acf
+  resource: https://creadd.ch
 ---
 
 # Creadd
-
-[Website](https://creadd.ch)
-
-Domain: creadd.ch
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://creadd.ch), as of 2026-08-17)
-- **Stages:** series-a, series-b ([source](https://creadd.ch), as of 2026-08-17)
-- **Geographies:** europe ([source](https://creadd.ch), as of 2026-08-17)
-- **Leads rounds:** unknown ([source](https://creadd.ch), as of not recorded)
+- **Type:** vc (as of 2026-08-17)[^s-e5a30acf]
+- **Stages:** series-a, series-b (as of 2026-08-17)[^s-e5a30acf]
+- **Geographies:** europe (as of 2026-08-17)[^s-e5a30acf]
+- **Leads rounds:** unknown[^s-e5a30acf]
 
 ## Portfolio
 
@@ -27,7 +33,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://creadd.ch)
+[^s-e5a30acf]: <https://creadd.ch>

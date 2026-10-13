@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Jacobo Wirz
+description: Partner at Encomenda Capital Partners.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-5e8c042e
+  resource: https://encomenda.com/team/
+---
+
 # Jacobo Wirz
 
-[[public/firms/encomenda.com|Firm profile]]
+[Firm profile](../firms/encomenda.com.md)
 
-Role: Partner
+Role: Partner[^s-5e8c042e]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://encomenda.com/team/)
+[^s-5e8c042e]: <https://encomenda.com/team/>

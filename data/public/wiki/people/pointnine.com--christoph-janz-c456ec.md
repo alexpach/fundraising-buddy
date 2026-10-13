@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Christoph Janz
+description: Partner at Point Nine.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-25T00:00:00Z'
+sources:
+- id: s-fe7fe5cb
+  resource: https://www.pointnine.com/team
+---
+
 # Christoph Janz
 
-[[public/firms/pointnine.com|Firm profile]]
+[Firm profile](../firms/pointnine.com.md)
 
-Role: Partner
+Role: Partner[^s-fe7fe5cb]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.pointnine.com/team)
+[^s-fe7fe5cb]: <https://www.pointnine.com/team>

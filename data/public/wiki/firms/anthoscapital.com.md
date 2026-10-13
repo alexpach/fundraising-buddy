@@ -1,24 +1,30 @@
 ---
+type: Investor Firm
+title: Anthos Capital
+description: vc; robotics, hardware, physical-ai.
+resource: https://anthoscapital.com
+tags:
+- investor-firm
+- directory
+domain: anthoscapital.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 13
+status: draft
+sources:
+- id: s-a0b1024f
+  resource: https://anthoscapital.com
 ---
 
 # Anthos Capital
-
-[Website](https://anthoscapital.com)
-
-Domain: anthoscapital.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://anthoscapital.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://anthoscapital.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://anthoscapital.com), as of not recorded)
+- **Type:** vc (as of 2026-04-24)[^s-a0b1024f]
+- **Sectors:** robotics, hardware, physical-ai (as of 2026-04-24)[^s-a0b1024f]
+- **Leads rounds:** unknown[^s-a0b1024f]
 
 ## Portfolio
 
@@ -26,7 +32,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://anthoscapital.com)
+[^s-a0b1024f]: <https://anthoscapital.com>

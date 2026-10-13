@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Tiba Aynechi, Ph.D.
+description: General Partner at Norwest Venture Partners.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-02T00:00:00Z'
+sources:
+- id: s-efd78469
+  resource: https://norwest.com/team
+---
+
 # Tiba Aynechi, Ph.D.
 
-[[public/firms/norwest.com|Firm profile]]
+[Firm profile](../firms/norwest.com.md)
 
-Role: General Partner
+Role: General Partner[^s-efd78469]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://norwest.com/team)
+[^s-efd78469]: <https://norwest.com/team>

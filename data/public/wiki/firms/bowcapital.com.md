@@ -1,25 +1,35 @@
 ---
+type: Investor Firm
+title: Bow Capital
+description: venture capital; seed, series A; physical AI, industrial AI, defense,
+  biological AI.
+resource: https://bowcapital.com
+tags:
+- investor-firm
+- directory
+domain: bowcapital.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 22
+status: draft
+sources:
+- id: s-d2add080
+  resource: https://bowcapital.com
+- id: s-fcc41bee
+  resource: https://bowcapital.com/
 ---
 
 # Bow Capital
-
-[Website](https://bowcapital.com)
-
-Domain: bowcapital.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** venture capital ([source](https://bowcapital.com/), as of not recorded)
-- **Investment strategies:** early-stage venture investing ([source](https://bowcapital.com/), as of not recorded)
-- **Stages:** seed, series A ([source](https://bowcapital.com/), as of not recorded)
-- **Sectors:** physical AI, industrial AI, defense, biological AI ([source](https://bowcapital.com/), as of not recorded)
+- **Type:** venture capital[^s-fcc41bee]
+- **Investment strategies:** early-stage venture investing[^s-fcc41bee]
+- **Stages:** seed, series A[^s-fcc41bee]
+- **Sectors:** physical AI, industrial AI, defense, biological AI[^s-fcc41bee]
 
 ## Portfolio
 
@@ -27,8 +37,7 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://bowcapital.com)
-- [Source](https://bowcapital.com/)
+[^s-d2add080]: <https://bowcapital.com>
+[^s-fcc41bee]: <https://bowcapital.com/>

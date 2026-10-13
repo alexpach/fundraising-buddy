@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Adrian Rainey
+description: Operating Partner at Balderton Capital.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-02T00:00:00Z'
+sources:
+- id: s-ccf3ba47
+  resource: https://balderton.com/team
+---
+
 # Adrian Rainey
 
-[[public/firms/balderton.com|Firm profile]]
+[Firm profile](../firms/balderton.com.md)
 
-Role: Operating Partner
+Role: Operating Partner[^s-ccf3ba47]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://balderton.com/team)
+[^s-ccf3ba47]: <https://balderton.com/team>

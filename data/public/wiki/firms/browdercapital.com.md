@@ -1,29 +1,37 @@
 ---
+type: Investor Firm
+title: Browder Capital
+description: vc; pre-seed, seed; ai, consumer, b2b.
+resource: https://browdercapital.com
+tags:
+- investor-firm
+- directory
+domain: browdercapital.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 53
+status: draft
+sources:
+- id: s-3ca32eea
+  resource: https://browdercapital.com
+- id: s-f1fbd08d
+  resource: https://www.crunchbase.com/organization/browder-capital
 ---
 
 # Browder Capital
-
-[Website](https://browdercapital.com)
-
-Domain: browdercapital.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/browder-capital), as of 2026-04-24)
-- **Stages:** pre-seed, seed ([source](https://www.crunchbase.com/organization/browder-capital), as of 2026-04-24)
-- **Geographies:** us ([source](https://www.crunchbase.com/organization/browder-capital), as of 2026-04-24)
-- **Sectors:** ai, consumer, b2b ([source](https://www.crunchbase.com/organization/browder-capital), as of 2026-04-24)
-- **Check size min:** 50K ([source](https://www.crunchbase.com/organization/browder-capital), as of 2026-04-24)
-- **Check size max:** 500K ([source](https://www.crunchbase.com/organization/browder-capital), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://browdercapital.com), as of not recorded)
-- **About:** Browder Capital is a solo-GP pre-seed/seed fund run by Joshua Browder (founder/CEO of DoNotPay), giving him an operator's perspective on early-stage founders. Participated in BRINC Drones' Series B (noted as a competitor conflict). ([source](https://www.crunchbase.com/organization/browder-capital), as of 2026-04-24)
+- **Type:** vc (as of 2026-04-24)[^s-f1fbd08d]
+- **Stages:** pre-seed, seed (as of 2026-04-24)[^s-f1fbd08d]
+- **Geographies:** us (as of 2026-04-24)[^s-f1fbd08d]
+- **Sectors:** ai, consumer, b2b (as of 2026-04-24)[^s-f1fbd08d]
+- **Check size min:** 50K (as of 2026-04-24)[^s-f1fbd08d]
+- **Check size max:** 500K (as of 2026-04-24)[^s-f1fbd08d]
+- **Leads rounds:** unknown[^s-3ca32eea]
+- **About:** Browder Capital is a solo-GP pre-seed/seed fund run by Joshua Browder (founder/CEO of DoNotPay), giving him an operator's perspective on early-stage founders. Participated in BRINC Drones' Series B (noted as a competitor conflict). (as of 2026-04-24)[^s-f1fbd08d]
 
 ## Portfolio
 
@@ -31,8 +39,7 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://browdercapital.com)
-- [Source](https://www.crunchbase.com/organization/browder-capital)
+[^s-3ca32eea]: <https://browdercapital.com>
+[^s-f1fbd08d]: <https://www.crunchbase.com/organization/browder-capital>

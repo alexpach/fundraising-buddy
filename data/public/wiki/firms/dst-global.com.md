@@ -1,56 +1,70 @@
 ---
+type: Investor Firm
+title: DST Global
+description: technology investment firm.
+resource: https://dst-global.com
+tags:
+- investor-firm
+- sourced
+domain: dst-global.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 64
+sources:
+- id: s-a43ba40a
+  resource: https://dst-global.com/
+- id: s-7d67833b
+  resource: https://en.wikipedia.org/wiki/DST_Global
+- id: s-0b077413
+  resource: https://web.archive.org/web/20221011012206/https:/yurimilner.com/fact-sheet
+- id: s-c9b51d0b
+  resource: https://www.calcalistech.com/ctechnews/article/hjfywdtajl
+- id: s-9b42552c
+  resource: https://www.upgrade.com/press/releases/upgrade-raises-280-million-at-6-billion-valuation/
+- id: s-e3df8e5c
+  resource: https://yurimilner.com/fact-sheet
 ---
 
 # DST Global
 
-[Website](https://dst-global.com)
-
-Domain: dst-global.com
-
-Coverage: sourced
-
-Research date: 2026-10-03
-
 ## Public research
 
-- **HQ:** Cayman Islands (registered office) ([source](https://dst-global.com/), as of None)
-- **Founded:** 2009 ([source](https://web.archive.org/web/20221011012206/https:/yurimilner.com/fact-sheet), as of 2022-10)
-- **Geographies:** global ([source](https://dst-global.com/), as of None)
-- **Latest fund:** DST Global IX, 2021, $4,000 million committed capital ([source](https://en.wikipedia.org/wiki/DST_Global), as of None)
-- **Thesis quote:** DST Global is one of the leading Internet investment firms globally. Its investments include some of the world's fastest-growing and most valuable companies. ([source](https://dst-global.com/), as of None)
-- **LPs:** Over 150 investors across the last seven funds, no Russian capital since 2011 ([source](https://web.archive.org/web/20221011012206/https:/yurimilner.com/fact-sheet), as of 2022-10)
-- **Coinvestors:** Greenoaks, Andreessen Horowitz, Lightspeed Venture Partners ([source](https://www.calcalistech.com/ctechnews/article/hjfywdtajl), as of 2025-04)
-- **Type:** technology investment firm ([source](https://yurimilner.com/fact-sheet), as of not recorded)
-- **Investment strategies:** internet investments globally ([source](https://yurimilner.com/fact-sheet), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.upgrade.com/press/releases/upgrade-raises-280-million-at-6-billion-valuation/), as of 2021-11-16)
+- **HQ:** Cayman Islands (registered office) (as of None)[^s-a43ba40a]
+- **Founded:** 2009 (as of 2022-10)[^s-0b077413]
+- **Geographies:** global (as of None)[^s-a43ba40a]
+- **Latest fund:** DST Global IX, 2021, $4,000 million committed capital (as of None)[^s-7d67833b]
+- **Thesis quote:** DST Global is one of the leading Internet investment firms globally. Its investments include some of the world's fastest-growing and most valuable companies. (as of None)[^s-a43ba40a]
+- **LPs:** Over 150 investors across the last seven funds, no Russian capital since 2011 (as of 2022-10)[^s-0b077413]
+- **Coinvestors:** Greenoaks, Andreessen Horowitz, Lightspeed Venture Partners (as of 2025-04)[^s-c9b51d0b]
+- **Type:** technology investment firm[^s-e3df8e5c]
+- **Investment strategies:** internet investments globally[^s-e3df8e5c]
+- **Leads rounds:** yes (as of 2021-11-16)[^s-9b42552c]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Facebook | unknown | unknown | unknown | [Source](https://en.wikipedia.org/wiki/DST_Global) |
-| Twitter | unknown | unknown | unknown | [Source](https://en.wikipedia.org/wiki/DST_Global) |
-| WhatsApp | unknown | unknown | unknown | [Source](https://en.wikipedia.org/wiki/DST_Global) |
-| Snapchat | unknown | unknown | unknown | [Source](https://en.wikipedia.org/wiki/DST_Global) |
-| Spotify | unknown | unknown | unknown | [Source](https://en.wikipedia.org/wiki/DST_Global) |
-| Alibaba | unknown | unknown | unknown | [Source](https://en.wikipedia.org/wiki/DST_Global) |
-| ByteDance (Toutiao) | unknown | unknown | unknown | [Source](https://en.wikipedia.org/wiki/DST_Global) |
-| Xiaohongshu | unknown | unknown | unknown | [Source](https://en.wikipedia.org/wiki/DST_Global) |
-| Safe Superintelligence | AI | $2 billion round at $32 billion valuation | 2025-04 | [Source](https://www.calcalistech.com/ctechnews/article/hjfywdtajl) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Facebook[^s-7d67833b] | unknown | unknown | unknown |
+| Twitter[^s-7d67833b] | unknown | unknown | unknown |
+| WhatsApp[^s-7d67833b] | unknown | unknown | unknown |
+| Snapchat[^s-7d67833b] | unknown | unknown | unknown |
+| Spotify[^s-7d67833b] | unknown | unknown | unknown |
+| Alibaba[^s-7d67833b] | unknown | unknown | unknown |
+| ByteDance (Toutiao)[^s-7d67833b] | unknown | unknown | unknown |
+| Xiaohongshu[^s-7d67833b] | unknown | unknown | unknown |
+| Safe Superintelligence[^s-c9b51d0b] | AI | $2 billion round at $32 billion valuation | 2025-04 |
 
 ## People
 
-- [[public/people/dst-global.com--rahul-mehta-8d74f1|Rahul Mehta]]: Co-Founder
-- [[public/people/dst-global.com--saurabh-gupta-997e55|Saurabh Gupta]]: Co-Founder
-- [[public/people/dst-global.com--tom-stafford-2089bf|Tom Stafford]]: Co-Founder
-- [[public/people/dst-global.com--yuri-milner-798eeb|Yuri Milner]]: Founder
+- [Rahul Mehta](../people/dst-global.com--rahul-mehta-8d74f1.md) - Co-Founder
+- [Saurabh Gupta](../people/dst-global.com--saurabh-gupta-997e55.md) - Co-Founder
+- [Tom Stafford](../people/dst-global.com--tom-stafford-2089bf.md) - Co-Founder
+- [Yuri Milner](../people/dst-global.com--yuri-milner-798eeb.md) - Founder
 
-## Sources
-
-- [Source](https://dst-global.com/)
-- [Source](https://en.wikipedia.org/wiki/DST_Global)
-- [Source](https://web.archive.org/web/20221011012206/https:/yurimilner.com/fact-sheet)
-- [Source](https://www.calcalistech.com/ctechnews/article/hjfywdtajl)
-- [Source](https://www.upgrade.com/press/releases/upgrade-raises-280-million-at-6-billion-valuation/)
-- [Source](https://yurimilner.com/fact-sheet)
+[^s-a43ba40a]: <https://dst-global.com/>
+[^s-7d67833b]: <https://en.wikipedia.org/wiki/DST_Global>
+[^s-0b077413]: <https://web.archive.org/web/20221011012206/https:/yurimilner.com/fact-sheet>
+[^s-c9b51d0b]: <https://www.calcalistech.com/ctechnews/article/hjfywdtajl>
+[^s-9b42552c]: <https://www.upgrade.com/press/releases/upgrade-raises-280-million-at-6-billion-valuation/>
+[^s-e3df8e5c]: <https://yurimilner.com/fact-sheet>

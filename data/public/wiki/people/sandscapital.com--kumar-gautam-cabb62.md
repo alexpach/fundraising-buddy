@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Kumar Gautam
+description: Partner at Sands Capital.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-02T00:00:00Z'
+sources:
+- id: s-21aab7ed
+  resource: https://sandscapital.com/global-innovation
+---
+
 # Kumar Gautam
 
-[[public/firms/sandscapital.com|Firm profile]]
+[Firm profile](../firms/sandscapital.com.md)
 
-Role: Partner
+Role: Partner[^s-21aab7ed]
 
 Focus: Global Innovation
 
-## Public sources
-
-- [Source](https://sandscapital.com/global-innovation)
+[^s-21aab7ed]: <https://sandscapital.com/global-innovation>

@@ -1,76 +1,90 @@
 ---
+type: Investor Firm
+title: DeepTech & Climate Fonds (DTCF)
+description: venture capital; early growth, Series A+; Advanced Computing & Security,
+  Life Sciences & HealthTech, New Industry & Automation, Sustainable Tech & Climate
+  Solutions.
+resource: https://dtcf.de
+tags:
+- investor-firm
+- sourced
+domain: dtcf.de
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 80
+sources:
+- id: s-b4cb81d8
+  resource: https://dtcf.de/
+- id: s-00c5563c
+  resource: https://dtcf.de/about-us/
+- id: s-f5a64b5e
+  resource: https://dtcf.de/dtcf-and-htgf-to-form-a-new-public-private-investment-platform/
+- id: s-8199f128
+  resource: https://dtcf.de/imprint/
+- id: s-09e418ae
+  resource: https://dtcf.de/portfolio/
 ---
 
 # DeepTech & Climate Fonds (DTCF)
 
-[Website](https://dtcf.de)
-
-Domain: dtcf.de
-
-Coverage: sourced
-
-Research date: 2026-10-03
-
 ## Public research
 
-- **Check size max:** EUR 50M per company ([source](https://dtcf.de/about-us/), as of None)
-- **Legal name:** DeepTech & Climate Fonds Management GmbH ([source](https://dtcf.de/imprint/), as of None)
-- **Offices:** Berlin, Bonn, Munich ([source](https://dtcf.de/), as of None)
-- **Thesis quote:** We invest in the ideas that take time: companies with long development cycles, deep technology roots, and bold visions. ([source](https://dtcf.de/about-us/), as of None)
-- **LPs:** Funded by the German Future Fund and the ERP Special Fund ([source](https://dtcf.de/), as of None)
-- **Type:** venture capital ([source](https://dtcf.de/dtcf-and-htgf-to-form-a-new-public-private-investment-platform/), as of 2025-11)
-- **Investment strategies:** growth investment ([source](https://dtcf.de/dtcf-and-htgf-to-form-a-new-public-private-investment-platform/), as of 2025-11)
-- **Investment instruments:** equity ([source](https://dtcf.de/dtcf-and-htgf-to-form-a-new-public-private-investment-platform/), as of 2025-11)
-- **Stages:** early growth, Series A+ ([source](https://dtcf.de/about-us/), as of not recorded)
-- **Sectors:** Advanced Computing & Security, Life Sciences & HealthTech, New Industry & Automation, Sustainable Tech & Climate Solutions ([source](https://dtcf.de/about-us/), as of not recorded)
-- **AUM:** EUR 1 billion (date not reported) ([source](https://dtcf.de/about-us/), as of not recorded)
+- **Check size max:** EUR 50M per company (as of None)[^s-00c5563c]
+- **Legal name:** DeepTech & Climate Fonds Management GmbH (as of None)[^s-8199f128]
+- **Offices:** Berlin, Bonn, Munich (as of None)[^s-b4cb81d8]
+- **Thesis quote:** We invest in the ideas that take time: companies with long development cycles, deep technology roots, and bold visions. (as of None)[^s-00c5563c]
+- **LPs:** Funded by the German Future Fund and the ERP Special Fund (as of None)[^s-b4cb81d8]
+- **Type:** venture capital (as of 2025-11)[^s-f5a64b5e]
+- **Investment strategies:** growth investment (as of 2025-11)[^s-f5a64b5e]
+- **Investment instruments:** equity (as of 2025-11)[^s-f5a64b5e]
+- **Stages:** early growth, Series A+[^s-00c5563c]
+- **Sectors:** Advanced Computing & Security, Life Sciences & HealthTech, New Industry & Automation, Sustainable Tech & Climate Solutions[^s-00c5563c]
+- **AUM:** EUR 1 billion (date not reported)[^s-00c5563c]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| abolis | Not recorded | DTCF entry 2024 | 2024 | [Source](https://dtcf.de/portfolio/) |
-| clinomic | Not recorded | DTCF entry 2025 | 2025 | [Source](https://dtcf.de/portfolio/) |
-| cylib | Not recorded | DTCF entry 2024 | 2024 | [Source](https://dtcf.de/portfolio/) |
-| eze | Not recorded | DTCF entry 2023 | 2023 | [Source](https://dtcf.de/portfolio/) |
-| fernride | Not recorded | DTCF entry 2023 | 2023 | [Source](https://dtcf.de/portfolio/) |
-| ferroelectric-memory | Not recorded | DTCF entry 2025 | 2025 | [Source](https://dtcf.de/portfolio/) |
-| genomines | Not recorded | DTCF entry 2025 | 2025 | [Source](https://dtcf.de/portfolio/) |
-| hypatos | Not recorded | DTCF entry 2025 | 2025 | [Source](https://dtcf.de/portfolio/) |
-| kipu-quantum | Not recorded | DTCF entry 2023 | 2023 | [Source](https://dtcf.de/portfolio/) |
-| live-eo | Not recorded | DTCF entry 2024 | 2024 | [Source](https://dtcf.de/portfolio/) |
-| membion | Not recorded | DTCF entry 2023 | 2023 | [Source](https://dtcf.de/portfolio/) |
-| node | Not recorded | DTCF entry 2025 | 2025 | [Source](https://dtcf.de/portfolio/) |
-| nuclidium | Not recorded | DTCF entry 2025 | 2025 | [Source](https://dtcf.de/portfolio/) |
-| planqc | Not recorded | DTCF entry 2024 | 2024 | [Source](https://dtcf.de/portfolio/) |
-| projecteaden | Not recorded | DTCF entry 2025 | 2025 | [Source](https://dtcf.de/portfolio/) |
-| proximafusion | Not recorded | DTCF entry 2024 | 2024 | [Source](https://dtcf.de/portfolio/) |
-| stenon | Not recorded | DTCF entry 2026 | 2026 | [Source](https://dtcf.de/portfolio/) |
-| synera | Not recorded | DTCF entry 2026 | 2026 | [Source](https://dtcf.de/portfolio/) |
-| exploration | Not recorded | DTCF entry 2024 | 2024 | [Source](https://dtcf.de/portfolio/) |
-| univercell | Not recorded | DTCF entry 2026 | 2026 | [Source](https://dtcf.de/portfolio/) |
-| vemcon | Not recorded | DTCF entry 2023 | 2023 | [Source](https://dtcf.de/portfolio/) |
-| xolo3d | Not recorded | DTCF entry 2023 | 2023 | [Source](https://dtcf.de/portfolio/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| abolis[^s-09e418ae] | Not recorded | DTCF entry 2024 | 2024 |
+| clinomic[^s-09e418ae] | Not recorded | DTCF entry 2025 | 2025 |
+| cylib[^s-09e418ae] | Not recorded | DTCF entry 2024 | 2024 |
+| eze[^s-09e418ae] | Not recorded | DTCF entry 2023 | 2023 |
+| fernride[^s-09e418ae] | Not recorded | DTCF entry 2023 | 2023 |
+| ferroelectric-memory[^s-09e418ae] | Not recorded | DTCF entry 2025 | 2025 |
+| genomines[^s-09e418ae] | Not recorded | DTCF entry 2025 | 2025 |
+| hypatos[^s-09e418ae] | Not recorded | DTCF entry 2025 | 2025 |
+| kipu-quantum[^s-09e418ae] | Not recorded | DTCF entry 2023 | 2023 |
+| live-eo[^s-09e418ae] | Not recorded | DTCF entry 2024 | 2024 |
+| membion[^s-09e418ae] | Not recorded | DTCF entry 2023 | 2023 |
+| node[^s-09e418ae] | Not recorded | DTCF entry 2025 | 2025 |
+| nuclidium[^s-09e418ae] | Not recorded | DTCF entry 2025 | 2025 |
+| planqc[^s-09e418ae] | Not recorded | DTCF entry 2024 | 2024 |
+| projecteaden[^s-09e418ae] | Not recorded | DTCF entry 2025 | 2025 |
+| proximafusion[^s-09e418ae] | Not recorded | DTCF entry 2024 | 2024 |
+| stenon[^s-09e418ae] | Not recorded | DTCF entry 2026 | 2026 |
+| synera[^s-09e418ae] | Not recorded | DTCF entry 2026 | 2026 |
+| exploration[^s-09e418ae] | Not recorded | DTCF entry 2024 | 2024 |
+| univercell[^s-09e418ae] | Not recorded | DTCF entry 2026 | 2026 |
+| vemcon[^s-09e418ae] | Not recorded | DTCF entry 2023 | 2023 |
+| xolo3d[^s-09e418ae] | Not recorded | DTCF entry 2023 | 2023 |
 
 ## People
 
-- [[public/people/dtcf.de--axel-nitsch-a5ab0e|Axel Nitsch]]: Partner
-- [[public/people/dtcf.de--dr-achim-plum-1c29c2|Dr. Achim Plum]]: Managing Director
-- [[public/people/dtcf.de--dr-angelika-vlachou-7295df|Dr. Angelika Vlachou]]: Partner
-- [[public/people/dtcf.de--dr-bernd-goergen-0485be|Dr. Bernd Goergen]]: Partner
-- [[public/people/dtcf.de--dr-elisabeth-schrey-913dcc|Dr. Elisabeth Schrey]]: Venture Partner
-- [[public/people/dtcf.de--dr-nikolaus-raupp-5b8215|Dr. Nikolaus Raupp]]: Partner
-- [[public/people/dtcf.de--johannes-weber-336818|Johannes Weber]]: Partner
-- [[public/people/dtcf.de--romy-schnelle-fd5e06|Romy Schnelle]]: Managing Director
-- [[public/people/dtcf.de--sebastian-borek-aaa01c|Sebastian Borek]]: Managing Director
-- [[public/people/dtcf.de--tobias-faupel-1c57d4|Tobias Faupel]]: Venture Partner
-- [[public/people/dtcf.de--yann-fiebig-98b638|Yann Fiebig]]: Partner
+- [Axel Nitsch](../people/dtcf.de--axel-nitsch-a5ab0e.md) - Partner
+- [Dr. Achim Plum](../people/dtcf.de--dr-achim-plum-1c29c2.md) - Managing Director
+- [Dr. Angelika Vlachou](../people/dtcf.de--dr-angelika-vlachou-7295df.md) - Partner
+- [Dr. Bernd Goergen](../people/dtcf.de--dr-bernd-goergen-0485be.md) - Partner
+- [Dr. Elisabeth Schrey](../people/dtcf.de--dr-elisabeth-schrey-913dcc.md) - Venture Partner
+- [Dr. Nikolaus Raupp](../people/dtcf.de--dr-nikolaus-raupp-5b8215.md) - Partner
+- [Johannes Weber](../people/dtcf.de--johannes-weber-336818.md) - Partner
+- [Romy Schnelle](../people/dtcf.de--romy-schnelle-fd5e06.md) - Managing Director
+- [Sebastian Borek](../people/dtcf.de--sebastian-borek-aaa01c.md) - Managing Director
+- [Tobias Faupel](../people/dtcf.de--tobias-faupel-1c57d4.md) - Venture Partner
+- [Yann Fiebig](../people/dtcf.de--yann-fiebig-98b638.md) - Partner
 
-## Sources
-
-- [Source](https://dtcf.de/)
-- [Source](https://dtcf.de/about-us/)
-- [Source](https://dtcf.de/dtcf-and-htgf-to-form-a-new-public-private-investment-platform/)
-- [Source](https://dtcf.de/imprint/)
-- [Source](https://dtcf.de/portfolio/)
+[^s-b4cb81d8]: <https://dtcf.de/>
+[^s-00c5563c]: <https://dtcf.de/about-us/>
+[^s-f5a64b5e]: <https://dtcf.de/dtcf-and-htgf-to-form-a-new-public-private-investment-platform/>
+[^s-8199f128]: <https://dtcf.de/imprint/>
+[^s-09e418ae]: <https://dtcf.de/portfolio/>

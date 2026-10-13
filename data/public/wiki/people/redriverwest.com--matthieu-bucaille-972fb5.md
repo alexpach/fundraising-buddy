@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Matthieu Bucaille
+description: Strategic Partner at Red River West.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-402aa00e
+  resource: https://redriverwest.com/team
+---
+
 # Matthieu Bucaille
 
-[[public/firms/redriverwest.com|Firm profile]]
+[Firm profile](../firms/redriverwest.com.md)
 
-Role: Strategic Partner
+Role: Strategic Partner[^s-402aa00e]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://redriverwest.com/team)
+[^s-402aa00e]: <https://redriverwest.com/team>

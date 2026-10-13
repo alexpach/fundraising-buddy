@@ -1,13 +1,27 @@
+---
+type: Investor
+title: Emerson James
+description: Director at Koch Disruptive Technologies.
+resource: https://www.linkedin.com/in/emerson-james-3618407a/
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-09-20T00:00:00Z'
+sources:
+- id: s-f541dcf7
+  resource: https://www.linkedin.com/in/emerson-james-3618407a/
+- id: s-dd55bfaf
+  resource: https://kochdisruptivetechnologies.com/about
+---
+
 # Emerson James
 
-[[public/firms/kochdisruptivetechnologies.com|Firm profile]]
+[Firm profile](../firms/kochdisruptivetechnologies.com.md)
 
-Role: Director
+Role: Director[^s-f541dcf7][^s-dd55bfaf]
 
 Focus: Not recorded
 
-## Public sources
-
-[Public profile](https://www.linkedin.com/in/emerson-james-3618407a/)
-
-- [Source](https://kochdisruptivetechnologies.com/about)
+[^s-f541dcf7]: <https://www.linkedin.com/in/emerson-james-3618407a/>
+[^s-dd55bfaf]: <https://kochdisruptivetechnologies.com/about>

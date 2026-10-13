@@ -1,40 +1,54 @@
 ---
+type: Investor Firm
+title: Shenzhen Capital Group Co., Ltd. (深圳市创新投资集团有限公司)
+description: venture capital; fund of funds; secondary fund; M&A fund; angel, startup,
+  growth; Information technology, Advanced equipment manufacturing, Healthcare, Advanced
+  materials, New energy.
+resource: https://www.szvc.com.cn
+tags:
+- investor-firm
+- directory
+domain: szvc.com.cn
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 34
+status: draft
+sources:
+- id: s-880a6812
+  resource: https://www.szvc.com.cn
+- id: s-4b5e6f63
+  resource: https://www.szvc.com.cn/
+- id: s-622fb00d
+  resource: https://www.szvc.com.cn/stock
+- id: s-a408ec0a
+  resource: https://www.szvc.com.cn/uploads/2024-05-06/773df6a5-d491-4c31-968b-df6e4f1e19201714988459420.pdf
 ---
 
 # Shenzhen Capital Group Co., Ltd. (深圳市创新投资集团有限公司)
-
-[Website](https://www.szvc.com.cn)
-
-Domain: szvc.com.cn
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** apac ([source](https://www.szvc.com.cn), as of 2026-08-06)
-- **Type:** venture capital; fund of funds; secondary fund; M&A fund ([source](https://www.szvc.com.cn/stock), as of not recorded)
-- **Investment strategies:** venture capital ([source](https://www.szvc.com.cn/stock), as of not recorded)
-- **Investment instruments:** equity ([source](https://www.szvc.com.cn/stock), as of not recorded)
-- **Stages:** angel, startup, growth ([source](https://www.szvc.com.cn/uploads/2024-05-06/773df6a5-d491-4c31-968b-df6e4f1e19201714988459420.pdf), as of 2023)
-- **Sectors:** Information technology, Advanced equipment manufacturing, Healthcare, Advanced materials, New energy ([source](https://www.szvc.com.cn/), as of not recorded)
+- **Geographies:** apac (as of 2026-08-06)[^s-880a6812]
+- **Type:** venture capital; fund of funds; secondary fund; M&A fund[^s-622fb00d]
+- **Investment strategies:** venture capital[^s-622fb00d]
+- **Investment instruments:** equity[^s-622fb00d]
+- **Stages:** angel, startup, growth (as of 2023)[^s-a408ec0a]
+- **Sectors:** Information technology, Advanced equipment manufacturing, Healthcare, Advanced materials, New energy[^s-4b5e6f63]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| PEELSPHERE (Pufei Bio) | Not recorded | Not recorded | Not recorded | [Source](https://www.szvc.com.cn) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| PEELSPHERE (Pufei Bio)[^s-880a6812] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.szvc.com.cn)
-- [Source](https://www.szvc.com.cn/)
-- [Source](https://www.szvc.com.cn/stock)
-- [Source](https://www.szvc.com.cn/uploads/2024-05-06/773df6a5-d491-4c31-968b-df6e4f1e19201714988459420.pdf)
+[^s-880a6812]: <https://www.szvc.com.cn>
+[^s-4b5e6f63]: <https://www.szvc.com.cn/>
+[^s-622fb00d]: <https://www.szvc.com.cn/stock>
+[^s-a408ec0a]: <https://www.szvc.com.cn/uploads/2024-05-06/773df6a5-d491-4c31-968b-df6e4f1e19201714988459420.pdf>

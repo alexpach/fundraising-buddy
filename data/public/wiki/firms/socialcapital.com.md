@@ -1,23 +1,29 @@
 ---
+type: Investor Firm
+title: Social+Capital
+description: vc.
+resource: https://www.socialcapital.com
+tags:
+- investor-firm
+- directory
+domain: socialcapital.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 5
+status: draft
+sources:
+- id: s-9841d00b
+  resource: https://www.socialcapital.com
 ---
 
 # Social+Capital
-
-[Website](https://www.socialcapital.com)
-
-Domain: socialcapital.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.socialcapital.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://www.socialcapital.com), as of not recorded)
+- **Type:** vc (as of 2026-04-24)[^s-9841d00b]
+- **Leads rounds:** unknown[^s-9841d00b]
 
 ## Portfolio
 
@@ -25,7 +31,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.socialcapital.com)
+[^s-9841d00b]: <https://www.socialcapital.com>

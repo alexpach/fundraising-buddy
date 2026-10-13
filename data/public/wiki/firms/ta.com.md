@@ -1,66 +1,89 @@
 ---
+type: Investor Firm
+title: TA Associates
+description: private equity; growth; technology, healthcare, financial services, consumer,
+  business services.
+resource: https://ta.com
+tags:
+- investor-firm
+- sourced
+domain: ta.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 83
+sources:
+- id: s-7b45cf4b
+  resource: https://ta.com
+- id: s-9318576a
+  resource: https://ta.com/about
+- id: s-3f89eb9b
+  resource: https://ta.com/approach
+- id: s-35ffe41f
+  resource: https://ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund
+- id: s-894dcdaf
+  resource: https://ta.com/portfolio
+- id: s-57158760
+  resource: https://wrex.marketminute.com/article/bizwire-2026-3-31-ibase-t-announces-strategic-growth-investment-from-ta-to-accelerate-ai-powered-digital-manufacturing-and-mro-transformation-in-aerospace-and-defense
+- id: s-f15c8648
+  resource: https://www.ta.com/about/
+- id: s-9507ead1
+  resource: https://www.ta.com/approach/
+- id: s-ce6fc757
+  resource: https://www.ta.com/news/ser-welcomes-new-investment-from-ta-to-accelerate-growth/
+- id: s-bbf062db
+  resource: https://www.ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund/
 ---
 
 # TA Associates
 
-[Website](https://ta.com)
-
-Domain: ta.com
-
-Coverage: sourced
-
-Research date: 2026-10-04
-
 ## Public research
 
-- **HQ:** Boston, Massachusetts ([source](https://ta.com/about), as of 2026-08)
-- **Founded:** 1968 ([source](https://ta.com/about), as of 2026-08)
-- **Check size min:** $150 million ([source](https://ta.com/approach), as of 2026-08)
-- **Check size max:** $600 million ([source](https://ta.com/approach), as of 2026-08)
-- **Thesis quote:** TA XV will target equity investments in high-quality businesses capable of delivering sustainable growth within the technology, healthcare, financial services, consumer and business services sectors. ([source](https://ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund), as of 2023-06)
-- **LPs:** public and private pension funds, sovereign wealth funds, asset managers, endowments, foundations, family offices and insurance companies ([source](https://ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund), as of 2023-06)
-- **Type:** private equity ([source](https://www.ta.com/about/), as of not recorded)
-- **Investment strategies:** growth investing ([source](https://www.ta.com/about/), as of not recorded)
-- **Investment instruments:** equity ([source](https://www.ta.com/about/), as of not recorded)
-- **Stages:** growth ([source](https://www.ta.com/approach/), as of not recorded)
-- **Sectors:** technology, healthcare, financial services, consumer, business services ([source](https://www.ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund/), as of 2023-06-15)
-- **Leads rounds:** yes ([source](https://www.ta.com/news/ser-welcomes-new-investment-from-ta-to-accelerate-growth/), as of 2024-03-21)
+- **HQ:** Boston, Massachusetts (as of 2026-08)[^s-9318576a]
+- **Founded:** 1968 (as of 2026-08)[^s-9318576a]
+- **Check size min:** $150 million (as of 2026-08)[^s-3f89eb9b]
+- **Check size max:** $600 million (as of 2026-08)[^s-3f89eb9b]
+- **Thesis quote:** TA XV will target equity investments in high-quality businesses capable of delivering sustainable growth within the technology, healthcare, financial services, consumer and business services sectors. (as of 2023-06)[^s-35ffe41f]
+- **LPs:** public and private pension funds, sovereign wealth funds, asset managers, endowments, foundations, family offices and insurance companies (as of 2023-06)[^s-35ffe41f]
+- **Type:** private equity[^s-f15c8648]
+- **Investment strategies:** growth investing[^s-f15c8648]
+- **Investment instruments:** equity[^s-f15c8648]
+- **Stages:** growth[^s-9507ead1]
+- **Sectors:** technology, healthcare, financial services, consumer, business services (as of 2023-06-15)[^s-bbf062db]
+- **Leads rounds:** yes (as of 2024-03-21)[^s-ce6fc757]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Veracode | Technology | Current | Not recorded | [Source](https://ta.com/portfolio) |
-| Fortra | Technology | Current | Not recorded | [Source](https://ta.com/portfolio) |
-| Aldevron | Healthcare | Past | Not recorded | [Source](https://ta.com/portfolio) |
-| Cardtronics, Inc. | Financial Services | Past | Not recorded | [Source](https://ta.com/portfolio) |
-| Amplify Snack Brands, Inc. | Consumer | Past | Not recorded | [Source](https://ta.com/portfolio) |
-| 5.11, Inc. | Consumer | Past | Not recorded | [Source](https://ta.com/portfolio) |
-| Business Network International | Business Services | Current | Not recorded | [Source](https://ta.com/portfolio) |
-| Cast & Crew | Business Services, Technology | Current | Not recorded | [Source](https://ta.com/portfolio) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Veracode[^s-894dcdaf] | Technology | Current | Not recorded |
+| Fortra[^s-894dcdaf] | Technology | Current | Not recorded |
+| Aldevron[^s-894dcdaf] | Healthcare | Past | Not recorded |
+| Cardtronics, Inc.[^s-894dcdaf] | Financial Services | Past | Not recorded |
+| Amplify Snack Brands, Inc.[^s-894dcdaf] | Consumer | Past | Not recorded |
+| 5.11, Inc.[^s-894dcdaf] | Consumer | Past | Not recorded |
+| Business Network International[^s-894dcdaf] | Business Services | Current | Not recorded |
+| Cast & Crew[^s-894dcdaf] | Business Services, Technology | Current | Not recorded |
 
 ## People
 
-- [[public/people/ta.com--ajit-nedungadi-aaea31|Ajit Nedungadi]]: CEO and Co-Managing Partner
-- [[public/people/ta.com--eric-zagorski-447095|Eric Zagorski]]: Principal
-- [[public/people/ta.com--giovanni-fantini-91230f|Giovanni Fantini]]: Principal
-- [[public/people/ta.com--hythem-el-nazer-059ea6|Hythem El-Nazer]]: Co-Managing Partner
-- [[public/people/ta.com--jennifer-a-barbetta-3ae1c4|Jennifer A. Barbetta]]: Managing Director and Chief Operating Officer
-- [[public/people/ta.com--john-triebsch-da48c7|John Triebsch]]: Principal
-- [[public/people/ta.com--katie-gamble-143354|Katie Gamble]]: Senior Vice President
-- [[public/people/ta.com--kevin-l-masse-7714dc|Kevin L. Masse]]: Managing Director and Chief Portfolio Officer
-- [[public/people/ta.com--stefan-dandl-31c51c|Stefan Dandl]]: Managing Director
+- [Ajit Nedungadi](../people/ta.com--ajit-nedungadi-aaea31.md) - CEO and Co-Managing Partner
+- [Eric Zagorski](../people/ta.com--eric-zagorski-447095.md) - Principal
+- [Giovanni Fantini](../people/ta.com--giovanni-fantini-91230f.md) - Principal
+- [Hythem El-Nazer](../people/ta.com--hythem-el-nazer-059ea6.md) - Co-Managing Partner
+- [Jennifer A. Barbetta](../people/ta.com--jennifer-a-barbetta-3ae1c4.md) - Managing Director and Chief Operating Officer
+- [John Triebsch](../people/ta.com--john-triebsch-da48c7.md) - Principal
+- [Katie Gamble](../people/ta.com--katie-gamble-143354.md) - Senior Vice President
+- [Kevin L. Masse](../people/ta.com--kevin-l-masse-7714dc.md) - Managing Director and Chief Portfolio Officer
+- [Stefan Dandl](../people/ta.com--stefan-dandl-31c51c.md) - Managing Director
 
-## Sources
-
-- [Source](https://ta.com)
-- [Source](https://ta.com/about)
-- [Source](https://ta.com/approach)
-- [Source](https://ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund)
-- [Source](https://ta.com/portfolio)
-- [Source](https://wrex.marketminute.com/article/bizwire-2026-3-31-ibase-t-announces-strategic-growth-investment-from-ta-to-accelerate-ai-powered-digital-manufacturing-and-mro-transformation-in-aerospace-and-defense)
-- [Source](https://www.ta.com/about/)
-- [Source](https://www.ta.com/approach/)
-- [Source](https://www.ta.com/news/ser-welcomes-new-investment-from-ta-to-accelerate-growth/)
-- [Source](https://www.ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund/)
+[^s-7b45cf4b]: <https://ta.com>
+[^s-9318576a]: <https://ta.com/about>
+[^s-3f89eb9b]: <https://ta.com/approach>
+[^s-35ffe41f]: <https://ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund>
+[^s-894dcdaf]: <https://ta.com/portfolio>
+[^s-57158760]: <https://wrex.marketminute.com/article/bizwire-2026-3-31-ibase-t-announces-strategic-growth-investment-from-ta-to-accelerate-ai-powered-digital-manufacturing-and-mro-transformation-in-aerospace-and-defense>
+[^s-f15c8648]: <https://www.ta.com/about/>
+[^s-9507ead1]: <https://www.ta.com/approach/>
+[^s-ce6fc757]: <https://www.ta.com/news/ser-welcomes-new-investment-from-ta-to-accelerate-growth/>
+[^s-bbf062db]: <https://www.ta.com/news/ta-completes-165-billion-fundraise-for-fifteenth-global-private-equity-fund/>

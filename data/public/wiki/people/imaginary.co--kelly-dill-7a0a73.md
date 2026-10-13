@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Kelly Dill
+description: Partner at Imaginary Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
+sources:
+- id: s-413fbd72
+  resource: https://www.newsbreak.com/wwd-510051/4556363239783-exclusive-alix-earle-talks-acne-journey-and-creating-reale-actives-her-new-skin-care-brand
+---
+
 # Kelly Dill
 
-[[public/firms/imaginary.co|Firm profile]]
+[Firm profile](../firms/imaginary.co.md)
 
-Role: Partner
+Role: Partner[^s-413fbd72]
 
 Focus: Consumer brands
 
-## Public sources
-
-- [Source](https://www.newsbreak.com/wwd-510051/4556363239783-exclusive-alix-earle-talks-acne-journey-and-creating-reale-actives-her-new-skin-care-brand)
+[^s-413fbd72]: <https://www.newsbreak.com/wwd-510051/4556363239783-exclusive-alix-earle-talks-acne-journey-and-creating-reale-actives-her-new-skin-care-brand>

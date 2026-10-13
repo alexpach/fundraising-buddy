@@ -1,56 +1,67 @@
 ---
+type: Investor Firm
+title: Acadian Ventures
+description: venture capital; pre-seed, seed, series A; work technology, people technology,
+  infrastructure, intelligence, automation, experience, compliance.
+resource: https://acadianventures.com
+tags:
+- investor-firm
+- sourced
+domain: acadianventures.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 79
+sources:
+- id: s-11ce2f99
+  resource: https://www.acadianventures.com/
+- id: s-ac6e666c
+  resource: https://www.acadianventures.com/companies
+- id: s-cac868cf
+  resource: https://www.acadianventures.com/manifesto
+- id: s-8986ac8b
+  resource: https://www.prweb.com/releases/acadian-ventures-closes-30-million-fund-ii-to-invest-in-the-next-generation-of-work-technologies-302047771.html
 ---
 
 # Acadian Ventures
 
-[Website](https://acadianventures.com)
-
-Domain: acadianventures.com
-
-Coverage: sourced
-
-Research date: 2026-10-03
-
 ## Public research
 
-- **Founded:** 2019 ([source](https://www.prweb.com/releases/acadian-ventures-closes-30-million-fund-ii-to-invest-in-the-next-generation-of-work-technologies-302047771.html), as of 2024-01)
-- **Geographies:** global ([source](https://www.acadianventures.com/manifesto), as of None)
-- **Check size max:** $2M ([source](https://www.acadianventures.com/manifesto), as of None)
-- **Legal name:** Acadian Ventures Management Co LLC ([source](https://www.acadianventures.com/), as of None)
-- **Latest fund:** $30 million Fund II, anchored by ServiceNow Ventures and Connecticut Innovations ([source](https://www.prweb.com/releases/acadian-ventures-closes-30-million-fund-ii-to-invest-in-the-next-generation-of-work-technologies-302047771.html), as of 2024-01)
-- **Thesis quote:** We focus exclusively on work and people technologies. ([source](https://www.acadianventures.com/manifesto), as of None)
-- **LPs:** Fund II anchored by ServiceNow Ventures and Connecticut Innovations ([source](https://www.prweb.com/releases/acadian-ventures-closes-30-million-fund-ii-to-invest-in-the-next-generation-of-work-technologies-302047771.html), as of 2024-01)
-- **Type:** venture capital ([source](https://www.acadianventures.com/manifesto), as of not recorded)
-- **Investment strategies:** early-stage venture investing, work and people technologies ([source](https://www.acadianventures.com/manifesto), as of not recorded)
-- **Stages:** pre-seed, seed, series A ([source](https://www.acadianventures.com/manifesto), as of not recorded)
-- **Sectors:** work technology, people technology, infrastructure, intelligence, automation, experience, compliance ([source](https://www.acadianventures.com/manifesto), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.acadianventures.com/manifesto), as of not recorded)
+- **Founded:** 2019 (as of 2024-01)[^s-8986ac8b]
+- **Geographies:** global (as of None)[^s-cac868cf]
+- **Check size max:** $2M (as of None)[^s-cac868cf]
+- **Legal name:** Acadian Ventures Management Co LLC (as of None)[^s-11ce2f99]
+- **Latest fund:** $30 million Fund II, anchored by ServiceNow Ventures and Connecticut Innovations (as of 2024-01)[^s-8986ac8b]
+- **Thesis quote:** We focus exclusively on work and people technologies. (as of None)[^s-cac868cf]
+- **LPs:** Fund II anchored by ServiceNow Ventures and Connecticut Innovations (as of 2024-01)[^s-8986ac8b]
+- **Type:** venture capital[^s-cac868cf]
+- **Investment strategies:** early-stage venture investing, work and people technologies[^s-cac868cf]
+- **Stages:** pre-seed, seed, series A[^s-cac868cf]
+- **Sectors:** work technology, people technology, infrastructure, intelligence, automation, experience, compliance[^s-cac868cf]
+- **Leads rounds:** yes[^s-cac868cf]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| TechWolf | Infrastructure | Current stage Series B; entry Seed | Not recorded | [Source](https://www.acadianventures.com/companies) |
-| Compa | Intelligence | Current stage Series B; entry Pre-Seed | Not recorded | [Source](https://www.acadianventures.com/companies) |
-| SmartRecruiters | Experience | Exited; entry Series B | Not recorded | [Source](https://www.acadianventures.com/companies) |
-| Assembly | Intelligence | Exited; entry Seed | Not recorded | [Source](https://www.acadianventures.com/companies) |
-| Arist | Intelligence | Current stage Series A; entry Pre-Seed | Not recorded | [Source](https://www.acadianventures.com/companies) |
-| Spine | Experience | Current stage Seed; entry Seed | Not recorded | [Source](https://www.acadianventures.com/companies) |
-| Beeline | Experience | Growth Equity | Not recorded | [Source](https://www.acadianventures.com/companies) |
-| Autumn AI | Intelligence | Exited; entry Seed | Not recorded | [Source](https://www.acadianventures.com/companies) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| TechWolf[^s-ac6e666c] | Infrastructure | Current stage Series B; entry Seed | Not recorded |
+| Compa[^s-ac6e666c] | Intelligence | Current stage Series B; entry Pre-Seed | Not recorded |
+| SmartRecruiters[^s-ac6e666c] | Experience | Exited; entry Series B | Not recorded |
+| Assembly[^s-ac6e666c] | Intelligence | Exited; entry Seed | Not recorded |
+| Arist[^s-ac6e666c] | Intelligence | Current stage Series A; entry Pre-Seed | Not recorded |
+| Spine[^s-ac6e666c] | Experience | Current stage Seed; entry Seed | Not recorded |
+| Beeline[^s-ac6e666c] | Experience | Growth Equity | Not recorded |
+| Autumn AI[^s-ac6e666c] | Intelligence | Exited; entry Seed | Not recorded |
 
 ## People
 
-- [[public/people/acadianventures.com--audrey-handem-82c30f|Audrey Handem]]: Principal
-- [[public/people/acadianventures.com--david-clarke-b827bc|David Clarke]]: Venture Partner
-- [[public/people/acadianventures.com--emma-phillips-02fe8a|Emma Phillips]]: Venture Partner
-- [[public/people/acadianventures.com--jason-corsello-f161b2|Jason Corsello]]: General Partner
-- [[public/people/acadianventures.com--thomas-otter-2e463c|Thomas Otter]]: General Partner
+- [Audrey Handem](../people/acadianventures.com--audrey-handem-82c30f.md) - Principal
+- [David Clarke](../people/acadianventures.com--david-clarke-b827bc.md) - Venture Partner
+- [Emma Phillips](../people/acadianventures.com--emma-phillips-02fe8a.md) - Venture Partner
+- [Jason Corsello](../people/acadianventures.com--jason-corsello-f161b2.md) - General Partner
+- [Thomas Otter](../people/acadianventures.com--thomas-otter-2e463c.md) - General Partner
 
-## Sources
-
-- [Source](https://www.acadianventures.com/)
-- [Source](https://www.acadianventures.com/companies)
-- [Source](https://www.acadianventures.com/manifesto)
-- [Source](https://www.prweb.com/releases/acadian-ventures-closes-30-million-fund-ii-to-invest-in-the-next-generation-of-work-technologies-302047771.html)
+[^s-11ce2f99]: <https://www.acadianventures.com/>
+[^s-ac6e666c]: <https://www.acadianventures.com/companies>
+[^s-cac868cf]: <https://www.acadianventures.com/manifesto>
+[^s-8986ac8b]: <https://www.prweb.com/releases/acadian-ventures-closes-30-million-fund-ii-to-invest-in-the-next-generation-of-work-technologies-302047771.html>

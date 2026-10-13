@@ -1,25 +1,31 @@
 ---
+type: Investor Firm
+title: BlueOcean Ventures
+description: vc; seed, series-a.
+resource: https://blueocean-ventures.com
+tags:
+- investor-firm
+- directory
+domain: blueocean-ventures.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 18
+status: draft
+sources:
+- id: s-c55c2f8a
+  resource: https://blueocean-ventures.com
 ---
 
 # BlueOcean Ventures
-
-[Website](https://blueocean-ventures.com)
-
-Domain: blueocean-ventures.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://blueocean-ventures.com), as of 2026-08-17)
-- **Stages:** seed, series-a ([source](https://blueocean-ventures.com), as of 2026-08-17)
-- **Geographies:** europe ([source](https://blueocean-ventures.com), as of 2026-08-17)
-- **Leads rounds:** unknown ([source](https://blueocean-ventures.com), as of not recorded)
+- **Type:** vc (as of 2026-08-17)[^s-c55c2f8a]
+- **Stages:** seed, series-a (as of 2026-08-17)[^s-c55c2f8a]
+- **Geographies:** europe (as of 2026-08-17)[^s-c55c2f8a]
+- **Leads rounds:** unknown[^s-c55c2f8a]
 
 ## Portfolio
 
@@ -27,7 +33,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://blueocean-ventures.com)
+[^s-c55c2f8a]: <https://blueocean-ventures.com>

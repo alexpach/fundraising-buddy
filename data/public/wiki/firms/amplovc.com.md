@@ -1,24 +1,30 @@
 ---
+type: Investor Firm
+title: Amplo
+description: vc; robotics, hardware, physical-ai.
+resource: https://amplovc.com
+tags:
+- investor-firm
+- directory
+domain: amplovc.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 13
+status: draft
+sources:
+- id: s-b6458cc8
+  resource: https://amplovc.com
 ---
 
 # Amplo
-
-[Website](https://amplovc.com)
-
-Domain: amplovc.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://amplovc.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://amplovc.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://amplovc.com), as of not recorded)
+- **Type:** vc (as of 2026-04-24)[^s-b6458cc8]
+- **Sectors:** robotics, hardware, physical-ai (as of 2026-04-24)[^s-b6458cc8]
+- **Leads rounds:** unknown[^s-b6458cc8]
 
 ## Portfolio
 
@@ -26,7 +32,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://amplovc.com)
+[^s-b6458cc8]: <https://amplovc.com>

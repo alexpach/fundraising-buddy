@@ -1,41 +1,46 @@
 ---
+type: Investor Firm
+title: Heliad Equity
+description: pe; growth; fintech, defense-tech, deep-tech, high-tech-growth.
+resource: https://www.heliad.com/
+tags:
+- investor-firm
+- directory
+domain: heliad.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 34
+status: draft
+sources:
+- id: s-fda1d467
+  resource: https://www.heliad.com/
 ---
 
 # Heliad Equity
-
-[Website](https://www.heliad.com/)
-
-Domain: heliad.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://www.heliad.com/), as of 2026-08-06)
-- **Stages:** growth ([source](https://www.heliad.com/), as of 2026-08-06)
-- **Geographies:** germany ([source](https://www.heliad.com/), as of 2026-08-06)
-- **Sectors:** fintech, defense-tech, deep-tech, high-tech-growth ([source](https://www.heliad.com/), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://www.heliad.com/), as of not recorded)
+- **Type:** pe (as of 2026-08-06)[^s-fda1d467]
+- **Stages:** growth (as of 2026-08-06)[^s-fda1d467]
+- **Geographies:** germany (as of 2026-08-06)[^s-fda1d467]
+- **Sectors:** fintech, defense-tech, deep-tech, high-tech-growth (as of 2026-08-06)[^s-fda1d467]
+- **Leads rounds:** unknown[^s-fda1d467]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Project Q | Not recorded | Not recorded | Not recorded | [Source](https://www.heliad.com/) |
-| ARX Robotics | Not recorded | Not recorded | Not recorded | [Source](https://www.heliad.com/) |
-| Raisin | Not recorded | Not recorded | Not recorded | [Source](https://www.heliad.com/) |
-| Clark | Not recorded | Not recorded | Not recorded | [Source](https://www.heliad.com/) |
-| Enpal | Not recorded | Not recorded | Not recorded | [Source](https://www.heliad.com/) |
-| AI21 Labs | Not recorded | Not recorded | Not recorded | [Source](https://www.heliad.com/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Project Q[^s-fda1d467] | Not recorded | Not recorded | Not recorded |
+| ARX Robotics[^s-fda1d467] | Not recorded | Not recorded | Not recorded |
+| Raisin[^s-fda1d467] | Not recorded | Not recorded | Not recorded |
+| Clark[^s-fda1d467] | Not recorded | Not recorded | Not recorded |
+| Enpal[^s-fda1d467] | Not recorded | Not recorded | Not recorded |
+| AI21 Labs[^s-fda1d467] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.heliad.com/)
+[^s-fda1d467]: <https://www.heliad.com/>

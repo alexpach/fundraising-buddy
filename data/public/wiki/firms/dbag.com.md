@@ -1,46 +1,60 @@
 ---
+type: Investor Firm
+title: Deutsche Beteiligungs AG
+description: private equity; mechanical and plant engineering, automotive supply,
+  industrial services, industrial components, environment, energy and infrastructure,
+  software, healthcare.
+resource: https://www.dbag.com/en/
+tags:
+- investor-firm
+- directory
+domain: dbag.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 46
+status: draft
+sources:
+- id: s-85695089
+  resource: https://www.dbag.com/company/
+- id: s-140053b8
+  resource: https://www.dbag.com/company/investment-strategy/
+- id: s-5c08e318
+  resource: https://www.dbag.com/en/
+- id: s-a6f9305d
+  resource: https://www.dbag.com/shareholder-relations/annual-report-2025/
 ---
 
 # Deutsche Beteiligungs AG
-
-[Website](https://www.dbag.com/en/)
-
-Domain: dbag.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe, germany ([source](https://www.dbag.com/en/), as of 2026-08-07)
-- **Type:** private equity ([source](https://www.dbag.com/company/), as of not recorded)
-- **Investment strategies:** management buyouts, growth financing, private debt ([source](https://www.dbag.com/company/), as of not recorded)
-- **Legal structure:** listed private equity company ([source](https://www.dbag.com/company/), as of not recorded)
-- **Investment instruments:** equity, quasi-equity, private debt ([source](https://www.dbag.com/company/), as of not recorded)
-- **Sectors:** mechanical and plant engineering, automotive supply, industrial services, industrial components, environment, energy and infrastructure, software, healthcare ([source](https://www.dbag.com/company/investment-strategy/), as of not recorded)
-- **AUM:** EUR 2.7 billion (as of 2025) ([source](https://www.dbag.com/shareholder-relations/annual-report-2025/), as of 2025)
+- **Geographies:** europe, germany (as of 2026-08-07)[^s-5c08e318]
+- **Type:** private equity[^s-85695089]
+- **Investment strategies:** management buyouts, growth financing, private debt[^s-85695089]
+- **Legal structure:** listed private equity company[^s-85695089]
+- **Investment instruments:** equity, quasi-equity, private debt[^s-85695089]
+- **Sectors:** mechanical and plant engineering, automotive supply, industrial services, industrial components, environment, energy and infrastructure, software, healthcare[^s-140053b8]
+- **AUM:** EUR 2.7 billion (as of 2025) (as of 2025)[^s-a6f9305d]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Cloudflight | Not recorded | Not recorded | Not recorded | [Source](https://www.dbag.com/en/) |
-| Formel D | Not recorded | Not recorded | Not recorded | [Source](https://www.dbag.com/en/) |
-| inexio | Not recorded | Not recorded | Not recorded | [Source](https://www.dbag.com/en/) |
-| ProXES | Not recorded | Not recorded | Not recorded | [Source](https://www.dbag.com/en/) |
-| Schülerhilfe | Not recorded | Not recorded | Not recorded | [Source](https://www.dbag.com/en/) |
-| Spheros | Not recorded | Not recorded | Not recorded | [Source](https://www.dbag.com/en/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Cloudflight[^s-5c08e318] | Not recorded | Not recorded | Not recorded |
+| Formel D[^s-5c08e318] | Not recorded | Not recorded | Not recorded |
+| inexio[^s-5c08e318] | Not recorded | Not recorded | Not recorded |
+| ProXES[^s-5c08e318] | Not recorded | Not recorded | Not recorded |
+| Schülerhilfe[^s-5c08e318] | Not recorded | Not recorded | Not recorded |
+| Spheros[^s-5c08e318] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.dbag.com/company/)
-- [Source](https://www.dbag.com/company/investment-strategy/)
-- [Source](https://www.dbag.com/en/)
-- [Source](https://www.dbag.com/shareholder-relations/annual-report-2025/)
+[^s-85695089]: <https://www.dbag.com/company/>
+[^s-140053b8]: <https://www.dbag.com/company/investment-strategy/>
+[^s-5c08e318]: <https://www.dbag.com/en/>
+[^s-a6f9305d]: <https://www.dbag.com/shareholder-relations/annual-report-2025/>

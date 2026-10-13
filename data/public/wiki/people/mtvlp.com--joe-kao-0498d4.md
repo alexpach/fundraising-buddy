@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Joe Kao
+description: Partner at Millennium Technology Value Partners.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-c8df687c
+  resource: https://www.nasdaq.com/press-release/joseph-kao-becomes-partner-at-millennium-sam-schwerin-discusses-firms-outlook-for
+---
+
 # Joe Kao
 
-[[public/firms/mtvlp.com|Firm profile]]
+[Firm profile](../firms/mtvlp.com.md)
 
-Role: Partner
+Role: Partner[^s-c8df687c]
 
 Focus: enterprise software and new financial technologies and markets
 
-## Public sources
-
-- [Source](https://www.nasdaq.com/press-release/joseph-kao-becomes-partner-at-millennium-sam-schwerin-discusses-firms-outlook-for)
+[^s-c8df687c]: <https://www.nasdaq.com/press-release/joseph-kao-becomes-partner-at-millennium-sam-schwerin-discusses-firms-outlook-for>

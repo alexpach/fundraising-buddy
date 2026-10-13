@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Ravi Mhatre
+description: Partner & Co-Founder at Lightspeed Venture Partners.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-09-20T00:00:00Z'
+sources:
+- id: s-72b99a60
+  resource: https://lsvp.com/team
+---
+
 # Ravi Mhatre
 
-[[public/firms/lsvp.com|Firm profile]]
+[Firm profile](../firms/lsvp.com.md)
 
-Role: Partner & Co-Founder
+Role: Partner & Co-Founder[^s-72b99a60]
 
 Focus: US
 
-## Public sources
-
-- [Source](https://lsvp.com/team)
+[^s-72b99a60]: <https://lsvp.com/team>

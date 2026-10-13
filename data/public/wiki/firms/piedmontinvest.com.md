@@ -1,25 +1,36 @@
 ---
+type: Investor Firm
+title: Piedmont Capital Investments
+description: venture capital; seed, growth; energy, manufacturing, defense.
+resource: https://piedmontinvest.com
+tags:
+- investor-firm
+- directory
+domain: piedmontinvest.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 30
+status: draft
+sources:
+- id: s-3f983db0
+  resource: https://piedmontinvest.com
+- id: s-aa8a8abc
+  resource: https://piedmontinvest.com/
+- id: s-8f673c9e
+  resource: https://piedmontinvest.com/about-us
 ---
 
 # Piedmont Capital Investments
-
-[Website](https://piedmontinvest.com)
-
-Domain: piedmontinvest.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** venture capital ([source](https://piedmontinvest.com/), as of not recorded)
-- **Investment strategies:** venture investing in American resilience through energy, manufacturing, and defense innovation ([source](https://piedmontinvest.com/), as of not recorded)
-- **Stages:** seed, growth ([source](https://piedmontinvest.com/about-us), as of not recorded)
-- **Sectors:** energy, manufacturing, defense ([source](https://piedmontinvest.com/), as of not recorded)
+- **Type:** venture capital[^s-aa8a8abc]
+- **Investment strategies:** venture investing in American resilience through energy, manufacturing, and defense innovation[^s-aa8a8abc]
+- **Stages:** seed, growth[^s-8f673c9e]
+- **Sectors:** energy, manufacturing, defense[^s-aa8a8abc]
 
 ## Portfolio
 
@@ -27,9 +38,8 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://piedmontinvest.com)
-- [Source](https://piedmontinvest.com/)
-- [Source](https://piedmontinvest.com/about-us)
+[^s-3f983db0]: <https://piedmontinvest.com>
+[^s-aa8a8abc]: <https://piedmontinvest.com/>
+[^s-8f673c9e]: <https://piedmontinvest.com/about-us>

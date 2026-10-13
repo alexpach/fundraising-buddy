@@ -1,11 +1,23 @@
+---
+type: Investor
+title: James Detweiler
+description: General Partner at Felicis Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-8fdf088a
+  resource: https://www.felicis.com/team
+---
+
 # James Detweiler
 
-[[public/firms/felicis.com|Firm profile]]
+[Firm profile](../firms/felicis.com.md)
 
-Role: General Partner
+Role: General Partner[^s-8fdf088a]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.felicis.com/team)
+[^s-8fdf088a]: <https://www.felicis.com/team>

@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Ioniki Poulaki
+description: Associate at Evercurious VC.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-41740c3a
+  resource: https://www.evercurious.vc/team
+---
+
 # Ioniki Poulaki
 
-[[public/firms/evercurious.vc|Firm profile]]
+[Firm profile](../firms/evercurious.vc.md)
 
-Role: Associate
+Role: Associate[^s-41740c3a]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.evercurious.vc/team)
+[^s-41740c3a]: <https://www.evercurious.vc/team>

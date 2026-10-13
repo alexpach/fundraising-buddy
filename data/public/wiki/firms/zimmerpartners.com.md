@@ -1,41 +1,48 @@
 ---
+type: Investor Firm
+title: Zimmer Lucas Partners
+description: pe; growth; utilities, energy, public-equities.
+resource: https://zimmerpartners.com
+tags:
+- investor-firm
+- directory
+domain: zimmerpartners.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 54
+status: draft
+sources:
+- id: s-702bac49
+  resource: https://www.crunchbase.com/organization/zimmer-lucas-partners
+- id: s-c0f1b6e9
+  resource: https://zimmerpartners.com
 ---
 
 # Zimmer Lucas Partners
-
-[Website](https://zimmerpartners.com)
-
-Domain: zimmerpartners.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://www.crunchbase.com/organization/zimmer-lucas-partners), as of 2026-04-19)
-- **Stages:** growth ([source](https://www.crunchbase.com/organization/zimmer-lucas-partners), as of 2026-04-19)
-- **Geographies:** us ([source](https://www.crunchbase.com/organization/zimmer-lucas-partners), as of 2026-04-19)
-- **Sectors:** utilities, energy, public-equities ([source](https://www.crunchbase.com/organization/zimmer-lucas-partners), as of 2026-04-19)
-- **AUM:** 7.9B ([source](https://www.crunchbase.com/organization/zimmer-lucas-partners), as of 2026-04-19)
-- **Leads rounds:** unknown ([source](https://zimmerpartners.com), as of not recorded)
-- **About:** Zimmer Partners is a New York–based hedge fund founded in 2012 by Stuart Zimmer (formerly co-founder of Zimmer Lucas Capital with Craig Lucas in 1996). The firm manages energy and utilities long/short equity strategies and had approximately $7.9B AUM as of March 2025, with a 37-person team ([source](https://www.crunchbase.com/organization/zimmer-lucas-partners), as of 2026-04-19)
+- **Type:** pe (as of 2026-04-19)[^s-702bac49]
+- **Stages:** growth (as of 2026-04-19)[^s-702bac49]
+- **Geographies:** us (as of 2026-04-19)[^s-702bac49]
+- **Sectors:** utilities, energy, public-equities (as of 2026-04-19)[^s-702bac49]
+- **AUM:** 7.9B (as of 2026-04-19)[^s-702bac49]
+- **Leads rounds:** unknown[^s-c0f1b6e9]
+- **About:** Zimmer Partners is a New York–based hedge fund founded in 2012 by Stuart Zimmer (formerly co-founder of Zimmer Lucas Capital with Craig Lucas in 1996). The firm manages energy and utilities long/short equity strategies and had approximately $7.9B AUM as of March 2025, with a 37-person team (as of 2026-04-19)[^s-702bac49]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Predominantly a public | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/zimmer-lucas-partners) |
-| Occasional private positions in energy | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/zimmer-lucas-partners) |
-| [not a venture investor | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/zimmer-lucas-partners) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Predominantly a public[^s-702bac49] | Not recorded | Not recorded | Not recorded |
+| Occasional private positions in energy[^s-702bac49] | Not recorded | Not recorded | Not recorded |
+| [not a venture investor[^s-702bac49] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.crunchbase.com/organization/zimmer-lucas-partners)
-- [Source](https://zimmerpartners.com)
+[^s-702bac49]: <https://www.crunchbase.com/organization/zimmer-lucas-partners>
+[^s-c0f1b6e9]: <https://zimmerpartners.com>

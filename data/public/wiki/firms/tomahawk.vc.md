@@ -1,25 +1,38 @@
 ---
+type: Investor Firm
+title: Tomahawk.VC
+description: venture capital; pre-seed, seed.
+resource: https://tomahawk.vc
+tags:
+- investor-firm
+- directory
+domain: tomahawk.vc
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 23
+status: draft
+sources:
+- id: s-dd0119f8
+  resource: https://manifesto.tomahawk.vc/
+- id: s-a3fa718b
+  resource: https://manifesto.tomahawk.vc/faqs/what-does-tomahawkvc-invest-in
+- id: s-49971559
+  resource: https://tomahawk.vc
+- id: s-b9384652
+  resource: https://www.tomahawk.vc/
 ---
 
 # Tomahawk.VC
-
-[Website](https://tomahawk.vc)
-
-Domain: tomahawk.vc
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe ([source](https://tomahawk.vc), as of 2026-08-17)
-- **Type:** venture capital ([source](https://manifesto.tomahawk.vc/), as of not recorded)
-- **Investment strategies:** early-stage venture investing ([source](https://manifesto.tomahawk.vc/), as of not recorded)
-- **Stages:** pre-seed, seed ([source](https://manifesto.tomahawk.vc/), as of not recorded)
+- **Geographies:** europe (as of 2026-08-17)[^s-49971559]
+- **Type:** venture capital[^s-dd0119f8]
+- **Investment strategies:** early-stage venture investing[^s-dd0119f8]
+- **Stages:** pre-seed, seed[^s-dd0119f8]
 
 ## Portfolio
 
@@ -27,10 +40,9 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://manifesto.tomahawk.vc/)
-- [Source](https://manifesto.tomahawk.vc/faqs/what-does-tomahawkvc-invest-in)
-- [Source](https://tomahawk.vc)
-- [Source](https://www.tomahawk.vc/)
+[^s-dd0119f8]: <https://manifesto.tomahawk.vc/>
+[^s-a3fa718b]: <https://manifesto.tomahawk.vc/faqs/what-does-tomahawkvc-invest-in>
+[^s-49971559]: <https://tomahawk.vc>
+[^s-b9384652]: <https://www.tomahawk.vc/>

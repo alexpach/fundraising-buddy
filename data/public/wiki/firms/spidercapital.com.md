@@ -1,48 +1,63 @@
 ---
+type: Investor Firm
+title: Spider Capital
+description: venture capital firm; seed; Construction, Financial Services, Energy,
+  Government, Healthcare, Insurance, Mining, Manufacturing, Supply Chain, Transportation.
+resource: https://www.spidercapital.com
+tags:
+- investor-firm
+- directory
+domain: spidercapital.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 50
+status: draft
+sources:
+- id: s-6826a2c7
+  resource: https://www.crunchbase.com/organization/spider-capital-partners
+- id: s-94e2f951
+  resource: https://www.spidercapital.com
+- id: s-38f1d29e
+  resource: https://www.spidercapital.com/
+- id: s-ceac3e0f
+  resource: https://www.spidercapital.com/about
+- id: s-651ba2bd
+  resource: https://www.spidercapital.com/portfolio/testim
 ---
 
 # Spider Capital
-
-[Website](https://www.spidercapital.com)
-
-Domain: spidercapital.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** us ([source](https://www.crunchbase.com/organization/spider-capital-partners), as of 2026-04-19)
-- **About:** Spider Capital is a San Francisco–based seed-stage VC focused on enterprise cloud and AI software, founded in 2015 by Michael Neril. The firm typically leads or co-leads seed rounds in the US, Canada and Israel ([source](https://www.crunchbase.com/organization/spider-capital-partners), as of 2026-04-19)
-- **Type:** venture capital firm ([source](https://www.spidercapital.com/about), as of not recorded)
-- **Investment strategies:** seed-stage investing, applied AI software ([source](https://www.spidercapital.com/about), as of not recorded)
-- **Stages:** seed ([source](https://www.spidercapital.com/about), as of not recorded)
-- **Sectors:** Construction, Financial Services, Energy, Government, Healthcare, Insurance, Mining, Manufacturing, Supply Chain, Transportation ([source](https://www.spidercapital.com/), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.spidercapital.com/portfolio/testim), as of not recorded)
+- **Geographies:** us (as of 2026-04-19)[^s-6826a2c7]
+- **About:** Spider Capital is a San Francisco–based seed-stage VC focused on enterprise cloud and AI software, founded in 2015 by Michael Neril. The firm typically leads or co-leads seed rounds in the US, Canada and Israel (as of 2026-04-19)[^s-6826a2c7]
+- **Type:** venture capital firm[^s-ceac3e0f]
+- **Investment strategies:** seed-stage investing, applied AI software[^s-ceac3e0f]
+- **Stages:** seed[^s-ceac3e0f]
+- **Sectors:** Construction, Financial Services, Energy, Government, Healthcare, Insurance, Mining, Manufacturing, Supply Chain, Transportation[^s-38f1d29e]
+- **Leads rounds:** yes[^s-651ba2bd]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| PagerDuty | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/spider-capital-partners) |
-| Okta | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/spider-capital-partners) |
-| AppLovin | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/spider-capital-partners) |
-| Tive | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/spider-capital-partners) |
-| Alyce | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/spider-capital-partners) |
-| ConductorOne | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/spider-capital-partners) |
-| Bloomfilter | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/spider-capital-partners) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| PagerDuty[^s-6826a2c7] | Not recorded | Not recorded | Not recorded |
+| Okta[^s-6826a2c7] | Not recorded | Not recorded | Not recorded |
+| AppLovin[^s-6826a2c7] | Not recorded | Not recorded | Not recorded |
+| Tive[^s-6826a2c7] | Not recorded | Not recorded | Not recorded |
+| Alyce[^s-6826a2c7] | Not recorded | Not recorded | Not recorded |
+| ConductorOne[^s-6826a2c7] | Not recorded | Not recorded | Not recorded |
+| Bloomfilter[^s-6826a2c7] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.crunchbase.com/organization/spider-capital-partners)
-- [Source](https://www.spidercapital.com)
-- [Source](https://www.spidercapital.com/)
-- [Source](https://www.spidercapital.com/about)
-- [Source](https://www.spidercapital.com/portfolio/testim)
+[^s-6826a2c7]: <https://www.crunchbase.com/organization/spider-capital-partners>
+[^s-94e2f951]: <https://www.spidercapital.com>
+[^s-38f1d29e]: <https://www.spidercapital.com/>
+[^s-ceac3e0f]: <https://www.spidercapital.com/about>
+[^s-651ba2bd]: <https://www.spidercapital.com/portfolio/testim>

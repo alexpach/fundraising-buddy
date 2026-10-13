@@ -1,25 +1,31 @@
 ---
+type: Investor Firm
+title: Remora Biotech
+description: vc; seed, series-a.
+resource: https://remorabiotech.com
+tags:
+- investor-firm
+- directory
+domain: remorabiotech.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 21
+status: draft
+sources:
+- id: s-3d00cb6a
+  resource: https://remorabiotech.com
 ---
 
 # Remora Biotech
-
-[Website](https://remorabiotech.com)
-
-Domain: remorabiotech.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://remorabiotech.com), as of 2026-08-17)
-- **Stages:** seed, series-a ([source](https://remorabiotech.com), as of 2026-08-17)
-- **Geographies:** europe ([source](https://remorabiotech.com), as of 2026-08-17)
-- **Leads rounds:** unknown ([source](https://remorabiotech.com), as of not recorded)
+- **Type:** vc (as of 2026-08-17)[^s-3d00cb6a]
+- **Stages:** seed, series-a (as of 2026-08-17)[^s-3d00cb6a]
+- **Geographies:** europe (as of 2026-08-17)[^s-3d00cb6a]
+- **Leads rounds:** unknown[^s-3d00cb6a]
 
 ## Portfolio
 
@@ -27,7 +33,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://remorabiotech.com)
+[^s-3d00cb6a]: <https://remorabiotech.com>

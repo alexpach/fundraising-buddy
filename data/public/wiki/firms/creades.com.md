@@ -1,41 +1,46 @@
 ---
+type: Investor Firm
+title: Creades
+description: pe; growth; diversified, fintech, e-commerce.
+resource: https://www.creades.com/
+tags:
+- investor-firm
+- directory
+domain: creades.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 31
+status: draft
+sources:
+- id: s-f6c4e295
+  resource: https://www.creades.com/
 ---
 
 # Creades
-
-[Website](https://www.creades.com/)
-
-Domain: creades.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** pe ([source](https://www.creades.com/), as of 2026-08-07)
-- **Stages:** growth ([source](https://www.creades.com/), as of 2026-08-07)
-- **Geographies:** europe ([source](https://www.creades.com/), as of 2026-08-07)
-- **Sectors:** diversified, fintech, e-commerce ([source](https://www.creades.com/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.creades.com/), as of not recorded)
+- **Type:** pe (as of 2026-08-07)[^s-f6c4e295]
+- **Stages:** growth (as of 2026-08-07)[^s-f6c4e295]
+- **Geographies:** europe (as of 2026-08-07)[^s-f6c4e295]
+- **Sectors:** diversified, fintech, e-commerce (as of 2026-08-07)[^s-f6c4e295]
+- **Leads rounds:** unknown[^s-f6c4e295]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Avanza | Not recorded | Not recorded | Not recorded | [Source](https://www.creades.com/) |
-| Apotea | Not recorded | Not recorded | Not recorded | [Source](https://www.creades.com/) |
-| Instabee | Not recorded | Not recorded | Not recorded | [Source](https://www.creades.com/) |
-| Mentimeter | Not recorded | Not recorded | Not recorded | [Source](https://www.creades.com/) |
-| Lumene | Not recorded | Not recorded | Not recorded | [Source](https://www.creades.com/) |
-| Nordic Knots | Not recorded | Not recorded | Not recorded | [Source](https://www.creades.com/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Avanza[^s-f6c4e295] | Not recorded | Not recorded | Not recorded |
+| Apotea[^s-f6c4e295] | Not recorded | Not recorded | Not recorded |
+| Instabee[^s-f6c4e295] | Not recorded | Not recorded | Not recorded |
+| Mentimeter[^s-f6c4e295] | Not recorded | Not recorded | Not recorded |
+| Lumene[^s-f6c4e295] | Not recorded | Not recorded | Not recorded |
+| Nordic Knots[^s-f6c4e295] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.creades.com/)
+[^s-f6c4e295]: <https://www.creades.com/>

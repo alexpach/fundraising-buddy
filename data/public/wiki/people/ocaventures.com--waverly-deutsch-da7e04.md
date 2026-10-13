@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Waverly Deutsch
+description: Operating Partner at OCA Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-d9cad491
+  resource: https://ocaventures.com/team
+---
+
 # Waverly Deutsch
 
-[[public/firms/ocaventures.com|Firm profile]]
+[Firm profile](../firms/ocaventures.com.md)
 
-Role: Operating Partner
+Role: Operating Partner[^s-d9cad491]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://ocaventures.com/team)
+[^s-d9cad491]: <https://ocaventures.com/team>

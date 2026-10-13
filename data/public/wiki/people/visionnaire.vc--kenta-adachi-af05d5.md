@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Kenta Adachi
+description: Principal (Japan) at Visionnaire Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-25T00:00:00Z'
+sources:
+- id: s-cc3ed7e2
+  resource: https://visionnaire.vc/blog/team/taizo-son
+---
+
 # Kenta Adachi
 
-[[public/firms/visionnaire.vc|Firm profile]]
+[Firm profile](../firms/visionnaire.vc.md)
 
-Role: Principal (Japan)
+Role: Principal (Japan)[^s-cc3ed7e2]
 
 Focus: Japan
 
-## Public sources
-
-- [Source](https://visionnaire.vc/blog/team/taizo-son)
+[^s-cc3ed7e2]: <https://visionnaire.vc/blog/team/taizo-son>

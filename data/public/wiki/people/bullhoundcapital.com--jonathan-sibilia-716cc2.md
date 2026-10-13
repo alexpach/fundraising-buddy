@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Jonathan Sibilia
+description: Partner at Bullhound Capital.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-cfc4d43f
+  resource: https://bullhoundcapital.com/team
+---
+
 # Jonathan Sibilia
 
-[[public/firms/bullhoundcapital.com|Firm profile]]
+[Firm profile](../firms/bullhoundcapital.com.md)
 
-Role: Partner
+Role: Partner[^s-cfc4d43f]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://bullhoundcapital.com/team)
+[^s-cfc4d43f]: <https://bullhoundcapital.com/team>

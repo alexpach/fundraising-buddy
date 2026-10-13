@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Stephanie Wood
+description: Vice President at Alate Partners.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-01adceab
+  resource: https://alatepartners.com/people/
+---
+
 # Stephanie Wood
 
-[[public/firms/alatepartners.com|Firm profile]]
+[Firm profile](../firms/alatepartners.com.md)
 
-Role: Vice President
+Role: Vice President[^s-01adceab]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://alatepartners.com/people/)
+[^s-01adceab]: <https://alatepartners.com/people/>

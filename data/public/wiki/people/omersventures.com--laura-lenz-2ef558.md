@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Laura Lenz
+description: Managing Director at OMERS Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-25T00:00:00Z'
+sources:
+- id: s-8640f3c1
+  resource: https://www.marketsgroup.org/news/omers-ventures-making-changes-to-leadership-team
+---
+
 # Laura Lenz
 
-[[public/firms/omersventures.com|Firm profile]]
+[Firm profile](../firms/omersventures.com.md)
 
-Role: Managing Director
+Role: Managing Director[^s-8640f3c1]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.marketsgroup.org/news/omers-ventures-making-changes-to-leadership-team)
+[^s-8640f3c1]: <https://www.marketsgroup.org/news/omers-ventures-making-changes-to-leadership-team>

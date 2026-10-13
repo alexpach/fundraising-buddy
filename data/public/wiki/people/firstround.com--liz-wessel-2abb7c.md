@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Liz Wessel
+description: Partner at First Round Capital.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-09-20T00:00:00Z'
+sources:
+- id: s-2cf1ce84
+  resource: https://firstround.com/team/
+---
+
 # Liz Wessel
 
-[[public/firms/firstround.com|Firm profile]]
+[Firm profile](../firms/firstround.com.md)
 
-Role: Partner
+Role: Partner[^s-2cf1ce84]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://firstround.com/team/)
+[^s-2cf1ce84]: <https://firstround.com/team/>

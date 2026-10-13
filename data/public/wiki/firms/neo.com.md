@@ -1,27 +1,40 @@
 ---
+type: Investor Firm
+title: Neo
+description: venture capital firm; pre-seed, seed.
+resource: https://neo.com
+tags:
+- investor-firm
+- directory
+domain: neo.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 20
+status: draft
+sources:
+- id: s-2601d609
+  resource: https://neo.com
+- id: s-bc6ccfc5
+  resource: https://neo.com/
+- id: s-02301bb1
+  resource: https://neo.com/residency
+- id: s-1950f7fa
+  resource: https://neo.com/residencyagreement
 ---
 
 # Neo
-
-[Website](https://neo.com)
-
-Domain: neo.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** venture capital firm ([source](https://neo.com/), as of not recorded)
-- **Investment strategies:** startup residency ([source](https://neo.com/), as of not recorded)
-- **Legal structure:** limited partnership fund vehicles ([source](https://neo.com/), as of not recorded)
-- **Investment instruments:** SAFE ([source](https://neo.com/), as of not recorded)
-- **Stages:** pre-seed, seed ([source](https://neo.com/residency), as of not recorded)
-- **AUM:** Lower bound (over): USD 1 billion (date not reported) ([source](https://neo.com/), as of not recorded)
+- **Type:** venture capital firm[^s-bc6ccfc5]
+- **Investment strategies:** startup residency[^s-bc6ccfc5]
+- **Legal structure:** limited partnership fund vehicles[^s-bc6ccfc5]
+- **Investment instruments:** SAFE[^s-bc6ccfc5]
+- **Stages:** pre-seed, seed[^s-02301bb1]
+- **AUM:** Lower bound (over): USD 1 billion (date not reported)[^s-bc6ccfc5]
 
 ## Portfolio
 
@@ -29,10 +42,9 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://neo.com)
-- [Source](https://neo.com/)
-- [Source](https://neo.com/residency)
-- [Source](https://neo.com/residencyagreement)
+[^s-2601d609]: <https://neo.com>
+[^s-bc6ccfc5]: <https://neo.com/>
+[^s-02301bb1]: <https://neo.com/residency>
+[^s-1950f7fa]: <https://neo.com/residencyagreement>

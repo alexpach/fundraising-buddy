@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Anita Rehman
+description: Partner at Celesta Capital.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-aa89b94b
+  resource: https://celesta.vc/people
+---
+
 # Anita Rehman
 
-[[public/firms/celesta.vc|Firm profile]]
+[Firm profile](../firms/celesta.vc.md)
 
-Role: Partner
+Role: Partner[^s-aa89b94b]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://celesta.vc/people)
+[^s-aa89b94b]: <https://celesta.vc/people>

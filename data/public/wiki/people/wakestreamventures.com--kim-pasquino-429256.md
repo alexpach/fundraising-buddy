@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Kim Pasquino
+description: Managing Director at Wakestream Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-33d71be0
+  resource: https://michiganvca.org/investor/wakestream-ventures/
+---
+
 # Kim Pasquino
 
-[[public/firms/wakestreamventures.com|Firm profile]]
+[Firm profile](../firms/wakestreamventures.com.md)
 
-Role: Managing Director
+Role: Managing Director[^s-33d71be0]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://michiganvca.org/investor/wakestream-ventures/)
+[^s-33d71be0]: <https://michiganvca.org/investor/wakestream-ventures/>

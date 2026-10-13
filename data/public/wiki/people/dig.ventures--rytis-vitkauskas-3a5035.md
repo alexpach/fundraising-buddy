@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Rytis Vitkauskas
+description: General Partner at DIG Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-889efec0
+  resource: https://dig.ventures/team
+---
+
 # Rytis Vitkauskas
 
-[[public/firms/dig.ventures|Firm profile]]
+[Firm profile](../firms/dig.ventures.md)
 
-Role: General Partner
+Role: General Partner[^s-889efec0]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://dig.ventures/team)
+[^s-889efec0]: <https://dig.ventures/team>

@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Josh Coyne
+description: Partner at Kleiner Perkins.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
+sources:
+- id: s-94dff766
+  resource: https://www.kleinerperkins.com/people/josh-coyne/
+---
+
 # Josh Coyne
 
-[[public/firms/kleinerperkins.com|Firm profile]]
+[Firm profile](../firms/kleinerperkins.com.md)
 
-Role: Partner
+Role: Partner[^s-94dff766]
 
 Focus: enterprise software, consumer apps, financial services
 
-## Public sources
-
-- [Source](https://www.kleinerperkins.com/people/josh-coyne/)
+[^s-94dff766]: <https://www.kleinerperkins.com/people/josh-coyne/>

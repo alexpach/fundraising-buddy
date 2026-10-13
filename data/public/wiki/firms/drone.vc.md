@@ -1,29 +1,35 @@
 ---
+type: Investor Firm
+title: Drone.vc
+description: vc; pre-seed, seed; drones, robotics, hardware.
+resource: https://drone.vc
+tags:
+- investor-firm
+- directory
+domain: drone.vc
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 51
+status: draft
+sources:
+- id: s-7e57e739
+  resource: https://drone.vc
 ---
 
 # Drone.vc
-
-[Website](https://drone.vc)
-
-Domain: drone.vc
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://drone.vc), as of 2026-04-24)
-- **Stages:** pre-seed, seed ([source](https://drone.vc), as of 2026-04-24)
-- **Geographies:** us ([source](https://drone.vc), as of 2026-04-24)
-- **Sectors:** drones, robotics, hardware ([source](https://drone.vc), as of 2026-04-24)
-- **Check size min:** 25K ([source](https://drone.vc), as of 2026-04-24)
-- **Check size max:** 250K ([source](https://drone.vc), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://drone.vc), as of not recorded)
-- **About:** Drone.vc is David Weekly's small angel syndicate focused specifically on drones, robotics, and hardware. Based in Silicon Valley ([source](https://drone.vc), as of 2026-04-24)
+- **Type:** vc (as of 2026-04-24)[^s-7e57e739]
+- **Stages:** pre-seed, seed (as of 2026-04-24)[^s-7e57e739]
+- **Geographies:** us (as of 2026-04-24)[^s-7e57e739]
+- **Sectors:** drones, robotics, hardware (as of 2026-04-24)[^s-7e57e739]
+- **Check size min:** 25K (as of 2026-04-24)[^s-7e57e739]
+- **Check size max:** 250K (as of 2026-04-24)[^s-7e57e739]
+- **Leads rounds:** unknown[^s-7e57e739]
+- **About:** Drone.vc is David Weekly's small angel syndicate focused specifically on drones, robotics, and hardware. Based in Silicon Valley (as of 2026-04-24)[^s-7e57e739]
 
 ## Portfolio
 
@@ -31,7 +37,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://drone.vc)
+[^s-7e57e739]: <https://drone.vc>

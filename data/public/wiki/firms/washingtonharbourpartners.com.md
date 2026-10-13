@@ -1,24 +1,30 @@
 ---
+type: Investor Firm
+title: Washington Harbour Partners
+description: vc; robotics, hardware, physical-ai.
+resource: https://washingtonharbourpartners.com
+tags:
+- investor-firm
+- directory
+domain: washingtonharbourpartners.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 13
+status: draft
+sources:
+- id: s-bf74f0b9
+  resource: https://washingtonharbourpartners.com
 ---
 
 # Washington Harbour Partners
-
-[Website](https://washingtonharbourpartners.com)
-
-Domain: washingtonharbourpartners.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://washingtonharbourpartners.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://washingtonharbourpartners.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://washingtonharbourpartners.com), as of not recorded)
+- **Type:** vc (as of 2026-04-24)[^s-bf74f0b9]
+- **Sectors:** robotics, hardware, physical-ai (as of 2026-04-24)[^s-bf74f0b9]
+- **Leads rounds:** unknown[^s-bf74f0b9]
 
 ## Portfolio
 
@@ -26,7 +32,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://washingtonharbourpartners.com)
+[^s-bf74f0b9]: <https://washingtonharbourpartners.com>

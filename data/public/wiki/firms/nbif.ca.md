@@ -1,35 +1,43 @@
 ---
+type: Investor Firm
+title: New Brunswick Innovation Foundation
+description: venture capital firm; early-stage.
+resource: https://nbif.ca
+tags:
+- investor-firm
+- directory
+domain: nbif.ca
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 28
+status: draft
+sources:
+- id: s-a9ea3b2d
+  resource: https://nbif.ca
+- id: s-4482abec
+  resource: https://www.nbif.ca/
 ---
 
 # New Brunswick Innovation Foundation
-
-[Website](https://nbif.ca)
-
-Domain: nbif.ca
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** canada ([source](https://nbif.ca), as of 2026-08-06)
-- **Type:** venture capital firm ([source](https://www.nbif.ca/), as of 2026)
-- **Stages:** early-stage ([source](https://www.nbif.ca/), as of 2026)
+- **Geographies:** canada (as of 2026-08-06)[^s-a9ea3b2d]
+- **Type:** venture capital firm (as of 2026)[^s-4482abec]
+- **Stages:** early-stage (as of 2026)[^s-4482abec]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Lastwall | Not recorded | Not recorded | Not recorded | [Source](https://nbif.ca) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Lastwall[^s-a9ea3b2d] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://nbif.ca)
-- [Source](https://www.nbif.ca/)
+[^s-a9ea3b2d]: <https://nbif.ca>
+[^s-4482abec]: <https://www.nbif.ca/>

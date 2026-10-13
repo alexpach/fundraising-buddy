@@ -1,25 +1,31 @@
 ---
+type: Investor Firm
+title: Zühlke Ventures
+description: cvc; seed, series-a.
+resource: https://zuehlke.com
+tags:
+- investor-firm
+- directory
+domain: zuehlke.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 17
+status: draft
+sources:
+- id: s-182eb5f2
+  resource: https://zuehlke.com
 ---
 
 # Zühlke Ventures
-
-[Website](https://zuehlke.com)
-
-Domain: zuehlke.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://zuehlke.com), as of 2026-08-17)
-- **Stages:** seed, series-a ([source](https://zuehlke.com), as of 2026-08-17)
-- **Geographies:** europe ([source](https://zuehlke.com), as of 2026-08-17)
-- **Leads rounds:** unknown ([source](https://zuehlke.com), as of not recorded)
+- **Type:** cvc (as of 2026-08-17)[^s-182eb5f2]
+- **Stages:** seed, series-a (as of 2026-08-17)[^s-182eb5f2]
+- **Geographies:** europe (as of 2026-08-17)[^s-182eb5f2]
+- **Leads rounds:** unknown[^s-182eb5f2]
 
 ## Portfolio
 
@@ -27,7 +33,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://zuehlke.com)
+[^s-182eb5f2]: <https://zuehlke.com>

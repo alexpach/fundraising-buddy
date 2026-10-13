@@ -1,73 +1,90 @@
 ---
+type: Investor Firm
+title: Vorwerk Ventures
+description: venture capital; (Pre-) Seed, Series A; Tech-Enabled Services, Vertical
+  Software, Mittelstand Transformation.
+resource: https://vorwerkventures.com
+tags:
+- investor-firm
+- sourced
+domain: vorwerkventures.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 91
+sources:
+- id: s-3cf5c14a
+  resource: https://vorwerkventures.com
+- id: s-d97f11c3
+  resource: https://vorwerkventures.com/
+- id: s-a3c678a7
+  resource: https://vorwerkventures.com/imprint
+- id: s-4498f91f
+  resource: https://vorwerkventures.com/imprint/
+- id: s-31f57d18
+  resource: https://vorwerkventures.com/sfdr
+- id: s-18017a26
+  resource: https://vorwerkventures.com/sfdr/
+- id: s-d4a9c3e7
+  resource: https://www.fyb.de/en/vorwerk-ventures-with-new-e-150-million-early-stage-fund/
 ---
 
 # Vorwerk Ventures
 
-[Website](https://vorwerkventures.com)
-
-Domain: vorwerkventures.com
-
-Coverage: sourced
-
-Research date: 2026-10-04
-
 ## Public research
 
-- **HQ:** Berlin, Germany ([source](https://vorwerkventures.com/imprint), as of 2026-08)
-- **Founded:** 2007 ([source](https://vorwerkventures.com), as of 2026-08)
-- **Geographies:** europe ([source](https://vorwerkventures.com/sfdr), as of 2026-07)
-- **Check size min:** €1m ([source](https://vorwerkventures.com), as of 2026-08)
-- **Legal name:** MM Venture Management GmbH ([source](https://vorwerkventures.com/sfdr), as of 2026-07)
-- **Offices:** Berlin, Germany (Charlottenstr. 43, 10117 Berlin) ([source](https://vorwerkventures.com/imprint), as of 2026-08)
-- **Latest fund:** New early-stage fund of €150 million closed, announced August 2022 ([source](https://www.fyb.de/en/vorwerk-ventures-with-new-e-150-million-early-stage-fund/), as of 2022-08)
-- **Thesis quote:** We don’t chase hype. We invest in businesses in established markets with solid fundamentals, genuine customer demand, and a clear exit path. ([source](https://vorwerkventures.com), as of 2026-08)
-- **Type:** venture capital ([source](https://vorwerkventures.com/), as of not recorded)
-- **Investment strategies:** early-stage venture capital ([source](https://vorwerkventures.com/), as of not recorded)
-- **Legal structure:** GmbH manager, GmbH & Co. KG fund vehicles ([source](https://vorwerkventures.com/), as of not recorded)
-- **Investment instruments:** equity, equity-related investments ([source](https://vorwerkventures.com/), as of not recorded)
-- **Stages:** (Pre-) Seed, Series A ([source](https://vorwerkventures.com/), as of not recorded)
-- **Sectors:** Tech-Enabled Services, Vertical Software, Mittelstand Transformation ([source](https://vorwerkventures.com/), as of not recorded)
-- **AUM:** EUR 400 million (date not reported) ([source](https://vorwerkventures.com/), as of not recorded)
+- **HQ:** Berlin, Germany (as of 2026-08)[^s-a3c678a7]
+- **Founded:** 2007 (as of 2026-08)[^s-3cf5c14a]
+- **Geographies:** europe (as of 2026-07)[^s-31f57d18]
+- **Check size min:** €1m (as of 2026-08)[^s-3cf5c14a]
+- **Legal name:** MM Venture Management GmbH (as of 2026-07)[^s-31f57d18]
+- **Offices:** Berlin, Germany (Charlottenstr. 43, 10117 Berlin) (as of 2026-08)[^s-a3c678a7]
+- **Latest fund:** New early-stage fund of €150 million closed, announced August 2022 (as of 2022-08)[^s-d4a9c3e7]
+- **Thesis quote:** We don’t chase hype. We invest in businesses in established markets with solid fundamentals, genuine customer demand, and a clear exit path. (as of 2026-08)[^s-3cf5c14a]
+- **Type:** venture capital[^s-d97f11c3]
+- **Investment strategies:** early-stage venture capital[^s-d97f11c3]
+- **Legal structure:** GmbH manager, GmbH & Co. KG fund vehicles[^s-d97f11c3]
+- **Investment instruments:** equity, equity-related investments[^s-d97f11c3]
+- **Stages:** (Pre-) Seed, Series A[^s-d97f11c3]
+- **Sectors:** Tech-Enabled Services, Vertical Software, Mittelstand Transformation[^s-d97f11c3]
+- **AUM:** EUR 400 million (date not reported)[^s-d97f11c3]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| pace club | Consumer / fitness | Not recorded | Not recorded | [Source](https://vorwerkventures.com) |
-| Aiomics | Healthcare / AI | Not recorded | Not recorded | [Source](https://vorwerkventures.com) |
-| Circonomit | Data & Analytics | Not recorded | Not recorded | [Source](https://vorwerkventures.com) |
-| sqior | Healthcare / workflow software | Not recorded | Not recorded | [Source](https://vorwerkventures.com) |
-| Resourcify | Software / waste management | Not recorded | Not recorded | [Source](https://vorwerkventures.com) |
-| DEScycle | Climate tech / metal recycling | Not recorded | Not recorded | [Source](https://vorwerkventures.com) |
-| Avi Medical | Healthcare | Not recorded | Not recorded | [Source](https://vorwerkventures.com) |
-| everdrop | Consumer / D2C household products | Not recorded | Not recorded | [Source](https://vorwerkventures.com) |
-| Thermondo | Residential heating | Not recorded | Not recorded | [Source](https://vorwerkventures.com) |
-| HelloFresh | Consumer / meal kits | Not recorded | Not recorded | [Source](https://vorwerkventures.com) |
-| Flaschenpost | Consumer / on-demand delivery | Not recorded | Not recorded | [Source](https://vorwerkventures.com) |
-| Neato Robotics | Consumer robotics | Not recorded | Not recorded | [Source](https://vorwerkventures.com) |
-| Smartfrog | IoT / home video surveillance | Not recorded | Not recorded | [Source](https://vorwerkventures.com) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| pace club[^s-3cf5c14a] | Consumer / fitness | Not recorded | Not recorded |
+| Aiomics[^s-3cf5c14a] | Healthcare / AI | Not recorded | Not recorded |
+| Circonomit[^s-3cf5c14a] | Data & Analytics | Not recorded | Not recorded |
+| sqior[^s-3cf5c14a] | Healthcare / workflow software | Not recorded | Not recorded |
+| Resourcify[^s-3cf5c14a] | Software / waste management | Not recorded | Not recorded |
+| DEScycle[^s-3cf5c14a] | Climate tech / metal recycling | Not recorded | Not recorded |
+| Avi Medical[^s-3cf5c14a] | Healthcare | Not recorded | Not recorded |
+| everdrop[^s-3cf5c14a] | Consumer / D2C household products | Not recorded | Not recorded |
+| Thermondo[^s-3cf5c14a] | Residential heating | Not recorded | Not recorded |
+| HelloFresh[^s-3cf5c14a] | Consumer / meal kits | Not recorded | Not recorded |
+| Flaschenpost[^s-3cf5c14a] | Consumer / on-demand delivery | Not recorded | Not recorded |
+| Neato Robotics[^s-3cf5c14a] | Consumer robotics | Not recorded | Not recorded |
+| Smartfrog[^s-3cf5c14a] | IoT / home video surveillance | Not recorded | Not recorded |
 
 ## People
 
-- [[public/people/vorwerkventures.com--dirk-meurer-13257d|Dirk Meurer]]: Managing Partner
-- [[public/people/vorwerkventures.com--emanuel-wollersheim-fdd79d|Emanuel Wollersheim]]: Head of Finance
-- [[public/people/vorwerkventures.com--hanna-villa-afe8c4|Hanna Villa]]: Investment Manager
-- [[public/people/vorwerkventures.com--julia-hall-efba88|Julia Hall]]: Executive Assistant
-- [[public/people/vorwerkventures.com--lena-marie-m-ller-00caba|Lena Marie Müller]]: Analyst
-- [[public/people/vorwerkventures.com--marie-sophie-ando-32a05e|Marie-Sophie Ando]]: Senior Investment Manager
-- [[public/people/vorwerkventures.com--marius-evers-acb547|Marius Evers]]: Investment Manager
-- [[public/people/vorwerkventures.com--norbert-muschong-df4f87|Norbert Muschong]]: Managing Partner
-- [[public/people/vorwerkventures.com--paul-meyhoefer-3547a8|Paul Meyhoefer]]: Chief of Staff
-- [[public/people/vorwerkventures.com--peter-schmetz-c55f21|Peter Schmetz]]: Principal
-- [[public/people/vorwerkventures.com--sascha-g-nther-9a01fe|Sascha Günther]]: Partner
+- [Dirk Meurer](../people/vorwerkventures.com--dirk-meurer-13257d.md) - Managing Partner
+- [Emanuel Wollersheim](../people/vorwerkventures.com--emanuel-wollersheim-fdd79d.md) - Head of Finance
+- [Hanna Villa](../people/vorwerkventures.com--hanna-villa-afe8c4.md) - Investment Manager
+- [Julia Hall](../people/vorwerkventures.com--julia-hall-efba88.md) - Executive Assistant
+- [Lena Marie Müller](../people/vorwerkventures.com--lena-marie-m-ller-00caba.md) - Analyst
+- [Marie-Sophie Ando](../people/vorwerkventures.com--marie-sophie-ando-32a05e.md) - Senior Investment Manager
+- [Marius Evers](../people/vorwerkventures.com--marius-evers-acb547.md) - Investment Manager
+- [Norbert Muschong](../people/vorwerkventures.com--norbert-muschong-df4f87.md) - Managing Partner
+- [Paul Meyhoefer](../people/vorwerkventures.com--paul-meyhoefer-3547a8.md) - Chief of Staff
+- [Peter Schmetz](../people/vorwerkventures.com--peter-schmetz-c55f21.md) - Principal
+- [Sascha Günther](../people/vorwerkventures.com--sascha-g-nther-9a01fe.md) - Partner
 
-## Sources
-
-- [Source](https://vorwerkventures.com)
-- [Source](https://vorwerkventures.com/)
-- [Source](https://vorwerkventures.com/imprint)
-- [Source](https://vorwerkventures.com/imprint/)
-- [Source](https://vorwerkventures.com/sfdr)
-- [Source](https://vorwerkventures.com/sfdr/)
-- [Source](https://www.fyb.de/en/vorwerk-ventures-with-new-e-150-million-early-stage-fund/)
+[^s-3cf5c14a]: <https://vorwerkventures.com>
+[^s-d97f11c3]: <https://vorwerkventures.com/>
+[^s-a3c678a7]: <https://vorwerkventures.com/imprint>
+[^s-4498f91f]: <https://vorwerkventures.com/imprint/>
+[^s-31f57d18]: <https://vorwerkventures.com/sfdr>
+[^s-18017a26]: <https://vorwerkventures.com/sfdr/>
+[^s-d4a9c3e7]: <https://www.fyb.de/en/vorwerk-ventures-with-new-e-150-million-early-stage-fund/>

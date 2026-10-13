@@ -1,44 +1,54 @@
 ---
+type: Investor Firm
+title: Rethink Ventures
+description: venture capital; seed, series A; mobility, automotive, logistics, energy.
+resource: https://rethinkventures.com/
+tags:
+- investor-firm
+- directory
+domain: rethinkventures.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 44
+status: draft
+sources:
+- id: s-35877f4a
+  resource: https://rethinkventures.com/
+- id: s-27ffa70b
+  resource: https://rethinkventures.com/fund-launch/
+- id: s-646ba76b
+  resource: https://rethinkventures.com/portfolio/
 ---
 
 # Rethink Ventures
-
-[Website](https://rethinkventures.com/)
-
-Domain: rethinkventures.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe ([source](https://rethinkventures.com/), as of 2026-08-07)
-- **Type:** venture capital ([source](https://rethinkventures.com/fund-launch/), as of 2023-03-14)
-- **Investment strategies:** early-stage venture capital ([source](https://rethinkventures.com/fund-launch/), as of 2023-03-14)
-- **Stages:** seed, series A ([source](https://rethinkventures.com/fund-launch/), as of 2023-03-14)
-- **Sectors:** mobility, automotive, logistics, energy ([source](https://rethinkventures.com/fund-launch/), as of 2023-03-14)
-- **Leads rounds:** yes ([source](https://rethinkventures.com/portfolio/), as of not recorded)
+- **Geographies:** europe (as of 2026-08-07)[^s-35877f4a]
+- **Type:** venture capital (as of 2023-03-14)[^s-27ffa70b]
+- **Investment strategies:** early-stage venture capital (as of 2023-03-14)[^s-27ffa70b]
+- **Stages:** seed, series A (as of 2023-03-14)[^s-27ffa70b]
+- **Sectors:** mobility, automotive, logistics, energy (as of 2023-03-14)[^s-27ffa70b]
+- **Leads rounds:** yes[^s-646ba76b]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Eccasion | Not recorded | Not recorded | Not recorded | [Source](https://rethinkventures.com/) |
-| Good2Know | Not recorded | Not recorded | Not recorded | [Source](https://rethinkventures.com/) |
-| cargomotion | Not recorded | Not recorded | Not recorded | [Source](https://rethinkventures.com/) |
-| Delta Charge | Not recorded | Not recorded | Not recorded | [Source](https://rethinkventures.com/) |
-| Hyperdrives | Not recorded | Not recorded | Not recorded | [Source](https://rethinkventures.com/) |
-| Logistikbude | Not recorded | Not recorded | Not recorded | [Source](https://rethinkventures.com/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Eccasion[^s-35877f4a] | Not recorded | Not recorded | Not recorded |
+| Good2Know[^s-35877f4a] | Not recorded | Not recorded | Not recorded |
+| cargomotion[^s-35877f4a] | Not recorded | Not recorded | Not recorded |
+| Delta Charge[^s-35877f4a] | Not recorded | Not recorded | Not recorded |
+| Hyperdrives[^s-35877f4a] | Not recorded | Not recorded | Not recorded |
+| Logistikbude[^s-35877f4a] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://rethinkventures.com/)
-- [Source](https://rethinkventures.com/fund-launch/)
-- [Source](https://rethinkventures.com/portfolio/)
+[^s-35877f4a]: <https://rethinkventures.com/>
+[^s-27ffa70b]: <https://rethinkventures.com/fund-launch/>
+[^s-646ba76b]: <https://rethinkventures.com/portfolio/>

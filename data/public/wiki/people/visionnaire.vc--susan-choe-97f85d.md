@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Susan Choe
+description: Managing Partner at Visionnaire Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-25T00:00:00Z'
+sources:
+- id: s-cc3ed7e2
+  resource: https://visionnaire.vc/blog/team/taizo-son
+---
+
 # Susan Choe
 
-[[public/firms/visionnaire.vc|Firm profile]]
+[Firm profile](../firms/visionnaire.vc.md)
 
-Role: Managing Partner
+Role: Managing Partner[^s-cc3ed7e2]
 
 Focus: US investments; board seats
 
-## Public sources
-
-- [Source](https://visionnaire.vc/blog/team/taizo-son)
+[^s-cc3ed7e2]: <https://visionnaire.vc/blog/team/taizo-son>

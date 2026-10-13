@@ -1,58 +1,77 @@
 ---
+type: Investor Firm
+title: Global Brain Corporation
+description: venture capital; seed, later stage; AI, climate tech, healthcare, enterprise,
+  commerce.
+resource: https://globalbrains.com
+tags:
+- investor-firm
+- sourced
+domain: globalbrains.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 71
+sources:
+- id: s-12bc4dac
+  resource: https://globalbrains.com
+- id: s-e8580666
+  resource: https://globalbrains.com/
+- id: s-eba5b807
+  resource: https://globalbrains.com/en/company
+- id: s-8de299b9
+  resource: https://globalbrains.com/en/funds/global-brain
+- id: s-222bcd05
+  resource: https://globalbrains.com/en/investment
+- id: s-2f97452c
+  resource: https://globalbrains.com/en/offices
+- id: s-9f225a07
+  resource: https://globalbrains.com/en/portfolio
+- id: s-6ba4f5c2
+  resource: https://globalbrains.com/en/posts/follow-on-investment-in-turing-3
 ---
 
 # Global Brain Corporation
 
-[Website](https://globalbrains.com)
-
-Domain: globalbrains.com
-
-Coverage: sourced
-
-Research date: 2026-10-03
-
 ## Public research
 
-- **HQ:** Tokyo, Japan ([source](https://globalbrains.com/en/offices), as of None)
-- **Founded:** 1998 ([source](https://globalbrains.com/en/company), as of None)
-- **Check size min:** JPY 30M ([source](https://globalbrains.com/en/investment), as of None)
-- **Check size max:** JPY 5B ([source](https://globalbrains.com/en/investment), as of None)
-- **Legal name:** Global Brain Corporation ([source](https://globalbrains.com/en/company), as of None)
-- **Offices:** Tokyo, Kyoto, San Francisco, New York, London, Berlin, Hong Kong, Bangalore, Seoul, Singapore ([source](https://globalbrains.com/en/offices), as of None)
-- **Thesis quote:** Global Brain is an independent venture capital firm that aims to bring new industries to the society through extensive hands-on support for startups and open innovation with large corporations. ([source](https://globalbrains.com/), as of None)
-- **Type:** venture capital ([source](https://globalbrains.com/en/company), as of not recorded)
-- **Stages:** seed, later stage ([source](https://globalbrains.com/en/investment), as of not recorded)
-- **Sectors:** AI, climate tech, healthcare, enterprise, commerce ([source](https://globalbrains.com/en/investment), as of not recorded)
-- **Leads rounds:** yes ([source](https://globalbrains.com/en/posts/follow-on-investment-in-turing-3), as of 2025-11-17)
+- **HQ:** Tokyo, Japan (as of None)[^s-2f97452c]
+- **Founded:** 1998 (as of None)[^s-eba5b807]
+- **Check size min:** JPY 30M (as of None)[^s-222bcd05]
+- **Check size max:** JPY 5B (as of None)[^s-222bcd05]
+- **Legal name:** Global Brain Corporation (as of None)[^s-eba5b807]
+- **Offices:** Tokyo, Kyoto, San Francisco, New York, London, Berlin, Hong Kong, Bangalore, Seoul, Singapore (as of None)[^s-2f97452c]
+- **Thesis quote:** Global Brain is an independent venture capital firm that aims to bring new industries to the society through extensive hands-on support for startups and open innovation with large corporations. (as of None)[^s-e8580666]
+- **Type:** venture capital[^s-eba5b807]
+- **Stages:** seed, later stage[^s-222bcd05]
+- **Sectors:** AI, climate tech, healthcare, enterprise, commerce[^s-222bcd05]
+- **Leads rounds:** yes (as of 2025-11-17)[^s-6ba4f5c2]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Securitize | FinTech, North America | 0 | Not recorded | [Source](https://globalbrains.com/en/portfolio) |
-| Groq | AI, North America | 0 | Not recorded | [Source](https://globalbrains.com/en/portfolio) |
-| Timee | HR Tech, Japan | 0 | Not recorded | [Source](https://globalbrains.com/en/portfolio) |
-| Cognigy GmbH | AI, Europe | 0 | Not recorded | [Source](https://globalbrains.com/en/portfolio) |
-| UPSIDER | FinTech, Japan | 0 | Not recorded | [Source](https://globalbrains.com/en/portfolio) |
-| StradVision | Mobility, Asia | 0 | Not recorded | [Source](https://globalbrains.com/en/portfolio) |
-| Kasanare | AI, Japan | 0 | Not recorded | [Source](https://globalbrains.com/en/portfolio) |
-| Digantara | Space, Asia | 0 | Not recorded | [Source](https://globalbrains.com/en/portfolio) |
-| Ossia | IoT, North America | 0 | Not recorded | [Source](https://globalbrains.com/en/portfolio) |
-| Sharing Beauty | Media, Japan | 0 | Not recorded | [Source](https://globalbrains.com/en/portfolio) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Securitize[^s-9f225a07] | FinTech, North America | 0 | Not recorded |
+| Groq[^s-9f225a07] | AI, North America | 0 | Not recorded |
+| Timee[^s-9f225a07] | HR Tech, Japan | 0 | Not recorded |
+| Cognigy GmbH[^s-9f225a07] | AI, Europe | 0 | Not recorded |
+| UPSIDER[^s-9f225a07] | FinTech, Japan | 0 | Not recorded |
+| StradVision[^s-9f225a07] | Mobility, Asia | 0 | Not recorded |
+| Kasanare[^s-9f225a07] | AI, Japan | 0 | Not recorded |
+| Digantara[^s-9f225a07] | Space, Asia | 0 | Not recorded |
+| Ossia[^s-9f225a07] | IoT, North America | 0 | Not recorded |
+| Sharing Beauty[^s-9f225a07] | Media, Japan | 0 | Not recorded |
 
 ## People
 
-- [[public/people/globalbrains.com--isao-yasuda-0a1e6d|Isao Yasuda]]: Senior Partner
-- [[public/people/globalbrains.com--yasuhiko-yurimoto-515abe|Yasuhiko Yurimoto]]: General Partner
+- [Isao Yasuda](../people/globalbrains.com--isao-yasuda-0a1e6d.md) - Senior Partner
+- [Yasuhiko Yurimoto](../people/globalbrains.com--yasuhiko-yurimoto-515abe.md) - General Partner
 
-## Sources
-
-- [Source](https://globalbrains.com)
-- [Source](https://globalbrains.com/)
-- [Source](https://globalbrains.com/en/company)
-- [Source](https://globalbrains.com/en/funds/global-brain)
-- [Source](https://globalbrains.com/en/investment)
-- [Source](https://globalbrains.com/en/offices)
-- [Source](https://globalbrains.com/en/portfolio)
-- [Source](https://globalbrains.com/en/posts/follow-on-investment-in-turing-3)
+[^s-12bc4dac]: <https://globalbrains.com>
+[^s-e8580666]: <https://globalbrains.com/>
+[^s-eba5b807]: <https://globalbrains.com/en/company>
+[^s-8de299b9]: <https://globalbrains.com/en/funds/global-brain>
+[^s-222bcd05]: <https://globalbrains.com/en/investment>
+[^s-2f97452c]: <https://globalbrains.com/en/offices>
+[^s-9f225a07]: <https://globalbrains.com/en/portfolio>
+[^s-6ba4f5c2]: <https://globalbrains.com/en/posts/follow-on-investment-in-turing-3>

@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Max Gurvits
+description: Managing Partner at Vitosha Ventures (formerly Vitosha Venture Partners).
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-d2754bf7
+  resource: https://vitosha.vc/meet-our-team/
+---
+
 # Max Gurvits
 
-[[public/firms/vitosha.vc|Firm profile]]
+[Firm profile](../firms/vitosha.vc.md)
 
-Role: Managing Partner
+Role: Managing Partner[^s-d2754bf7]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://vitosha.vc/meet-our-team/)
+[^s-d2754bf7]: <https://vitosha.vc/meet-our-team/>

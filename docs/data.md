@@ -1,16 +1,14 @@
 # Public data and provenance
 
-The current snapshot contains **900 firm/domain records**, including **120 sourced profiles** and **780 directory records**, plus **608 public people records** and **1,132 public portfolio rows**. People records describe a person at a particular firm, so they are not a guaranteed count of unique individuals. Portfolio rows describe a firm's disclosed investment in a company, sourced the same way as any other fact.
+The catalog contains public firm profiles, people associated with those firms, and portfolio entries. Counts come from `data/public/catalog.json` and are displayed in the app. People records represent firm associations, not necessarily unique individuals.
 
 ## Coverage levels
 
-**Directory** records retain firm name, domain, and an existing website reference. The reference's hostname matches the domain. Of the 780 directory records, 776 also carry legacy general fund tags, explicitly labeled as not independently sourced. Reference links do not claim that the website was fetched, that the identity or tags are independently verified, or that the firm is currently investing. No relationships, source-import labels, or personal emails are carried over. Verify these records before using them for outreach.
+**Directory** records began as name/domain entries or legacy tags. They may now include reviewed corrections alongside unaudited fields. The label is retained when only part of a profile has been reviewed.
 
-**Sourced** records come from existing public-research dossiers with a stored review whose mechanical gate passed and that recorded no critical defects; the review's overall verdict may still be `revise`. Each exported research field also has a supporting excerpt present in the local source cache. Fields mentioned in unresolved review defects are omitted. Public people require a cached source containing their name and role; biographies and addresses are omitted. A passing gate is not a guarantee of current accuracy or proof that every excerpt supports every interpretation.
+**Sourced** records came from public research with source references and a stored review. This label does not guarantee that every field is accurate or current.
 
-Existing research dates and source dates are retained. There was no mass live re-verification for this release. The release creation date must not be substituted for a research date. Directory seeds have an empty research date because it was not established.
-
-Legacy angel records, ambiguous/missing websites, malformed entries, and unresolved detailed profiles were excluded or reduced to directory identities. Additional public records can be added through normal contributions after their evidence is checked. Selection reflects the source collection's coverage and research history, not a ranking or claim of completeness.
+The October 2026 revalidation reviewed the catalog and applied supported corrections to 658 records. Ambiguous identities and blocked reports were held back. People and portfolio entries were outside that audit. Source dates describe individual claims; research dates do not establish that every fact on a profile was rechecked. See the research guide for the repeatable validation and promotion workflow.
 
 ## Schema
 
@@ -32,7 +30,7 @@ Each firm has exactly these fields:
 | `portfolio` | Selected public portfolio rows for this firm |
 | `scores` | Optional derived profile scores, for example `{"jev-score": 73}`; 0 to 100, never a research claim |
 
-Allowed `fields` keys are `type`, `hq`, `founded`, `stages`, `geographies`, `sectors`, `aum`, `check_size_min`, `check_size_max`, `legal_name`, `offices`, `leads_rounds`, `latest_fund`, `thesis_quote`, `exclusions`, `lps`, `coinvestors`, and `about` (a short descriptive paragraph, only carried over from the legacy list for directory records and marked unverified by their record level). Preserve uncertainty and units. Do not turn a target or a historical filing amount into current AUM. `stages`, `geographies`, `sectors`, and `offices` are always lists of strings. `lps` and `coinvestors` are either a short narrative string or a list of names, depending on how the source stated them. The remaining facts are scalar values.
+Allowed `fields` keys are `type`, `hq`, `founded`, `stages`, `geographies`, `sectors`, `aum`, `check_size_min`, `check_size_max`, `legal_name`, `offices`, `leads_rounds`, `latest_fund`, `thesis_quote`, `exclusions`, `lps`, `coinvestors`, `investment_strategies`, `legal_structure`, `investment_instruments`, and `about` (a short descriptive paragraph, only carried over from the legacy list for directory records and marked unverified by their record level). Preserve uncertainty and units. Do not turn a target or a historical filing amount into current AUM. `stages`, `geographies`, `sectors`, `offices`, `investment_strategies`, `legal_structure`, and `investment_instruments` are always lists of strings. `lps` and `coinvestors` are either a short narrative string or a list of names, depending on how the source stated them. The remaining facts are scalar values.
 
 A `directory` record may still carry `fields`: curated tags (type, stages, geographies, sectors, AUM, check sizes, lead preference) carried over from a legacy list by `tools/migrate_legacy_fields.py`. Their evidence points at the recorded reference URL (Crunchbase or the website) with the legacy update date, and the exported page labels them as not independently sourced. Only records with empty `fields` are filled, and no relationship state moves.
 
@@ -42,14 +40,14 @@ A `directory` record may still carry `fields`: curated tags (type, stages, geogr
 
 Each `portfolio` entry has exactly `company`, `sector`, `round`, `date`, `url`, and `as_of`, all strings, empty when unknown except `company` and `url`, which are required. `url` must be a public source link for that specific investment.
 
-Each person has exactly `id`, `name`, `firm_id`, `title`, `focus`, `profile`, `sources`, and `researched_at`. `focus` is a short sourced description of the person's investment focus, empty when unknown. An optional public profile URL is an empty string when not established. Public-source links must use HTTP(S) and cannot include credentials, query strings, fragments, or email addresses. No email, biography, or address field is supported in this release, including publicly listed addresses.
+Each person has exactly `id`, `name`, `firm_id`, `title`, `focus`, `profile`, `sources`, and `researched_at`. A nonempty `firm_id` links the person to a firm record. An empty `firm_id` represents an independently investing individual whose firm affiliation is not established. `focus` is a short sourced description of the person's investment focus, empty when unknown. An optional public profile URL is an empty string when not established. Public-source links must use HTTP(S) and cannot include credentials, query strings, fragments, or email addresses. No email, biography, or address field is supported in this release, including publicly listed addresses.
 
-The validator rejects unexpected keys, email patterns, duplicate identities/domains, missing firm associations, malformed domains, missing evidence, and malformed portfolio entries. Generated Markdown, CSV, and domain lists must exactly match the canonical catalog. A firm's exported page includes its portfolio as a table, and `data/public/portfolio.csv` lists every portfolio row across all firms. It does not perform live web research or replace factual review.
+The validator rejects unexpected keys, email patterns, duplicate identities/domains, invalid nonempty firm associations, malformed domains, missing evidence, and malformed portfolio entries. Generated Markdown, CSV, and domain lists must exactly match the canonical catalog. A firm's exported page includes its portfolio as a table, and `data/public/portfolio.csv` lists every portfolio row across all firms. It does not perform live web research or replace factual review.
 
 ## Updating and exporting
 
 ```sh
-uv run python tools/export_public.py
+uv run python3 tools/export_public.py
 uv run fundraising-buddy validate-public
 ```
 

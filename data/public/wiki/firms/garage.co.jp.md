@@ -1,27 +1,41 @@
 ---
+type: Investor Firm
+title: Digital Garage, Inc.
+description: corporate venture capital; seed; fintech, digital transformation, generative
+  AI, ESG-related social and environmental challenges.
+resource: https://www.garage.co.jp
+tags:
+- investor-firm
+- directory
+domain: garage.co.jp
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 39
+status: draft
+sources:
+- id: s-c5436dd9
+  resource: https://www.crunchbase.com/organization/digital-garage
+- id: s-b157a785
+  resource: https://www.garage.co.jp
+- id: s-3c5b586b
+  resource: https://www.garage.co.jp/en/business/global-investment-incubation/
+- id: s-560e7d1b
+  resource: https://www.garage.co.jp/en/company/profile/
 ---
 
 # Digital Garage, Inc.
-
-[Website](https://www.garage.co.jp)
-
-Domain: garage.co.jp
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** apac, us, global ([source](https://www.crunchbase.com/organization/digital-garage), as of 2026-04-24)
-- **About:** Digital Garage is a publicly-traded Japanese tech conglomerate founded in 1995 in Tokyo by Kaoru Hayashi and Joi Ito. Runs three business segments: Platform Solutions (including Veritrans payments), Long-term Incubation (Japanese startup investing), and Global Investment Incubation (cross-border investing via DG Ventures and DG Daiwa Ventures) ([source](https://www.crunchbase.com/organization/digital-garage), as of 2026-04-24)
-- **Type:** corporate venture capital ([source](https://www.garage.co.jp/en/business/global-investment-incubation/), as of not recorded)
-- **Investment strategies:** startup investing, corporate strategic investment ([source](https://www.garage.co.jp/en/business/global-investment-incubation/), as of not recorded)
-- **Stages:** seed ([source](https://www.garage.co.jp/en/business/global-investment-incubation/), as of not recorded)
-- **Sectors:** fintech, digital transformation, generative AI, ESG-related social and environmental challenges ([source](https://www.garage.co.jp/en/business/global-investment-incubation/), as of not recorded)
+- **Geographies:** apac, us, global (as of 2026-04-24)[^s-c5436dd9]
+- **About:** Digital Garage is a publicly-traded Japanese tech conglomerate founded in 1995 in Tokyo by Kaoru Hayashi and Joi Ito. Runs three business segments: Platform Solutions (including Veritrans payments), Long-term Incubation (Japanese startup investing), and Global Investment Incubation (cross-border investing via DG Ventures and DG Daiwa Ventures) (as of 2026-04-24)[^s-c5436dd9]
+- **Type:** corporate venture capital[^s-3c5b586b]
+- **Investment strategies:** startup investing, corporate strategic investment[^s-3c5b586b]
+- **Stages:** seed[^s-3c5b586b]
+- **Sectors:** fintech, digital transformation, generative AI, ESG-related social and environmental challenges[^s-3c5b586b]
 
 ## Portfolio
 
@@ -29,10 +43,9 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.crunchbase.com/organization/digital-garage)
-- [Source](https://www.garage.co.jp)
-- [Source](https://www.garage.co.jp/en/business/global-investment-incubation/)
-- [Source](https://www.garage.co.jp/en/company/profile/)
+[^s-c5436dd9]: <https://www.crunchbase.com/organization/digital-garage>
+[^s-b157a785]: <https://www.garage.co.jp>
+[^s-3c5b586b]: <https://www.garage.co.jp/en/business/global-investment-incubation/>
+[^s-560e7d1b]: <https://www.garage.co.jp/en/company/profile/>

@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Braddock Erickson
+description: Operating Partner at DYNE Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
+sources:
+- id: s-d87d3fae
+  resource: https://www.dyne.vc/team
+---
+
 # Braddock Erickson
 
-[[public/firms/dyne.vc|Firm profile]]
+[Firm profile](../firms/dyne.vc.md)
 
-Role: Operating Partner
+Role: Operating Partner[^s-d87d3fae]
 
 Focus: Policy, family-office relationships, SHIPS Act advocacy
 
-## Public sources
-
-- [Source](https://www.dyne.vc/team)
+[^s-d87d3fae]: <https://www.dyne.vc/team>

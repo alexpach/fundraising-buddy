@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Hillary Ball
+description: Partner at Atomico.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-02T00:00:00Z'
+sources:
+- id: s-4f7283af
+  resource: https://atomico.com/team/hillary-ball
+---
+
 # Hillary Ball
 
-[[public/firms/atomico.com|Firm profile]]
+[Firm profile](../firms/atomico.com.md)
 
-Role: Partner
+Role: Partner[^s-4f7283af]
 
 Focus: Growth stage investing, across both consumer and enterprise
 
-## Public sources
-
-- [Source](https://atomico.com/team/hillary-ball)
+[^s-4f7283af]: <https://atomico.com/team/hillary-ball>

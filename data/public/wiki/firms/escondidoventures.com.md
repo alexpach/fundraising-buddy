@@ -1,40 +1,52 @@
 ---
+type: Investor Firm
+title: Escondido Ventures
+description: early-stage; AI, Energy, Defense, Agriculture, Healthcare, IoT.
+resource: https://www.escondidoventures.com
+tags:
+- investor-firm
+- directory
+domain: escondidoventures.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 36
+status: draft
+sources:
+- id: s-5f28db93
+  resource: https://www.badrinvestments.com/portfolio
+- id: s-14ef15a7
+  resource: https://www.crunchbase.com/organization/escondido-ventures
+- id: s-97246886
+  resource: https://www.escondidoventures.com
+- id: s-4f840350
+  resource: https://www.escondidoventures.com/
 ---
 
 # Escondido Ventures
-
-[Website](https://www.escondidoventures.com)
-
-Domain: escondidoventures.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** us, global ([source](https://www.crunchbase.com/organization/escondido-ventures), as of 2026-04-19)
-- **About:** Escondido Ventures is an early-stage venture capital firm that invests in technology, healthcare and agriculture startups globally. Co-founded by Khaled Badr-El-Din, the firm draws on a network of innovators and industry experts to help portfolio companies scale ([source](https://www.crunchbase.com/organization/escondido-ventures), as of 2026-04-19)
-- **Investment strategies:** early-stage technology investing ([source](https://www.badrinvestments.com/portfolio), as of not recorded)
-- **Stages:** early-stage ([source](https://www.badrinvestments.com/portfolio), as of not recorded)
-- **Sectors:** AI, Energy, Defense, Agriculture, Healthcare, IoT ([source](https://www.escondidoventures.com/), as of not recorded)
+- **Geographies:** us, global (as of 2026-04-19)[^s-14ef15a7]
+- **About:** Escondido Ventures is an early-stage venture capital firm that invests in technology, healthcare and agriculture startups globally. Co-founded by Khaled Badr-El-Din, the firm draws on a network of innovators and industry experts to help portfolio companies scale (as of 2026-04-19)[^s-14ef15a7]
+- **Investment strategies:** early-stage technology investing[^s-5f28db93]
+- **Stages:** early-stage[^s-5f28db93]
+- **Sectors:** AI, Energy, Defense, Agriculture, Healthcare, IoT[^s-4f840350]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Notable investments | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/escondido-ventures) |
-| ~17 | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/escondido-ventures) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Notable investments[^s-14ef15a7] | Not recorded | Not recorded | Not recorded |
+| ~17[^s-14ef15a7] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.badrinvestments.com/portfolio)
-- [Source](https://www.crunchbase.com/organization/escondido-ventures)
-- [Source](https://www.escondidoventures.com)
-- [Source](https://www.escondidoventures.com/)
+[^s-5f28db93]: <https://www.badrinvestments.com/portfolio>
+[^s-14ef15a7]: <https://www.crunchbase.com/organization/escondido-ventures>
+[^s-97246886]: <https://www.escondidoventures.com>
+[^s-4f840350]: <https://www.escondidoventures.com/>

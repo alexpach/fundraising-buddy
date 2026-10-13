@@ -1,25 +1,31 @@
 ---
+type: Investor Firm
+title: Una Terra Venture Studio
+description: accelerator; series-a, growth.
+resource: https://unaterra.vc
+tags:
+- investor-firm
+- directory
+domain: unaterra.vc
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 18
+status: draft
+sources:
+- id: s-3b4bdb19
+  resource: https://unaterra.vc
 ---
 
 # Una Terra Venture Studio
-
-[Website](https://unaterra.vc)
-
-Domain: unaterra.vc
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** accelerator ([source](https://unaterra.vc), as of 2026-08-17)
-- **Stages:** series-a, growth ([source](https://unaterra.vc), as of 2026-08-17)
-- **Geographies:** europe ([source](https://unaterra.vc), as of 2026-08-17)
-- **Leads rounds:** unknown ([source](https://unaterra.vc), as of not recorded)
+- **Type:** accelerator (as of 2026-08-17)[^s-3b4bdb19]
+- **Stages:** series-a, growth (as of 2026-08-17)[^s-3b4bdb19]
+- **Geographies:** europe (as of 2026-08-17)[^s-3b4bdb19]
+- **Leads rounds:** unknown[^s-3b4bdb19]
 
 ## Portfolio
 
@@ -27,7 +33,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://unaterra.vc)
+[^s-3b4bdb19]: <https://unaterra.vc>

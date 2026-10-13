@@ -1,25 +1,31 @@
 ---
+type: Investor Firm
+title: session.vc
+description: vc; seed, series-a.
+resource: https://session.vc
+tags:
+- investor-firm
+- directory
+domain: session.vc
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 18
+status: draft
+sources:
+- id: s-0cca0573
+  resource: https://session.vc
 ---
 
 # session.vc
-
-[Website](https://session.vc)
-
-Domain: session.vc
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://session.vc), as of 2026-08-17)
-- **Stages:** seed, series-a ([source](https://session.vc), as of 2026-08-17)
-- **Geographies:** europe ([source](https://session.vc), as of 2026-08-17)
-- **Leads rounds:** unknown ([source](https://session.vc), as of not recorded)
+- **Type:** vc (as of 2026-08-17)[^s-0cca0573]
+- **Stages:** seed, series-a (as of 2026-08-17)[^s-0cca0573]
+- **Geographies:** europe (as of 2026-08-17)[^s-0cca0573]
+- **Leads rounds:** unknown[^s-0cca0573]
 
 ## Portfolio
 
@@ -27,7 +33,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://session.vc)
+[^s-0cca0573]: <https://session.vc>

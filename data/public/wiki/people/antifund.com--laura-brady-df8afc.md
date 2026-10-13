@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Laura Brady
+description: Managing Director, Capital Formation at Anti Fund.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-f83d149d
+  resource: https://antifund.com
+---
+
 # Laura Brady
 
-[[public/firms/antifund.com|Firm profile]]
+[Firm profile](../firms/antifund.com.md)
 
-Role: Managing Director, Capital Formation
+Role: Managing Director, Capital Formation[^s-f83d149d]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://antifund.com)
+[^s-f83d149d]: <https://antifund.com>

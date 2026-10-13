@@ -1,24 +1,30 @@
 ---
+type: Investor Firm
+title: Embark Ventures
+description: vc; robotics, hardware, physical-ai.
+resource: https://embark.vc
+tags:
+- investor-firm
+- directory
+domain: embark.vc
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 13
+status: draft
+sources:
+- id: s-454d735a
+  resource: https://embark.vc
 ---
 
 # Embark Ventures
-
-[Website](https://embark.vc)
-
-Domain: embark.vc
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://embark.vc), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://embark.vc), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://embark.vc), as of not recorded)
+- **Type:** vc (as of 2026-04-24)[^s-454d735a]
+- **Sectors:** robotics, hardware, physical-ai (as of 2026-04-24)[^s-454d735a]
+- **Leads rounds:** unknown[^s-454d735a]
 
 ## Portfolio
 
@@ -26,7 +32,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://embark.vc)
+[^s-454d735a]: <https://embark.vc>

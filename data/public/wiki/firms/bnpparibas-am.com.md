@@ -1,39 +1,44 @@
 ---
+type: Investor Firm
+title: BNP Paribas Solar Impulse Fund
+description: cvc; growth; cleantech, climate-energy.
+resource: https://www.bnpparibas-am.com/fr-fr/solar-impulse/
+tags:
+- investor-firm
+- directory
+domain: bnpparibas-am.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 51
+status: draft
+sources:
+- id: s-4182a243
+  resource: https://www.bnpparibas-am.com/fr-fr/solar-impulse/
 ---
 
 # BNP Paribas Solar Impulse Fund
-
-[Website](https://www.bnpparibas-am.com/fr-fr/solar-impulse/)
-
-Domain: bnpparibas-am.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://www.bnpparibas-am.com/fr-fr/solar-impulse/), as of 2026-08-07)
-- **Stages:** growth ([source](https://www.bnpparibas-am.com/fr-fr/solar-impulse/), as of 2026-08-07)
-- **Geographies:** europe ([source](https://www.bnpparibas-am.com/fr-fr/solar-impulse/), as of 2026-08-07)
-- **Sectors:** cleantech, climate-energy ([source](https://www.bnpparibas-am.com/fr-fr/solar-impulse/), as of 2026-08-07)
-- **AUM:** 172M ([source](https://www.bnpparibas-am.com/fr-fr/solar-impulse/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.bnpparibas-am.com/fr-fr/solar-impulse/), as of not recorded)
-- **About:** The BNP Paribas Solar Impulse Venture Fund is a €172M corporate venture fund launched in Paris (2022) by BNP Paribas in partnership with the Solar Impulse Foundation, managed by BNP Paribas Agility Capital, exclusively targeting growth-stage clean-tech scale-ups. `type: cvc` reflects that it's a bank-sponsored corporate venture vehicle, not an independent VC fund ([source](https://www.bnpparibas-am.com/fr-fr/solar-impulse/), as of 2026-08-07)
+- **Type:** cvc (as of 2026-08-07)[^s-4182a243]
+- **Stages:** growth (as of 2026-08-07)[^s-4182a243]
+- **Geographies:** europe (as of 2026-08-07)[^s-4182a243]
+- **Sectors:** cleantech, climate-energy (as of 2026-08-07)[^s-4182a243]
+- **AUM:** 172M (as of 2026-08-07)[^s-4182a243]
+- **Leads rounds:** unknown[^s-4182a243]
+- **About:** The BNP Paribas Solar Impulse Venture Fund is a €172M corporate venture fund launched in Paris (2022) by BNP Paribas in partnership with the Solar Impulse Foundation, managed by BNP Paribas Agility Capital, exclusively targeting growth-stage clean-tech scale-ups. `type: cvc` reflects that it's a bank-sponsored corporate venture vehicle, not an independent VC fund (as of 2026-08-07)[^s-4182a243]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Entrix | Not recorded | Not recorded | Not recorded | [Source](https://www.bnpparibas-am.com/fr-fr/solar-impulse/) |
-| NatureMetrics | Not recorded | Not recorded | Not recorded | [Source](https://www.bnpparibas-am.com/fr-fr/solar-impulse/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Entrix[^s-4182a243] | Not recorded | Not recorded | Not recorded |
+| NatureMetrics[^s-4182a243] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.bnpparibas-am.com/fr-fr/solar-impulse/)
+[^s-4182a243]: <https://www.bnpparibas-am.com/fr-fr/solar-impulse/>

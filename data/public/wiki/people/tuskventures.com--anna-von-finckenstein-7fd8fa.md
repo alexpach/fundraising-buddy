@@ -1,13 +1,27 @@
+---
+type: Investor
+title: Anna von Finckenstein
+description: Communications Associate at Tusk Venture Partners.
+resource: https://www.linkedin.com/in/annavf/
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-09-20T00:00:00Z'
+sources:
+- id: s-ef2b67b7
+  resource: https://www.linkedin.com/in/annavf/
+- id: s-e9e4038a
+  resource: https://tuskventures.com/team
+---
+
 # Anna von Finckenstein
 
-[[public/firms/tuskventures.com|Firm profile]]
+[Firm profile](../firms/tuskventures.com.md)
 
-Role: Communications Associate
+Role: Communications Associate[^s-ef2b67b7][^s-e9e4038a]
 
 Focus: Communications
 
-## Public sources
-
-[Public profile](https://www.linkedin.com/in/annavf/)
-
-- [Source](https://tuskventures.com/team)
+[^s-ef2b67b7]: <https://www.linkedin.com/in/annavf/>
+[^s-e9e4038a]: <https://tuskventures.com/team>

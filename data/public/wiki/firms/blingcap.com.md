@@ -1,50 +1,62 @@
 ---
+type: Investor Firm
+title: Bling Capital
+description: venture capital; pre-seed, seed; artificial intelligence & automation,
+  defense & deeptech, consumer tech, internet & mobile, marketplace, data, fintech,
+  SaaS, frontier technologies.
+resource: https://blingcap.com
+tags:
+- investor-firm
+- sourced
+domain: blingcap.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 61
+sources:
+- id: s-5e164283
+  resource: https://blingcap.com
+- id: s-ee2db1c3
+  resource: https://www.blingcap.com/
+- id: s-0f157cff
+  resource: https://www.blingcap.com/fund4/
+- id: s-a53fbe0e
+  resource: https://www.blingcap.com/sectors
 ---
 
 # Bling Capital
 
-[Website](https://blingcap.com)
-
-Domain: blingcap.com
-
-Coverage: sourced
-
-Research date: 2026-10-03
-
 ## Public research
 
-- **Founded:** 2018 ([source](https://www.blingcap.com/fund4/), as of 2024-11)
-- **Latest fund:** Fund IV, $270M ([source](https://www.blingcap.com/fund4/), as of 2024-11)
-- **Thesis quote:** our goal is straightforward: find exceptionally ambitious founders and partner with them for the long run to find and scale product-market fit ([source](https://www.blingcap.com/fund4/), as of 2024-11)
-- **Type:** venture capital ([source](https://www.blingcap.com/), as of not recorded)
-- **Stages:** pre-seed, seed ([source](https://www.blingcap.com/), as of not recorded)
-- **Sectors:** artificial intelligence & automation, defense & deeptech, consumer tech, internet & mobile, marketplace, data, fintech, SaaS, frontier technologies ([source](https://www.blingcap.com/sectors), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.blingcap.com/sectors), as of not recorded)
+- **Founded:** 2018 (as of 2024-11)[^s-0f157cff]
+- **Latest fund:** Fund IV, $270M (as of 2024-11)[^s-0f157cff]
+- **Thesis quote:** our goal is straightforward: find exceptionally ambitious founders and partner with them for the long run to find and scale product-market fit (as of 2024-11)[^s-0f157cff]
+- **Type:** venture capital[^s-ee2db1c3]
+- **Stages:** pre-seed, seed[^s-ee2db1c3]
+- **Sectors:** artificial intelligence & automation, defense & deeptech, consumer tech, internet & mobile, marketplace, data, fintech, SaaS, frontier technologies[^s-a53fbe0e]
+- **Leads rounds:** yes[^s-a53fbe0e]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Palantir | data integration and analytics | Not recorded | Not recorded | [Source](https://blingcap.com) |
-| Instacart | grocery delivery | Not recorded | Not recorded | [Source](https://blingcap.com) |
-| Rippling | HR/IT/payroll platform | Not recorded | Not recorded | [Source](https://blingcap.com) |
-| Lyft | on-demand transportation | Not recorded | Not recorded | [Source](https://blingcap.com) |
-| Square | payments / point-of-sale | Not recorded | Not recorded | [Source](https://blingcap.com) |
-| Grata | private company deal sourcing | acquired by Datasite | Not recorded | [Source](https://blingcap.com) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Palantir[^s-5e164283] | data integration and analytics | Not recorded | Not recorded |
+| Instacart[^s-5e164283] | grocery delivery | Not recorded | Not recorded |
+| Rippling[^s-5e164283] | HR/IT/payroll platform | Not recorded | Not recorded |
+| Lyft[^s-5e164283] | on-demand transportation | Not recorded | Not recorded |
+| Square[^s-5e164283] | payments / point-of-sale | Not recorded | Not recorded |
+| Grata[^s-5e164283] | private company deal sourcing | acquired by Datasite | Not recorded |
 
 ## People
 
-- [[public/people/blingcap.com--ash-panchang-091834|Ash Panchang]]: Principal
-- [[public/people/blingcap.com--ben-ling-f1b1df|Ben Ling]]: Founding General Partner
-- [[public/people/blingcap.com--charlie-pinto-5cfb4b|Charlie Pinto]]: Partner
-- [[public/people/blingcap.com--eric-theis-2ca7bc|Eric Theis]]: Partner
-- [[public/people/blingcap.com--kyle-lui-463ed6|Kyle Lui]]: General Partner
-- [[public/people/blingcap.com--lukas-mack-112a2b|Lukas Mack]]: Investor
+- [Ash Panchang](../people/blingcap.com--ash-panchang-091834.md) - Principal
+- [Ben Ling](../people/blingcap.com--ben-ling-f1b1df.md) - Founding General Partner
+- [Charlie Pinto](../people/blingcap.com--charlie-pinto-5cfb4b.md) - Partner
+- [Eric Theis](../people/blingcap.com--eric-theis-2ca7bc.md) - Partner
+- [Kyle Lui](../people/blingcap.com--kyle-lui-463ed6.md) - General Partner
+- [Lukas Mack](../people/blingcap.com--lukas-mack-112a2b.md) - Investor
 
-## Sources
-
-- [Source](https://blingcap.com)
-- [Source](https://www.blingcap.com/)
-- [Source](https://www.blingcap.com/fund4/)
-- [Source](https://www.blingcap.com/sectors)
+[^s-5e164283]: <https://blingcap.com>
+[^s-ee2db1c3]: <https://www.blingcap.com/>
+[^s-0f157cff]: <https://www.blingcap.com/fund4/>
+[^s-a53fbe0e]: <https://www.blingcap.com/sectors>

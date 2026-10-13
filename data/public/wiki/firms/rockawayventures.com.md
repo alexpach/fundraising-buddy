@@ -1,26 +1,39 @@
 ---
+type: Investor Firm
+title: Rockaway Ventures Fund
+description: venture capital; late seed, Series A; Retail & e-Tail, E-Commerce, Digital
+  Logistics Solutions, Digital Media, Cybersecurity & Data Management, CleanTech,
+  Defence, E-Travel & Hospitality.
+resource: https://rockawayventures.com
+tags:
+- investor-firm
+- directory
+domain: rockawayventures.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 22
+status: draft
+sources:
+- id: s-4d04e726
+  resource: https://rockawayventures.com
+- id: s-be381f04
+  resource: https://rockawayventures.com/
+- id: s-c7eb12a5
+  resource: https://rockawayventures.com/for-investors/
 ---
 
 # Rockaway Ventures Fund
-
-[Website](https://rockawayventures.com)
-
-Domain: rockawayventures.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** venture capital ([source](https://rockawayventures.com/for-investors/), as of not recorded)
-- **Investment strategies:** early-stage venture capital ([source](https://rockawayventures.com/for-investors/), as of not recorded)
-- **Stages:** late seed, Series A ([source](https://rockawayventures.com/), as of not recorded)
-- **Sectors:** Retail & e-Tail, E-Commerce, Digital Logistics Solutions, Digital Media, Cybersecurity & Data Management, CleanTech, Defence, E-Travel & Hospitality ([source](https://rockawayventures.com/for-investors/), as of not recorded)
-- **Leads rounds:** yes ([source](https://rockawayventures.com/), as of 2025-06-24)
+- **Type:** venture capital[^s-c7eb12a5]
+- **Investment strategies:** early-stage venture capital[^s-c7eb12a5]
+- **Stages:** late seed, Series A[^s-be381f04]
+- **Sectors:** Retail & e-Tail, E-Commerce, Digital Logistics Solutions, Digital Media, Cybersecurity & Data Management, CleanTech, Defence, E-Travel & Hospitality[^s-c7eb12a5]
+- **Leads rounds:** yes (as of 2025-06-24)[^s-be381f04]
 
 ## Portfolio
 
@@ -28,9 +41,8 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://rockawayventures.com)
-- [Source](https://rockawayventures.com/)
-- [Source](https://rockawayventures.com/for-investors/)
+[^s-4d04e726]: <https://rockawayventures.com>
+[^s-be381f04]: <https://rockawayventures.com/>
+[^s-c7eb12a5]: <https://rockawayventures.com/for-investors/>

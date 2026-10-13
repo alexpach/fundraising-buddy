@@ -1,50 +1,66 @@
 ---
+type: Investor Firm
+title: Impact Venture Capital
+description: vc.
+resource: https://impactvc.com
+tags:
+- investor-firm
+- sourced
+domain: impactvc.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-25T00:00:00Z'
 jev-score: 63
+sources:
+- id: s-47a3fdbf
+  resource: https://crunchbase.com/organization/impact-venture-capital
+- id: s-df7c9151
+  resource: https://dww.show/investor/impact-venture-capital/
+- id: s-bd7ad524
+  resource: https://impactvc.com
+- id: s-f03d1050
+  resource: https://pitchbook.com/profiles/investor/167023-63
+- id: s-159c6876
+  resource: https://startupintros.com/orgs/impact-vc
+- id: s-23f51831
+  resource: https://www.bizjournals.com/sacramento/news/2019/10/21/impact-venture-capital-to-raise-50-million-second.html
+- id: s-3c94cd90
+  resource: https://www.finsmes.com/2016/11/nightingale-security-receives-investment-from-impact-venture-capital.html
 ---
 
 # Impact Venture Capital
 
-[Website](https://impactvc.com)
-
-Domain: impactvc.com
-
-Coverage: sourced
-
-Research date: 2026-08-25
-
 ## Public research
 
-- **Type:** vc ([source](https://dww.show/investor/impact-venture-capital/), as of 2026-06)
-- **HQ:** Silicon Valley, California, United States ([source](https://dww.show/investor/impact-venture-capital/), as of 2026-06)
-- **Founded:** 2016 ([source](https://dww.show/investor/impact-venture-capital/), as of 2026-06)
-- **Geographies:** us ([source](https://dww.show/investor/impact-venture-capital/), as of 2026-06)
-- **Legal name:** Impact Venture Capital LLC ([source](https://crunchbase.com/organization/impact-venture-capital), as of 2026-04)
-- **Latest fund:** Targeted a $50 million second fund (Fund II) in 2019-2020 ([source](https://www.bizjournals.com/sacramento/news/2019/10/21/impact-venture-capital-to-raise-50-million-second.html), as of 2019-10)
-- **Coinvestors:** Gaingels, Ulu Ventures, Band of Angels, Cerberus Capital Management, RingCentral ([source](https://pitchbook.com/profiles/investor/167023-63), as of 2026-05)
-- **Leads rounds:** unknown ([source](https://impactvc.com), as of not recorded)
+- **Type:** vc (as of 2026-06)[^s-df7c9151]
+- **HQ:** Silicon Valley, California, United States (as of 2026-06)[^s-df7c9151]
+- **Founded:** 2016 (as of 2026-06)[^s-df7c9151]
+- **Geographies:** us (as of 2026-06)[^s-df7c9151]
+- **Legal name:** Impact Venture Capital LLC (as of 2026-04)[^s-47a3fdbf]
+- **Latest fund:** Targeted a $50 million second fund (Fund II) in 2019-2020 (as of 2019-10)[^s-23f51831]
+- **Coinvestors:** Gaingels, Ulu Ventures, Band of Angels, Cerberus Capital Management, RingCentral (as of 2026-05)[^s-f03d1050]
+- **Leads rounds:** unknown[^s-bd7ad524]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| GigaIO | AI/datacenter compute hardware | Series B | 2025-07-01 | [Source](https://startupintros.com/orgs/impact-vc) |
-| Nightingale Security | robotic aerial security / drones | seed | 2016-11 | [Source](https://www.finsmes.com/2016/11/nightingale-security-receives-investment-from-impact-venture-capital.html) |
-| Cornami | quantum-safe encryption / semiconductor | Series B | 2016-09-01 | [Source](https://startupintros.com/orgs/impact-vc) |
-| Upduo | software | Seed | 2023-03-01 | [Source](https://startupintros.com/orgs/impact-vc) |
-| Healium | digital health / VR | Seed | 2023-02-01 | [Source](https://startupintros.com/orgs/impact-vc) |
-| Syntegra | healthcare data / AI | Seed | 2020-08-01 | [Source](https://startupintros.com/orgs/impact-vc) |
-| TaskHuman | virtual coaching platform | Seed | 2020-06-01 | [Source](https://startupintros.com/orgs/impact-vc) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| GigaIO[^s-159c6876] | AI/datacenter compute hardware | Series B | 2025-07-01 |
+| Nightingale Security[^s-3c94cd90] | robotic aerial security / drones | seed | 2016-11 |
+| Cornami[^s-159c6876] | quantum-safe encryption / semiconductor | Series B | 2016-09-01 |
+| Upduo[^s-159c6876] | software | Seed | 2023-03-01 |
+| Healium[^s-159c6876] | digital health / VR | Seed | 2023-02-01 |
+| Syntegra[^s-159c6876] | healthcare data / AI | Seed | 2020-08-01 |
+| TaskHuman[^s-159c6876] | virtual coaching platform | Seed | 2020-06-01 |
 
 ## People
 
-- [[public/people/impactvc.com--dixon-doll-4e2b31|Dixon Doll]]: General Partner
+- [Dixon Doll](../people/impactvc.com--dixon-doll-4e2b31.md) - General Partner
 
-## Sources
-
-- [Source](https://crunchbase.com/organization/impact-venture-capital)
-- [Source](https://dww.show/investor/impact-venture-capital/)
-- [Source](https://impactvc.com)
-- [Source](https://pitchbook.com/profiles/investor/167023-63)
-- [Source](https://startupintros.com/orgs/impact-vc)
-- [Source](https://www.bizjournals.com/sacramento/news/2019/10/21/impact-venture-capital-to-raise-50-million-second.html)
-- [Source](https://www.finsmes.com/2016/11/nightingale-security-receives-investment-from-impact-venture-capital.html)
+[^s-47a3fdbf]: <https://crunchbase.com/organization/impact-venture-capital>
+[^s-df7c9151]: <https://dww.show/investor/impact-venture-capital/>
+[^s-bd7ad524]: <https://impactvc.com>
+[^s-f03d1050]: <https://pitchbook.com/profiles/investor/167023-63>
+[^s-159c6876]: <https://startupintros.com/orgs/impact-vc>
+[^s-23f51831]: <https://www.bizjournals.com/sacramento/news/2019/10/21/impact-venture-capital-to-raise-50-million-second.html>
+[^s-3c94cd90]: <https://www.finsmes.com/2016/11/nightingale-security-receives-investment-from-impact-venture-capital.html>

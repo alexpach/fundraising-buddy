@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Jason Stoffer
+description: Chief Investment Officer, General Partner at Maveron.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-25T00:00:00Z'
+sources:
+- id: s-b86b7acc
+  resource: https://www.maveron.com/team/jason-stoffer
+---
+
 # Jason Stoffer
 
-[[public/firms/maveron.com|Firm profile]]
+[Firm profile](../firms/maveron.com.md)
 
-Role: Chief Investment Officer, General Partner
+Role: Chief Investment Officer, General Partner[^s-b86b7acc]
 
 Focus: consumer education, e-commerce, marketplaces
 
-## Public sources
-
-- [Source](https://www.maveron.com/team/jason-stoffer)
+[^s-b86b7acc]: <https://www.maveron.com/team/jason-stoffer>

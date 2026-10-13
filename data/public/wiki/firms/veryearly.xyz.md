@@ -1,25 +1,31 @@
 ---
+type: Investor Firm
+title: very early Ventures
+description: vc; seed.
+resource: https://veryearly.xyz
+tags:
+- investor-firm
+- directory
+domain: veryearly.xyz
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 17
+status: draft
+sources:
+- id: s-dac92278
+  resource: https://veryearly.xyz
 ---
 
 # very early Ventures
-
-[Website](https://veryearly.xyz)
-
-Domain: veryearly.xyz
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://veryearly.xyz), as of 2026-08-17)
-- **Stages:** seed ([source](https://veryearly.xyz), as of 2026-08-17)
-- **Geographies:** europe ([source](https://veryearly.xyz), as of 2026-08-17)
-- **Leads rounds:** unknown ([source](https://veryearly.xyz), as of not recorded)
+- **Type:** vc (as of 2026-08-17)[^s-dac92278]
+- **Stages:** seed (as of 2026-08-17)[^s-dac92278]
+- **Geographies:** europe (as of 2026-08-17)[^s-dac92278]
+- **Leads rounds:** unknown[^s-dac92278]
 
 ## Portfolio
 
@@ -27,7 +33,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://veryearly.xyz)
+[^s-dac92278]: <https://veryearly.xyz>

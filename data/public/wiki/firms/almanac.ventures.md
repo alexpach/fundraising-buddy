@@ -1,39 +1,47 @@
 ---
+type: Investor Firm
+title: Almanac Ventures
+description: venture capital; early-stage; Deeptech, Industrial systems.
+resource: https://almanac.ventures/
+tags:
+- investor-firm
+- directory
+domain: almanac.ventures
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 37
+status: draft
+sources:
+- id: s-ca876976
+  resource: https://almanac.ventures/
+- id: s-92741e86
+  resource: https://www.british-business-bank.co.uk/news-and-events/news/british-business-bank-backs-new-generation-uk-venture-capital-investors-first-investor-pathways
 ---
 
 # Almanac Ventures
-
-[Website](https://almanac.ventures/)
-
-Domain: almanac.ventures
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe ([source](https://almanac.ventures/), as of 2026-08-07)
-- **Type:** venture capital ([source](https://www.british-business-bank.co.uk/news-and-events/news/british-business-bank-backs-new-generation-uk-venture-capital-investors-first-investor-pathways), as of 2026-06-25)
-- **Investment strategies:** early-stage venture capital, deeptech ([source](https://www.british-business-bank.co.uk/news-and-events/news/british-business-bank-backs-new-generation-uk-venture-capital-investors-first-investor-pathways), as of 2026-06-25)
-- **Stages:** early-stage ([source](https://almanac.ventures/), as of not recorded)
-- **Sectors:** Deeptech, Industrial systems ([source](https://almanac.ventures/), as of not recorded)
+- **Geographies:** europe (as of 2026-08-07)[^s-ca876976]
+- **Type:** venture capital (as of 2026-06-25)[^s-92741e86]
+- **Investment strategies:** early-stage venture capital, deeptech (as of 2026-06-25)[^s-92741e86]
+- **Stages:** early-stage[^s-ca876976]
+- **Sectors:** Deeptech, Industrial systems[^s-ca876976]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| SolidWatts | Not recorded | Not recorded | Not recorded | [Source](https://almanac.ventures/) |
-| Reclinker | Not recorded | Not recorded | Not recorded | [Source](https://almanac.ventures/) |
-| HotGreen Solutions | Not recorded | Not recorded | Not recorded | [Source](https://almanac.ventures/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| SolidWatts[^s-ca876976] | Not recorded | Not recorded | Not recorded |
+| Reclinker[^s-ca876976] | Not recorded | Not recorded | Not recorded |
+| HotGreen Solutions[^s-ca876976] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://almanac.ventures/)
-- [Source](https://www.british-business-bank.co.uk/news-and-events/news/british-business-bank-backs-new-generation-uk-venture-capital-investors-first-investor-pathways)
+[^s-ca876976]: <https://almanac.ventures/>
+[^s-92741e86]: <https://www.british-business-bank.co.uk/news-and-events/news/british-business-bank-backs-new-generation-uk-venture-capital-investors-first-investor-pathways>

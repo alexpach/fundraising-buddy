@@ -1,46 +1,58 @@
 ---
+type: Investor Firm
+title: BDC Capital
+description: venture capital investor; growth equity investor; seed, growth.
+resource: https://www.bdc.ca/en/bdc-capital
+tags:
+- investor-firm
+- directory
+domain: bdc.ca
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 47
+status: draft
+sources:
+- id: s-a4931e4f
+  resource: https://www.bdc.ca/en/bdc-capital
+- id: s-f7e52f93
+  resource: https://www.bdc.ca/en/bdc-capital/growth-equity
+- id: s-3a5115a3
+  resource: https://www.bdc.ca/en/bdc-capital/venture-capital/funds/seed-fund
+- id: s-f9be1209
+  resource: https://www.crunchbase.com/organization/bdc-venture-capital
 ---
 
 # BDC Capital
-
-[Website](https://www.bdc.ca/en/bdc-capital)
-
-Domain: bdc.ca
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** canada ([source](https://www.crunchbase.com/organization/bdc-venture-capital), as of 2026-08-07)
-- **About:** BDC Capital is the investment arm of the Business Development Bank of Canada, a federal Crown corporation (state-owned development bank). It manages $6B+ in assets, including specialized vehicles like a $500M Thrive Venture Fund and a $400M Climate Tech Fund, investing directly and as an LP into Canadian venture and growth-stage companies ([source](https://www.crunchbase.com/organization/bdc-venture-capital), as of 2026-08-07)
-- **Type:** venture capital investor; growth equity investor ([source](https://www.bdc.ca/en/bdc-capital), as of not recorded)
-- **Investment strategies:** seed venture capital, growth equity ([source](https://www.bdc.ca/en/bdc-capital), as of not recorded)
-- **Legal structure:** investment arm of BDC ([source](https://www.bdc.ca/en/bdc-capital), as of not recorded)
-- **Investment instruments:** equity ([source](https://www.bdc.ca/en/bdc-capital), as of not recorded)
-- **Stages:** seed, growth ([source](https://www.bdc.ca/en/bdc-capital/venture-capital/funds/seed-fund), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.bdc.ca/en/bdc-capital/growth-equity), as of not recorded)
+- **Geographies:** canada (as of 2026-08-07)[^s-f9be1209]
+- **About:** BDC Capital is the investment arm of the Business Development Bank of Canada, a federal Crown corporation (state-owned development bank). It manages $6B+ in assets, including specialized vehicles like a $500M Thrive Venture Fund and a $400M Climate Tech Fund, investing directly and as an LP into Canadian venture and growth-stage companies (as of 2026-08-07)[^s-f9be1209]
+- **Type:** venture capital investor; growth equity investor[^s-a4931e4f]
+- **Investment strategies:** seed venture capital, growth equity[^s-a4931e4f]
+- **Legal structure:** investment arm of BDC[^s-a4931e4f]
+- **Investment instruments:** equity[^s-a4931e4f]
+- **Stages:** seed, growth[^s-3a5115a3]
+- **Leads rounds:** yes[^s-f7e52f93]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Femtum | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/bdc-venture-capital) |
-| Waabi | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/bdc-venture-capital) |
-| Clio | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/bdc-venture-capital) |
-| Hopper | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/bdc-venture-capital) |
-| Hyperlume | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/bdc-venture-capital) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Femtum[^s-f9be1209] | Not recorded | Not recorded | Not recorded |
+| Waabi[^s-f9be1209] | Not recorded | Not recorded | Not recorded |
+| Clio[^s-f9be1209] | Not recorded | Not recorded | Not recorded |
+| Hopper[^s-f9be1209] | Not recorded | Not recorded | Not recorded |
+| Hyperlume[^s-f9be1209] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.bdc.ca/en/bdc-capital)
-- [Source](https://www.bdc.ca/en/bdc-capital/growth-equity)
-- [Source](https://www.bdc.ca/en/bdc-capital/venture-capital/funds/seed-fund)
-- [Source](https://www.crunchbase.com/organization/bdc-venture-capital)
+[^s-a4931e4f]: <https://www.bdc.ca/en/bdc-capital>
+[^s-f7e52f93]: <https://www.bdc.ca/en/bdc-capital/growth-equity>
+[^s-3a5115a3]: <https://www.bdc.ca/en/bdc-capital/venture-capital/funds/seed-fund>
+[^s-f9be1209]: <https://www.crunchbase.com/organization/bdc-venture-capital>

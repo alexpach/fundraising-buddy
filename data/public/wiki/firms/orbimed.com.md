@@ -1,74 +1,88 @@
 ---
+type: Investor Firm
+title: OrbiMed
+description: venture capital; seed, growth equity; Healthcare.
+resource: https://orbimed.com
+tags:
+- investor-firm
+- sourced
+domain: orbimed.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 78
+sources:
+- id: s-2867e66e
+  resource: https://www.orbimed.com/
+- id: s-a045a56b
+  resource: https://www.orbimed.com/about/
+- id: s-f681de66
+  resource: https://www.orbimed.com/category/orbimed-news/
+- id: s-d8940a88
+  resource: https://www.orbimed.com/contact-us/
+- id: s-20e89b23
+  resource: https://www.orbimed.com/orbimed-raises-1-86-billion-for-healthcare-royalty-credit-fund-v/
+- id: s-e900ee04
+  resource: https://www.orbimed.com/portfolio/
 ---
 
 # OrbiMed
 
-[Website](https://orbimed.com)
-
-Domain: orbimed.com
-
-Coverage: sourced
-
-Research date: 2026-10-04
-
 ## Public research
 
-- **Founded:** 1989 ([source](https://www.orbimed.com/about/), as of None)
-- **Geographies:** global ([source](https://www.orbimed.com/about/), as of None)
-- **Offices:** New York, San Francisco, London, Mumbai, Shanghai, Hong Kong, Herzliya ([source](https://www.orbimed.com/contact-us/), as of None)
-- **Latest fund:** OrbiMed Royalty and Credit Opportunities Fund V, $1.86 billion in commitments (credit/royalty fund, not venture) ([source](https://www.orbimed.com/category/orbimed-news/), as of 2025-08)
-- **Thesis quote:** OrbiMed is a global investment firm that invests in companies engaged in the discovery and development of biopharmaceutical products, medical technologies, medical devices, diagnostics, drug discovery tools, and healthcare information technology and services companies. ([source](https://www.orbimed.com/about/), as of None)
-- **LPs:** medical institutions, university endowments, foundations, pension funds, sovereign wealth funds and family offices ([source](https://www.orbimed.com/category/orbimed-news/), as of 2023-10)
-- **Type:** venture capital ([source](https://www.orbimed.com/about/), as of not recorded)
-- **Investment strategies:** private equity, public equity, private credit/royalty ([source](https://www.orbimed.com/about/), as of not recorded)
-- **Investment instruments:** equity, debt, royalty ([source](https://www.orbimed.com/about/), as of not recorded)
-- **Stages:** seed, growth equity ([source](https://www.orbimed.com/about/), as of not recorded)
-- **Sectors:** Healthcare ([source](https://www.orbimed.com/about/), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.orbimed.com/about/), as of not recorded)
-- **AUM:** Lower bound (over): USD 17 billion (as of 2025-08-04) ([source](https://www.orbimed.com/orbimed-raises-1-86-billion-for-healthcare-royalty-credit-fund-v/), as of 2025-08-04)
+- **Founded:** 1989 (as of None)[^s-a045a56b]
+- **Geographies:** global (as of None)[^s-a045a56b]
+- **Offices:** New York, San Francisco, London, Mumbai, Shanghai, Hong Kong, Herzliya (as of None)[^s-d8940a88]
+- **Latest fund:** OrbiMed Royalty and Credit Opportunities Fund V, $1.86 billion in commitments (credit/royalty fund, not venture) (as of 2025-08)[^s-f681de66]
+- **Thesis quote:** OrbiMed is a global investment firm that invests in companies engaged in the discovery and development of biopharmaceutical products, medical technologies, medical devices, diagnostics, drug discovery tools, and healthcare information technology and services companies. (as of None)[^s-a045a56b]
+- **LPs:** medical institutions, university endowments, foundations, pension funds, sovereign wealth funds and family offices (as of 2023-10)[^s-f681de66]
+- **Type:** venture capital[^s-a045a56b]
+- **Investment strategies:** private equity, public equity, private credit/royalty[^s-a045a56b]
+- **Investment instruments:** equity, debt, royalty[^s-a045a56b]
+- **Stages:** seed, growth equity[^s-a045a56b]
+- **Sectors:** Healthcare[^s-a045a56b]
+- **Leads rounds:** yes[^s-a045a56b]
+- **AUM:** Lower bound (over): USD 17 billion (as of 2025-08-04) (as of 2025-08-04)[^s-20e89b23]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Acutus | Medical Device | Not recorded | Not recorded | [Source](https://www.orbimed.com/portfolio/) |
-| ADARx Pharmaceuticals | Biopharmaceutical | Not recorded | Not recorded | [Source](https://www.orbimed.com/portfolio/) |
-| Adcendo | Biopharmaceutical | Not recorded | Not recorded | [Source](https://www.orbimed.com/portfolio/) |
-| Alumis | Biopharmaceutical | Not recorded | Not recorded | [Source](https://www.orbimed.com/portfolio/) |
-| Aerin Medical | Medical Device | Not recorded | Not recorded | [Source](https://www.orbimed.com/portfolio/) |
-| AK Medical | Medical Device | Not recorded | Not recorded | [Source](https://www.orbimed.com/portfolio/) |
-| Altis Labs | Diagnostics/Tools | Not recorded | Not recorded | [Source](https://www.orbimed.com/portfolio/) |
-| AnchorDx | Diagnostics/Tools | Not recorded | Not recorded | [Source](https://www.orbimed.com/portfolio/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Acutus[^s-e900ee04] | Medical Device | Not recorded | Not recorded |
+| ADARx Pharmaceuticals[^s-e900ee04] | Biopharmaceutical | Not recorded | Not recorded |
+| Adcendo[^s-e900ee04] | Biopharmaceutical | Not recorded | Not recorded |
+| Alumis[^s-e900ee04] | Biopharmaceutical | Not recorded | Not recorded |
+| Aerin Medical[^s-e900ee04] | Medical Device | Not recorded | Not recorded |
+| AK Medical[^s-e900ee04] | Medical Device | Not recorded | Not recorded |
+| Altis Labs[^s-e900ee04] | Diagnostics/Tools | Not recorded | Not recorded |
+| AnchorDx[^s-e900ee04] | Diagnostics/Tools | Not recorded | Not recorded |
 
 ## People
 
-- [[public/people/orbimed.com--c-scotland-stevens-d8e0e8|C. Scotland Stevens]]: General Partner
-- [[public/people/orbimed.com--carl-l-gordon-ph-d-cfa-6b3c04|Carl L. Gordon, Ph.D., CFA]]: Managing Partner
-- [[public/people/orbimed.com--david-bonita-m-d-6592bd|David Bonita, M.D.]]: General Partner
-- [[public/people/orbimed.com--david-wang-m-d-ph-d-961ee0|David Wang, M.D., Ph.D.]]: Partner
-- [[public/people/orbimed.com--dina-chaya-ph-d-cfa-24eb27|Dina Chaya, Ph.D., CFA]]: Partner
-- [[public/people/orbimed.com--diyong-xu-41a922|Diyong Xu]]: Partner
-- [[public/people/orbimed.com--erez-chimovits-33f5e9|Erez Chimovits]]: Partner
-- [[public/people/orbimed.com--evan-caplan-m-d-8bb5b2|Evan Caplan, M.D.]]: Partner
-- [[public/people/orbimed.com--geoffrey-c-hsu-cfa-4d477a|Geoffrey C. Hsu, CFA]]: Managing Partner
-- [[public/people/orbimed.com--joshua-golomb-df3721|Joshua Golomb]]: Partner
-- [[public/people/orbimed.com--mark-r-jelley-069664|Mark R. Jelley]]: Partner
-- [[public/people/orbimed.com--matthew-rizzo-6f6acf|Matthew Rizzo]]: General Partner
-- [[public/people/orbimed.com--michael-eggenberg-19467e|Michael Eggenberg]]: Partner
-- [[public/people/orbimed.com--mona-ashiya-ph-d-9b6819|Mona Ashiya, Ph.D.]]: General Partner
-- [[public/people/orbimed.com--peter-thompson-m-d-5454b5|Peter Thompson, M.D.]]: General Partner
-- [[public/people/orbimed.com--steven-d-wang-ph-d-cfa-2925f2|Steven D. Wang, Ph.D., CFA]]: Partner
-- [[public/people/orbimed.com--sunny-sharma-m-d-de3b8b|Sunny Sharma, M.D.]]: Partner
-- [[public/people/orbimed.com--tal-zaks-m-d-ph-d-bce8ee|Tal Zaks, M.D., Ph.D.]]: Partner
-- [[public/people/orbimed.com--trevor-m-polischuk-ph-d-200fee|Trevor M. Polischuk, Ph.D.]]: Partner
-- [[public/people/orbimed.com--w-carter-neild-cfa-56feb8|W. Carter Neild, CFA]]: Managing Partner
+- [C. Scotland Stevens](../people/orbimed.com--c-scotland-stevens-d8e0e8.md) - General Partner
+- [Carl L. Gordon, Ph.D., CFA](../people/orbimed.com--carl-l-gordon-ph-d-cfa-6b3c04.md) - Managing Partner
+- [David Bonita, M.D.](../people/orbimed.com--david-bonita-m-d-6592bd.md) - General Partner
+- [David Wang, M.D., Ph.D.](../people/orbimed.com--david-wang-m-d-ph-d-961ee0.md) - Partner
+- [Dina Chaya, Ph.D., CFA](../people/orbimed.com--dina-chaya-ph-d-cfa-24eb27.md) - Partner
+- [Diyong Xu](../people/orbimed.com--diyong-xu-41a922.md) - Partner
+- [Erez Chimovits](../people/orbimed.com--erez-chimovits-33f5e9.md) - Partner
+- [Evan Caplan, M.D.](../people/orbimed.com--evan-caplan-m-d-8bb5b2.md) - Partner
+- [Geoffrey C. Hsu, CFA](../people/orbimed.com--geoffrey-c-hsu-cfa-4d477a.md) - Managing Partner
+- [Joshua Golomb](../people/orbimed.com--joshua-golomb-df3721.md) - Partner
+- [Mark R. Jelley](../people/orbimed.com--mark-r-jelley-069664.md) - Partner
+- [Matthew Rizzo](../people/orbimed.com--matthew-rizzo-6f6acf.md) - General Partner
+- [Michael Eggenberg](../people/orbimed.com--michael-eggenberg-19467e.md) - Partner
+- [Mona Ashiya, Ph.D.](../people/orbimed.com--mona-ashiya-ph-d-9b6819.md) - General Partner
+- [Peter Thompson, M.D.](../people/orbimed.com--peter-thompson-m-d-5454b5.md) - General Partner
+- [Steven D. Wang, Ph.D., CFA](../people/orbimed.com--steven-d-wang-ph-d-cfa-2925f2.md) - Partner
+- [Sunny Sharma, M.D.](../people/orbimed.com--sunny-sharma-m-d-de3b8b.md) - Partner
+- [Tal Zaks, M.D., Ph.D.](../people/orbimed.com--tal-zaks-m-d-ph-d-bce8ee.md) - Partner
+- [Trevor M. Polischuk, Ph.D.](../people/orbimed.com--trevor-m-polischuk-ph-d-200fee.md) - Partner
+- [W. Carter Neild, CFA](../people/orbimed.com--w-carter-neild-cfa-56feb8.md) - Managing Partner
 
-## Sources
-
-- [Source](https://www.orbimed.com/)
-- [Source](https://www.orbimed.com/about/)
-- [Source](https://www.orbimed.com/category/orbimed-news/)
-- [Source](https://www.orbimed.com/contact-us/)
-- [Source](https://www.orbimed.com/orbimed-raises-1-86-billion-for-healthcare-royalty-credit-fund-v/)
-- [Source](https://www.orbimed.com/portfolio/)
+[^s-2867e66e]: <https://www.orbimed.com/>
+[^s-a045a56b]: <https://www.orbimed.com/about/>
+[^s-f681de66]: <https://www.orbimed.com/category/orbimed-news/>
+[^s-d8940a88]: <https://www.orbimed.com/contact-us/>
+[^s-20e89b23]: <https://www.orbimed.com/orbimed-raises-1-86-billion-for-healthcare-royalty-credit-fund-v/>
+[^s-e900ee04]: <https://www.orbimed.com/portfolio/>

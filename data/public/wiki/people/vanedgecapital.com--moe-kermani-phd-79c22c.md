@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Moe Kermani, PhD
+description: Managing Partner at Vanedge Capital.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-4525b684
+  resource: https://www.vanedgecapital.com/team/
+---
+
 # Moe Kermani, PhD
 
-[[public/firms/vanedgecapital.com|Firm profile]]
+[Firm profile](../firms/vanedgecapital.com.md)
 
-Role: Managing Partner
+Role: Managing Partner[^s-4525b684]
 
 Focus: deep tech, including next-generation computation, artificial intelligence, cybersecurity, analytics, advanced sensors, semiconductors, and quantum information systems
 
-## Public sources
-
-- [Source](https://www.vanedgecapital.com/team/)
+[^s-4525b684]: <https://www.vanedgecapital.com/team/>

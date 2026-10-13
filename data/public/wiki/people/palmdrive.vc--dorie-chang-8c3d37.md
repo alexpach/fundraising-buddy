@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Dorie Chang
+description: Operations at Palm Drive Capital.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-999f81a0
+  resource: https://palmdrive.vc/about
+---
+
 # Dorie Chang
 
-[[public/firms/palmdrive.vc|Firm profile]]
+[Firm profile](../firms/palmdrive.vc.md)
 
-Role: Operations
+Role: Operations[^s-999f81a0]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://palmdrive.vc/about)
+[^s-999f81a0]: <https://palmdrive.vc/about>

@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Gaelen Hendrickson
+description: Investor at Goodwater Capital.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-b7067e43
+  resource: https://www.goodwatercap.com/team
+---
+
 # Gaelen Hendrickson
 
-[[public/firms/goodwatercap.com|Firm profile]]
+[Firm profile](../firms/goodwatercap.com.md)
 
-Role: Investor
+Role: Investor[^s-b7067e43]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.goodwatercap.com/team)
+[^s-b7067e43]: <https://www.goodwatercap.com/team>

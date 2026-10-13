@@ -1,52 +1,65 @@
 ---
+type: Investor Firm
+title: U.S. Venture Partners
+description: venture capital; Series A, Series B; cybersecurity, enterprise software,
+  consumer, healthcare.
+resource: https://usvp.com
+tags:
+- investor-firm
+- sourced
+domain: usvp.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 77
+sources:
+- id: s-3a7ef372
+  resource: https://usvp.com/announcing-usvp-xiii
+- id: s-f0dce1fd
+  resource: https://usvp.com/home
+- id: s-c7fe0bb6
+  resource: https://www.usvp.com/
+- id: s-df0c6588
+  resource: https://www.usvp.com/about/
+- id: s-51e3bcf4
+  resource: https://www.usvp.com/announcing-usvp-xiii/
 ---
 
 # U.S. Venture Partners
 
-[Website](https://usvp.com)
-
-Domain: usvp.com
-
-Coverage: sourced
-
-Research date: 2026-10-04
-
 ## Public research
 
-- **HQ:** Menlo Park, California ([source](https://usvp.com/home), as of None)
-- **Latest fund:** USVP XIII, $400M, closed December 14, 2022 ([source](https://usvp.com/announcing-usvp-xiii), as of 2022-12)
-- **Thesis quote:** USVP focuses on early-stage start-ups that transform cybersecurity, enterprise software, consumer and healthcare. ([source](https://usvp.com/home), as of None)
-- **Type:** venture capital ([source](https://www.usvp.com/announcing-usvp-xiii/), as of 2022-12)
-- **Investment strategies:** early-stage venture investing ([source](https://www.usvp.com/announcing-usvp-xiii/), as of 2022-12)
-- **Stages:** Series A, Series B ([source](https://www.usvp.com/announcing-usvp-xiii/), as of 2022-12)
-- **Sectors:** cybersecurity, enterprise software, consumer, healthcare ([source](https://www.usvp.com/announcing-usvp-xiii/), as of 2022-12)
-- **Leads rounds:** yes ([source](https://www.usvp.com/announcing-usvp-xiii/), as of 2022-12)
+- **HQ:** Menlo Park, California (as of None)[^s-f0dce1fd]
+- **Latest fund:** USVP XIII, $400M, closed December 14, 2022 (as of 2022-12)[^s-3a7ef372]
+- **Thesis quote:** USVP focuses on early-stage start-ups that transform cybersecurity, enterprise software, consumer and healthcare. (as of None)[^s-f0dce1fd]
+- **Type:** venture capital (as of 2022-12)[^s-51e3bcf4]
+- **Investment strategies:** early-stage venture investing (as of 2022-12)[^s-51e3bcf4]
+- **Stages:** Series A, Series B (as of 2022-12)[^s-51e3bcf4]
+- **Sectors:** cybersecurity, enterprise software, consumer, healthcare (as of 2022-12)[^s-51e3bcf4]
+- **Leads rounds:** yes (as of 2022-12)[^s-51e3bcf4]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Arkose Labs | security | Not recorded | Not recorded | [Source](https://www.usvp.com/) |
-| Box | enterprise/cloud software | Not recorded | Not recorded | [Source](https://www.usvp.com/) |
-| Carlsmed | healthcare | Not recorded | Not recorded | [Source](https://www.usvp.com/) |
-| Carrot | healthcare | Not recorded | Not recorded | [Source](https://www.usvp.com/) |
-| Cato Networks | security | Not recorded | Not recorded | [Source](https://www.usvp.com/) |
-| Edgewise | healthcare | Not recorded | Not recorded | [Source](https://www.usvp.com/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Arkose Labs[^s-c7fe0bb6] | security | Not recorded | Not recorded |
+| Box[^s-c7fe0bb6] | enterprise/cloud software | Not recorded | Not recorded |
+| Carlsmed[^s-c7fe0bb6] | healthcare | Not recorded | Not recorded |
+| Carrot[^s-c7fe0bb6] | healthcare | Not recorded | Not recorded |
+| Cato Networks[^s-c7fe0bb6] | security | Not recorded | Not recorded |
+| Edgewise[^s-c7fe0bb6] | healthcare | Not recorded | Not recorded |
 
 ## People
 
-- [[public/people/usvp.com--casey-tansey-677e9b|Casey Tansey]]: General Partner
-- [[public/people/usvp.com--dafina-toncheva-40147c|Dafina Toncheva]]: General Partner
-- [[public/people/usvp.com--jacques-benkoski-0e5fc3|Jacques Benkoski]]: General Partner
-- [[public/people/usvp.com--jon-root-63c04b|Jon Root]]: General Partner
-- [[public/people/usvp.com--matt-garratt-e23804|Matt Garratt]]: General Partner
-- [[public/people/usvp.com--rick-lewis-0574b2|Rick Lewis]]: General Partner
+- [Casey Tansey](../people/usvp.com--casey-tansey-677e9b.md) - General Partner
+- [Dafina Toncheva](../people/usvp.com--dafina-toncheva-40147c.md) - General Partner
+- [Jacques Benkoski](../people/usvp.com--jacques-benkoski-0e5fc3.md) - General Partner
+- [Jon Root](../people/usvp.com--jon-root-63c04b.md) - General Partner
+- [Matt Garratt](../people/usvp.com--matt-garratt-e23804.md) - General Partner
+- [Rick Lewis](../people/usvp.com--rick-lewis-0574b2.md) - General Partner
 
-## Sources
-
-- [Source](https://usvp.com/announcing-usvp-xiii)
-- [Source](https://usvp.com/home)
-- [Source](https://www.usvp.com/)
-- [Source](https://www.usvp.com/about/)
-- [Source](https://www.usvp.com/announcing-usvp-xiii/)
+[^s-3a7ef372]: <https://usvp.com/announcing-usvp-xiii>
+[^s-f0dce1fd]: <https://usvp.com/home>
+[^s-c7fe0bb6]: <https://www.usvp.com/>
+[^s-df0c6588]: <https://www.usvp.com/about/>
+[^s-51e3bcf4]: <https://www.usvp.com/announcing-usvp-xiii/>

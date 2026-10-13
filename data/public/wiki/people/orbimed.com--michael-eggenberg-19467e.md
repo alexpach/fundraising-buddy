@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Michael Eggenberg
+description: Partner at OrbiMed.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-f88842c1
+  resource: https://www.orbimed.com/leadership/
+---
+
 # Michael Eggenberg
 
-[[public/firms/orbimed.com|Firm profile]]
+[Firm profile](../firms/orbimed.com.md)
 
-Role: Partner
+Role: Partner[^s-f88842c1]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.orbimed.com/leadership/)
+[^s-f88842c1]: <https://www.orbimed.com/leadership/>

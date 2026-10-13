@@ -1,37 +1,42 @@
 ---
+type: Investor Firm
+title: ABB Robotics
+description: cvc; seed, growth; robotics, industrial-automation, ai.
+resource: https://www.abb.com/global/en/company/ventures
+tags:
+- investor-firm
+- directory
+domain: abb.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 25
+status: draft
+sources:
+- id: s-eaceb8ca
+  resource: https://www.abb.com/global/en/company/ventures
 ---
 
 # ABB Robotics
-
-[Website](https://www.abb.com/global/en/company/ventures)
-
-Domain: abb.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://www.abb.com/global/en/company/ventures), as of 2026-08-07)
-- **Stages:** seed, growth ([source](https://www.abb.com/global/en/company/ventures), as of 2026-08-07)
-- **Geographies:** global ([source](https://www.abb.com/global/en/company/ventures), as of 2026-08-07)
-- **Sectors:** robotics, industrial-automation, ai ([source](https://www.abb.com/global/en/company/ventures), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.abb.com/global/en/company/ventures), as of not recorded)
+- **Type:** cvc (as of 2026-08-07)[^s-eaceb8ca]
+- **Stages:** seed, growth (as of 2026-08-07)[^s-eaceb8ca]
+- **Geographies:** global (as of 2026-08-07)[^s-eaceb8ca]
+- **Sectors:** robotics, industrial-automation, ai (as of 2026-08-07)[^s-eaceb8ca]
+- **Leads rounds:** unknown[^s-eaceb8ca]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| MESH AG | Not recorded | Not recorded | Not recorded | [Source](https://www.abb.com/global/en/company/ventures) |
-| LandingAI | Not recorded | Not recorded | Not recorded | [Source](https://www.abb.com/global/en/company/ventures) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| MESH AG[^s-eaceb8ca] | Not recorded | Not recorded | Not recorded |
+| LandingAI[^s-eaceb8ca] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.abb.com/global/en/company/ventures)
+[^s-eaceb8ca]: <https://www.abb.com/global/en/company/ventures>

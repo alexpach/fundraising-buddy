@@ -1,37 +1,46 @@
 ---
+type: Investor Firm
+title: Alnylam Pharmaceuticals, Inc.
+description: biopharmaceutical operating company; biopharmaceuticals, RNA interference
+  therapeutics.
+resource: https://www.alnylam.com
+tags:
+- investor-firm
+- directory
+domain: alnylam.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 37
+status: draft
+sources:
+- id: s-dafb9b98
+  resource: https://www.alnylam.com
+- id: s-4f5bf902
+  resource: https://www.sec.gov/Archives/edgar/data/1178670/000162828026007497/alny-20251231.htm
 ---
 
 # Alnylam Pharmaceuticals, Inc.
-
-[Website](https://www.alnylam.com)
-
-Domain: alnylam.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** us ([source](https://www.alnylam.com), as of 2026-08-06)
-- **Type:** biopharmaceutical operating company ([source](https://www.sec.gov/Archives/edgar/data/1178670/000162828026007497/alny-20251231.htm), as of 2025-12-31)
-- **Investment strategies:** research, development and commercialization of RNAi therapeutics ([source](https://www.sec.gov/Archives/edgar/data/1178670/000162828026007497/alny-20251231.htm), as of 2025-12-31)
-- **Legal structure:** Delaware corporation ([source](https://www.sec.gov/Archives/edgar/data/1178670/000162828026007497/alny-20251231.htm), as of 2025-12-31)
-- **Sectors:** biopharmaceuticals, RNA interference therapeutics ([source](https://www.sec.gov/Archives/edgar/data/1178670/000162828026007497/alny-20251231.htm), as of 2025-12-31)
+- **Geographies:** us (as of 2026-08-06)[^s-dafb9b98]
+- **Type:** biopharmaceutical operating company (as of 2025-12-31)[^s-4f5bf902]
+- **Investment strategies:** research, development and commercialization of RNAi therapeutics (as of 2025-12-31)[^s-4f5bf902]
+- **Legal structure:** Delaware corporation (as of 2025-12-31)[^s-4f5bf902]
+- **Sectors:** biopharmaceuticals, RNA interference therapeutics (as of 2025-12-31)[^s-4f5bf902]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| No investment portfolio | Not recorded | Not recorded | Not recorded | [Source](https://www.alnylam.com) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| No investment portfolio[^s-dafb9b98] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.alnylam.com)
-- [Source](https://www.sec.gov/Archives/edgar/data/1178670/000162828026007497/alny-20251231.htm)
+[^s-dafb9b98]: <https://www.alnylam.com>
+[^s-4f5bf902]: <https://www.sec.gov/Archives/edgar/data/1178670/000162828026007497/alny-20251231.htm>

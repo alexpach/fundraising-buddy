@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Clarisse Lam
+description: Investment Manager at TX Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-be89336d
+  resource: https://www.tx.ventures/team
+---
+
 # Clarisse Lam
 
-[[public/firms/tx.ventures|Firm profile]]
+[Firm profile](../firms/tx.ventures.md)
 
-Role: Investment Manager
+Role: Investment Manager[^s-be89336d]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.tx.ventures/team)
+[^s-be89336d]: <https://www.tx.ventures/team>

@@ -1,34 +1,42 @@
 ---
+type: Investor Firm
+title: Sika AG
+description: operating company.
+resource: https://www.sika.com/
+tags:
+- investor-firm
+- directory
+domain: sika.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 19
+status: draft
+sources:
+- id: s-6da05f3c
+  resource: https://www.sika.com/
+- id: s-bf66583e
+  resource: https://www.sika.com/en/about-us.html
 ---
 
 # Sika AG
-
-[Website](https://www.sika.com/)
-
-Domain: sika.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** global ([source](https://www.sika.com/), as of 2026-08-07)
-- **Type:** operating company ([source](https://www.sika.com/), as of not recorded)
+- **Geographies:** global (as of 2026-08-07)[^s-6da05f3c]
+- **Type:** operating company[^s-6da05f3c]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| MESH AG | Not recorded | Not recorded | Not recorded | [Source](https://www.sika.com/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| MESH AG[^s-6da05f3c] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.sika.com/)
-- [Source](https://www.sika.com/en/about-us.html)
+[^s-6da05f3c]: <https://www.sika.com/>
+[^s-bf66583e]: <https://www.sika.com/en/about-us.html>

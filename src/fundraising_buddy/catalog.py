@@ -2,11 +2,14 @@
 from __future__ import annotations
 
 import csv
+import hashlib
 import io
 import json
 import re
 from pathlib import Path
 from urllib.parse import urlsplit
+
+import yaml
 
 EMAIL = re.compile(r"[\w.!#$%&'*+/=?^`{|}~-]+@[\w.-]+\.[a-zA-Z]{2,}")
 SHARED_DOMAINS = {"gmail.com", "googlemail.com", "outlook.com", "hotmail.com", "live.com",
@@ -123,7 +126,8 @@ def validate(data: dict) -> list[str]:
                             errors.append(f"{ident}: portfolio entry missing company")
                         if not public_url(p["url"]):
                             errors.append(f"{ident}: portfolio entry missing valid source url")
-            elif item["firm_id"] not in firm_ids or (item["profile"] and not public_url(item["profile"])):
+            elif ((item["firm_id"] and item["firm_id"] not in firm_ids)
+                  or (item["profile"] and not public_url(item["profile"]))):
                 errors.append(f"{ident}: missing firm or invalid profile")
     return errors
 
@@ -141,47 +145,96 @@ def md_text(value) -> str:
     return text.replace("\n", " ").replace("|", "\\|").replace("<", "&lt;").replace(">", "&gt;")
 
 
+OKF_ACTOR = "fundraising-buddy/catalog"  # OKF actor convention: <producer>/<version>
+
+
+def _okf_page(meta: dict, body: list[str], sources: list[str], cited: dict[str, str]) -> str:
+    """Render one Open Knowledge Format v0.2 concept: YAML frontmatter, body, keyed footnotes."""
+    urls = list(dict.fromkeys(sources + list(cited)))
+    meta["sources"] = [{"id": source_id(u), "resource": u} for u in urls]
+    lines = [*body, ""] + [f"[^{source_id(u)}]: <{u}>" for u in urls]
+    return "---\n" + yaml.safe_dump(meta, sort_keys=False, allow_unicode=True) + "---\n\n" + "\n".join(lines) + "\n"
+
+
+def source_id(url: str) -> str:
+    # Keyed, not positional, so footnotes survive source reordering (OKF 5.1).
+    return "s-" + hashlib.sha1(url.encode()).hexdigest()[:8]
+
+
+def _generated(researched_at: str) -> dict:
+    return {"by": OKF_ACTOR, **({"at": researched_at + "T00:00:00Z"} if researched_at else {})}
+
+
+def _firm_description(f: dict) -> str:
+    parts = [md_text(f["fields"][k]) for k in ("type", "stages", "sectors") if f["fields"].get(k)]
+    return ("; ".join(parts) if parts else f"Public investor profile for {f['name']}").rstrip(".") + "."
+
+
 def public_pages(data: dict) -> dict[str, str]:
     pages = {}
     for f in data["firms"]:
-        lines = [f"{k}: {v}" for k, v in sorted((f.get("scores") or {}).items())]
-        lines = ["---", *lines, "---", ""] if lines else []
-        lines += [f"# {md_text(f['name'])}", "", f"[Website]({f['website']})", "",
-                 f"Domain: {f['domain']}", "", f"Coverage: {f['record_level']}", "",
-                 "Research date: " + (f["researched_at"] or "Not recorded"), "",
-                 "## Public research", ""]
+        meta = {"type": "Investor Firm", "title": f["name"], "description": _firm_description(f), "resource": f["website"],
+                "tags": ["investor-firm", f["record_level"]], "domain": f["domain"],
+                "generated": _generated(f["researched_at"]), **(f.get("scores") or {})}
+        if not f["fields"] or f["record_level"] == "directory":
+            meta["status"] = "draft"
+        lines = [f"# {md_text(f['name'])}", "", "## Public research", ""]
         if not f["fields"]:
             lines += ["Directory seed only. Confirm identity and research fit before outreach.", ""]
         elif f["record_level"] == "directory":
             lines += ["Directory seed with curated tags carried over from a legacy list; not independently sourced. "
                       "Confirm identity and research fit before outreach.", ""]
+        cited = {}
         for key, value in f["fields"].items():
             ev = f["evidence"][key]
+            cited[ev["url"]] = ""
             field_label = {"aum": "AUM", "lps": "LPs", "hq": "HQ"}.get(key, key.replace('_', ' ').capitalize())
-            lines += [f"- **{field_label}:** {md_text(value)} ([source]({ev['url']}), as of {md_text(ev['as_of'] or 'not recorded')})"]
+            as_of = f" (as of {md_text(ev['as_of'])})" if ev["as_of"] else ""
+            lines += [f"- **{field_label}:** {md_text(value)}{as_of}[^{source_id(ev['url'])}]"]
         lines += ["", "## Portfolio", ""]
         if not f["portfolio"]:
             lines += ["Not recorded.", ""]
         else:
-            lines += ["| Company | Sector | Round | Date | Source |", "| --- | --- | --- | --- | --- |"]
+            lines += ["| Company | Sector | Round | Date |", "| --- | --- | --- | --- |"]
             for p in f["portfolio"]:
-                source = f"[Source]({p['url']})" if p["url"] else "Not recorded"
-                lines += [f"| {md_text(p['company'])} | {md_text(p['sector'] or 'Not recorded')} | {md_text(p['round'] or 'Not recorded')} | {md_text(p['date'] or 'Not recorded')} | {source} |"]
+                ref = ""
+                if p["url"]:
+                    cited[p["url"]] = ""
+                    ref = f"[^{source_id(p['url'])}]"
+                lines += [f"| {md_text(p['company'])}{ref} | {md_text(p['sector'] or 'Not recorded')} | {md_text(p['round'] or 'Not recorded')} | {md_text(p['date'] or 'Not recorded')} |"]
             lines += [""]
         lines += ["## People", ""]
-        for p in data["people"]:
-            if p["firm_id"] == f["id"]:
-                lines += [f"- [[public/people/{p['id']}|{md_text(p['name'])}]]: {md_text(p['title'])}"]
-        lines += ["", "## Sources", ""] + [f"- [Source]({s})" for s in f["sources"]]
-        pages[f"firms/{f['id']}"] = "\n".join(lines) + "\n"
+        lines += [f"- [{md_text(p['name'])}](../people/{p['id']}.md) - {md_text(p['title'])}"
+                  for p in data["people"] if p["firm_id"] == f["id"]] or ["Not recorded."]
+        pages[f"firms/{f['id']}"] = _okf_page(meta, lines, f["sources"], cited)
+    firm_names = {f["id"]: f["name"] for f in data["firms"]}
     for p in data["people"]:
-        lines = [f"# {md_text(p['name'])}", "", f"[[public/firms/{p['firm_id']}|Firm profile]]", "",
-                 f"Role: {md_text(p['title'])}", "", f"Focus: {md_text(p['focus'] or 'Not recorded')}", "", "## Public sources", ""]
-        if p["profile"]:
-            lines += [f"[Public profile]({p['profile']})", ""]
-        lines += [f"- [Source]({s})" for s in p["sources"]]
-        pages[f"people/{p['id']}"] = "\n".join(lines) + "\n"
+        firm = firm_names.get(p["firm_id"], "")
+        meta = {"type": "Investor", "title": p["name"],
+                "description": (f"{p['title'] or 'Investor'}" + (f" at {firm}" if firm else ", independent")).rstrip(".") + ".",
+                **({"resource": p["profile"]} if p["profile"] else {}),
+                "tags": ["investor-person"], "generated": _generated(p["researched_at"])}
+        association = (f"[Firm profile](../firms/{p['firm_id']}.md)" if p["firm_id"] else "Independent investor")
+        sources = ([p["profile"]] if p["profile"] else []) + p["sources"]
+        refs = "".join(f"[^{source_id(u)}]" for u in dict.fromkeys(sources))
+        lines = [f"# {md_text(p['name'])}", "", association, "",
+                 f"Role: {md_text(p['title'])}{refs}", "", f"Focus: {md_text(p['focus'] or 'Not recorded')}"]
+        pages[f"people/{p['id']}"] = _okf_page(meta, lines, sources, {})
     return pages
+
+
+def okf_indexes(pages: dict[str, str]) -> dict[str, str]:
+    """OKF index.md files (section 8): bundle root declares okf_version; directories list concepts."""
+    result = {"index.md": '---\nokf_version: "0.2"\n---\n\n# Public investor research\n\n'
+              "* [Firms](firms/) - investor firms with sourced public research\n"
+              "* [People](people/) - public investor team members and independent investors\n"}
+    for folder, heading in (("firms", "Investor firms"), ("people", "Investors")):
+        entries = []
+        for key in sorted(k for k in pages if k.startswith(folder + "/")):
+            meta = yaml.safe_load(pages[key].split("\n---\n", 1)[0][4:])
+            entries.append(f"* [{md_text(meta['title'])}]({key.split('/', 1)[1]}.md) - {meta['description']}")
+        result[f"{folder}/index.md"] = f"# {heading}\n\n" + "\n".join(entries) + "\n"
+    return result
 
 
 def _safe_cell(value) -> str:
@@ -208,7 +261,9 @@ def artifacts(data: dict) -> dict[str, str]:
         for p in f["portfolio"]:
             writer.writerow({k: _safe_cell(v) for k, v in {**p, "firm_id": f["id"]}.items() if k in portfolio_keys})
     result["portfolio.csv"] = stream.getvalue()
-    result.update({"wiki/" + name + ".md": body for name, body in public_pages(data).items()})
+    pages = public_pages(data)
+    result.update({"wiki/" + name + ".md": body for name, body in pages.items()})
+    result.update({"wiki/" + name: body for name, body in okf_indexes(pages).items()})
     return result
 
 

@@ -1,24 +1,30 @@
 ---
+type: Investor Firm
+title: Humba Ventures
+description: vc; robotics, hardware, physical-ai.
+resource: https://humba.vc
+tags:
+- investor-firm
+- directory
+domain: humba.vc
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 12
+status: draft
+sources:
+- id: s-91e9904f
+  resource: https://humba.vc
 ---
 
 # Humba Ventures
-
-[Website](https://humba.vc)
-
-Domain: humba.vc
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://humba.vc), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://humba.vc), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://humba.vc), as of not recorded)
+- **Type:** vc (as of 2026-04-24)[^s-91e9904f]
+- **Sectors:** robotics, hardware, physical-ai (as of 2026-04-24)[^s-91e9904f]
+- **Leads rounds:** unknown[^s-91e9904f]
 
 ## Portfolio
 
@@ -26,7 +32,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://humba.vc)
+[^s-91e9904f]: <https://humba.vc>

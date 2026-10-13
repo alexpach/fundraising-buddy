@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Wolfgang Ungerer
+description: Venture Partner at Evercurious VC.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-41740c3a
+  resource: https://www.evercurious.vc/team
+---
+
 # Wolfgang Ungerer
 
-[[public/firms/evercurious.vc|Firm profile]]
+[Firm profile](../firms/evercurious.vc.md)
 
-Role: Venture Partner
+Role: Venture Partner[^s-41740c3a]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.evercurious.vc/team)
+[^s-41740c3a]: <https://www.evercurious.vc/team>

@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Grant Leslie
+description: Operating Partner, Government & Policy at S2G Investments.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-9408691c
+  resource: https://s2ginvestments.com/team
+---
+
 # Grant Leslie
 
-[[public/firms/s2ginvestments.com|Firm profile]]
+[Firm profile](../firms/s2ginvestments.com.md)
 
-Role: Operating Partner, Government & Policy
+Role: Operating Partner, Government & Policy[^s-9408691c]
 
 Focus: Strategy
 
-## Public sources
-
-- [Source](https://s2ginvestments.com/team)
+[^s-9408691c]: <https://s2ginvestments.com/team>

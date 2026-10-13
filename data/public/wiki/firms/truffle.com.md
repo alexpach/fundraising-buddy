@@ -1,26 +1,39 @@
 ---
+type: Investor Firm
+title: Truffle Capital
+description: venture capital; MedTech, Biotech, Fintech, Insurtech.
+resource: https://truffle.com
+tags:
+- investor-firm
+- directory
+domain: truffle.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 23
+status: draft
+sources:
+- id: s-b50d1788
+  resource: https://truffle.com
+- id: s-8cae5a15
+  resource: https://www.truffle.com/
+- id: s-378dea6d
+  resource: https://www.truffle.com/fintech/about
+- id: s-05247045
+  resource: https://www.truffle.com/news/truffle-capital-leads-wyden-s-series-b-funding-round
 ---
 
 # Truffle Capital
-
-[Website](https://truffle.com)
-
-Domain: truffle.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** venture capital ([source](https://www.truffle.com/), as of not recorded)
-- **Investment strategies:** company creation ([source](https://www.truffle.com/), as of not recorded)
-- **Sectors:** MedTech, Biotech, Fintech, Insurtech ([source](https://www.truffle.com/), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.truffle.com/), as of not recorded)
-- **AUM:** EUR 500 million (date not reported) ([source](https://www.truffle.com/), as of not recorded)
+- **Type:** venture capital[^s-8cae5a15]
+- **Investment strategies:** company creation[^s-8cae5a15]
+- **Sectors:** MedTech, Biotech, Fintech, Insurtech[^s-8cae5a15]
+- **Leads rounds:** yes[^s-8cae5a15]
+- **AUM:** EUR 500 million (date not reported)[^s-8cae5a15]
 
 ## Portfolio
 
@@ -28,10 +41,9 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://truffle.com)
-- [Source](https://www.truffle.com/)
-- [Source](https://www.truffle.com/fintech/about)
-- [Source](https://www.truffle.com/news/truffle-capital-leads-wyden-s-series-b-funding-round)
+[^s-b50d1788]: <https://truffle.com>
+[^s-8cae5a15]: <https://www.truffle.com/>
+[^s-378dea6d]: <https://www.truffle.com/fintech/about>
+[^s-05247045]: <https://www.truffle.com/news/truffle-capital-leads-wyden-s-series-b-funding-round>

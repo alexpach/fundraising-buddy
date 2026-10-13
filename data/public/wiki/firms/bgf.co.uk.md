@@ -1,51 +1,66 @@
 ---
+type: Investor Firm
+title: BGF
+description: growth capital investor; venture capital; late seed, series B, growth;
+  Deep tech, Life sciences, Healthcare, Climate & Sustainability, Technology, Manufacturing.
+resource: https://www.bgf.co.uk/
+tags:
+- investor-firm
+- directory
+domain: bgf.co.uk
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 68
+status: draft
+sources:
+- id: s-8a9f848c
+  resource: https://www.bgf.co.uk/
+- id: s-dab29fa8
+  resource: https://www.bgf.co.uk/early-stage/
+- id: s-eb8056f0
+  resource: https://www.bgf.co.uk/growth-stage/
+- id: s-9d02fc7b
+  resource: https://www.bgf.co.uk/newsroom/
+- id: s-523a19c6
+  resource: https://www.crunchbase.com/organization/business-growth-fund
 ---
 
 # BGF
-
-[Website](https://www.bgf.co.uk/)
-
-Domain: bgf.co.uk
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe ([source](https://www.crunchbase.com/organization/business-growth-fund), as of 2026-08-06)
-- **Check size min:** 3M ([source](https://www.crunchbase.com/organization/business-growth-fund), as of 2026-08-06)
-- **Check size max:** 30M ([source](https://www.crunchbase.com/organization/business-growth-fund), as of 2026-08-06)
-- **About:** BGF (Business Growth Fund) is the UK and Ireland's most active growth-capital investor, founded in 2011 and backed by Barclays, HSBC, Lloyds, RBS, and Standard Chartered. It takes minority-only, patient-capital stakes of £3–30M (£3–10M at earlier stages) and has deployed over £4.5B into 600+ companies since inception, spanning every major sector rather than a specific vertical ([source](https://www.crunchbase.com/organization/business-growth-fund), as of 2026-08-06)
-- **Type:** growth capital investor; venture capital ([source](https://www.bgf.co.uk/), as of not recorded)
-- **Investment strategies:** growth capital, early-stage venture capital ([source](https://www.bgf.co.uk/), as of not recorded)
-- **Legal structure:** evergreen fund structure ([source](https://www.bgf.co.uk/), as of not recorded)
-- **Investment instruments:** equity, debt ([source](https://www.bgf.co.uk/), as of not recorded)
-- **Stages:** late seed, series B, growth ([source](https://www.bgf.co.uk/early-stage/), as of not recorded)
-- **Sectors:** Deep tech, Life sciences, Healthcare, Climate & Sustainability, Technology, Manufacturing ([source](https://www.bgf.co.uk/early-stage/), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.bgf.co.uk/newsroom/), as of 2026-07-07)
+- **Geographies:** europe (as of 2026-08-06)[^s-523a19c6]
+- **Check size min:** 3M (as of 2026-08-06)[^s-523a19c6]
+- **Check size max:** 30M (as of 2026-08-06)[^s-523a19c6]
+- **About:** BGF (Business Growth Fund) is the UK and Ireland's most active growth-capital investor, founded in 2011 and backed by Barclays, HSBC, Lloyds, RBS, and Standard Chartered. It takes minority-only, patient-capital stakes of £3–30M (£3–10M at earlier stages) and has deployed over £4.5B into 600+ companies since inception, spanning every major sector rather than a specific vertical (as of 2026-08-06)[^s-523a19c6]
+- **Type:** growth capital investor; venture capital[^s-8a9f848c]
+- **Investment strategies:** growth capital, early-stage venture capital[^s-8a9f848c]
+- **Legal structure:** evergreen fund structure[^s-8a9f848c]
+- **Investment instruments:** equity, debt[^s-8a9f848c]
+- **Stages:** late seed, series B, growth[^s-dab29fa8]
+- **Sectors:** Deep tech, Life sciences, Healthcare, Climate & Sustainability, Technology, Manufacturing[^s-dab29fa8]
+- **Leads rounds:** yes (as of 2026-07-07)[^s-9d02fc7b]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| GoCardless | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/business-growth-fund) |
-| OrganOx | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/business-growth-fund) |
-| Gousto | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/business-growth-fund) |
-| TidalSense | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/business-growth-fund) |
-| Sulmara | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/business-growth-fund) |
-| Christopher Ward | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/business-growth-fund) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| GoCardless[^s-523a19c6] | Not recorded | Not recorded | Not recorded |
+| OrganOx[^s-523a19c6] | Not recorded | Not recorded | Not recorded |
+| Gousto[^s-523a19c6] | Not recorded | Not recorded | Not recorded |
+| TidalSense[^s-523a19c6] | Not recorded | Not recorded | Not recorded |
+| Sulmara[^s-523a19c6] | Not recorded | Not recorded | Not recorded |
+| Christopher Ward[^s-523a19c6] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.bgf.co.uk/)
-- [Source](https://www.bgf.co.uk/early-stage/)
-- [Source](https://www.bgf.co.uk/growth-stage/)
-- [Source](https://www.bgf.co.uk/newsroom/)
-- [Source](https://www.crunchbase.com/organization/business-growth-fund)
+[^s-8a9f848c]: <https://www.bgf.co.uk/>
+[^s-dab29fa8]: <https://www.bgf.co.uk/early-stage/>
+[^s-eb8056f0]: <https://www.bgf.co.uk/growth-stage/>
+[^s-9d02fc7b]: <https://www.bgf.co.uk/newsroom/>
+[^s-523a19c6]: <https://www.crunchbase.com/organization/business-growth-fund>

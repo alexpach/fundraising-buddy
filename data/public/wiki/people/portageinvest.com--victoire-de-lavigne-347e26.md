@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Victoire de Lavigne
+description: Principal, Portage Ventures at Portage Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-4b6cdfcf
+  resource: https://portageinvest.com/team
+---
+
 # Victoire de Lavigne
 
-[[public/firms/portageinvest.com|Firm profile]]
+[Firm profile](../firms/portageinvest.com.md)
 
-Role: Principal, Portage Ventures
+Role: Principal, Portage Ventures[^s-4b6cdfcf]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://portageinvest.com/team)
+[^s-4b6cdfcf]: <https://portageinvest.com/team>

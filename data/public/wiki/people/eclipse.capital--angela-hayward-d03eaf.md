@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Angela Hayward
+description: Partner and Head of Strategy at Eclipse.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-02T00:00:00Z'
+sources:
+- id: s-b4893d12
+  resource: https://eclipse.capital/team
+---
+
 # Angela Hayward
 
-[[public/firms/eclipse.capital|Firm profile]]
+[Firm profile](../firms/eclipse.capital.md)
 
-Role: Partner and Head of Strategy
+Role: Partner and Head of Strategy[^s-b4893d12]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://eclipse.capital/team)
+[^s-b4893d12]: <https://eclipse.capital/team>

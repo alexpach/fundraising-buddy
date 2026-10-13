@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Ken Chenault
+description: Chairman & Managing Director at General Catalyst.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
+sources:
+- id: s-7a293182
+  resource: https://www.generalcatalyst.com/team/ken-chenault
+---
+
 # Ken Chenault
 
-[[public/firms/generalcatalyst.com|Firm profile]]
+[Firm profile](../firms/generalcatalyst.com.md)
 
-Role: Chairman & Managing Director
+Role: Chairman & Managing Director[^s-7a293182]
 
 Focus: Consumer, Enterprise, Fintech
 
-## Public sources
-
-- [Source](https://www.generalcatalyst.com/team/ken-chenault)
+[^s-7a293182]: <https://www.generalcatalyst.com/team/ken-chenault>

@@ -1,58 +1,74 @@
 ---
+type: Investor Firm
+title: Alumni Ventures
+description: venture capital; pre-seed, seed, early, growth, pre-IPO.
+resource: https://av.vc
+tags:
+- investor-firm
+- sourced
+domain: av.vc
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 60
+sources:
+- id: s-633e7b22
+  resource: https://av.vc
+- id: s-bd71d71b
+  resource: https://av.vc/Womens
+- id: s-a5b8079b
+  resource: https://av.vc/investors
+- id: s-3335844e
+  resource: https://www.av.vc/blog/vc-101-the-stages-of-investing
+- id: s-2d208dea
+  resource: https://www.av.vc/faq
+- id: s-d0c596e3
+  resource: https://www.av.vc/for-founders
+- id: s-404f4d17
+  resource: https://www.av.vc/portfolio
 ---
 
 # Alumni Ventures
 
-[Website](https://av.vc)
-
-Domain: av.vc
-
-Coverage: sourced
-
-Research date: 2026-10-03
-
 ## Public research
 
-- **HQ:** Manchester NH ([source](https://av.vc/investors), as of None)
-- **Founded:** 2014 ([source](https://av.vc/investors), as of None)
-- **Offices:** New York, Boston, Menlo Park, Chicago, London, Tokyo, Manchester NH ([source](https://av.vc/investors), as of None)
-- **Thesis quote:** We back bold innovation and believe that venture is for more than just institutions ([source](https://av.vc/investors), as of None)
-- **LPs:** Accredited individual investors and syndicate members (25,000) ([source](https://av.vc/investors), as of None)
-- **Coinvestors:** Andreessen Horowitz, Sequoia, Bessemer, Y Combinator, Founders Fund, Kleiner Perkins, Khosla Ventures ([source](https://av.vc/Womens), as of None)
-- **Type:** venture capital ([source](https://www.av.vc/faq), as of not recorded)
-- **Investment strategies:** co-investing, diversified venture portfolios ([source](https://www.av.vc/faq), as of not recorded)
-- **Stages:** pre-seed, seed, early, growth, pre-IPO ([source](https://www.av.vc/faq), as of not recorded)
-- **Leads rounds:** no ([source](https://www.av.vc/for-founders), as of not recorded)
+- **HQ:** Manchester NH (as of None)[^s-a5b8079b]
+- **Founded:** 2014 (as of None)[^s-a5b8079b]
+- **Offices:** New York, Boston, Menlo Park, Chicago, London, Tokyo, Manchester NH (as of None)[^s-a5b8079b]
+- **Thesis quote:** We back bold innovation and believe that venture is for more than just institutions (as of None)[^s-a5b8079b]
+- **LPs:** Accredited individual investors and syndicate members (25,000) (as of None)[^s-a5b8079b]
+- **Coinvestors:** Andreessen Horowitz, Sequoia, Bessemer, Y Combinator, Founders Fund, Kleiner Perkins, Khosla Ventures (as of None)[^s-bd71d71b]
+- **Type:** venture capital[^s-2d208dea]
+- **Investment strategies:** co-investing, diversified venture portfolios[^s-2d208dea]
+- **Stages:** pre-seed, seed, early, growth, pre-IPO[^s-2d208dea]
+- **Leads rounds:** no[^s-d0c596e3]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Groq | AI-Native Infrastructure | Not recorded | Not recorded | [Source](https://av.vc/investors) |
-| Lambda | AI-Native Infrastructure | Not recorded | Not recorded | [Source](https://av.vc/investors) |
-| Enfabrica | AI-Native Infrastructure | Not recorded | Not recorded | [Source](https://av.vc/investors) |
-| Turing | AI Infrastructure and Services | Not recorded | Not recorded | [Source](https://av.vc/investors) |
-| Ceramic AI | AI Infrastructure and Services | Not recorded | Not recorded | [Source](https://av.vc/investors) |
-| Rigetti | AI Compute & Frontier Infrastructure | Not recorded | Not recorded | [Source](https://av.vc/investors) |
-| Sahara AI | Decentralized AI & Data Infrastructure | Not recorded | Not recorded | [Source](https://av.vc/investors) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Groq[^s-a5b8079b] | AI-Native Infrastructure | Not recorded | Not recorded |
+| Lambda[^s-a5b8079b] | AI-Native Infrastructure | Not recorded | Not recorded |
+| Enfabrica[^s-a5b8079b] | AI-Native Infrastructure | Not recorded | Not recorded |
+| Turing[^s-a5b8079b] | AI Infrastructure and Services | Not recorded | Not recorded |
+| Ceramic AI[^s-a5b8079b] | AI Infrastructure and Services | Not recorded | Not recorded |
+| Rigetti[^s-a5b8079b] | AI Compute & Frontier Infrastructure | Not recorded | Not recorded |
+| Sahara AI[^s-a5b8079b] | Decentralized AI & Data Infrastructure | Not recorded | Not recorded |
 
 ## People
 
-- [[public/people/av.vc--brian-keil-ad8db6|Brian Keil]]: Managing Partner
-- [[public/people/av.vc--jack-statza-fdcdf6|Jack Statza]]: Senior Principal
-- [[public/people/av.vc--laura-bordewieck-rippy-3166b6|Laura Bordewieck Rippy]]: Managing Partner
-- [[public/people/av.vc--meera-oak-083384|Meera Oak]]: Senior Principal
-- [[public/people/av.vc--ray-wu-05122f|Ray Wu]]: Managing Partner
-- [[public/people/av.vc--sophia-zhao-d58b20|Sophia Zhao]]: Senior Principal
-- [[public/people/av.vc--stacey-tsai-771093|Stacey Tsai]]: Senior Partner
+- [Brian Keil](../people/av.vc--brian-keil-ad8db6.md) - Managing Partner
+- [Jack Statza](../people/av.vc--jack-statza-fdcdf6.md) - Senior Principal
+- [Laura Bordewieck Rippy](../people/av.vc--laura-bordewieck-rippy-3166b6.md) - Managing Partner
+- [Meera Oak](../people/av.vc--meera-oak-083384.md) - Senior Principal
+- [Ray Wu](../people/av.vc--ray-wu-05122f.md) - Managing Partner
+- [Sophia Zhao](../people/av.vc--sophia-zhao-d58b20.md) - Senior Principal
+- [Stacey Tsai](../people/av.vc--stacey-tsai-771093.md) - Senior Partner
 
-## Sources
-
-- [Source](https://av.vc)
-- [Source](https://av.vc/Womens)
-- [Source](https://av.vc/investors)
-- [Source](https://www.av.vc/blog/vc-101-the-stages-of-investing)
-- [Source](https://www.av.vc/faq)
-- [Source](https://www.av.vc/for-founders)
-- [Source](https://www.av.vc/portfolio)
+[^s-633e7b22]: <https://av.vc>
+[^s-bd71d71b]: <https://av.vc/Womens>
+[^s-a5b8079b]: <https://av.vc/investors>
+[^s-3335844e]: <https://www.av.vc/blog/vc-101-the-stages-of-investing>
+[^s-2d208dea]: <https://www.av.vc/faq>
+[^s-d0c596e3]: <https://www.av.vc/for-founders>
+[^s-404f4d17]: <https://www.av.vc/portfolio>

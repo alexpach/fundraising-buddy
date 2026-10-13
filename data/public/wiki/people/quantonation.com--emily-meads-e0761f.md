@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Emily Meads
+description: Principal at Quantonation.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-eb6b12d7
+  resource: https://quantonation.com/team
+---
+
 # Emily Meads
 
-[[public/firms/quantonation.com|Firm profile]]
+[Firm profile](../firms/quantonation.com.md)
 
-Role: Principal
+Role: Principal[^s-eb6b12d7]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://quantonation.com/team)
+[^s-eb6b12d7]: <https://quantonation.com/team>

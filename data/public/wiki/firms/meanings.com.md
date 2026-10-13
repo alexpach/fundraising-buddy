@@ -1,47 +1,58 @@
 ---
+type: Investor Firm
+title: Meanings Capital Partners
+description: private equity; infrastructure investment; real estate investment; growth;
+  Private equity, Infrastructure, Real estate.
+resource: https://www.meanings.com
+tags:
+- investor-firm
+- directory
+domain: meanings.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 35
+status: draft
+sources:
+- id: s-8981ce27
+  resource: https://www.meanings.com
+- id: s-0e0f0c13
+  resource: https://www.meanings.com/
+- id: s-c51311c5
+  resource: https://www.meanings.com/expertises/mid-cap
 ---
 
 # Meanings Capital Partners
-
-[Website](https://www.meanings.com)
-
-Domain: meanings.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe ([source](https://www.meanings.com), as of 2026-08-07)
-- **Type:** private equity; infrastructure investment; real estate investment ([source](https://www.meanings.com/), as of not recorded)
-- **Investment strategies:** growth and transformation investing, mid-cap private equity ([source](https://www.meanings.com/), as of not recorded)
-- **Legal structure:** investment management company ([source](https://www.meanings.com/), as of not recorded)
-- **Investment instruments:** equity ([source](https://www.meanings.com/), as of not recorded)
-- **Stages:** growth ([source](https://www.meanings.com/expertises/mid-cap), as of not recorded)
-- **Sectors:** Private equity, Infrastructure, Real estate ([source](https://www.meanings.com/), as of not recorded)
+- **Geographies:** europe (as of 2026-08-07)[^s-8981ce27]
+- **Type:** private equity; infrastructure investment; real estate investment[^s-0e0f0c13]
+- **Investment strategies:** growth and transformation investing, mid-cap private equity[^s-0e0f0c13]
+- **Legal structure:** investment management company[^s-0e0f0c13]
+- **Investment instruments:** equity[^s-0e0f0c13]
+- **Stages:** growth[^s-c51311c5]
+- **Sectors:** Private equity, Infrastructure, Real estate[^s-0e0f0c13]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Instant System | Not recorded | Not recorded | Not recorded | [Source](https://www.meanings.com) |
-| Sterimed | Not recorded | Not recorded | Not recorded | [Source](https://www.meanings.com) |
-| Moulinot | Not recorded | Not recorded | Not recorded | [Source](https://www.meanings.com) |
-| Metagram | Not recorded | Not recorded | Not recorded | [Source](https://www.meanings.com) |
-| Synolia | Not recorded | Not recorded | Not recorded | [Source](https://www.meanings.com) |
-| ID Systèmes | Not recorded | Not recorded | Not recorded | [Source](https://www.meanings.com) |
-| Airon | Not recorded | Not recorded | Not recorded | [Source](https://www.meanings.com) |
-| Jems | Not recorded | Not recorded | Not recorded | [Source](https://www.meanings.com) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Instant System[^s-8981ce27] | Not recorded | Not recorded | Not recorded |
+| Sterimed[^s-8981ce27] | Not recorded | Not recorded | Not recorded |
+| Moulinot[^s-8981ce27] | Not recorded | Not recorded | Not recorded |
+| Metagram[^s-8981ce27] | Not recorded | Not recorded | Not recorded |
+| Synolia[^s-8981ce27] | Not recorded | Not recorded | Not recorded |
+| ID Systèmes[^s-8981ce27] | Not recorded | Not recorded | Not recorded |
+| Airon[^s-8981ce27] | Not recorded | Not recorded | Not recorded |
+| Jems[^s-8981ce27] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.meanings.com)
-- [Source](https://www.meanings.com/)
-- [Source](https://www.meanings.com/expertises/mid-cap)
+[^s-8981ce27]: <https://www.meanings.com>
+[^s-0e0f0c13]: <https://www.meanings.com/>
+[^s-c51311c5]: <https://www.meanings.com/expertises/mid-cap>

@@ -8,6 +8,7 @@ import unittest
 import io
 import contextlib
 import os
+import re
 import shutil
 from types import SimpleNamespace
 from pathlib import Path
@@ -45,6 +46,7 @@ class SystemTests(unittest.TestCase):
         d = copy.deepcopy(self.data)
         d["firms"][0]["name"] = "person@fund.invalid"
         self.assertTrue(catalog.validate(d))
+
         # Portfolio entries reject unexpected keys and email addresses.
         d = copy.deepcopy(self.data)
         d["firms"][0]["portfolio"] = [{"company": "Acme", "sector": "", "round": "", "date": "",
@@ -61,6 +63,23 @@ class SystemTests(unittest.TestCase):
         d = copy.deepcopy(self.data)
         d["firms"][0]["fields"]["not_a_real_field"] = "x"
         d["firms"][0]["evidence"]["not_a_real_field"] = {"url": "https://fund.invalid", "as_of": "2026-09"}
+        self.assertTrue(catalog.validate(d))
+
+    def test_independent_public_investor_validates_exports_and_renders_without_affiliation(self):
+        d = copy.deepcopy(self.data)
+        d["people"] = [{"id": "person-angel", "name": "Example Angel", "firm_id": "", "title": "Angel investor",
+                        "profile": "", "focus": "climate technology", "sources": ["https://example.org/about"],
+                        "researched_at": "2026-10-11"}]
+        self.assertEqual(catalog.validate(d), [])
+        page = catalog.public_pages(d)["people/person-angel"]
+        self.assertIn("Independent investor", page)
+        self.assertNotIn("public/firms/", page)
+        self.assertIn("person-angel,Example Angel,,Angel investor", catalog.artifacts(d)["people.csv"])
+        rendered = render(page)
+        self.assertIn("Independent investor", rendered)
+        self.assertNotIn("Firm profile", rendered)
+
+        d["people"][0]["firm_id"] = "unknown.invalid"
         self.assertTrue(catalog.validate(d))
 
     def test_domain_injection_and_shared_providers_rejected(self):
@@ -271,9 +290,11 @@ class SystemTests(unittest.TestCase):
             {"id": "zeta.vc", "name": "Zeta Capital (old)", "domain": "zeta.vc", "website": "https://zeta.vc",
              "record_level": "sourced", "researched_at": "2026-01-01", "fields": {}, "evidence": {},
              "sources": ["https://zeta.vc"], "portfolio": []},
-        ], "people": []}
+        ], "people": [{"id": "independent-person", "name": "Independent Investor", "firm_id": "", "title": "Angel investor",
+                        "profile": "", "focus": "", "sources": ["https://example.org/about"], "researched_at": "2026-09-10"}]}
         merged = merge_catalogs(existing, data)
         self.assertEqual(catalog.validate(merged), [])
+        self.assertEqual(next(p for p in merged["people"] if p["id"] == "independent-person")["firm_id"], "")
         self.assertTrue(any(f["id"] == "kept.invalid" for f in merged["firms"]))
         zeta = next(f for f in merged["firms"] if f["id"] == "zeta.vc")
         self.assertEqual(zeta["name"], "Zeta Capital")  # the newer (2026-09-05) record won
@@ -312,7 +333,7 @@ class SystemTests(unittest.TestCase):
             path.parent.mkdir(parents=True, exist_ok=True)
             path.write_text((checkout / name).read_text())
         for skill in SKILLS:
-            for parent in ("skills", ".agents/skills", ".claude/skills"):
+            for parent in ("skills",):
                 path = self.root / parent / skill / "SKILL.md"
                 path.parent.mkdir(parents=True, exist_ok=True)
                 path.write_text((checkout / "skills" / skill / "SKILL.md").read_text())
@@ -321,18 +342,37 @@ class SystemTests(unittest.TestCase):
         files = release_files(self.root)
         self.assertFalse(any(name.startswith("workspace/") for name in files))
         self.assertNotIn("tools/local-secret.txt", files)
+        self.assertFalse(any(name.startswith((".agents/skills/", ".claude/skills/")) for name in files))
+        from tools.install_skills import install
+        self.assertTrue(install(self.root))
+        self.assertEqual(install(self.root, check=True), [])
+        self.assertEqual(release_files(self.root), files)
         notices = self.root / "frontend/DEPENDENCY-LICENSES.txt"
         notices.write_text(notices.read_text() + "\nUnreviewed material")
         with self.assertRaisesRegex(ValueError, "Potential personal email"):
             release_files(self.root)
+
+    def test_public_wiki_conforms_to_okf(self):
+        files = {k[5:]: v for k, v in catalog.artifacts(self.data).items() if k.startswith("wiki/")}
+        self.assertEqual(wiki.split_frontmatter(files["index.md"])[0], {"okf_version": "0.2"})
+        for name, text in files.items():
+            if name.endswith("index.md"):
+                continue
+            meta, body = wiki.split_frontmatter(text)
+            self.assertTrue(meta["type"] and meta["title"] and meta["generated"]["by"], name)
+            self.assertNotIn("[[", body, name)
+            ids = {s["id"] for s in meta["sources"]}
+            self.assertLessEqual(set(re.findall(r"\[\^([\w-]+)\]", body)), ids, name)
+            self.assertIn(name.split("/")[1], files[name.split("/")[0] + "/index.md"])
 
     def test_scores_are_optional_validated_and_surface_as_frontmatter(self):
         d = copy.deepcopy(self.data)
         d["firms"][0]["scores"] = {"jev-score": 87}
         self.assertEqual(catalog.validate(d), [])
         page = catalog.public_pages(d)["firms/fund.invalid"]
-        self.assertTrue(page.startswith("---\njev-score: 87\n---\n\n# Example Fund"))
-        self.assertEqual(wiki.split_frontmatter(page)[0], {"jev-score": 87})
+        meta, body = wiki.split_frontmatter(page)
+        self.assertEqual((meta["type"], meta["jev-score"]), ("Investor Firm", 87))
+        self.assertTrue(body.startswith("# Example Fund"))
         catalog.write_catalog(d, self.root / "data/public")
         _, pages = page_index(self.root)
         self.assertIn("**jev-score:** 87", pages["public/firms/fund.invalid"])

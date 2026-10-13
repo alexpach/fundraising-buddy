@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Sam Lessin
+description: GP at Slow Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-e0f685ac
+  resource: https://slow.co/about
+---
+
 # Sam Lessin
 
-[[public/firms/slow.co|Firm profile]]
+[Firm profile](../firms/slow.co.md)
 
-Role: GP
+Role: GP[^s-e0f685ac]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://slow.co/about)
+[^s-e0f685ac]: <https://slow.co/about>

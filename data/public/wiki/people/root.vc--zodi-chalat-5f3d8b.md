@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Zodi Chalat
+description: Associate at Root Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-28d28371
+  resource: https://root.vc/
+---
+
 # Zodi Chalat
 
-[[public/firms/root.vc|Firm profile]]
+[Firm profile](../firms/root.vc.md)
 
-Role: Associate
+Role: Associate[^s-28d28371]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://root.vc/)
+[^s-28d28371]: <https://root.vc/>

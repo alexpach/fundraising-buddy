@@ -1,43 +1,49 @@
 ---
+type: Investor Firm
+title: Morado Ventures
+description: vc; seed, series-a; ai, data-infrastructure, industrial-iot, robotics,
+  autonomy, computer-vision, healthtech.
+resource: https://moradoventures.com
+tags:
+- investor-firm
+- directory
+domain: moradoventures.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 43
+status: draft
+sources:
+- id: s-62e9e3cd
+  resource: https://moradoventures.com
 ---
 
 # Morado Ventures
-
-[Website](https://moradoventures.com)
-
-Domain: moradoventures.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://moradoventures.com), as of 2026-06-12)
-- **Stages:** seed, series-a ([source](https://moradoventures.com), as of 2026-06-12)
-- **Geographies:** us ([source](https://moradoventures.com), as of 2026-06-12)
-- **Sectors:** ai, data-infrastructure, industrial-iot, robotics, autonomy, computer-vision, healthtech ([source](https://moradoventures.com), as of 2026-06-12)
-- **Leads rounds:** unknown ([source](https://moradoventures.com), as of not recorded)
-- **About:** Morado Ventures is a Bay Area seed-stage VC backing "data-fueled" companies , passionate entrepreneurs applying both software and hardware to complex technical problems. Focus areas per their site: AI, data infrastructure, industrial IoT, robotics & autonomy, computer vision, and health tech ([source](https://moradoventures.com), as of 2026-06-12)
+- **Type:** vc (as of 2026-06-12)[^s-62e9e3cd]
+- **Stages:** seed, series-a (as of 2026-06-12)[^s-62e9e3cd]
+- **Geographies:** us (as of 2026-06-12)[^s-62e9e3cd]
+- **Sectors:** ai, data-infrastructure, industrial-iot, robotics, autonomy, computer-vision, healthtech (as of 2026-06-12)[^s-62e9e3cd]
+- **Leads rounds:** unknown[^s-62e9e3cd]
+- **About:** Morado Ventures is a Bay Area seed-stage VC backing "data-fueled" companies , passionate entrepreneurs applying both software and hardware to complex technical problems. Focus areas per their site: AI, data infrastructure, industrial IoT, robotics & autonomy, computer vision, and health tech (as of 2026-06-12)[^s-62e9e3cd]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Zipline | Not recorded | Not recorded | Not recorded | [Source](https://moradoventures.com) |
-| Scribe | Not recorded | Not recorded | Not recorded | [Source](https://moradoventures.com) |
-| Hyphen | Not recorded | Not recorded | Not recorded | [Source](https://moradoventures.com) |
-| KonstructIQ | Not recorded | Not recorded | Not recorded | [Source](https://moradoventures.com) |
-| Vena Vitals | Not recorded | Not recorded | Not recorded | [Source](https://moradoventures.com) |
-| Metrist | Not recorded | Not recorded | Not recorded | [Source](https://moradoventures.com) |
-| Flox | Not recorded | Not recorded | Not recorded | [Source](https://moradoventures.com) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Zipline[^s-62e9e3cd] | Not recorded | Not recorded | Not recorded |
+| Scribe[^s-62e9e3cd] | Not recorded | Not recorded | Not recorded |
+| Hyphen[^s-62e9e3cd] | Not recorded | Not recorded | Not recorded |
+| KonstructIQ[^s-62e9e3cd] | Not recorded | Not recorded | Not recorded |
+| Vena Vitals[^s-62e9e3cd] | Not recorded | Not recorded | Not recorded |
+| Metrist[^s-62e9e3cd] | Not recorded | Not recorded | Not recorded |
+| Flox[^s-62e9e3cd] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://moradoventures.com)
+[^s-62e9e3cd]: <https://moradoventures.com>

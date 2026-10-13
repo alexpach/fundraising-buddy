@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Dr. Michael Sidler
+description: founding partner at redalpine.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-a29ce9eb
+  resource: https://www.redalpine.com/team
+---
+
 # Dr. Michael Sidler
 
-[[public/firms/redalpine.com|Firm profile]]
+[Firm profile](../firms/redalpine.com.md)
 
-Role: founding partner
+Role: founding partner[^s-a29ce9eb]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.redalpine.com/team)
+[^s-a29ce9eb]: <https://www.redalpine.com/team>

@@ -1,39 +1,44 @@
 ---
+type: Investor Firm
+title: Giesecke+Devrient
+description: cvc; seed, series-a; cybersecurity, fintech, digital-identity, trusttech.
+resource: https://www.gi-de.com/en/ventures
+tags:
+- investor-firm
+- directory
+domain: gi-de.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 34
+status: draft
+sources:
+- id: s-3a94e9ae
+  resource: https://www.gi-de.com/en/ventures
 ---
 
 # Giesecke+Devrient
-
-[Website](https://www.gi-de.com/en/ventures)
-
-Domain: gi-de.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://www.gi-de.com/en/ventures), as of 2026-08-06)
-- **Stages:** seed, series-a ([source](https://www.gi-de.com/en/ventures), as of 2026-08-06)
-- **Geographies:** europe, germany ([source](https://www.gi-de.com/en/ventures), as of 2026-08-06)
-- **Sectors:** cybersecurity, fintech, digital-identity, trusttech ([source](https://www.gi-de.com/en/ventures), as of 2026-08-06)
-- **Leads rounds:** unknown ([source](https://www.gi-de.com/en/ventures), as of not recorded)
-- **About:** G+D Ventures is the corporate venture arm of Giesecke+Devrient, a Munich-based international security-technology group (payments, connectivity, digital identities, digital infrastructure) founded in 1852. G+D Ventures (est ([source](https://www.gi-de.com/en/ventures), as of 2026-08-06)
+- **Type:** cvc (as of 2026-08-06)[^s-3a94e9ae]
+- **Stages:** seed, series-a (as of 2026-08-06)[^s-3a94e9ae]
+- **Geographies:** europe, germany (as of 2026-08-06)[^s-3a94e9ae]
+- **Sectors:** cybersecurity, fintech, digital-identity, trusttech (as of 2026-08-06)[^s-3a94e9ae]
+- **Leads rounds:** unknown[^s-3a94e9ae]
+- **About:** G+D Ventures is the corporate venture arm of Giesecke+Devrient, a Munich-based international security-technology group (payments, connectivity, digital identities, digital infrastructure) founded in 1852. G+D Ventures (est (as of 2026-08-06)[^s-3a94e9ae]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| CENSE AG | Not recorded | Not recorded | Not recorded | [Source](https://www.gi-de.com/en/ventures) |
-| FNA | Not recorded | Not recorded | Not recorded | [Source](https://www.gi-de.com/en/ventures) |
-| Blockbrain | Not recorded | Not recorded | Not recorded | [Source](https://www.gi-de.com/en/ventures) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| CENSE AG[^s-3a94e9ae] | Not recorded | Not recorded | Not recorded |
+| FNA[^s-3a94e9ae] | Not recorded | Not recorded | Not recorded |
+| Blockbrain[^s-3a94e9ae] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.gi-de.com/en/ventures)
+[^s-3a94e9ae]: <https://www.gi-de.com/en/ventures>

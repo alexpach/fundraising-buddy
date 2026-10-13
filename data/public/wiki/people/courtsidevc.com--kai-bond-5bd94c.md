@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Kai Bond
+description: Partner at Courtside Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-38a74df6
+  resource: https://www.courtsidevc.com/team
+---
+
 # Kai Bond
 
-[[public/firms/courtsidevc.com|Firm profile]]
+[Firm profile](../firms/courtsidevc.com.md)
 
-Role: Partner
+Role: Partner[^s-38a74df6]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.courtsidevc.com/team)
+[^s-38a74df6]: <https://www.courtsidevc.com/team>

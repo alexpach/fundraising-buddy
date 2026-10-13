@@ -1,11 +1,24 @@
+---
+type: Investor
+title: Jeff Herbst
+description: Founding Managing Partner at Global Frontier Technology Ventures (GFT
+  Ventures).
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-09-20T00:00:00Z'
+sources:
+- id: s-c7ed9acb
+  resource: https://www.gft.vc/post/ai-powerhouse-gft-ventures-raises-oversubscribed-140m-inaugural-fund
+---
+
 # Jeff Herbst
 
-[[public/firms/gft.vc|Firm profile]]
+[Firm profile](../firms/gft.vc.md)
 
-Role: Founding Managing Partner
+Role: Founding Managing Partner[^s-c7ed9acb]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.gft.vc/post/ai-powerhouse-gft-ventures-raises-oversubscribed-140m-inaugural-fund)
+[^s-c7ed9acb]: <https://www.gft.vc/post/ai-powerhouse-gft-ventures-raises-oversubscribed-140m-inaugural-fund>

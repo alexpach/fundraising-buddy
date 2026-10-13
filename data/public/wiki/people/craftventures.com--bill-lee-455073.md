@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Bill Lee
+description: Venture Partner at Craft Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
+sources:
+- id: s-98410b21
+  resource: https://www.craftventures.com/team/bill-lee
+---
+
 # Bill Lee
 
-[[public/firms/craftventures.com|Firm profile]]
+[Firm profile](../firms/craftventures.com.md)
 
-Role: Venture Partner
+Role: Venture Partner[^s-98410b21]
 
 Focus: Emerging Areas
 
-## Public sources
-
-- [Source](https://www.craftventures.com/team/bill-lee)
+[^s-98410b21]: <https://www.craftventures.com/team/bill-lee>

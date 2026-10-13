@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Roshen Karavattuveetil
+description: Investor at Marquee Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-991b63db
+  resource: https://www.marqueeventures.com/team/roshen-karavattuveetil
+---
+
 # Roshen Karavattuveetil
 
-[[public/firms/marqueeventures.com|Firm profile]]
+[Firm profile](../firms/marqueeventures.com.md)
 
-Role: Investor
+Role: Investor[^s-991b63db]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.marqueeventures.com/team/roshen-karavattuveetil)
+[^s-991b63db]: <https://www.marqueeventures.com/team/roshen-karavattuveetil>

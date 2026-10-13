@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Zsolt Weiszbart
+description: Partner at Day One Capital.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-92bb0bf4
+  resource: https://www.linkedin.com/posts/day-one-capital_new-investment-announcement-were-excited-activity-7486403071170826241-xM9u
+---
+
 # Zsolt Weiszbart
 
-[[public/firms/dayonecapital.com|Firm profile]]
+[Firm profile](../firms/dayonecapital.com.md)
 
-Role: Partner
+Role: Partner[^s-92bb0bf4]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.linkedin.com/posts/day-one-capital_new-investment-announcement-were-excited-activity-7486403071170826241-xM9u)
+[^s-92bb0bf4]: <https://www.linkedin.com/posts/day-one-capital_new-investment-announcement-were-excited-activity-7486403071170826241-xM9u>

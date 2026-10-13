@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Alexis Houssou
+description: Founder & Managing Partner at HCVC.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-bef3349a
+  resource: https://www.hcvc.co/pages/team
+---
+
 # Alexis Houssou
 
-[[public/firms/hcvc.co|Firm profile]]
+[Firm profile](../firms/hcvc.co.md)
 
-Role: Founder & Managing Partner
+Role: Founder & Managing Partner[^s-bef3349a]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.hcvc.co/pages/team)
+[^s-bef3349a]: <https://www.hcvc.co/pages/team>

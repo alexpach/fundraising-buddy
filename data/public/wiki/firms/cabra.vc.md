@@ -1,26 +1,38 @@
 ---
+type: Investor Firm
+title: Cabra VC
+description: venture capital; seed, early stage, later stage, expansion stage, growth;
+  consumer, enterprise, technology, software.
+resource: https://cabra.vc
+tags:
+- investor-firm
+- directory
+domain: cabra.vc
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 33
+status: draft
+sources:
+- id: s-2f45b055
+  resource: https://cabra.vc
+- id: s-d3c06e96
+  resource: https://cabra.vc/
+- id: s-aaa36b72
+  resource: https://www.crunchbase.com/organization/cabra-vc
 ---
 
 # Cabra VC
-
-[Website](https://cabra.vc)
-
-Domain: cabra.vc
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** global, us, europe ([source](https://www.crunchbase.com/organization/cabra-vc), as of 2026-04-24)
-- **About:** Cabra VC invests in high-growth technology companies from seed through growth across consumer, enterprise, and software verticals, with a global (US / Europe / Middle East / Asia) scope. Strong operator backgrounds in TMT. Portfolio includes Petcube, Spenny, among others. ([source](https://www.crunchbase.com/organization/cabra-vc), as of 2026-04-24)
-- **Type:** venture capital ([source](https://cabra.vc/), as of not recorded)
-- **Stages:** seed, early stage, later stage, expansion stage, growth ([source](https://cabra.vc/), as of not recorded)
-- **Sectors:** consumer, enterprise, technology, software ([source](https://cabra.vc/), as of not recorded)
+- **Geographies:** global, us, europe (as of 2026-04-24)[^s-aaa36b72]
+- **About:** Cabra VC invests in high-growth technology companies from seed through growth across consumer, enterprise, and software verticals, with a global (US / Europe / Middle East / Asia) scope. Strong operator backgrounds in TMT. Portfolio includes Petcube, Spenny, among others. (as of 2026-04-24)[^s-aaa36b72]
+- **Type:** venture capital[^s-d3c06e96]
+- **Stages:** seed, early stage, later stage, expansion stage, growth[^s-d3c06e96]
+- **Sectors:** consumer, enterprise, technology, software[^s-d3c06e96]
 
 ## Portfolio
 
@@ -28,9 +40,8 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://cabra.vc)
-- [Source](https://cabra.vc/)
-- [Source](https://www.crunchbase.com/organization/cabra-vc)
+[^s-2f45b055]: <https://cabra.vc>
+[^s-d3c06e96]: <https://cabra.vc/>
+[^s-aaa36b72]: <https://www.crunchbase.com/organization/cabra-vc>

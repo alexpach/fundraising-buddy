@@ -1,25 +1,36 @@
 ---
+type: Investor Firm
+title: Clear Ventures
+description: venture capital; seed, early stage.
+resource: https://clear.ventures
+tags:
+- investor-firm
+- directory
+domain: clear.ventures
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 21
+status: draft
+sources:
+- id: s-ca400cfd
+  resource: https://clear.ventures
+- id: s-e175459b
+  resource: https://clear.ventures/
+- id: s-78d2ab0b
+  resource: https://www.espresa.com/blog/espresa-announces-funding-round-23-million/
 ---
 
 # Clear Ventures
-
-[Website](https://clear.ventures)
-
-Domain: clear.ventures
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** venture capital ([source](https://clear.ventures/), as of not recorded)
-- **Investment strategies:** early-stage technology investing ([source](https://clear.ventures/), as of not recorded)
-- **Stages:** seed, early stage ([source](https://clear.ventures/), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.espresa.com/blog/espresa-announces-funding-round-23-million/), as of 2025-11)
+- **Type:** venture capital[^s-e175459b]
+- **Investment strategies:** early-stage technology investing[^s-e175459b]
+- **Stages:** seed, early stage[^s-e175459b]
+- **Leads rounds:** yes (as of 2025-11)[^s-78d2ab0b]
 
 ## Portfolio
 
@@ -27,9 +38,8 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://clear.ventures)
-- [Source](https://clear.ventures/)
-- [Source](https://www.espresa.com/blog/espresa-announces-funding-round-23-million/)
+[^s-ca400cfd]: <https://clear.ventures>
+[^s-e175459b]: <https://clear.ventures/>
+[^s-78d2ab0b]: <https://www.espresa.com/blog/espresa-announces-funding-round-23-million/>

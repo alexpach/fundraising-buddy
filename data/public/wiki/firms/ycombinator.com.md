@@ -1,25 +1,36 @@
 ---
+type: Investor Firm
+title: Y Combinator
+description: accelerator; robotics, hardware.
+resource: https://ycombinator.com
+tags:
+- investor-firm
+- directory
+domain: ycombinator.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 17
+status: draft
+sources:
+- id: s-28efb915
+  resource: https://www.ycombinator.com/about
+- id: s-6a34732a
+  resource: https://www.ycombinator.com/companies/industry/robotics
+- id: s-ab558724
+  resource: https://ycombinator.com
 ---
 
 # Y Combinator
-
-[Website](https://ycombinator.com)
-
-Domain: ycombinator.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** accelerator ([source](https://www.ycombinator.com/about), as of not recorded)
-- **Investment strategies:** accelerator investment ([source](https://www.ycombinator.com/about), as of not recorded)
-- **Investment instruments:** SAFE ([source](https://www.ycombinator.com/about), as of not recorded)
-- **Sectors:** robotics, hardware ([source](https://www.ycombinator.com/companies/industry/robotics), as of 2026-10)
+- **Type:** accelerator[^s-28efb915]
+- **Investment strategies:** accelerator investment[^s-28efb915]
+- **Investment instruments:** SAFE[^s-28efb915]
+- **Sectors:** robotics, hardware (as of 2026-10)[^s-6a34732a]
 
 ## Portfolio
 
@@ -27,9 +38,8 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.ycombinator.com/about)
-- [Source](https://www.ycombinator.com/companies/industry/robotics)
-- [Source](https://ycombinator.com)
+[^s-28efb915]: <https://www.ycombinator.com/about>
+[^s-6a34732a]: <https://www.ycombinator.com/companies/industry/robotics>
+[^s-ab558724]: <https://ycombinator.com>

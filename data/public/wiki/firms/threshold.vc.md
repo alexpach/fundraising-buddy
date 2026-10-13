@@ -1,46 +1,53 @@
 ---
+type: Investor Firm
+title: Threshold Ventures
+description: vc; series-a, series-b; healthcare, enterprise-software, software.
+resource: https://threshold.vc
+tags:
+- investor-firm
+- directory
+domain: threshold.vc
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 50
+status: draft
+sources:
+- id: s-49637e0f
+  resource: https://threshold.vc
+- id: s-c49733d6
+  resource: https://www.crunchbase.com/organization/threshold
 ---
 
 # Threshold Ventures
-
-[Website](https://threshold.vc)
-
-Domain: threshold.vc
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://www.crunchbase.com/organization/threshold), as of 2026-05-01)
-- **Stages:** series-a, series-b ([source](https://www.crunchbase.com/organization/threshold), as of 2026-05-01)
-- **Geographies:** us ([source](https://www.crunchbase.com/organization/threshold), as of 2026-05-01)
-- **Sectors:** healthcare, enterprise-software, software ([source](https://www.crunchbase.com/organization/threshold), as of 2026-05-01)
-- **Leads rounds:** unknown ([source](https://threshold.vc), as of not recorded)
-- **About:** Threshold Ventures is a Palo Alto-based early-stage venture capital firm that rebranded from DFJ Venture in 2019. Its official materials say it primarily invests in Series A and B companies, especially software and software-enabled businesses serving healthcare and enterprise customers ([source](https://www.crunchbase.com/organization/threshold), as of 2026-05-01)
+- **Type:** vc (as of 2026-05-01)[^s-c49733d6]
+- **Stages:** series-a, series-b (as of 2026-05-01)[^s-c49733d6]
+- **Geographies:** us (as of 2026-05-01)[^s-c49733d6]
+- **Sectors:** healthcare, enterprise-software, software (as of 2026-05-01)[^s-c49733d6]
+- **Leads rounds:** unknown[^s-49637e0f]
+- **About:** Threshold Ventures is a Palo Alto-based early-stage venture capital firm that rebranded from DFJ Venture in 2019. Its official materials say it primarily invests in Series A and B companies, especially software and software-enabled businesses serving healthcare and enterprise customers (as of 2026-05-01)[^s-c49733d6]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Box | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/threshold) |
-| Doximity | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/threshold) |
-| Talkdesk | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/threshold) |
-| Twilio | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/threshold) |
-| Redfin | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/threshold) |
-| Remitly | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/threshold) |
-| Livongo | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/threshold) |
-| LaunchDarkly | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/threshold) |
-| BetterUp | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/threshold) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Box[^s-c49733d6] | Not recorded | Not recorded | Not recorded |
+| Doximity[^s-c49733d6] | Not recorded | Not recorded | Not recorded |
+| Talkdesk[^s-c49733d6] | Not recorded | Not recorded | Not recorded |
+| Twilio[^s-c49733d6] | Not recorded | Not recorded | Not recorded |
+| Redfin[^s-c49733d6] | Not recorded | Not recorded | Not recorded |
+| Remitly[^s-c49733d6] | Not recorded | Not recorded | Not recorded |
+| Livongo[^s-c49733d6] | Not recorded | Not recorded | Not recorded |
+| LaunchDarkly[^s-c49733d6] | Not recorded | Not recorded | Not recorded |
+| BetterUp[^s-c49733d6] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://threshold.vc)
-- [Source](https://www.crunchbase.com/organization/threshold)
+[^s-49637e0f]: <https://threshold.vc>
+[^s-c49733d6]: <https://www.crunchbase.com/organization/threshold>

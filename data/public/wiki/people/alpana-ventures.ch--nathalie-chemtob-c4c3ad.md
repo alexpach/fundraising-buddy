@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Nathalie Chemtob
+description: Founding Partner at Alpana Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-a8fadabd
+  resource: https://alpana-ventures.ch/people-nathalie-chemtob
+---
+
 # Nathalie Chemtob
 
-[[public/firms/alpana-ventures.ch|Firm profile]]
+[Firm profile](../firms/alpana-ventures.ch.md)
 
-Role: Founding Partner
+Role: Founding Partner[^s-a8fadabd]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://alpana-ventures.ch/people-nathalie-chemtob)
+[^s-a8fadabd]: <https://alpana-ventures.ch/people-nathalie-chemtob>

@@ -1,39 +1,44 @@
 ---
+type: Investor Firm
+title: STAC Invest
+description: accelerator; seed; deep-tech, drones, quantum-computing, clean-energy.
+resource: https://www.stac.ac/invest/
+tags:
+- investor-firm
+- directory
+domain: stac.ac
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 41
+status: draft
+sources:
+- id: s-aa697a8a
+  resource: https://www.stac.ac/invest/
 ---
 
 # STAC Invest
-
-[Website](https://www.stac.ac/invest/)
-
-Domain: stac.ac
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** accelerator ([source](https://www.stac.ac/invest/), as of 2026-08-07)
-- **Stages:** seed ([source](https://www.stac.ac/invest/), as of 2026-08-07)
-- **Geographies:** europe ([source](https://www.stac.ac/invest/), as of 2026-08-07)
-- **Sectors:** deep-tech, drones, quantum-computing, clean-energy ([source](https://www.stac.ac/invest/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.stac.ac/invest/), as of not recorded)
-- **About:** STAC (stac.ac) is a Glasgow-based Scottish tech scale-up platform; "STAC\|Invest" is its investment arm, providing first-in seed capital to startups from its own "STAC\|Scale" 18-month venture-building programme. Site states £51M invested to date ([source](https://www.stac.ac/invest/), as of 2026-08-07)
+- **Type:** accelerator (as of 2026-08-07)[^s-aa697a8a]
+- **Stages:** seed (as of 2026-08-07)[^s-aa697a8a]
+- **Geographies:** europe (as of 2026-08-07)[^s-aa697a8a]
+- **Sectors:** deep-tech, drones, quantum-computing, clean-energy (as of 2026-08-07)[^s-aa697a8a]
+- **Leads rounds:** unknown[^s-aa697a8a]
+- **About:** STAC (stac.ac) is a Glasgow-based Scottish tech scale-up platform; "STAC\|Invest" is its investment arm, providing first-in seed capital to startups from its own "STAC\|Scale" 18-month venture-building programme. Site states £51M invested to date (as of 2026-08-07)[^s-aa697a8a]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Airspection | Not recorded | Not recorded | Not recorded | [Source](https://www.stac.ac/invest/) |
-| Quantcore Technologies | Not recorded | Not recorded | Not recorded | [Source](https://www.stac.ac/invest/) |
-| Vuabl | Not recorded | Not recorded | Not recorded | [Source](https://www.stac.ac/invest/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Airspection[^s-aa697a8a] | Not recorded | Not recorded | Not recorded |
+| Quantcore Technologies[^s-aa697a8a] | Not recorded | Not recorded | Not recorded |
+| Vuabl[^s-aa697a8a] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.stac.ac/invest/)
+[^s-aa697a8a]: <https://www.stac.ac/invest/>

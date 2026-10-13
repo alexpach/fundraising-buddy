@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Johannes Oettingen-Wallerstein
+description: Associate at 42CAP Manager GmbH.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-09-20T00:00:00Z'
+sources:
+- id: s-069c504e
+  resource: https://42cap.com
+---
+
 # Johannes Oettingen-Wallerstein
 
-[[public/firms/42cap.com|Firm profile]]
+[Firm profile](../firms/42cap.com.md)
 
-Role: Associate
+Role: Associate[^s-069c504e]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://42cap.com)
+[^s-069c504e]: <https://42cap.com>

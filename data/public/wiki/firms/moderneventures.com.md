@@ -1,56 +1,70 @@
 ---
+type: Investor Firm
+title: Moderne Ventures
+description: venture capital; seed, Series A, Series B, Series C, pre-IPO; proptech,
+  fintech, insurtech, sustainability, AI, Robotics, Deep tech, Data, Digital Transaction
+  Management, real estate, finance, insurance, sustainability, Enterprise SaaS.
+resource: https://moderneventures.com
+tags:
+- investor-firm
+- sourced
+domain: moderneventures.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 76
+sources:
+- id: s-fb346c58
+  resource: https://www.cbinsights.com/investor/moderne-ventures
+- id: s-2e32678b
+  resource: https://www.moderneventures.com/
+- id: s-292b4929
+  resource: https://www.moderneventures.com/fund
+- id: s-03d2b7c5
+  resource: https://www.moderneventures.com/news-insights/investor-moderne-ventures-raises-230m-fund-iii
+- id: s-e8c07f9c
+  resource: https://www.moderneventures.com/portfolio
 ---
 
 # Moderne Ventures
 
-[Website](https://moderneventures.com)
-
-Domain: moderneventures.com
-
-Coverage: sourced
-
-Research date: 2026-10-04
-
 ## Public research
 
-- **Founded:** 2015 ([source](https://www.moderneventures.com/news-insights/investor-moderne-ventures-raises-230m-fund-iii), as of 2024-09)
-- **Check size min:** $4,000,000 ([source](https://www.moderneventures.com/news-insights/investor-moderne-ventures-raises-230m-fund-iii), as of 2024-09)
-- **Check size max:** $8,000,000 ([source](https://www.moderneventures.com/news-insights/investor-moderne-ventures-raises-230m-fund-iii), as of 2024-09)
-- **Latest fund:** Core Fund III, $230M, closed as reported September 19, 2024 ([source](https://www.moderneventures.com/news-insights/investor-moderne-ventures-raises-230m-fund-iii), as of 2024-09)
-- **Thesis quote:** We are generalist investors with a vertical focus, where those verticals are real estate, finance, insurance and sustainability. ([source](https://www.moderneventures.com/news-insights/investor-moderne-ventures-raises-230m-fund-iii), as of 2024-09)
-- **LPs:** GCM Grosvenor, the Illinois Growth and Innovation Fund, AvalonBay, Essent, and LeadingRE ([source](https://www.moderneventures.com/news-insights/investor-moderne-ventures-raises-230m-fund-iii), as of 2024-09)
-- **Coinvestors:** Northwestern Mutual Future Ventures, UBS Next, Erie Strategic Ventures (co-investors in Trust & Will's Series C) ([source](https://www.cbinsights.com/investor/moderne-ventures), as of 2025-03)
-- **Type:** venture capital ([source](https://www.moderneventures.com/fund), as of not recorded)
-- **Investment strategies:** multi-stage venture investing, growth equity ([source](https://www.moderneventures.com/fund), as of not recorded)
-- **Stages:** seed, Series A, Series B, Series C, pre-IPO ([source](https://www.moderneventures.com/fund), as of not recorded)
-- **Sectors:** proptech, fintech, insurtech, sustainability, AI, Robotics, Deep tech, Data, Digital Transaction Management, real estate, finance, insurance, sustainability, Enterprise SaaS ([source](https://www.moderneventures.com/news-insights/investor-moderne-ventures-raises-230m-fund-iii), as of 2024-09-19)
-- **AUM:** Lower bound (over): USD 600 million (date not reported) ([source](https://www.moderneventures.com/fund), as of not recorded)
+- **Founded:** 2015 (as of 2024-09)[^s-03d2b7c5]
+- **Check size min:** $4,000,000 (as of 2024-09)[^s-03d2b7c5]
+- **Check size max:** $8,000,000 (as of 2024-09)[^s-03d2b7c5]
+- **Latest fund:** Core Fund III, $230M, closed as reported September 19, 2024 (as of 2024-09)[^s-03d2b7c5]
+- **Thesis quote:** We are generalist investors with a vertical focus, where those verticals are real estate, finance, insurance and sustainability. (as of 2024-09)[^s-03d2b7c5]
+- **LPs:** GCM Grosvenor, the Illinois Growth and Innovation Fund, AvalonBay, Essent, and LeadingRE (as of 2024-09)[^s-03d2b7c5]
+- **Coinvestors:** Northwestern Mutual Future Ventures, UBS Next, Erie Strategic Ventures (co-investors in Trust & Will's Series C) (as of 2025-03)[^s-fb346c58]
+- **Type:** venture capital[^s-292b4929]
+- **Investment strategies:** multi-stage venture investing, growth equity[^s-292b4929]
+- **Stages:** seed, Series A, Series B, Series C, pre-IPO[^s-292b4929]
+- **Sectors:** proptech, fintech, insurtech, sustainability, AI, Robotics, Deep tech, Data, Digital Transaction Management, real estate, finance, insurance, sustainability, Enterprise SaaS (as of 2024-09-19)[^s-03d2b7c5]
+- **AUM:** Lower bound (over): USD 600 million (date not reported)[^s-292b4929]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| ICON | construction robotics | Not recorded | Not recorded | [Source](https://www.moderneventures.com/) |
-| Qloo | AI / cultural intelligence platform | Not recorded | Not recorded | [Source](https://www.moderneventures.com/) |
-| Abode | smart home security | Passport | Not recorded | [Source](https://www.moderneventures.com/portfolio) |
-| Better | digital mortgage | Investment; IPO - NASDAQ: BETR | Not recorded | [Source](https://www.moderneventures.com/portfolio) |
-| August Home | smart home access | Investment; acquired by Assa Abloy | Not recorded | [Source](https://www.moderneventures.com/portfolio) |
-| Bend | fintech / HSA administration | Investment; acquired by HSA Bank | Not recorded | [Source](https://www.moderneventures.com/portfolio) |
-| Bento | fintech / expense management | Passport; acquired by U.S. Bank | Not recorded | [Source](https://www.moderneventures.com/portfolio) |
-| Caribou | fintech / auto refinancing | Investment | Not recorded | [Source](https://www.moderneventures.com/portfolio) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| ICON[^s-2e32678b] | construction robotics | Not recorded | Not recorded |
+| Qloo[^s-2e32678b] | AI / cultural intelligence platform | Not recorded | Not recorded |
+| Abode[^s-e8c07f9c] | smart home security | Passport | Not recorded |
+| Better[^s-e8c07f9c] | digital mortgage | Investment; IPO - NASDAQ: BETR | Not recorded |
+| August Home[^s-e8c07f9c] | smart home access | Investment; acquired by Assa Abloy | Not recorded |
+| Bend[^s-e8c07f9c] | fintech / HSA administration | Investment; acquired by HSA Bank | Not recorded |
+| Bento[^s-e8c07f9c] | fintech / expense management | Passport; acquired by U.S. Bank | Not recorded |
+| Caribou[^s-e8c07f9c] | fintech / auto refinancing | Investment | Not recorded |
 
 ## People
 
-- [[public/people/moderneventures.com--lila-trickle-21db50|Lila Trickle]]: Chief of Staff and Chief Communications Officer
-- [[public/people/moderneventures.com--mark-michelson-4b1cd1|Mark Michelson]]: Vice President of Finance
-- [[public/people/moderneventures.com--michael-ting-977cd2|Michael Ting]]: Vice President, Capital Formation & Investor Relations
-- [[public/people/moderneventures.com--sam-delisi-060446|Sam Delisi]]: Operating Partner
+- [Lila Trickle](../people/moderneventures.com--lila-trickle-21db50.md) - Chief of Staff and Chief Communications Officer
+- [Mark Michelson](../people/moderneventures.com--mark-michelson-4b1cd1.md) - Vice President of Finance
+- [Michael Ting](../people/moderneventures.com--michael-ting-977cd2.md) - Vice President, Capital Formation & Investor Relations
+- [Sam Delisi](../people/moderneventures.com--sam-delisi-060446.md) - Operating Partner
 
-## Sources
-
-- [Source](https://www.cbinsights.com/investor/moderne-ventures)
-- [Source](https://www.moderneventures.com/)
-- [Source](https://www.moderneventures.com/fund)
-- [Source](https://www.moderneventures.com/news-insights/investor-moderne-ventures-raises-230m-fund-iii)
-- [Source](https://www.moderneventures.com/portfolio)
+[^s-fb346c58]: <https://www.cbinsights.com/investor/moderne-ventures>
+[^s-2e32678b]: <https://www.moderneventures.com/>
+[^s-292b4929]: <https://www.moderneventures.com/fund>
+[^s-03d2b7c5]: <https://www.moderneventures.com/news-insights/investor-moderne-ventures-raises-230m-fund-iii>
+[^s-e8c07f9c]: <https://www.moderneventures.com/portfolio>

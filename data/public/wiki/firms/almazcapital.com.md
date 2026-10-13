@@ -1,62 +1,76 @@
 ---
+type: Investor Firm
+title: Almaz Capital
+description: venture capital; early stage.
+resource: https://almazcapital.com
+tags:
+- investor-firm
+- sourced
+domain: almazcapital.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 54
+sources:
+- id: s-47429b16
+  resource: https://almazcapital.com
+- id: s-9f362d4a
+  resource: https://almazcapital.com/our-team
+- id: s-c71c50b1
+  resource: https://almazcapital.com/our-team/
+- id: s-4b9738a7
+  resource: https://almazcapital.com/portfolio.html
+- id: s-0117a813
+  resource: https://en.wikipedia.org/wiki/Almaz_Capital
+- id: s-a0098ef2
+  resource: https://www.ebrd.com/home/work-with-us/projects/psd/49887.html
 ---
 
 # Almaz Capital
 
-[Website](https://almazcapital.com)
-
-Domain: almazcapital.com
-
-Coverage: sourced
-
-Research date: 2026-10-03
-
 ## Public research
 
-- **Founded:** 2008 ([source](https://en.wikipedia.org/wiki/Almaz_Capital), as of None)
-- **Offices:** Portola Valley (CA) and Berlin ([source](https://almazcapital.com/our-team), as of None)
-- **Type:** venture capital ([source](https://www.ebrd.com/home/work-with-us/projects/psd/49887.html), as of 2019-01-21)
-- **Investment strategies:** early-stage technology investing ([source](https://www.ebrd.com/home/work-with-us/projects/psd/49887.html), as of 2019-01-21)
-- **Investment instruments:** equity, equity-related investments ([source](https://www.ebrd.com/home/work-with-us/projects/psd/49887.html), as of 2019-01-21)
-- **Stages:** early stage ([source](https://www.ebrd.com/home/work-with-us/projects/psd/49887.html), as of 2019-01-21)
+- **Founded:** 2008 (as of None)[^s-0117a813]
+- **Offices:** Portola Valley (CA) and Berlin (as of None)[^s-9f362d4a]
+- **Type:** venture capital (as of 2019-01-21)[^s-a0098ef2]
+- **Investment strategies:** early-stage technology investing (as of 2019-01-21)[^s-a0098ef2]
+- **Investment instruments:** equity, equity-related investments (as of 2019-01-21)[^s-a0098ef2]
+- **Stages:** early stage (as of 2019-01-21)[^s-a0098ef2]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| 3DLOOK | Not recorded | current (listed under Current on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| Acronis | Not recorded | current (listed under Current on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| Alcatraz AI | Not recorded | current (listed under Current on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| GoodData | Not recorded | current (listed under Current on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| GridGain | Not recorded | current (listed under Current on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| Minut | Not recorded | current (listed under Current on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| Moonshot AI | Not recorded | current (listed under Current on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| Nomagic | Not recorded | current (listed under Current on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| OneSoil | Not recorded | current (listed under Current on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| OpenAI | Not recorded | current (listed under Current on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| Petcube | Not recorded | current (listed under Current on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| Refurbed | Not recorded | current (listed under Current on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| Acumatica | Not recorded | past (listed under Past on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| Jelastic | Not recorded | past (listed under Past on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| Parallels | Not recorded | past (listed under Past on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| Plesk | Not recorded | past (listed under Past on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| Xometry | Not recorded | past (listed under Past on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
-| Yandex | Not recorded | past (listed under Past on portfolio page) | Not recorded | [Source](https://almazcapital.com/portfolio.html) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| 3DLOOK[^s-4b9738a7] | Not recorded | current (listed under Current on portfolio page) | Not recorded |
+| Acronis[^s-4b9738a7] | Not recorded | current (listed under Current on portfolio page) | Not recorded |
+| Alcatraz AI[^s-4b9738a7] | Not recorded | current (listed under Current on portfolio page) | Not recorded |
+| GoodData[^s-4b9738a7] | Not recorded | current (listed under Current on portfolio page) | Not recorded |
+| GridGain[^s-4b9738a7] | Not recorded | current (listed under Current on portfolio page) | Not recorded |
+| Minut[^s-4b9738a7] | Not recorded | current (listed under Current on portfolio page) | Not recorded |
+| Moonshot AI[^s-4b9738a7] | Not recorded | current (listed under Current on portfolio page) | Not recorded |
+| Nomagic[^s-4b9738a7] | Not recorded | current (listed under Current on portfolio page) | Not recorded |
+| OneSoil[^s-4b9738a7] | Not recorded | current (listed under Current on portfolio page) | Not recorded |
+| OpenAI[^s-4b9738a7] | Not recorded | current (listed under Current on portfolio page) | Not recorded |
+| Petcube[^s-4b9738a7] | Not recorded | current (listed under Current on portfolio page) | Not recorded |
+| Refurbed[^s-4b9738a7] | Not recorded | current (listed under Current on portfolio page) | Not recorded |
+| Acumatica[^s-4b9738a7] | Not recorded | past (listed under Past on portfolio page) | Not recorded |
+| Jelastic[^s-4b9738a7] | Not recorded | past (listed under Past on portfolio page) | Not recorded |
+| Parallels[^s-4b9738a7] | Not recorded | past (listed under Past on portfolio page) | Not recorded |
+| Plesk[^s-4b9738a7] | Not recorded | past (listed under Past on portfolio page) | Not recorded |
+| Xometry[^s-4b9738a7] | Not recorded | past (listed under Past on portfolio page) | Not recorded |
+| Yandex[^s-4b9738a7] | Not recorded | past (listed under Past on portfolio page) | Not recorded |
 
 ## People
 
-- [[public/people/almazcapital.com--aniruddha-nazare-58c8ce|Aniruddha Nazare]]: General Partner
-- [[public/people/almazcapital.com--charles-e-ryan-12bd74|Charles E. Ryan]]: General Partner
-- [[public/people/almazcapital.com--geoffrey-baehr-c4e213|Geoffrey Baehr]]: General Partner
-- [[public/people/almazcapital.com--michael-bastholt-72b051|Michael Bastholt]]: Partner & COO
-- [[public/people/almazcapital.com--pavel-pasha-bogdanov-9194cf|Pavel (Pasha) Bogdanov]]: General Partner
+- [Aniruddha Nazare](../people/almazcapital.com--aniruddha-nazare-58c8ce.md) - General Partner
+- [Charles E. Ryan](../people/almazcapital.com--charles-e-ryan-12bd74.md) - General Partner
+- [Geoffrey Baehr](../people/almazcapital.com--geoffrey-baehr-c4e213.md) - General Partner
+- [Michael Bastholt](../people/almazcapital.com--michael-bastholt-72b051.md) - Partner & COO
+- [Pavel (Pasha) Bogdanov](../people/almazcapital.com--pavel-pasha-bogdanov-9194cf.md) - General Partner
 
-## Sources
-
-- [Source](https://almazcapital.com)
-- [Source](https://almazcapital.com/our-team)
-- [Source](https://almazcapital.com/our-team/)
-- [Source](https://almazcapital.com/portfolio.html)
-- [Source](https://en.wikipedia.org/wiki/Almaz_Capital)
-- [Source](https://www.ebrd.com/home/work-with-us/projects/psd/49887.html)
+[^s-47429b16]: <https://almazcapital.com>
+[^s-9f362d4a]: <https://almazcapital.com/our-team>
+[^s-c71c50b1]: <https://almazcapital.com/our-team/>
+[^s-4b9738a7]: <https://almazcapital.com/portfolio.html>
+[^s-0117a813]: <https://en.wikipedia.org/wiki/Almaz_Capital>
+[^s-a0098ef2]: <https://www.ebrd.com/home/work-with-us/projects/psd/49887.html>

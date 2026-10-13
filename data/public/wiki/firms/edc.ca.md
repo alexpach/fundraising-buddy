@@ -1,35 +1,40 @@
 ---
+type: Investor Firm
+title: EDC Capital
+description: growth.
+resource: https://www.edc.ca/en/solutions/financing/investments.html
+tags:
+- investor-firm
+- directory
+domain: edc.ca
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 20
+status: draft
+sources:
+- id: s-f5a3939c
+  resource: https://www.edc.ca/en/solutions/financing/investments.html
 ---
 
 # EDC Capital
-
-[Website](https://www.edc.ca/en/solutions/financing/investments.html)
-
-Domain: edc.ca
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Stages:** growth ([source](https://www.edc.ca/en/solutions/financing/investments.html), as of 2026-08-07)
-- **Geographies:** canada ([source](https://www.edc.ca/en/solutions/financing/investments.html), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://www.edc.ca/en/solutions/financing/investments.html), as of not recorded)
+- **Stages:** growth (as of 2026-08-07)[^s-f5a3939c]
+- **Geographies:** canada (as of 2026-08-07)[^s-f5a3939c]
+- **Leads rounds:** unknown[^s-f5a3939c]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| AON3D | Not recorded | Not recorded | Not recorded | [Source](https://www.edc.ca/en/solutions/financing/investments.html) |
-| LANDR | Not recorded | Not recorded | Not recorded | [Source](https://www.edc.ca/en/solutions/financing/investments.html) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| AON3D[^s-f5a3939c] | Not recorded | Not recorded | Not recorded |
+| LANDR[^s-f5a3939c] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.edc.ca/en/solutions/financing/investments.html)
+[^s-f5a3939c]: <https://www.edc.ca/en/solutions/financing/investments.html>

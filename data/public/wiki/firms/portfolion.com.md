@@ -1,49 +1,58 @@
 ---
+type: Investor Firm
+title: Portfolion Capital Partners
+description: venture capital; pre-seed, seed, Series B, Series C, partial buyout,
+  established enterprises; Sector Agnostic, Digital Technologies, Agriculture.
+resource: https://portfolion.com
+tags:
+- investor-firm
+- sourced
+domain: portfolion.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 69
+sources:
+- id: s-a7abd212
+  resource: https://www.portfolion.com/
+- id: s-9e03f8c6
+  resource: https://www.portfolion.com/companies/
+- id: s-483cd504
+  resource: https://www.portfolion.com/venture-capital/
 ---
 
 # Portfolion Capital Partners
 
-[Website](https://portfolion.com)
-
-Domain: portfolion.com
-
-Coverage: sourced
-
-Research date: 2026-10-04
-
 ## Public research
 
-- **HQ:** Budapest, Hungary ([source](https://www.portfolion.com/companies/), as of None)
-- **Geographies:** europe ([source](https://www.portfolion.com/), as of None)
-- **Check size max:** EUR 40M (growth equity and private equity strategies) ([source](https://www.portfolion.com/), as of None)
-- **Thesis quote:** We look for exceptional talent across CEE and its diaspora ([source](https://www.portfolion.com/venture-capital/), as of None)
-- **Type:** venture capital ([source](https://www.portfolion.com/), as of not recorded)
-- **Investment strategies:** growth equity, private equity ([source](https://www.portfolion.com/), as of not recorded)
-- **Stages:** pre-seed, seed, Series B, Series C, partial buyout, established enterprises ([source](https://www.portfolion.com/), as of not recorded)
-- **Sectors:** Sector Agnostic, Digital Technologies, Agriculture ([source](https://www.portfolion.com/), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.portfolion.com/venture-capital/), as of not recorded)
+- **HQ:** Budapest, Hungary (as of None)[^s-9e03f8c6]
+- **Geographies:** europe (as of None)[^s-a7abd212]
+- **Check size max:** EUR 40M (growth equity and private equity strategies) (as of None)[^s-a7abd212]
+- **Thesis quote:** We look for exceptional talent across CEE and its diaspora (as of None)[^s-483cd504]
+- **Type:** venture capital[^s-a7abd212]
+- **Investment strategies:** growth equity, private equity[^s-a7abd212]
+- **Stages:** pre-seed, seed, Series B, Series C, partial buyout, established enterprises[^s-a7abd212]
+- **Sectors:** Sector Agnostic, Digital Technologies, Agriculture[^s-a7abd212]
+- **Leads rounds:** yes[^s-483cd504]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Kodesage | Venture Capital | listed under Venture Capital on portfolio page (marketing listing, first of 8 shown) | Not recorded | [Source](https://www.portfolion.com/companies/) |
-| Mobilfox | Growth Equity | listed under Growth Equity on portfolio page | Not recorded | [Source](https://www.portfolion.com/companies/) |
-| Szekszárd Zrt. | Private Equity | listed under Private Equity on portfolio page | Not recorded | [Source](https://www.portfolion.com/companies/) |
-| Graphwise | Exit | listed under Exit on portfolio page | Not recorded | [Source](https://www.portfolion.com/companies/) |
-| SEON | Venture Capital | listed under Venture Capital on portfolio page | Not recorded | [Source](https://www.portfolion.com/companies/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Kodesage[^s-9e03f8c6] | Venture Capital | listed under Venture Capital on portfolio page (marketing listing, first of 8 shown) | Not recorded |
+| Mobilfox[^s-9e03f8c6] | Growth Equity | listed under Growth Equity on portfolio page | Not recorded |
+| Szekszárd Zrt.[^s-9e03f8c6] | Private Equity | listed under Private Equity on portfolio page | Not recorded |
+| Graphwise[^s-9e03f8c6] | Exit | listed under Exit on portfolio page | Not recorded |
+| SEON[^s-9e03f8c6] | Venture Capital | listed under Venture Capital on portfolio page | Not recorded |
 
 ## People
 
-- [[public/people/portfolion.com--andr-s-moln-r-bbb2ca|András Molnár]]: CEO and managing partner
-- [[public/people/portfolion.com--aur-l-p-sztor-2a8c5e|Aurél Pásztor]]: Venture Partner
-- [[public/people/portfolion.com--jen-nieder-646abe|Jenő Nieder]]: Deputy CEO and Partner
-- [[public/people/portfolion.com--m-rk-p-lfalvi-f0123f|Márk Pálfalvi]]: Partner
-- [[public/people/portfolion.com--zsolt-mih-ly-80068e|Zsolt Mihály]]: Partner
+- [András Molnár](../people/portfolion.com--andr-s-moln-r-bbb2ca.md) - CEO and managing partner
+- [Aurél Pásztor](../people/portfolion.com--aur-l-p-sztor-2a8c5e.md) - Venture Partner
+- [Jenő Nieder](../people/portfolion.com--jen-nieder-646abe.md) - Deputy CEO and Partner
+- [Márk Pálfalvi](../people/portfolion.com--m-rk-p-lfalvi-f0123f.md) - Partner
+- [Zsolt Mihály](../people/portfolion.com--zsolt-mih-ly-80068e.md) - Partner
 
-## Sources
-
-- [Source](https://www.portfolion.com/)
-- [Source](https://www.portfolion.com/companies/)
-- [Source](https://www.portfolion.com/venture-capital/)
+[^s-a7abd212]: <https://www.portfolion.com/>
+[^s-9e03f8c6]: <https://www.portfolion.com/companies/>
+[^s-483cd504]: <https://www.portfolion.com/venture-capital/>

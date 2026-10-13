@@ -1,26 +1,37 @@
 ---
+type: Investor Firm
+title: Baukunst
+description: venture capital; pre-seed, series A; technology, design.
+resource: https://baukunst.co
+tags:
+- investor-firm
+- directory
+domain: baukunst.co
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 19
+status: draft
+sources:
+- id: s-8ecadcb0
+  resource: https://baukunst.co
+- id: s-1dd2677e
+  resource: https://baukunst.co/
+- id: s-696eacbe
+  resource: https://baukunst.co/investments
 ---
 
 # Baukunst
-
-[Website](https://baukunst.co)
-
-Domain: baukunst.co
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** venture capital ([source](https://baukunst.co/), as of not recorded)
-- **Investment strategies:** early-stage venture investing ([source](https://baukunst.co/), as of not recorded)
-- **Stages:** pre-seed, series A ([source](https://baukunst.co/investments), as of not recorded)
-- **Sectors:** technology, design ([source](https://baukunst.co/), as of not recorded)
-- **Leads rounds:** yes ([source](https://baukunst.co/investments), as of not recorded)
+- **Type:** venture capital[^s-1dd2677e]
+- **Investment strategies:** early-stage venture investing[^s-1dd2677e]
+- **Stages:** pre-seed, series A[^s-696eacbe]
+- **Sectors:** technology, design[^s-1dd2677e]
+- **Leads rounds:** yes[^s-696eacbe]
 
 ## Portfolio
 
@@ -28,9 +39,8 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://baukunst.co)
-- [Source](https://baukunst.co/)
-- [Source](https://baukunst.co/investments)
+[^s-8ecadcb0]: <https://baukunst.co>
+[^s-1dd2677e]: <https://baukunst.co/>
+[^s-696eacbe]: <https://baukunst.co/investments>

@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Alex Kurland
+description: General Partner at Meritech.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-25T00:00:00Z'
+sources:
+- id: s-a9406e93
+  resource: https://www.meritechcapital.com/team
+---
+
 # Alex Kurland
 
-[[public/firms/meritechcapital.com|Firm profile]]
+[Firm profile](../firms/meritechcapital.com.md)
 
-Role: General Partner
+Role: General Partner[^s-a9406e93]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.meritechcapital.com/team)
+[^s-a9406e93]: <https://www.meritechcapital.com/team>

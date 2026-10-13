@@ -1,52 +1,61 @@
 ---
+type: Investor Firm
+title: Lumia Capital
+description: venture capital; expansion stage, earlier stage; Mobile technologies,
+  Business Cloud Applications & Infrastructure, Marketplaces, Financial Technology.
+resource: https://lumiacapital.com
+tags:
+- investor-firm
+- sourced
+domain: lumiacapital.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 69
+sources:
+- id: s-69df1b85
+  resource: https://lumiacapital.com/
+- id: s-c7fdc54e
+  resource: https://lumiacapital.com/companies
+- id: s-4f7122da
+  resource: https://lumiacapital.com/people/
 ---
 
 # Lumia Capital
 
-[Website](https://lumiacapital.com)
-
-Domain: lumiacapital.com
-
-Coverage: sourced
-
-Research date: 2026-10-04
-
 ## Public research
 
-- **HQ:** San Francisco, CA ([source](https://lumiacapital.com/), as of None)
-- **Geographies:** us, europe, latam, Middle East ([source](https://lumiacapital.com/), as of None)
-- **Check size min:** $3M (initial, expansion stage) ([source](https://lumiacapital.com/), as of None)
-- **Check size max:** $30M+ (initial, expansion stage) ([source](https://lumiacapital.com/), as of None)
-- **Thesis quote:** Lumia focuses on companies with clear, long term defensibility and great partners around the table. ([source](https://lumiacapital.com/), as of None)
-- **Type:** venture capital ([source](https://lumiacapital.com/), as of not recorded)
-- **Investment strategies:** expansion stage investing, international growth ([source](https://lumiacapital.com/), as of not recorded)
-- **Stages:** expansion stage, earlier stage ([source](https://lumiacapital.com/), as of not recorded)
-- **Sectors:** Mobile technologies, Business Cloud Applications & Infrastructure, Marketplaces, Financial Technology ([source](https://lumiacapital.com/), as of not recorded)
-- **Leads rounds:** yes ([source](https://lumiacapital.com/), as of not recorded)
+- **HQ:** San Francisco, CA (as of None)[^s-69df1b85]
+- **Geographies:** us, europe, latam, Middle East (as of None)[^s-69df1b85]
+- **Check size min:** $3M (initial, expansion stage) (as of None)[^s-69df1b85]
+- **Check size max:** $30M+ (initial, expansion stage) (as of None)[^s-69df1b85]
+- **Thesis quote:** Lumia focuses on companies with clear, long term defensibility and great partners around the table. (as of None)[^s-69df1b85]
+- **Type:** venture capital[^s-69df1b85]
+- **Investment strategies:** expansion stage investing, international growth[^s-69df1b85]
+- **Stages:** expansion stage, earlier stage[^s-69df1b85]
+- **Sectors:** Mobile technologies, Business Cloud Applications & Infrastructure, Marketplaces, Financial Technology[^s-69df1b85]
+- **Leads rounds:** yes[^s-69df1b85]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| PagerDuty | Not recorded | exited (marked on portfolio page) | Not recorded | [Source](https://lumiacapital.com/companies) |
-| Procore | Not recorded | listed on portfolio page | Not recorded | [Source](https://lumiacapital.com/companies) |
-| Careem | Not recorded | exited (marked on portfolio page) | Not recorded | [Source](https://lumiacapital.com/companies) |
-| Mulesoft | Not recorded | exited (marked on portfolio page) | Not recorded | [Source](https://lumiacapital.com/companies) |
-| Greenhouse | Not recorded | listed on portfolio page | Not recorded | [Source](https://lumiacapital.com/companies) |
-| OpenDNS | Not recorded | exited (marked on portfolio page) | Not recorded | [Source](https://lumiacapital.com/companies) |
-| Hinge | Not recorded | exited (marked on portfolio page) | Not recorded | [Source](https://lumiacapital.com/companies) |
-| Kabbage | Not recorded | listed on portfolio page | Not recorded | [Source](https://lumiacapital.com/companies) |
-| Méliuz | Not recorded | listed on portfolio page | Not recorded | [Source](https://lumiacapital.com/companies) |
-| Hired | Not recorded | listed on portfolio page | Not recorded | [Source](https://lumiacapital.com/companies) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| PagerDuty[^s-c7fdc54e] | Not recorded | exited (marked on portfolio page) | Not recorded |
+| Procore[^s-c7fdc54e] | Not recorded | listed on portfolio page | Not recorded |
+| Careem[^s-c7fdc54e] | Not recorded | exited (marked on portfolio page) | Not recorded |
+| Mulesoft[^s-c7fdc54e] | Not recorded | exited (marked on portfolio page) | Not recorded |
+| Greenhouse[^s-c7fdc54e] | Not recorded | listed on portfolio page | Not recorded |
+| OpenDNS[^s-c7fdc54e] | Not recorded | exited (marked on portfolio page) | Not recorded |
+| Hinge[^s-c7fdc54e] | Not recorded | exited (marked on portfolio page) | Not recorded |
+| Kabbage[^s-c7fdc54e] | Not recorded | listed on portfolio page | Not recorded |
+| Méliuz[^s-c7fdc54e] | Not recorded | listed on portfolio page | Not recorded |
+| Hired[^s-c7fdc54e] | Not recorded | listed on portfolio page | Not recorded |
 
 ## People
 
-- [[public/people/lumiacapital.com--chris-rogers-b51005|Chris Rogers]]: Partner
-- [[public/people/lumiacapital.com--martin-gedalin-bea8b8|Martin Gedalin]]: Partner
+- [Chris Rogers](../people/lumiacapital.com--chris-rogers-b51005.md) - Partner
+- [Martin Gedalin](../people/lumiacapital.com--martin-gedalin-bea8b8.md) - Partner
 
-## Sources
-
-- [Source](https://lumiacapital.com/)
-- [Source](https://lumiacapital.com/companies)
-- [Source](https://lumiacapital.com/people/)
+[^s-69df1b85]: <https://lumiacapital.com/>
+[^s-c7fdc54e]: <https://lumiacapital.com/companies>
+[^s-4f7122da]: <https://lumiacapital.com/people/>

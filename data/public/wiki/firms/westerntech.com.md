@@ -1,42 +1,53 @@
 ---
+type: Investor Firm
+title: Western Technology Investment
+description: venture-debt provider; seed through public listing; technology and major
+  innovation sectors.
+resource: https://www.westerntech.com
+tags:
+- investor-firm
+- directory
+domain: westerntech.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 39
+status: draft
+sources:
+- id: s-b0d0e3ca
+  resource: https://www.crunchbase.com/organization/western-technology-investment
+- id: s-d1cd0130
+  resource: https://www.westerntech.com
+- id: s-63e5dc26
+  resource: https://www.westerntech.com/
 ---
 
 # Western Technology Investment
-
-[Website](https://www.westerntech.com)
-
-Domain: westerntech.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** us ([source](https://www.crunchbase.com/organization/western-technology-investment), as of 2026-04-19)
-- **About:** Western Technology Investment (WTI) is a Portola Valley, California–based venture debt firm founded in 1980. WTI pioneered the venture-debt category; since 1994 it has raised 11 funds and deployed approximately $7.8B in aggregate loan commitments to over 1,500 tech and innovation companies from seed through IPO. P10 (NYSE: PX) acquired WTI in August 2022. ([source](https://www.crunchbase.com/organization/western-technology-investment), as of 2026-04-19)
-- **Type:** venture-debt provider ([source](https://www.westerntech.com/), as of not recorded)
-- **Investment strategies:** venture debt ([source](https://www.westerntech.com/), as of not recorded)
-- **Legal structure:** debt capital provider ([source](https://www.westerntech.com/), as of not recorded)
-- **Investment instruments:** debt ([source](https://www.westerntech.com/), as of not recorded)
-- **Stages:** seed through public listing ([source](https://www.westerntech.com/), as of not recorded)
-- **Sectors:** technology and major innovation sectors ([source](https://www.westerntech.com/), as of not recorded)
+- **Geographies:** us (as of 2026-04-19)[^s-b0d0e3ca]
+- **About:** Western Technology Investment (WTI) is a Portola Valley, California–based venture debt firm founded in 1980. WTI pioneered the venture-debt category; since 1994 it has raised 11 funds and deployed approximately $7.8B in aggregate loan commitments to over 1,500 tech and innovation companies from seed through IPO. P10 (NYSE: PX) acquired WTI in August 2022. (as of 2026-04-19)[^s-b0d0e3ca]
+- **Type:** venture-debt provider[^s-63e5dc26]
+- **Investment strategies:** venture debt[^s-63e5dc26]
+- **Legal structure:** debt capital provider[^s-63e5dc26]
+- **Investment instruments:** debt[^s-63e5dc26]
+- **Stages:** seed through public listing[^s-63e5dc26]
+- **Sectors:** technology and major innovation sectors[^s-63e5dc26]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Provided venture | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/western-technology-investment) |
-| Debt product rather than equity | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/western-technology-investment) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Provided venture[^s-b0d0e3ca] | Not recorded | Not recorded | Not recorded |
+| Debt product rather than equity[^s-b0d0e3ca] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.crunchbase.com/organization/western-technology-investment)
-- [Source](https://www.westerntech.com)
-- [Source](https://www.westerntech.com/)
+[^s-b0d0e3ca]: <https://www.crunchbase.com/organization/western-technology-investment>
+[^s-d1cd0130]: <https://www.westerntech.com>
+[^s-63e5dc26]: <https://www.westerntech.com/>

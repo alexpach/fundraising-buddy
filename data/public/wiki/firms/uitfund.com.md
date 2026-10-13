@@ -1,24 +1,30 @@
 ---
+type: Investor Firm
+title: US Innovative Technology Fund
+description: vc; robotics, hardware, physical-ai.
+resource: https://uitfund.com
+tags:
+- investor-firm
+- directory
+domain: uitfund.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 13
+status: draft
+sources:
+- id: s-47a32482
+  resource: https://uitfund.com
 ---
 
 # US Innovative Technology Fund
-
-[Website](https://uitfund.com)
-
-Domain: uitfund.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://uitfund.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://uitfund.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://uitfund.com), as of not recorded)
+- **Type:** vc (as of 2026-04-24)[^s-47a32482]
+- **Sectors:** robotics, hardware, physical-ai (as of 2026-04-24)[^s-47a32482]
+- **Leads rounds:** unknown[^s-47a32482]
 
 ## Portfolio
 
@@ -26,7 +32,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://uitfund.com)
+[^s-47a32482]: <https://uitfund.com>

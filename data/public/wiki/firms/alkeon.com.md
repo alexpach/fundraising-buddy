@@ -1,24 +1,30 @@
 ---
+type: Investor Firm
+title: Alkeon Capital
+description: vc; robotics, hardware, physical-ai.
+resource: https://alkeon.com
+tags:
+- investor-firm
+- directory
+domain: alkeon.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 13
+status: draft
+sources:
+- id: s-d17ded50
+  resource: https://alkeon.com
 ---
 
 # Alkeon Capital
-
-[Website](https://alkeon.com)
-
-Domain: alkeon.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://alkeon.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://alkeon.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://alkeon.com), as of not recorded)
+- **Type:** vc (as of 2026-04-24)[^s-d17ded50]
+- **Sectors:** robotics, hardware, physical-ai (as of 2026-04-24)[^s-d17ded50]
+- **Leads rounds:** unknown[^s-d17ded50]
 
 ## Portfolio
 
@@ -26,7 +32,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://alkeon.com)
+[^s-d17ded50]: <https://alkeon.com>

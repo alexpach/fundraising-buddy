@@ -1,49 +1,63 @@
 ---
+type: Investor Firm
+title: 11.2 Capital
+description: venture capital; Seed; AI, cybersecurity, quantum, robotics, new space,
+  data-driven healthcare, climate tech.
+resource: https://112capital.com
+tags:
+- investor-firm
+- sourced
+domain: 112capital.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 65
+sources:
+- id: s-1d228654
+  resource: http://112capital.com/perspectives
+- id: s-17885b91
+  resource: https://112capital.com/about.html
+- id: s-6b5f6b51
+  resource: https://www.112capital.com/
+- id: s-217fa840
+  resource: https://www.112capital.com/about.html
+- id: s-c232ed4b
+  resource: https://www.112capital.com/news.html
 ---
 
 # 11.2 Capital
 
-[Website](https://112capital.com)
-
-Domain: 112capital.com
-
-Coverage: sourced
-
-Research date: 2026-10-03
-
 ## Public research
 
-- **HQ:** San Francisco ([source](http://112capital.com/perspectives), as of None)
-- **Latest fund:** $101M announced (Forbes headline) ([source](https://www.112capital.com/news.html), as of 2021-11)
-- **Thesis quote:** We invest in founders solving the biggest challenges facing our world with emerging technologies. ([source](https://112capital.com/about.html), as of None)
-- **Type:** venture capital ([source](https://www.112capital.com/news.html), as of 2021-04-29)
-- **Investment strategies:** emerging technology investing ([source](https://www.112capital.com/news.html), as of 2021-04-29)
-- **Stages:** Seed ([source](https://www.112capital.com/news.html), as of 2021-04-29)
-- **Sectors:** AI, cybersecurity, quantum, robotics, new space, data-driven healthcare, climate tech ([source](https://www.112capital.com/about.html), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.112capital.com/news.html), as of 2021-04-29)
+- **HQ:** San Francisco (as of None)[^s-1d228654]
+- **Latest fund:** $101M announced (Forbes headline) (as of 2021-11)[^s-c232ed4b]
+- **Thesis quote:** We invest in founders solving the biggest challenges facing our world with emerging technologies. (as of None)[^s-17885b91]
+- **Type:** venture capital (as of 2021-04-29)[^s-c232ed4b]
+- **Investment strategies:** emerging technology investing (as of 2021-04-29)[^s-c232ed4b]
+- **Stages:** Seed (as of 2021-04-29)[^s-c232ed4b]
+- **Sectors:** AI, cybersecurity, quantum, robotics, new space, data-driven healthcare, climate tech[^s-217fa840]
+- **Leads rounds:** yes (as of 2021-04-29)[^s-c232ed4b]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Bay Labs (now Caption Health) | healthcare AI | portfolio company per firm perspectives page | Not recorded | [Source](http://112capital.com/perspectives) |
-| Auransa | precision medicine | portfolio company per firm perspectives page | Not recorded | [Source](http://112capital.com/perspectives) |
-| Deep Genomics | genomics | portfolio company per firm perspectives page | Not recorded | [Source](http://112capital.com/perspectives) |
-| Loop Genomics | genomics | portfolio company per firm perspectives page | Not recorded | [Source](http://112capital.com/perspectives) |
-| Genturi | genomics | portfolio company per firm perspectives page | Not recorded | [Source](http://112capital.com/perspectives) |
-| Molecular Assemblies | DNA synthesis | portfolio company per firm perspectives page | Not recorded | [Source](http://112capital.com/perspectives) |
-| Notable Labs | cancer therapeutics | portfolio company per firm perspectives page | Not recorded | [Source](http://112capital.com/perspectives) |
-| Hinge Health | digital health | portfolio company per firm perspectives page | Not recorded | [Source](http://112capital.com/perspectives) |
-| Ginkgo Bioworks | synthetic biology | portfolio company per firm perspectives page | Not recorded | [Source](http://112capital.com/perspectives) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Bay Labs (now Caption Health)[^s-1d228654] | healthcare AI | portfolio company per firm perspectives page | Not recorded |
+| Auransa[^s-1d228654] | precision medicine | portfolio company per firm perspectives page | Not recorded |
+| Deep Genomics[^s-1d228654] | genomics | portfolio company per firm perspectives page | Not recorded |
+| Loop Genomics[^s-1d228654] | genomics | portfolio company per firm perspectives page | Not recorded |
+| Genturi[^s-1d228654] | genomics | portfolio company per firm perspectives page | Not recorded |
+| Molecular Assemblies[^s-1d228654] | DNA synthesis | portfolio company per firm perspectives page | Not recorded |
+| Notable Labs[^s-1d228654] | cancer therapeutics | portfolio company per firm perspectives page | Not recorded |
+| Hinge Health[^s-1d228654] | digital health | portfolio company per firm perspectives page | Not recorded |
+| Ginkgo Bioworks[^s-1d228654] | synthetic biology | portfolio company per firm perspectives page | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](http://112capital.com/perspectives)
-- [Source](https://112capital.com/about.html)
-- [Source](https://www.112capital.com/)
-- [Source](https://www.112capital.com/about.html)
-- [Source](https://www.112capital.com/news.html)
+[^s-1d228654]: <http://112capital.com/perspectives>
+[^s-17885b91]: <https://112capital.com/about.html>
+[^s-6b5f6b51]: <https://www.112capital.com/>
+[^s-217fa840]: <https://www.112capital.com/about.html>
+[^s-c232ed4b]: <https://www.112capital.com/news.html>

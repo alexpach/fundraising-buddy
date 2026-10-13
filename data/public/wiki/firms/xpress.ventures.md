@@ -1,42 +1,47 @@
 ---
+type: Investor Firm
+title: Xpress Ventures
+description: cvc; seed; logistics, supply-chain, logtech.
+resource: https://xpress.ventures/
+tags:
+- investor-firm
+- directory
+domain: xpress.ventures
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 41
+status: draft
+sources:
+- id: s-b90d4942
+  resource: https://xpress.ventures/
 ---
 
 # Xpress Ventures
-
-[Website](https://xpress.ventures/)
-
-Domain: xpress.ventures
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://xpress.ventures/), as of 2026-08-07)
-- **Stages:** seed ([source](https://xpress.ventures/), as of 2026-08-07)
-- **Geographies:** europe ([source](https://xpress.ventures/), as of 2026-08-07)
-- **Sectors:** logistics, supply-chain, logtech ([source](https://xpress.ventures/), as of 2026-08-07)
-- **Leads rounds:** unknown ([source](https://xpress.ventures/), as of not recorded)
-- **About:** XPRESS Ventures is the pre-seed/seed venture-building arm of FIEGE, the German family-owned contract-logistics group. It invests in and builds LogTech startups, giving founders access to FIEGE's logistics network and infrastructure ([source](https://xpress.ventures/), as of 2026-08-07)
+- **Type:** cvc (as of 2026-08-07)[^s-b90d4942]
+- **Stages:** seed (as of 2026-08-07)[^s-b90d4942]
+- **Geographies:** europe (as of 2026-08-07)[^s-b90d4942]
+- **Sectors:** logistics, supply-chain, logtech (as of 2026-08-07)[^s-b90d4942]
+- **Leads rounds:** unknown[^s-b90d4942]
+- **About:** XPRESS Ventures is the pre-seed/seed venture-building arm of FIEGE, the German family-owned contract-logistics group. It invests in and builds LogTech startups, giving founders access to FIEGE's logistics network and infrastructure (as of 2026-08-07)[^s-b90d4942]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Logistikbude | Not recorded | Not recorded | Not recorded | [Source](https://xpress.ventures/) |
-| Autopallet Robotics | Not recorded | Not recorded | Not recorded | [Source](https://xpress.ventures/) |
-| Pyck | Not recorded | Not recorded | Not recorded | [Source](https://xpress.ventures/) |
-| Homie | Not recorded | Not recorded | Not recorded | [Source](https://xpress.ventures/) |
-| Mya | Not recorded | Not recorded | Not recorded | [Source](https://xpress.ventures/) |
-| Zenfulfillment | Not recorded | Not recorded | Not recorded | [Source](https://xpress.ventures/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Logistikbude[^s-b90d4942] | Not recorded | Not recorded | Not recorded |
+| Autopallet Robotics[^s-b90d4942] | Not recorded | Not recorded | Not recorded |
+| Pyck[^s-b90d4942] | Not recorded | Not recorded | Not recorded |
+| Homie[^s-b90d4942] | Not recorded | Not recorded | Not recorded |
+| Mya[^s-b90d4942] | Not recorded | Not recorded | Not recorded |
+| Zenfulfillment[^s-b90d4942] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://xpress.ventures/)
+[^s-b90d4942]: <https://xpress.ventures/>

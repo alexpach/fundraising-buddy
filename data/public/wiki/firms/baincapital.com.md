@@ -1,24 +1,30 @@
 ---
+type: Investor Firm
+title: Bain Capital Tech Opportunities
+description: vc; robotics, hardware, physical-ai.
+resource: https://baincapital.com
+tags:
+- investor-firm
+- directory
+domain: baincapital.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 12
+status: draft
+sources:
+- id: s-32e8bfd3
+  resource: https://baincapital.com
 ---
 
 # Bain Capital Tech Opportunities
-
-[Website](https://baincapital.com)
-
-Domain: baincapital.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://baincapital.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://baincapital.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://baincapital.com), as of not recorded)
+- **Type:** vc (as of 2026-04-24)[^s-32e8bfd3]
+- **Sectors:** robotics, hardware, physical-ai (as of 2026-04-24)[^s-32e8bfd3]
+- **Leads rounds:** unknown[^s-32e8bfd3]
 
 ## Portfolio
 
@@ -26,7 +32,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://baincapital.com)
+[^s-32e8bfd3]: <https://baincapital.com>

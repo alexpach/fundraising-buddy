@@ -1,61 +1,73 @@
 ---
+type: Investor Firm
+title: Amadeus Capital Partners
+description: venture capital; seed, growth; Intelligence (AI, advanced computing,
+  and quantum), Human (health, medicine, and wellness), Planet (sustainability, energy,
+  novel materials, and space utilisation).
+resource: https://amadeuscapital.com
+tags:
+- investor-firm
+- sourced
+domain: amadeuscapital.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 71
+sources:
+- id: s-689c3ec1
+  resource: https://www.amadeuscapital.com/
+- id: s-1372885e
+  resource: https://www.amadeuscapital.com/locations/
+- id: s-fcd2fcbc
+  resource: https://www.amadeuscapital.com/sitehop-raises-5m-to-develop-cybersecurity-solutions-for-complex-communication-networks/
+- id: s-04b283e9
+  resource: https://www.amadeuscapital.com/the-team/
 ---
 
 # Amadeus Capital Partners
 
-[Website](https://amadeuscapital.com)
-
-Domain: amadeuscapital.com
-
-Coverage: sourced
-
-Research date: 2026-10-03
-
 ## Public research
 
-- **HQ:** London, UK ([source](https://www.amadeuscapital.com/locations/), as of None)
-- **Founded:** 1997 ([source](https://www.amadeuscapital.com/), as of None)
-- **Legal name:** Amadeus Capital Partners Ltd ([source](https://www.amadeuscapital.com/the-team/), as of 2025)
-- **Offices:** London (office page also lists Cambridge and Oxford) ([source](https://www.amadeuscapital.com/locations/), as of None)
-- **Thesis quote:** Creating value by backing trailblazers solving hard problems in large markets ([source](https://www.amadeuscapital.com/), as of None)
-- **Type:** venture capital ([source](https://www.amadeuscapital.com/), as of not recorded)
-- **Investment strategies:** deep tech venture capital ([source](https://www.amadeuscapital.com/), as of not recorded)
-- **Stages:** seed, growth ([source](https://www.amadeuscapital.com/), as of not recorded)
-- **Sectors:** Intelligence (AI, advanced computing, and quantum), Human (health, medicine, and wellness), Planet (sustainability, energy, novel materials, and space utilisation) ([source](https://www.amadeuscapital.com/), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.amadeuscapital.com/sitehop-raises-5m-to-develop-cybersecurity-solutions-for-complex-communication-networks/), as of 2024-02-28)
+- **HQ:** London, UK (as of None)[^s-1372885e]
+- **Founded:** 1997 (as of None)[^s-689c3ec1]
+- **Legal name:** Amadeus Capital Partners Ltd (as of 2025)[^s-04b283e9]
+- **Offices:** London (office page also lists Cambridge and Oxford) (as of None)[^s-1372885e]
+- **Thesis quote:** Creating value by backing trailblazers solving hard problems in large markets (as of None)[^s-689c3ec1]
+- **Type:** venture capital[^s-689c3ec1]
+- **Investment strategies:** deep tech venture capital[^s-689c3ec1]
+- **Stages:** seed, growth[^s-689c3ec1]
+- **Sectors:** Intelligence (AI, advanced computing, and quantum), Human (health, medicine, and wellness), Planet (sustainability, energy, novel materials, and space utilisation)[^s-689c3ec1]
+- **Leads rounds:** yes (as of 2024-02-28)[^s-fcd2fcbc]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| ATMOS Space Cargo | Planet | Not recorded | Not recorded | [Source](https://www.amadeuscapital.com/) |
-| enaDyne | Planet | Not recorded | Not recorded | [Source](https://www.amadeuscapital.com/) |
-| Gemesys | Intelligence | Not recorded | Not recorded | [Source](https://www.amadeuscapital.com/) |
-| Pimloc | AI-based video security and visual privacy | seed (£1.4m) | 2020 | [Source](https://www.amadeuscapital.com/) |
-| Paragraf | graphene electronics | seed | 2018 | [Source](https://www.amadeuscapital.com/) |
-| Healx | AI drug discovery | Series A (£1.5m) | 2016 | [Source](https://www.amadeuscapital.com/) |
-| Sitehop | post-quantum cryptography | seed (£5m, co-led) | 2024 | [Source](https://www.amadeuscapital.com/) |
-| Ravelin | fraud prevention | first invested 2015; acquired by Worldpay (announced) | 2015 | [Source](https://www.amadeuscapital.com/) |
-| OrganOx | organ technology | acquired by Terumo (agreement Aug 2025) | 2025 | [Source](https://www.amadeuscapital.com/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| ATMOS Space Cargo[^s-689c3ec1] | Planet | Not recorded | Not recorded |
+| enaDyne[^s-689c3ec1] | Planet | Not recorded | Not recorded |
+| Gemesys[^s-689c3ec1] | Intelligence | Not recorded | Not recorded |
+| Pimloc[^s-689c3ec1] | AI-based video security and visual privacy | seed (£1.4m) | 2020 |
+| Paragraf[^s-689c3ec1] | graphene electronics | seed | 2018 |
+| Healx[^s-689c3ec1] | AI drug discovery | Series A (£1.5m) | 2016 |
+| Sitehop[^s-689c3ec1] | post-quantum cryptography | seed (£5m, co-led) | 2024 |
+| Ravelin[^s-689c3ec1] | fraud prevention | first invested 2015; acquired by Worldpay (announced) | 2015 |
+| OrganOx[^s-689c3ec1] | organ technology | acquired by Terumo (agreement Aug 2025) | 2025 |
 
 ## People
 
-- [[public/people/amadeuscapital.com--amelia-armour-73deec|Amelia Armour]]: Partner
-- [[public/people/amadeuscapital.com--anne-glover-06ee92|Anne Glover]]: Chief Executive & Co-founder
-- [[public/people/amadeuscapital.com--carl-dickinson-9e4700|Carl Dickinson]]: Partner & General Counsel
-- [[public/people/amadeuscapital.com--craig-marshall-6e6232|Craig Marshall]]: Venture Partner
-- [[public/people/amadeuscapital.com--hermann-hauser-36124b|Hermann Hauser]]: Co-founder & Venture Partner
-- [[public/people/amadeuscapital.com--kelly-richdale-427697|Kelly Richdale]]: Venture Partner
-- [[public/people/amadeuscapital.com--manjari-chandran-ramesh-de98e0|Manjari Chandran-Ramesh]]: Partner
-- [[public/people/amadeuscapital.com--nick-kingsbury-52e757|Nick Kingsbury]]: Partner
-- [[public/people/amadeuscapital.com--pat-burtis-399072|Pat Burtis]]: Partner
-- [[public/people/amadeuscapital.com--pierre-socha-60a3ee|Pierre Socha]]: Partner
-- [[public/people/amadeuscapital.com--steve-young-3c793c|Steve Young]]: Venture Partner
+- [Amelia Armour](../people/amadeuscapital.com--amelia-armour-73deec.md) - Partner
+- [Anne Glover](../people/amadeuscapital.com--anne-glover-06ee92.md) - Chief Executive & Co-founder
+- [Carl Dickinson](../people/amadeuscapital.com--carl-dickinson-9e4700.md) - Partner & General Counsel
+- [Craig Marshall](../people/amadeuscapital.com--craig-marshall-6e6232.md) - Venture Partner
+- [Hermann Hauser](../people/amadeuscapital.com--hermann-hauser-36124b.md) - Co-founder & Venture Partner
+- [Kelly Richdale](../people/amadeuscapital.com--kelly-richdale-427697.md) - Venture Partner
+- [Manjari Chandran-Ramesh](../people/amadeuscapital.com--manjari-chandran-ramesh-de98e0.md) - Partner
+- [Nick Kingsbury](../people/amadeuscapital.com--nick-kingsbury-52e757.md) - Partner
+- [Pat Burtis](../people/amadeuscapital.com--pat-burtis-399072.md) - Partner
+- [Pierre Socha](../people/amadeuscapital.com--pierre-socha-60a3ee.md) - Partner
+- [Steve Young](../people/amadeuscapital.com--steve-young-3c793c.md) - Venture Partner
 
-## Sources
-
-- [Source](https://www.amadeuscapital.com/)
-- [Source](https://www.amadeuscapital.com/locations/)
-- [Source](https://www.amadeuscapital.com/sitehop-raises-5m-to-develop-cybersecurity-solutions-for-complex-communication-networks/)
-- [Source](https://www.amadeuscapital.com/the-team/)
+[^s-689c3ec1]: <https://www.amadeuscapital.com/>
+[^s-1372885e]: <https://www.amadeuscapital.com/locations/>
+[^s-fcd2fcbc]: <https://www.amadeuscapital.com/sitehop-raises-5m-to-develop-cybersecurity-solutions-for-complex-communication-networks/>
+[^s-04b283e9]: <https://www.amadeuscapital.com/the-team/>

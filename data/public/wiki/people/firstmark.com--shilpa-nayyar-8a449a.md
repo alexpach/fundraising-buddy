@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Shilpa Nayyar
+description: Partner & COO at FirstMark.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-7ee77f82
+  resource: https://firstmark.com/team/
+---
+
 # Shilpa Nayyar
 
-[[public/firms/firstmark.com|Firm profile]]
+[Firm profile](../firms/firstmark.com.md)
 
-Role: Partner & COO
+Role: Partner & COO[^s-7ee77f82]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://firstmark.com/team/)
+[^s-7ee77f82]: <https://firstmark.com/team/>

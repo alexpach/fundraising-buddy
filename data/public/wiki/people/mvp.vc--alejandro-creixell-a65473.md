@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Alejandro Creixell
+description: Partner, Head of LatAm at Manhattan Venture Partners.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-8528ed6c
+  resource: https://www.mvp.vc/team
+---
+
 # Alejandro Creixell
 
-[[public/firms/mvp.vc|Firm profile]]
+[Firm profile](../firms/mvp.vc.md)
 
-Role: Partner, Head of LatAm
+Role: Partner, Head of LatAm[^s-8528ed6c]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.mvp.vc/team)
+[^s-8528ed6c]: <https://www.mvp.vc/team>

@@ -1,44 +1,54 @@
 ---
+type: Investor Firm
+title: Drysdale Ventures
+description: venture capital; angel investing; pre-seed; Business solutions, FinTech
+  & CFO Office, Consumer & Gaming, Tech for Engineering, Robotics & Hardware, Artificial
+  Intelligence.
+resource: https://www.drysdale.vc/
+tags:
+- investor-firm
+- directory
+domain: drysdale.vc
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 36
+status: draft
+sources:
+- id: s-e734dd29
+  resource: https://www.drysdale.vc/
+- id: s-b6dd1188
+  resource: https://www.linkedin.com/company/drysdaleventures/
 ---
 
 # Drysdale Ventures
-
-[Website](https://www.drysdale.vc/)
-
-Domain: drysdale.vc
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe ([source](https://www.drysdale.vc/), as of 2026-08-07)
-- **Type:** venture capital; angel investing ([source](https://www.linkedin.com/company/drysdaleventures/), as of not recorded)
-- **Investment strategies:** pre-seed, day-zero investing, follow-on investing ([source](https://www.linkedin.com/company/drysdaleventures/), as of not recorded)
-- **Stages:** pre-seed ([source](https://www.linkedin.com/company/drysdaleventures/), as of not recorded)
-- **Sectors:** Business solutions, FinTech & CFO Office, Consumer & Gaming, Tech for Engineering, Robotics & Hardware, Artificial Intelligence ([source](https://www.linkedin.com/company/drysdaleventures/), as of not recorded)
+- **Geographies:** europe (as of 2026-08-07)[^s-e734dd29]
+- **Type:** venture capital; angel investing[^s-b6dd1188]
+- **Investment strategies:** pre-seed, day-zero investing, follow-on investing[^s-b6dd1188]
+- **Stages:** pre-seed[^s-b6dd1188]
+- **Sectors:** Business solutions, FinTech & CFO Office, Consumer & Gaming, Tech for Engineering, Robotics & Hardware, Artificial Intelligence[^s-b6dd1188]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Topograph | Not recorded | Not recorded | Not recorded | [Source](https://www.drysdale.vc/) |
-| MecAgent | Not recorded | Not recorded | Not recorded | [Source](https://www.drysdale.vc/) |
-| Holos Robotics | Not recorded | Not recorded | Not recorded | [Source](https://www.drysdale.vc/) |
-| ZML | Not recorded | Not recorded | Not recorded | [Source](https://www.drysdale.vc/) |
-| Concord AI | Not recorded | Not recorded | Not recorded | [Source](https://www.drysdale.vc/) |
-| Clarifeye | Not recorded | Not recorded | Not recorded | [Source](https://www.drysdale.vc/) |
-| White Circle | Not recorded | Not recorded | Not recorded | [Source](https://www.drysdale.vc/) |
-| Marso (Marso Robotics) | Not recorded | Not recorded | Not recorded | [Source](https://www.drysdale.vc/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Topograph[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| MecAgent[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Holos Robotics[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| ZML[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Concord AI[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Clarifeye[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| White Circle[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Marso (Marso Robotics)[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.drysdale.vc/)
-- [Source](https://www.linkedin.com/company/drysdaleventures/)
+[^s-e734dd29]: <https://www.drysdale.vc/>
+[^s-b6dd1188]: <https://www.linkedin.com/company/drysdaleventures/>

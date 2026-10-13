@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Stuart Chapman
+description: Director at Molten Ventures plc.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
+sources:
+- id: s-aa60721d
+  resource: https://investors.moltenventures.com/investor-relations/eis/team
+---
+
 # Stuart Chapman
 
-[[public/firms/moltenventures.com|Firm profile]]
+[Firm profile](../firms/moltenventures.com.md)
 
-Role: Director
+Role: Director[^s-aa60721d]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://investors.moltenventures.com/investor-relations/eis/team)
+[^s-aa60721d]: <https://investors.moltenventures.com/investor-relations/eis/team>

@@ -1,45 +1,51 @@
 ---
+type: Investor Firm
+title: Axon Venture Fund
+description: cvc; seed, series-a, series-b; public-safety, law-enforcement-tech, ai,
+  drones, robotics, hardware, defense, autonomous-systems.
+resource: https://www.axon.com
+tags:
+- investor-firm
+- directory
+domain: axon.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 60
+status: draft
+sources:
+- id: s-2002222f
+  resource: https://www.axon.com
 ---
 
 # Axon Venture Fund
-
-[Website](https://www.axon.com)
-
-Domain: axon.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://www.axon.com), as of 2026-06-08)
-- **Stages:** seed, series-a, series-b ([source](https://www.axon.com), as of 2026-06-08)
-- **Geographies:** us ([source](https://www.axon.com), as of 2026-06-08)
-- **Sectors:** public-safety, law-enforcement-tech, ai, drones, robotics, hardware, defense, autonomous-systems ([source](https://www.axon.com), as of 2026-06-08)
-- **AUM:** 50M ([source](https://www.axon.com), as of 2026-06-08)
-- **Check size min:** 500K ([source](https://www.axon.com), as of 2026-06-08)
-- **Check size max:** 5M ([source](https://www.axon.com), as of 2026-06-08)
-- **Leads rounds:** unknown ([source](https://www.axon.com), as of not recorded)
-- **About:** The Axon Venture Fund is a ~$50M corporate venture initiative from Axon Enterprise (NASDAQ: AXON), the leading public-safety technology company (Taser, body cameras, evidence cloud). It invests in public-safety and adjacent startups that extend Axon's platform ([source](https://www.axon.com), as of 2026-06-08)
+- **Type:** cvc (as of 2026-06-08)[^s-2002222f]
+- **Stages:** seed, series-a, series-b (as of 2026-06-08)[^s-2002222f]
+- **Geographies:** us (as of 2026-06-08)[^s-2002222f]
+- **Sectors:** public-safety, law-enforcement-tech, ai, drones, robotics, hardware, defense, autonomous-systems (as of 2026-06-08)[^s-2002222f]
+- **AUM:** 50M (as of 2026-06-08)[^s-2002222f]
+- **Check size min:** 500K (as of 2026-06-08)[^s-2002222f]
+- **Check size max:** 5M (as of 2026-06-08)[^s-2002222f]
+- **Leads rounds:** unknown[^s-2002222f]
+- **About:** The Axon Venture Fund is a ~$50M corporate venture initiative from Axon Enterprise (NASDAQ: AXON), the leading public-safety technology company (Taser, body cameras, evidence cloud). It invests in public-safety and adjacent startups that extend Axon's platform (as of 2026-06-08)[^s-2002222f]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Fusus | Not recorded | Not recorded | Not recorded | [Source](https://www.axon.com) |
-| Dedrone | Not recorded | Not recorded | Not recorded | [Source](https://www.axon.com) |
-| Sky | Not recorded | Not recorded | Not recorded | [Source](https://www.axon.com) |
-| Regroup Mass Notification | Not recorded | Not recorded | Not recorded | [Source](https://www.axon.com) |
-| Prepared | Not recorded | Not recorded | Not recorded | [Source](https://www.axon.com) |
-| Axon directly acquired Dedrone | Not recorded | Not recorded | Not recorded | [Source](https://www.axon.com) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Fusus[^s-2002222f] | Not recorded | Not recorded | Not recorded |
+| Dedrone[^s-2002222f] | Not recorded | Not recorded | Not recorded |
+| Sky[^s-2002222f] | Not recorded | Not recorded | Not recorded |
+| Regroup Mass Notification[^s-2002222f] | Not recorded | Not recorded | Not recorded |
+| Prepared[^s-2002222f] | Not recorded | Not recorded | Not recorded |
+| Axon directly acquired Dedrone[^s-2002222f] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.axon.com)
+[^s-2002222f]: <https://www.axon.com>

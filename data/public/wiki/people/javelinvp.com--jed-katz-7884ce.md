@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Jed Katz
+description: Managing Director at Javelin Venture Partners.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-56978215
+  resource: https://www.javelinvp.com/team
+---
+
 # Jed Katz
 
-[[public/firms/javelinvp.com|Firm profile]]
+[Firm profile](../firms/javelinvp.com.md)
 
-Role: Managing Director
+Role: Managing Director[^s-56978215]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.javelinvp.com/team)
+[^s-56978215]: <https://www.javelinvp.com/team>

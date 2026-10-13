@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Céline Passedouet
+description: Investment Director at Elaia.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-3c118479
+  resource: https://elaia.com/team
+---
+
 # Céline Passedouet
 
-[[public/firms/elaia.com|Firm profile]]
+[Firm profile](../firms/elaia.com.md)
 
-Role: Investment Director
+Role: Investment Director[^s-3c118479]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://elaia.com/team)
+[^s-3c118479]: <https://elaia.com/team>

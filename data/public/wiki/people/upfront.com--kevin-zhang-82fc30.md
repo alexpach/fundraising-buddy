@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Kevin Zhang
+description: General Partner at Upfront Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
+sources:
+- id: s-38f04ca8
+  resource: https://upfront.com/people/kevin-zhang
+---
+
 # Kevin Zhang
 
-[[public/firms/upfront.com|Firm profile]]
+[Firm profile](../firms/upfront.com.md)
 
-Role: General Partner
+Role: General Partner[^s-38f04ca8]
 
 Focus: health tech, gaming
 
-## Public sources
-
-- [Source](https://upfront.com/people/kevin-zhang)
+[^s-38f04ca8]: <https://upfront.com/people/kevin-zhang>

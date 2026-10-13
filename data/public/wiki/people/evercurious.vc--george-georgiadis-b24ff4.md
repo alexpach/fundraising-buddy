@@ -1,11 +1,23 @@
+---
+type: Investor
+title: George Georgiadis
+description: Partner at Evercurious VC.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-41740c3a
+  resource: https://www.evercurious.vc/team
+---
+
 # George Georgiadis
 
-[[public/firms/evercurious.vc|Firm profile]]
+[Firm profile](../firms/evercurious.vc.md)
 
-Role: Partner
+Role: Partner[^s-41740c3a]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.evercurious.vc/team)
+[^s-41740c3a]: <https://www.evercurious.vc/team>

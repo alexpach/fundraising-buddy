@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Gen Isayama
+description: General Partner & CEO at World Innovation Lab.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-01b91bc6
+  resource: https://wil.vc/team
+---
+
 # Gen Isayama
 
-[[public/firms/wil.vc|Firm profile]]
+[Firm profile](../firms/wil.vc.md)
 
-Role: General Partner & CEO
+Role: General Partner & CEO[^s-01b91bc6]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://wil.vc/team)
+[^s-01b91bc6]: <https://wil.vc/team>

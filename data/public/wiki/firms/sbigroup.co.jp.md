@@ -1,24 +1,30 @@
 ---
+type: Investor Firm
+title: SBI Investment
+description: vc; robotics, hardware, physical-ai.
+resource: https://sbigroup.co.jp
+tags:
+- investor-firm
+- directory
+domain: sbigroup.co.jp
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 14
+status: draft
+sources:
+- id: s-0a1915d5
+  resource: https://sbigroup.co.jp
 ---
 
 # SBI Investment
-
-[Website](https://sbigroup.co.jp)
-
-Domain: sbigroup.co.jp
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://sbigroup.co.jp), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://sbigroup.co.jp), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://sbigroup.co.jp), as of not recorded)
+- **Type:** vc (as of 2026-04-24)[^s-0a1915d5]
+- **Sectors:** robotics, hardware, physical-ai (as of 2026-04-24)[^s-0a1915d5]
+- **Leads rounds:** unknown[^s-0a1915d5]
 
 ## Portfolio
 
@@ -26,7 +32,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://sbigroup.co.jp)
+[^s-0a1915d5]: <https://sbigroup.co.jp>

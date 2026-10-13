@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Dr. Heiko Milde
+description: Managing Director at IFB Innovationsstarter GmbH.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-974bcc6d
+  resource: https://innovationsstarter.com/team/
+---
+
 # Dr. Heiko Milde
 
-[[public/firms/innovationsstarter.com|Firm profile]]
+[Firm profile](../firms/innovationsstarter.com.md)
 
-Role: Managing Director
+Role: Managing Director[^s-974bcc6d]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://innovationsstarter.com/team/)
+[^s-974bcc6d]: <https://innovationsstarter.com/team/>

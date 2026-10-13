@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Adam Gazzaley
+description: Venture Partner at JAZZ Venture Partners.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
+sources:
+- id: s-a08552ec
+  resource: https://jazzvp.com/
+---
+
 # Adam Gazzaley
 
-[[public/firms/jazzvp.com|Firm profile]]
+[Firm profile](../firms/jazzvp.com.md)
 
-Role: Venture Partner
+Role: Venture Partner[^s-a08552ec]
 
 Focus: Scientific, research and technological operations
 
-## Public sources
-
-- [Source](https://jazzvp.com/)
+[^s-a08552ec]: <https://jazzvp.com/>

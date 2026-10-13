@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Martin Laforest
+description: Partner at Quantacet.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-59d85fb7
+  resource: https://www.quantacet.com/en/team/
+---
+
 # Martin Laforest
 
-[[public/firms/quantacet.com|Firm profile]]
+[Firm profile](../firms/quantacet.com.md)
 
-Role: Partner
+Role: Partner[^s-59d85fb7]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.quantacet.com/en/team/)
+[^s-59d85fb7]: <https://www.quantacet.com/en/team/>

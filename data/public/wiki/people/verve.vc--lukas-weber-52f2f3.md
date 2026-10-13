@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Lukas Weber
+description: Partner, CEO at Verve Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
+sources:
+- id: s-df63c6b0
+  resource: https://www.verve.vc/team/
+---
+
 # Lukas Weber
 
-[[public/firms/verve.vc|Firm profile]]
+[Firm profile](../firms/verve.vc.md)
 
-Role: Partner, CEO
+Role: Partner, CEO[^s-df63c6b0]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.verve.vc/team/)
+[^s-df63c6b0]: <https://www.verve.vc/team/>

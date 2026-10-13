@@ -1,48 +1,58 @@
 ---
+type: Investor Firm
+title: Visionnaire Ventures
+description: Public investor profile for Visionnaire Ventures.
+resource: https://visionnaire.vc
+tags:
+- investor-firm
+- sourced
+domain: visionnaire.vc
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-25T00:00:00Z'
 jev-score: 52
+sources:
+- id: s-774a45f3
+  resource: https://gamesbeat.com/helpshift-raises-10m-to-help-mobile-game-companies-and-others-deal-with-the-customer-service-hordes/
+- id: s-9a493a9c
+  resource: https://visionnaire.vc
+- id: s-cff967c6
+  resource: https://visionnaire.vc/
+- id: s-6abe382d
+  resource: https://www.sec.gov/Archives/edgar/data/1599987/000159998714000001/primary_doc.xml
 ---
 
 # Visionnaire Ventures
 
-[Website](https://visionnaire.vc)
-
-Domain: visionnaire.vc
-
-Coverage: sourced
-
-Research date: 2026-08-25
-
 ## Public research
 
-- **Legal name:** Visionnaire Ventures Fund I, L.P. ([source](https://www.sec.gov/Archives/edgar/data/1599987/000159998714000001/primary_doc.xml), as of 2014-03)
-- **Leads rounds:** unknown ([source](https://visionnaire.vc), as of not recorded)
+- **Legal name:** Visionnaire Ventures Fund I, L.P. (as of 2014-03)[^s-6abe382d]
+- **Leads rounds:** unknown[^s-9a493a9c]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Zipline | healthcare logistics / delivery | Not recorded | Not recorded | [Source](https://visionnaire.vc/) |
-| Canvas Technology | robotics / automation | Not recorded | Not recorded | [Source](https://visionnaire.vc/) |
-| ModBot | robotics | Not recorded | Not recorded | [Source](https://visionnaire.vc/) |
-| Zoox | autonomous vehicles | Not recorded | Not recorded | [Source](https://visionnaire.vc/) |
-| Savioke | robotics / hospitality services | Not recorded | Not recorded | [Source](https://visionnaire.vc/) |
-| area17.ai | aerial surveillance / security | Not recorded | Not recorded | [Source](https://visionnaire.vc/) |
-| Bigfoot Biomedical | digital health | Not recorded | Not recorded | [Source](https://visionnaire.vc/) |
-| FiscalNote | govtech / legislative analytics | Not recorded | Not recorded | [Source](https://visionnaire.vc/) |
-| Price.com | e-commerce / comparison shopping | Not recorded | Not recorded | [Source](https://visionnaire.vc/) |
-| Helpshift | mobile customer service / CRM | $10M round led by Intel Capital | 2014-06 | [Source](https://gamesbeat.com/helpshift-raises-10m-to-help-mobile-game-companies-and-others-deal-with-the-customer-service-hordes/) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Zipline[^s-cff967c6] | healthcare logistics / delivery | Not recorded | Not recorded |
+| Canvas Technology[^s-cff967c6] | robotics / automation | Not recorded | Not recorded |
+| ModBot[^s-cff967c6] | robotics | Not recorded | Not recorded |
+| Zoox[^s-cff967c6] | autonomous vehicles | Not recorded | Not recorded |
+| Savioke[^s-cff967c6] | robotics / hospitality services | Not recorded | Not recorded |
+| area17.ai[^s-cff967c6] | aerial surveillance / security | Not recorded | Not recorded |
+| Bigfoot Biomedical[^s-cff967c6] | digital health | Not recorded | Not recorded |
+| FiscalNote[^s-cff967c6] | govtech / legislative analytics | Not recorded | Not recorded |
+| Price.com[^s-cff967c6] | e-commerce / comparison shopping | Not recorded | Not recorded |
+| Helpshift[^s-774a45f3] | mobile customer service / CRM | $10M round led by Intel Capital | 2014-06 |
 
 ## People
 
-- [[public/people/visionnaire.vc--atsushi-taira-f8cd2b|Atsushi Taira]]: Advisor
-- [[public/people/visionnaire.vc--fuyuki-yamaguchi-09ea03|Fuyuki Yamaguchi]]: Managing Partner (Japan)
-- [[public/people/visionnaire.vc--kenta-adachi-af05d5|Kenta Adachi]]: Principal (Japan)
-- [[public/people/visionnaire.vc--susan-choe-97f85d|Susan Choe]]: Managing Partner
-- [[public/people/visionnaire.vc--taizo-son-5bbb87|Taizo Son]]: Chairman (Japan)
+- [Atsushi Taira](../people/visionnaire.vc--atsushi-taira-f8cd2b.md) - Advisor
+- [Fuyuki Yamaguchi](../people/visionnaire.vc--fuyuki-yamaguchi-09ea03.md) - Managing Partner (Japan)
+- [Kenta Adachi](../people/visionnaire.vc--kenta-adachi-af05d5.md) - Principal (Japan)
+- [Susan Choe](../people/visionnaire.vc--susan-choe-97f85d.md) - Managing Partner
+- [Taizo Son](../people/visionnaire.vc--taizo-son-5bbb87.md) - Chairman (Japan)
 
-## Sources
-
-- [Source](https://gamesbeat.com/helpshift-raises-10m-to-help-mobile-game-companies-and-others-deal-with-the-customer-service-hordes/)
-- [Source](https://visionnaire.vc)
-- [Source](https://visionnaire.vc/)
-- [Source](https://www.sec.gov/Archives/edgar/data/1599987/000159998714000001/primary_doc.xml)
+[^s-774a45f3]: <https://gamesbeat.com/helpshift-raises-10m-to-help-mobile-game-companies-and-others-deal-with-the-customer-service-hordes/>
+[^s-9a493a9c]: <https://visionnaire.vc>
+[^s-cff967c6]: <https://visionnaire.vc/>
+[^s-6abe382d]: <https://www.sec.gov/Archives/edgar/data/1599987/000159998714000001/primary_doc.xml>

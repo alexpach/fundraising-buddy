@@ -1,25 +1,31 @@
 ---
+type: Investor Firm
+title: Efficient Frontier Investing
+description: vc; seed, series-a.
+resource: https://lakegenevaventures.com
+tags:
+- investor-firm
+- directory
+domain: lakegenevaventures.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 17
+status: draft
+sources:
+- id: s-25d84a34
+  resource: https://lakegenevaventures.com
 ---
 
 # Efficient Frontier Investing
-
-[Website](https://lakegenevaventures.com)
-
-Domain: lakegenevaventures.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://lakegenevaventures.com), as of 2026-08-17)
-- **Stages:** seed, series-a ([source](https://lakegenevaventures.com), as of 2026-08-17)
-- **Geographies:** europe ([source](https://lakegenevaventures.com), as of 2026-08-17)
-- **Leads rounds:** unknown ([source](https://lakegenevaventures.com), as of not recorded)
+- **Type:** vc (as of 2026-08-17)[^s-25d84a34]
+- **Stages:** seed, series-a (as of 2026-08-17)[^s-25d84a34]
+- **Geographies:** europe (as of 2026-08-17)[^s-25d84a34]
+- **Leads rounds:** unknown[^s-25d84a34]
 
 ## Portfolio
 
@@ -27,7 +33,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://lakegenevaventures.com)
+[^s-25d84a34]: <https://lakegenevaventures.com>

@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Dan Ratliff
+description: Partner at Fontinalis Partners, LLC.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-79b79d4d
+  resource: https://fontinalis.com/team/
+---
+
 # Dan Ratliff
 
-[[public/firms/fontinalis.com|Firm profile]]
+[Firm profile](../firms/fontinalis.com.md)
 
-Role: Partner
+Role: Partner[^s-79b79d4d]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://fontinalis.com/team/)
+[^s-79b79d4d]: <https://fontinalis.com/team/>

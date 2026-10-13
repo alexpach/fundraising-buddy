@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Audrey Handem
+description: Principal at Acadian Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-86653585
+  resource: https://www.acadianventures.com/team
+---
+
 # Audrey Handem
 
-[[public/firms/acadianventures.com|Firm profile]]
+[Firm profile](../firms/acadianventures.com.md)
 
-Role: Principal
+Role: Principal[^s-86653585]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.acadianventures.com/team)
+[^s-86653585]: <https://www.acadianventures.com/team>

@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Howard Hartenbaum
+description: General Partner at August Capital.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-3f1a4601
+  resource: https://augustcap.com/team/howard-hartenbaum
+---
+
 # Howard Hartenbaum
 
-[[public/firms/augustcap.com|Firm profile]]
+[Firm profile](../firms/augustcap.com.md)
 
-Role: General Partner
+Role: General Partner[^s-3f1a4601]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://augustcap.com/team/howard-hartenbaum)
+[^s-3f1a4601]: <https://augustcap.com/team/howard-hartenbaum>

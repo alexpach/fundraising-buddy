@@ -1,23 +1,29 @@
 ---
+type: Investor Firm
+title: Verizon
+description: cvc.
+resource: https://verizonventures.com
+tags:
+- investor-firm
+- directory
+domain: verizonventures.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 5
+status: draft
+sources:
+- id: s-c2d385da
+  resource: https://verizonventures.com
 ---
 
 # Verizon
-
-[Website](https://verizonventures.com)
-
-Domain: verizonventures.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://verizonventures.com), as of 2026-04-25)
-- **Leads rounds:** unknown ([source](https://verizonventures.com), as of not recorded)
+- **Type:** cvc (as of 2026-04-25)[^s-c2d385da]
+- **Leads rounds:** unknown[^s-c2d385da]
 
 ## Portfolio
 
@@ -25,7 +31,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://verizonventures.com)
+[^s-c2d385da]: <https://verizonventures.com>

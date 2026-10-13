@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Klaudia Kasperczyk
+description: Principal at TX Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-be89336d
+  resource: https://www.tx.ventures/team
+---
+
 # Klaudia Kasperczyk
 
-[[public/firms/tx.ventures|Firm profile]]
+[Firm profile](../firms/tx.ventures.md)
 
-Role: Principal
+Role: Principal[^s-be89336d]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.tx.ventures/team)
+[^s-be89336d]: <https://www.tx.ventures/team>

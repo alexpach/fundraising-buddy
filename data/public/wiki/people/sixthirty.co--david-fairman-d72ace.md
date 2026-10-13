@@ -1,11 +1,23 @@
+---
+type: Investor
+title: David Fairman
+description: Venture Partner and CISO-in-Residence at SixThirty Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-c937806e
+  resource: https://sixthirty.co/about
+---
+
 # David Fairman
 
-[[public/firms/sixthirty.co|Firm profile]]
+[Firm profile](../firms/sixthirty.co.md)
 
-Role: Venture Partner and CISO-in-Residence
+Role: Venture Partner and CISO-in-Residence[^s-c937806e]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://sixthirty.co/about)
+[^s-c937806e]: <https://sixthirty.co/about>

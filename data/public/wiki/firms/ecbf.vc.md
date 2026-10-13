@@ -1,28 +1,39 @@
 ---
+type: Investor Firm
+title: European Circular Bioeconomy Fund (ECBF)
+description: venture capital; growth, later-stage; bioeconomy, circular bioeconomy.
+resource: https://ecbf.vc
+tags:
+- investor-firm
+- directory
+domain: ecbf.vc
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 44
+status: draft
+sources:
+- id: s-26e9795f
+  resource: https://ecbf.vc
+- id: s-67521d1e
+  resource: https://ecbf.vc/pr-series-a-vegdog/
+- id: s-dc06a4ee
+  resource: https://ecbf.vc/press-release-final-closing/
 ---
 
 # European Circular Bioeconomy Fund (ECBF)
-
-[Website](https://ecbf.vc)
-
-Domain: ecbf.vc
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe ([source](https://ecbf.vc), as of 2026-08-17)
-- **Type:** venture capital ([source](https://ecbf.vc/pr-series-a-vegdog/), as of 2025-06-02)
-- **Investment strategies:** growth-stage investing ([source](https://ecbf.vc/pr-series-a-vegdog/), as of 2025-06-02)
-- **Legal structure:** fund ([source](https://ecbf.vc/pr-series-a-vegdog/), as of 2025-06-02)
-- **Stages:** growth, later-stage ([source](https://ecbf.vc/press-release-final-closing/), as of 2022-02-23)
-- **Sectors:** bioeconomy, circular bioeconomy ([source](https://ecbf.vc/press-release-final-closing/), as of 2022-02-23)
-- **Leads rounds:** yes ([source](https://ecbf.vc/pr-series-a-vegdog/), as of 2025-06-02)
+- **Geographies:** europe (as of 2026-08-17)[^s-26e9795f]
+- **Type:** venture capital (as of 2025-06-02)[^s-67521d1e]
+- **Investment strategies:** growth-stage investing (as of 2025-06-02)[^s-67521d1e]
+- **Legal structure:** fund (as of 2025-06-02)[^s-67521d1e]
+- **Stages:** growth, later-stage (as of 2022-02-23)[^s-dc06a4ee]
+- **Sectors:** bioeconomy, circular bioeconomy (as of 2022-02-23)[^s-dc06a4ee]
+- **Leads rounds:** yes (as of 2025-06-02)[^s-67521d1e]
 
 ## Portfolio
 
@@ -30,9 +41,8 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://ecbf.vc)
-- [Source](https://ecbf.vc/pr-series-a-vegdog/)
-- [Source](https://ecbf.vc/press-release-final-closing/)
+[^s-26e9795f]: <https://ecbf.vc>
+[^s-67521d1e]: <https://ecbf.vc/pr-series-a-vegdog/>
+[^s-dc06a4ee]: <https://ecbf.vc/press-release-final-closing/>

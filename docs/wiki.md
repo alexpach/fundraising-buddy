@@ -5,7 +5,7 @@ data/public/
   catalog.json                 canonical shared public records
   investor-domains.txt          derived email-discovery list
   firms.csv, people.csv         derived portable exports
-  wiki/firms/, wiki/people/     derived Markdown profiles
+  wiki/firms/, wiki/people/     derived Markdown profiles (OKF v0.2 bundle)
 workspace/                     private, ignored by Git
   config.json                  company, round, owner aliases, email settings
   wiki/
@@ -51,7 +51,9 @@ Private people pages use `id`, `name`, and `firm_id` frontmatter, with optional 
 
 ## Links and rollups
 
-Private links use vault-root paths, for example `[[firms/example-fund|Example Fund]]`. Public links use `[[public/firms/firm-domain|Firm name]]`. Names are labels, not identity keys. The local viewer resolves these links against its explicit page index. It does not serve arbitrary files.
+Private links use vault-root paths, for example `[[firms/example-fund|Example Fund]]`. From a private page, link a public profile with `[[public/firms/firm-domain|Firm name]]`.
+
+The derived `data/public/wiki/` is an [Open Knowledge Format v0.2](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) bundle. Each profile has YAML frontmatter (`type`, `title`, `description`, `resource`, `generated`, `sources`). Claims cite sources through footnotes keyed to `sources[].id`, profiles link to each other with relative Markdown links such as `../people/<id>.md`, and `index.md` files list each directory. Never edit these pages by hand: change `catalog.json` and regenerate. Names are labels, not identity keys. The local viewer resolves these links against its explicit page index. It does not serve arbitrary files.
 
 Index and Pipeline are generated from private firm frontmatter. Edit firm pages, then run `uv run fundraising-buddy rollup`. Keep strategy and narrative on Home and Prospects; generated pages are overwritten. The read-only viewer refreshes from Markdown and uses sanitized rendering without Dataview or executable plugins.
 

@@ -1,24 +1,30 @@
 ---
+type: Investor Firm
+title: Seligman Ventures
+description: vc; robotics, hardware, physical-ai.
+resource: https://seligmanprivateequity.com
+tags:
+- investor-firm
+- directory
+domain: seligmanprivateequity.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 13
+status: draft
+sources:
+- id: s-e5847e60
+  resource: https://seligmanprivateequity.com
 ---
 
 # Seligman Ventures
-
-[Website](https://seligmanprivateequity.com)
-
-Domain: seligmanprivateequity.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://seligmanprivateequity.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://seligmanprivateequity.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://seligmanprivateequity.com), as of not recorded)
+- **Type:** vc (as of 2026-04-24)[^s-e5847e60]
+- **Sectors:** robotics, hardware, physical-ai (as of 2026-04-24)[^s-e5847e60]
+- **Leads rounds:** unknown[^s-e5847e60]
 
 ## Portfolio
 
@@ -26,7 +32,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://seligmanprivateequity.com)
+[^s-e5847e60]: <https://seligmanprivateequity.com>

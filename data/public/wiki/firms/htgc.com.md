@@ -1,44 +1,57 @@
 ---
+type: Investor Firm
+title: Hercules Capital
+description: specialty finance company; venture debt provider; start-up, expansion,
+  high growth; Technology, Life sciences.
+resource: https://www.htgc.com
+tags:
+- investor-firm
+- directory
+domain: htgc.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 49
+status: draft
+sources:
+- id: s-2c993f9f
+  resource: https://investor.htgc.com/sec-filings/all-sec-filings/content/0001280784-26-000009/0001280784-26-000009.pdf
+- id: s-c8d047d1
+  resource: https://www.crunchbase.com/organization/hercules-capital
+- id: s-7743b0fc
+  resource: https://www.htgc.com
+- id: s-a18205e0
+  resource: https://www.htgc.com/about/
 ---
 
 # Hercules Capital
-
-[Website](https://www.htgc.com)
-
-Domain: htgc.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** us ([source](https://www.crunchbase.com/organization/hercules-capital), as of 2026-04-19)
-- **About:** Hercules Capital (NYSE: HTGC) is a specialty finance company and the largest non-bank provider of venture debt to VC-backed technology and life-sciences companies. As of Sept 2025 it had ~$5.5B AUM and has cumulatively committed over $25B in debt since inception ([source](https://www.crunchbase.com/organization/hercules-capital), as of 2026-04-19)
-- **Type:** specialty finance company; venture debt provider ([source](https://www.htgc.com/about/), as of not recorded)
-- **Investment strategies:** venture debt ([source](https://www.htgc.com/about/), as of not recorded)
-- **Legal structure:** business development company, closed-end investment company ([source](https://www.htgc.com/about/), as of not recorded)
-- **Investment instruments:** senior secured loans, debt, warrants and equity securities as enhancements ([source](https://www.htgc.com/about/), as of not recorded)
-- **Stages:** start-up, expansion, high growth ([source](https://www.htgc.com/about/), as of not recorded)
-- **Sectors:** Technology, Life sciences ([source](https://www.htgc.com/about/), as of not recorded)
+- **Geographies:** us (as of 2026-04-19)[^s-c8d047d1]
+- **About:** Hercules Capital (NYSE: HTGC) is a specialty finance company and the largest non-bank provider of venture debt to VC-backed technology and life-sciences companies. As of Sept 2025 it had ~$5.5B AUM and has cumulatively committed over $25B in debt since inception (as of 2026-04-19)[^s-c8d047d1]
+- **Type:** specialty finance company; venture debt provider[^s-a18205e0]
+- **Investment strategies:** venture debt[^s-a18205e0]
+- **Legal structure:** business development company, closed-end investment company[^s-a18205e0]
+- **Investment instruments:** senior secured loans, debt, warrants and equity securities as enhancements[^s-a18205e0]
+- **Stages:** start-up, expansion, high growth[^s-a18205e0]
+- **Sectors:** Technology, Life sciences[^s-a18205e0]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Hercules is a venture | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/hercules-capital) |
-| Notable borrowers (public record) | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/hercules-capital) |
-| Cumulative debt commitments &gt;$25B. | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/hercules-capital) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Hercules is a venture[^s-c8d047d1] | Not recorded | Not recorded | Not recorded |
+| Notable borrowers (public record)[^s-c8d047d1] | Not recorded | Not recorded | Not recorded |
+| Cumulative debt commitments &gt;$25B.[^s-c8d047d1] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://investor.htgc.com/sec-filings/all-sec-filings/content/0001280784-26-000009/0001280784-26-000009.pdf)
-- [Source](https://www.crunchbase.com/organization/hercules-capital)
-- [Source](https://www.htgc.com)
-- [Source](https://www.htgc.com/about/)
+[^s-2c993f9f]: <https://investor.htgc.com/sec-filings/all-sec-filings/content/0001280784-26-000009/0001280784-26-000009.pdf>
+[^s-c8d047d1]: <https://www.crunchbase.com/organization/hercules-capital>
+[^s-7743b0fc]: <https://www.htgc.com>
+[^s-a18205e0]: <https://www.htgc.com/about/>

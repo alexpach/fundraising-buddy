@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Sean O'Sullivan
+description: Managing General Partner at SOSV.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-5402d43e
+  resource: https://sosv.com/about
+---
+
 # Sean O'Sullivan
 
-[[public/firms/sosv.com|Firm profile]]
+[Firm profile](../firms/sosv.com.md)
 
-Role: Managing General Partner
+Role: Managing General Partner[^s-5402d43e]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://sosv.com/about)
+[^s-5402d43e]: <https://sosv.com/about>

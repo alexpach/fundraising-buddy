@@ -1,11 +1,24 @@
+---
+type: Investor
+title: Andreas Unseld
+description: General Partner at Unternehmertum Venture Capital Partners GmbH (UVC
+  Partners).
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-507aeb3a
+  resource: https://www.uvcpartners.com/our-team
+---
+
 # Andreas Unseld
 
-[[public/firms/uvcpartners.com|Firm profile]]
+[Firm profile](../firms/uvcpartners.com.md)
 
-Role: General Partner
+Role: General Partner[^s-507aeb3a]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.uvcpartners.com/our-team)
+[^s-507aeb3a]: <https://www.uvcpartners.com/our-team>

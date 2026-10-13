@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Jun Murai
+description: Executive Advisor at DRONE FUND.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
+sources:
+- id: s-7570df6d
+  resource: https://dronefund.vc/en/wp-content/uploads/sites/2/2022/05/a9808a590e2abd3a28805f45c3b5f1ea.pdf
+---
+
 # Jun Murai
 
-[[public/firms/dronefund.vc|Firm profile]]
+[Firm profile](../firms/dronefund.vc.md)
 
-Role: Executive Advisor
+Role: Executive Advisor[^s-7570df6d]
 
 Focus: Policy / internet-infrastructure advisory
 
-## Public sources
-
-- [Source](https://dronefund.vc/en/wp-content/uploads/sites/2/2022/05/a9808a590e2abd3a28805f45c3b5f1ea.pdf)
+[^s-7570df6d]: <https://dronefund.vc/en/wp-content/uploads/sites/2/2022/05/a9808a590e2abd3a28805f45c3b5f1ea.pdf>

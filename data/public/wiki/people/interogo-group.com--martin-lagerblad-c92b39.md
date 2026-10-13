@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Martin Lagerblad
+description: Head of Nalka Invest at Interogo Holding.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-09-30T00:00:00Z'
+sources:
+- id: s-6f342ccb
+  resource: https://www.interogo-group.com/our-team/head-of-business/
+---
+
 # Martin Lagerblad
 
-[[public/firms/interogo-group.com|Firm profile]]
+[Firm profile](../firms/interogo-group.com.md)
 
-Role: Head of Nalka Invest
+Role: Head of Nalka Invest[^s-6f342ccb]
 
 Focus: Nalka Invest (direct Nordic PE)
 
-## Public sources
-
-- [Source](https://www.interogo-group.com/our-team/head-of-business/)
+[^s-6f342ccb]: <https://www.interogo-group.com/our-team/head-of-business/>

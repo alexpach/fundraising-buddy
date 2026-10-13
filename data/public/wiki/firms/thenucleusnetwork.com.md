@@ -1,51 +1,63 @@
 ---
+type: Investor Firm
+title: The Nucleus Network
+description: AI, Defense Tech, Space Tech, Robotics.
+resource: https://thenucleusnetwork.com
+tags:
+- investor-firm
+- sourced
+domain: thenucleusnetwork.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-26T00:00:00Z'
 jev-score: 53
+sources:
+- id: s-beb25750
+  resource: https://thenucleusnetwork.com
+- id: s-7fc0d977
+  resource: https://thenucleusnetwork.com/ventures
+- id: s-5c805812
+  resource: https://thenucleusnewsletter.beehiiv.com/p/february-at-the-nucleus-network-founder-events-venture-investments-what-s-ahead
+- id: s-3ec6d116
+  resource: https://thenucleusnewsletter.beehiiv.com/p/march-at-the-nucleus-network-inside-the-momentum
+- id: s-4d7b1a54
+  resource: https://www.entrepreneur.com/entrepreneurs/warm-introductions-nucleus-network-jake-michael
 ---
 
 # The Nucleus Network
 
-[Website](https://thenucleusnetwork.com)
-
-Domain: thenucleusnetwork.com
-
-Coverage: sourced
-
-Research date: 2026-08-26
-
 ## Public research
 
-- **Sectors:** AI, Defense Tech, Space Tech, Robotics ([source](https://thenucleusnewsletter.beehiiv.com/p/february-at-the-nucleus-network-founder-events-venture-investments-what-s-ahead), as of 2026-02)
-- **Thesis quote:** Their portfolio reflects their thesis that the best opportunities travel through relationships, not advertisements. ([source](https://www.entrepreneur.com/entrepreneurs/warm-introductions-nucleus-network-jake-michael), as of 2026-08)
-- **Coinvestors:** Family Offices, Venture Funds, Angel Investors ([source](https://thenucleusnetwork.com/ventures), as of 2026-08)
-- **Leads rounds:** unknown ([source](https://thenucleusnetwork.com), as of not recorded)
+- **Sectors:** AI, Defense Tech, Space Tech, Robotics (as of 2026-02)[^s-5c805812]
+- **Thesis quote:** Their portfolio reflects their thesis that the best opportunities travel through relationships, not advertisements. (as of 2026-08)[^s-4d7b1a54]
+- **Coinvestors:** Family Offices, Venture Funds, Angel Investors (as of 2026-08)[^s-7fc0d977]
+- **Leads rounds:** unknown[^s-beb25750]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| SpaceX | aerospace | Not recorded | 2026-03 | [Source](https://thenucleusnewsletter.beehiiv.com/p/march-at-the-nucleus-network-inside-the-momentum) |
-| Anduril | defense tech | Not recorded | 2026-03 | [Source](https://thenucleusnewsletter.beehiiv.com/p/march-at-the-nucleus-network-inside-the-momentum) |
-| Apptronik | robotics | Not recorded | 2026-03 | [Source](https://thenucleusnewsletter.beehiiv.com/p/march-at-the-nucleus-network-inside-the-momentum) |
-| Neuralink | neurotech | Not recorded | 2026-03 | [Source](https://thenucleusnewsletter.beehiiv.com/p/march-at-the-nucleus-network-inside-the-momentum) |
-| xAI | AI | Not recorded | 2026-03 | [Source](https://thenucleusnewsletter.beehiiv.com/p/march-at-the-nucleus-network-inside-the-momentum) |
-| Beast Industries | consumer/media | Not recorded | 2026-03 | [Source](https://thenucleusnewsletter.beehiiv.com/p/march-at-the-nucleus-network-inside-the-momentum) |
-| Othership | wellness | Not recorded | 2026-02 | [Source](https://thenucleusnewsletter.beehiiv.com/p/february-at-the-nucleus-network-founder-events-venture-investments-what-s-ahead) |
-| Siegelman Stable | consumer/lifestyle | Not recorded | 2026-02 | [Source](https://thenucleusnewsletter.beehiiv.com/p/february-at-the-nucleus-network-founder-events-venture-investments-what-s-ahead) |
-| Ammortal | consumer/tech-enabled | Not recorded | 2026-08 | [Source](https://www.entrepreneur.com/entrepreneurs/warm-introductions-nucleus-network-jake-michael) |
-| Packsmith | consumer/tech-enabled | Not recorded | 2026-08 | [Source](https://www.entrepreneur.com/entrepreneurs/warm-introductions-nucleus-network-jake-michael) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| SpaceX[^s-3ec6d116] | aerospace | Not recorded | 2026-03 |
+| Anduril[^s-3ec6d116] | defense tech | Not recorded | 2026-03 |
+| Apptronik[^s-3ec6d116] | robotics | Not recorded | 2026-03 |
+| Neuralink[^s-3ec6d116] | neurotech | Not recorded | 2026-03 |
+| xAI[^s-3ec6d116] | AI | Not recorded | 2026-03 |
+| Beast Industries[^s-3ec6d116] | consumer/media | Not recorded | 2026-03 |
+| Othership[^s-5c805812] | wellness | Not recorded | 2026-02 |
+| Siegelman Stable[^s-5c805812] | consumer/lifestyle | Not recorded | 2026-02 |
+| Ammortal[^s-4d7b1a54] | consumer/tech-enabled | Not recorded | 2026-08 |
+| Packsmith[^s-4d7b1a54] | consumer/tech-enabled | Not recorded | 2026-08 |
 
 ## People
 
-- [[public/people/thenucleusnetwork.com--danny-samoon-57bfd2|Danny Samoon]]: Head of Growth
-- [[public/people/thenucleusnetwork.com--jake-fleshner-e22d78|Jake Fleshner]]: Co-Founder
-- [[public/people/thenucleusnetwork.com--lexa-natalie-juntado-24468a|Lexa Natalie Juntado]]: Social Media Manager
-- [[public/people/thenucleusnetwork.com--michael-axman-d1610b|Michael Axman]]: Co-Founder
-- [[public/people/thenucleusnetwork.com--nathalie-sundelin-889722|Nathalie Sundelin]]: Project Manager
+- [Danny Samoon](../people/thenucleusnetwork.com--danny-samoon-57bfd2.md) - Head of Growth
+- [Jake Fleshner](../people/thenucleusnetwork.com--jake-fleshner-e22d78.md) - Co-Founder
+- [Lexa Natalie Juntado](../people/thenucleusnetwork.com--lexa-natalie-juntado-24468a.md) - Social Media Manager
+- [Michael Axman](../people/thenucleusnetwork.com--michael-axman-d1610b.md) - Co-Founder
+- [Nathalie Sundelin](../people/thenucleusnetwork.com--nathalie-sundelin-889722.md) - Project Manager
 
-## Sources
-
-- [Source](https://thenucleusnetwork.com)
-- [Source](https://thenucleusnetwork.com/ventures)
-- [Source](https://thenucleusnewsletter.beehiiv.com/p/february-at-the-nucleus-network-founder-events-venture-investments-what-s-ahead)
-- [Source](https://thenucleusnewsletter.beehiiv.com/p/march-at-the-nucleus-network-inside-the-momentum)
-- [Source](https://www.entrepreneur.com/entrepreneurs/warm-introductions-nucleus-network-jake-michael)
+[^s-beb25750]: <https://thenucleusnetwork.com>
+[^s-7fc0d977]: <https://thenucleusnetwork.com/ventures>
+[^s-5c805812]: <https://thenucleusnewsletter.beehiiv.com/p/february-at-the-nucleus-network-founder-events-venture-investments-what-s-ahead>
+[^s-3ec6d116]: <https://thenucleusnewsletter.beehiiv.com/p/march-at-the-nucleus-network-inside-the-momentum>
+[^s-4d7b1a54]: <https://www.entrepreneur.com/entrepreneurs/warm-introductions-nucleus-network-jake-michael>

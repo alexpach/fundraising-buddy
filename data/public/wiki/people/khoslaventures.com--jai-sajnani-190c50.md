@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Jai Sajnani
+description: Partner at Khosla Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-02T00:00:00Z'
+sources:
+- id: s-dcea42b3
+  resource: https://www.khoslaventures.com/team
+---
+
 # Jai Sajnani
 
-[[public/firms/khoslaventures.com|Firm profile]]
+[Firm profile](../firms/khoslaventures.com.md)
 
-Role: Partner
+Role: Partner[^s-dcea42b3]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.khoslaventures.com/team)
+[^s-dcea42b3]: <https://www.khoslaventures.com/team>

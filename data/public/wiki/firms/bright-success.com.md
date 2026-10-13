@@ -1,40 +1,51 @@
 ---
+type: Investor Firm
+title: Bright Success Capital
+description: family office; hardware, robotics, consumer electronics, fintech, biotechnology,
+  healthcare, enterprise software, deep tech.
+resource: https://bright-success.com
+tags:
+- investor-firm
+- directory
+domain: bright-success.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 56
+status: draft
+sources:
+- id: s-dbffd47b
+  resource: https://bright-success.com
+- id: s-c5c6250c
+  resource: https://www.bright-success.com/
+- id: s-f8dce05c
+  resource: https://www.crunchbase.com/organization/bright-success-capital
 ---
 
 # Bright Success Capital
-
-[Website](https://bright-success.com)
-
-Domain: bright-success.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** asia, us ([source](https://www.crunchbase.com/organization/bright-success-capital), as of 2026-04-19)
-- **Check size min:** 500K ([source](https://www.crunchbase.com/organization/bright-success-capital), as of 2026-04-19)
-- **Check size max:** 5M ([source](https://www.crunchbase.com/organization/bright-success-capital), as of 2026-04-19)
-- **About:** Bright Success Capital is a Hong Kong-based investment firm and family office focused on technology startups in Asia and cross-Pacific opportunities. They invest at seed and early stages in AI, enterprise software, and consumer technology. ([source](https://www.crunchbase.com/organization/bright-success-capital), as of 2026-04-19)
-- **Type:** family office ([source](https://www.bright-success.com/), as of not recorded)
-- **Investment strategies:** disruptive technology ([source](https://www.bright-success.com/), as of not recorded)
-- **Sectors:** hardware, robotics, consumer electronics, fintech, biotechnology, healthcare, enterprise software, deep tech ([source](https://www.bright-success.com/), as of not recorded)
+- **Geographies:** asia, us (as of 2026-04-19)[^s-f8dce05c]
+- **Check size min:** 500K (as of 2026-04-19)[^s-f8dce05c]
+- **Check size max:** 5M (as of 2026-04-19)[^s-f8dce05c]
+- **About:** Bright Success Capital is a Hong Kong-based investment firm and family office focused on technology startups in Asia and cross-Pacific opportunities. They invest at seed and early stages in AI, enterprise software, and consumer technology. (as of 2026-04-19)[^s-f8dce05c]
+- **Type:** family office[^s-c5c6250c]
+- **Investment strategies:** disruptive technology[^s-c5c6250c]
+- **Sectors:** hardware, robotics, consumer electronics, fintech, biotechnology, healthcare, enterprise software, deep tech[^s-c5c6250c]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Notable investments | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/bright-success-capital) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Notable investments[^s-f8dce05c] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://bright-success.com)
-- [Source](https://www.bright-success.com/)
-- [Source](https://www.crunchbase.com/organization/bright-success-capital)
+[^s-dbffd47b]: <https://bright-success.com>
+[^s-c5c6250c]: <https://www.bright-success.com/>
+[^s-f8dce05c]: <https://www.crunchbase.com/organization/bright-success-capital>

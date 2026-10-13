@@ -1,30 +1,39 @@
 ---
+type: Investor Firm
+title: Standard Investments
+description: family-office; series-a, series-b, growth; industrial, hardware, robotics,
+  advanced-manufacturing, physical-ai.
+resource: https://www.standardinvestments.com
+tags:
+- investor-firm
+- directory
+domain: standardinvestments.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 55
+status: draft
+sources:
+- id: s-bb671a76
+  resource: https://www.crunchbase.com/organization/standard-industries-inc
+- id: s-fa22fe52
+  resource: https://www.standardinvestments.com
 ---
 
 # Standard Investments
-
-[Website](https://www.standardinvestments.com)
-
-Domain: standardinvestments.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** family-office ([source](https://www.crunchbase.com/organization/standard-industries-inc), as of 2026-04-24)
-- **Stages:** series-a, series-b, growth ([source](https://www.crunchbase.com/organization/standard-industries-inc), as of 2026-04-24)
-- **Geographies:** us, global ([source](https://www.crunchbase.com/organization/standard-industries-inc), as of 2026-04-24)
-- **Sectors:** industrial, hardware, robotics, advanced-manufacturing, physical-ai ([source](https://www.crunchbase.com/organization/standard-industries-inc), as of 2026-04-24)
-- **AUM:** 5B ([source](https://www.crunchbase.com/organization/standard-industries-inc), as of 2026-04-24)
-- **Check size min:** 5M ([source](https://www.crunchbase.com/organization/standard-industries-inc), as of 2026-04-24)
-- **Check size max:** 100M ([source](https://www.crunchbase.com/organization/standard-industries-inc), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://www.standardinvestments.com), as of not recorded)
-- **About:** Standard Investments is the investment arm of Standard Industries, a privately-held global industrial holding company (building materials, roofing , Icopal, GAF, BMI) owned by the Winter family. Standard Investments deploys long-duration capital across public and private markets globally ([source](https://www.crunchbase.com/organization/standard-industries-inc), as of 2026-04-24)
+- **Type:** family-office (as of 2026-04-24)[^s-bb671a76]
+- **Stages:** series-a, series-b, growth (as of 2026-04-24)[^s-bb671a76]
+- **Geographies:** us, global (as of 2026-04-24)[^s-bb671a76]
+- **Sectors:** industrial, hardware, robotics, advanced-manufacturing, physical-ai (as of 2026-04-24)[^s-bb671a76]
+- **AUM:** 5B (as of 2026-04-24)[^s-bb671a76]
+- **Check size min:** 5M (as of 2026-04-24)[^s-bb671a76]
+- **Check size max:** 100M (as of 2026-04-24)[^s-bb671a76]
+- **Leads rounds:** unknown[^s-fa22fe52]
+- **About:** Standard Investments is the investment arm of Standard Industries, a privately-held global industrial holding company (building materials, roofing , Icopal, GAF, BMI) owned by the Winter family. Standard Investments deploys long-duration capital across public and private markets globally (as of 2026-04-24)[^s-bb671a76]
 
 ## Portfolio
 
@@ -32,8 +41,7 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://www.crunchbase.com/organization/standard-industries-inc)
-- [Source](https://www.standardinvestments.com)
+[^s-bb671a76]: <https://www.crunchbase.com/organization/standard-industries-inc>
+[^s-fa22fe52]: <https://www.standardinvestments.com>

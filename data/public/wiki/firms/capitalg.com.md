@@ -1,27 +1,41 @@
 ---
+type: Investor Firm
+title: CapitalG
+description: venture capital; series A; cybersecurity, fintech, data, infrastructure,
+  AI, marketplaces.
+resource: https://capitalg.com
+tags:
+- investor-firm
+- directory
+domain: capitalg.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 28
+status: draft
+sources:
+- id: s-516658f9
+  resource: https://capitalg.com
+- id: s-56b0a220
+  resource: https://capitalg.com/
+- id: s-66c302cc
+  resource: https://capitalg.com/insights/a-conversation-with-managing-partner-laela-sturdy/
+- id: s-1295f1e5
+  resource: https://capitalg.com/insights/motif-a-revolution-in-building-design/
 ---
 
 # CapitalG
-
-[Website](https://capitalg.com)
-
-Domain: capitalg.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** venture capital ([source](https://capitalg.com/insights/a-conversation-with-managing-partner-laela-sturdy/), as of 2023-08-30)
-- **Investment strategies:** growth equity ([source](https://capitalg.com/insights/a-conversation-with-managing-partner-laela-sturdy/), as of 2023-08-30)
-- **Investment instruments:** equity ([source](https://capitalg.com/insights/a-conversation-with-managing-partner-laela-sturdy/), as of 2023-08-30)
-- **Stages:** series A ([source](https://capitalg.com/insights/motif-a-revolution-in-building-design/), as of 2025-01-30)
-- **Sectors:** cybersecurity, fintech, data, infrastructure, AI, marketplaces ([source](https://capitalg.com/insights/a-conversation-with-managing-partner-laela-sturdy/), as of 2023-08-30)
-- **Leads rounds:** yes ([source](https://capitalg.com/insights/motif-a-revolution-in-building-design/), as of 2025-01-30)
+- **Type:** venture capital (as of 2023-08-30)[^s-66c302cc]
+- **Investment strategies:** growth equity (as of 2023-08-30)[^s-66c302cc]
+- **Investment instruments:** equity (as of 2023-08-30)[^s-66c302cc]
+- **Stages:** series A (as of 2025-01-30)[^s-1295f1e5]
+- **Sectors:** cybersecurity, fintech, data, infrastructure, AI, marketplaces (as of 2023-08-30)[^s-66c302cc]
+- **Leads rounds:** yes (as of 2025-01-30)[^s-1295f1e5]
 
 ## Portfolio
 
@@ -29,10 +43,9 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://capitalg.com)
-- [Source](https://capitalg.com/)
-- [Source](https://capitalg.com/insights/a-conversation-with-managing-partner-laela-sturdy/)
-- [Source](https://capitalg.com/insights/motif-a-revolution-in-building-design/)
+[^s-516658f9]: <https://capitalg.com>
+[^s-56b0a220]: <https://capitalg.com/>
+[^s-66c302cc]: <https://capitalg.com/insights/a-conversation-with-managing-partner-laela-sturdy/>
+[^s-1295f1e5]: <https://capitalg.com/insights/motif-a-revolution-in-building-design/>

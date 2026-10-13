@@ -1,25 +1,38 @@
 ---
+type: Investor Firm
+title: TiVenture SA (TiVentures)
+description: venture capital; Biomedical, High-tech.
+resource: https://tiventures.ch
+tags:
+- investor-firm
+- directory
+domain: tiventures.ch
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 26
+status: draft
+sources:
+- id: s-41106993
+  resource: https://tiventures.ch
+- id: s-fff303ec
+  resource: https://tiventures.ch/
+- id: s-ec49edab
+  resource: https://tiventures.ch/about-us/
+- id: s-fb09d5fe
+  resource: https://tiventures.ch/our-roadmap/
 ---
 
 # TiVenture SA (TiVentures)
-
-[Website](https://tiventures.ch)
-
-Domain: tiventures.ch
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe ([source](https://tiventures.ch), as of 2026-08-17)
-- **Type:** venture capital ([source](https://tiventures.ch/our-roadmap/), as of not recorded)
-- **Investment strategies:** early-stage technology investment ([source](https://tiventures.ch/our-roadmap/), as of not recorded)
-- **Sectors:** Biomedical, High-tech ([source](https://tiventures.ch/), as of not recorded)
+- **Geographies:** europe (as of 2026-08-17)[^s-41106993]
+- **Type:** venture capital[^s-fb09d5fe]
+- **Investment strategies:** early-stage technology investment[^s-fb09d5fe]
+- **Sectors:** Biomedical, High-tech[^s-fff303ec]
 
 ## Portfolio
 
@@ -27,10 +40,9 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://tiventures.ch)
-- [Source](https://tiventures.ch/)
-- [Source](https://tiventures.ch/about-us/)
-- [Source](https://tiventures.ch/our-roadmap/)
+[^s-41106993]: <https://tiventures.ch>
+[^s-fff303ec]: <https://tiventures.ch/>
+[^s-ec49edab]: <https://tiventures.ch/about-us/>
+[^s-fb09d5fe]: <https://tiventures.ch/our-roadmap/>

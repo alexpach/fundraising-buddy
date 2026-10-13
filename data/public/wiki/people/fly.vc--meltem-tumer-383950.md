@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Meltem Tumer
+description: Associate at Fly Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-6cf0da57
+  resource: https://fly.vc/team
+---
+
 # Meltem Tumer
 
-[[public/firms/fly.vc|Firm profile]]
+[Firm profile](../firms/fly.vc.md)
 
-Role: Associate
+Role: Associate[^s-6cf0da57]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://fly.vc/team)
+[^s-6cf0da57]: <https://fly.vc/team>

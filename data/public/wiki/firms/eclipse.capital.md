@@ -1,67 +1,84 @@
 ---
+type: Investor Firm
+title: Eclipse
+description: venture capital investor; early stage, early growth; Physical industries,
+  Transportation and mobility, Artificial intelligence.
+resource: https://eclipse.capital
+tags:
+- investor-firm
+- sourced
+domain: eclipse.capital
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 83
+sources:
+- id: s-f6fd7c71
+  resource: https://eclipse.capital/
+- id: s-a90415a4
+  resource: https://eclipse.capital/about
+- id: s-3465b9fc
+  resource: https://eclipse.capital/blog/accelerating-autonomous-vehicles-with-embodied-ai-wayves-series-c/
+- id: s-12a8d9b5
+  resource: https://eclipse.capital/blog/announcing-eclipse-fund-vi-and-early-growth-iii
+- id: s-bff661b6
+  resource: https://eclipse.capital/companies
+- id: s-8de2335d
+  resource: https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/
+- id: s-25acf18a
+  resource: https://thenextweb.com/news/eclipse-fund-vi-early-growth-iii-1-3-billion
 ---
 
 # Eclipse
 
-[Website](https://eclipse.capital)
-
-Domain: eclipse.capital
-
-Coverage: sourced
-
-Research date: 2026-10-03
-
 ## Public research
 
-- **HQ:** Palo Alto, CA ([source](https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/), as of 2026-04)
-- **Founded:** 2015 ([source](https://eclipse.capital/blog/announcing-eclipse-fund-vi-and-early-growth-iii), as of 2026-04)
-- **Offices:** Palo Alto, CA, New York, NY ([source](https://eclipse.capital/about), as of None)
-- **Latest fund:** $1.3B across Fund VI ($720M) and Early Growth Fund III ($591M) ([source](https://eclipse.capital/blog/announcing-eclipse-fund-vi-and-early-growth-iii), as of 2026-04)
-- **Thesis quote:** Eclipse invests in entrepreneurs building the next generation of companies in the physical economy ,  the industries that determine resilience, competitiveness, and security. ([source](https://eclipse.capital/about), as of None)
-- **Type:** venture capital investor ([source](https://eclipse.capital/about), as of not recorded)
-- **Investment strategies:** venture equity, early growth investing ([source](https://eclipse.capital/about), as of not recorded)
-- **Legal structure:** private investment firm ([source](https://eclipse.capital/about), as of not recorded)
-- **Investment instruments:** equity ([source](https://eclipse.capital/about), as of not recorded)
-- **Stages:** early stage, early growth ([source](https://eclipse.capital/about), as of not recorded)
-- **Sectors:** Physical industries, Transportation and mobility, Artificial intelligence ([source](https://eclipse.capital/blog/announcing-eclipse-fund-vi-and-early-growth-iii), as of 2026-04-07)
-- **Leads rounds:** yes ([source](https://eclipse.capital/blog/accelerating-autonomous-vehicles-with-embodied-ai-wayves-series-c/), as of 2024-05-07)
-- **AUM:** Approximately USD 10 billion (as of 2026-04-07) ([source](https://eclipse.capital/blog/announcing-eclipse-fund-vi-and-early-growth-iii), as of 2026-04-07)
+- **HQ:** Palo Alto, CA (as of 2026-04)[^s-8de2335d]
+- **Founded:** 2015 (as of 2026-04)[^s-12a8d9b5]
+- **Offices:** Palo Alto, CA, New York, NY (as of None)[^s-a90415a4]
+- **Latest fund:** $1.3B across Fund VI ($720M) and Early Growth Fund III ($591M) (as of 2026-04)[^s-12a8d9b5]
+- **Thesis quote:** Eclipse invests in entrepreneurs building the next generation of companies in the physical economy ,  the industries that determine resilience, competitiveness, and security. (as of None)[^s-a90415a4]
+- **Type:** venture capital investor[^s-a90415a4]
+- **Investment strategies:** venture equity, early growth investing[^s-a90415a4]
+- **Legal structure:** private investment firm[^s-a90415a4]
+- **Investment instruments:** equity[^s-a90415a4]
+- **Stages:** early stage, early growth[^s-a90415a4]
+- **Sectors:** Physical industries, Transportation and mobility, Artificial intelligence (as of 2026-04-07)[^s-12a8d9b5]
+- **Leads rounds:** yes (as of 2024-05-07)[^s-3465b9fc]
+- **AUM:** Approximately USD 10 billion (as of 2026-04-07) (as of 2026-04-07)[^s-12a8d9b5]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Cerebras Systems | Advanced Compute | Early Stage, Early Growth (as tagged on Eclipse companies page) | Not recorded | [Source](https://eclipse.capital/companies) |
-| Wayve | Transportation & Mobility | Early Stage, Early Growth (as tagged on Eclipse companies page) | Not recorded | [Source](https://eclipse.capital/companies) |
-| VulcanForms | Manufacturing | Early Stage, Early Growth (as tagged on Eclipse companies page) | Not recorded | [Source](https://eclipse.capital/companies) |
-| Oxide | Advanced Compute | Early Stage, Early Growth (as tagged on Eclipse companies page) | Not recorded | [Source](https://eclipse.capital/companies) |
-| Bedrock Robotics | Construction & Real Estate | Early Stage, Early Growth (as tagged on Eclipse companies page) | Not recorded | [Source](https://eclipse.capital/companies) |
-| True Anomaly | Defense & Security | Early Stage, Early Growth (as tagged on Eclipse companies page) | Not recorded | [Source](https://eclipse.capital/companies) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Cerebras Systems[^s-bff661b6] | Advanced Compute | Early Stage, Early Growth (as tagged on Eclipse companies page) | Not recorded |
+| Wayve[^s-bff661b6] | Transportation & Mobility | Early Stage, Early Growth (as tagged on Eclipse companies page) | Not recorded |
+| VulcanForms[^s-bff661b6] | Manufacturing | Early Stage, Early Growth (as tagged on Eclipse companies page) | Not recorded |
+| Oxide[^s-bff661b6] | Advanced Compute | Early Stage, Early Growth (as tagged on Eclipse companies page) | Not recorded |
+| Bedrock Robotics[^s-bff661b6] | Construction & Real Estate | Early Stage, Early Growth (as tagged on Eclipse companies page) | Not recorded |
+| True Anomaly[^s-bff661b6] | Defense & Security | Early Stage, Early Growth (as tagged on Eclipse companies page) | Not recorded |
 
 ## People
 
-- [[public/people/eclipse.capital--aidan-madigan-curtis-f8d1e8|Aidan Madigan-Curtis]]: Partner
-- [[public/people/eclipse.capital--angela-hayward-d03eaf|Angela Hayward]]: Partner and Head of Strategy
-- [[public/people/eclipse.capital--charly-mwangi-50a260|Charly Mwangi]]: Partner
-- [[public/people/eclipse.capital--greg-lyon-325c68|Greg Lyon]]: Partner, Chief Operating Officer, and Chief Financial Officer
-- [[public/people/eclipse.capital--greg-reichow-a95bbd|Greg Reichow]]: Partner
-- [[public/people/eclipse.capital--jiten-behl-8d7fd6|Jiten Behl]]: Partner
-- [[public/people/eclipse.capital--joe-fath-8b9415|Joe Fath]]: Partner and Head of Growth
-- [[public/people/eclipse.capital--josh-richman-3170ee|Josh Richman]]: Venture Partner
-- [[public/people/eclipse.capital--lior-susan-2674c4|Lior Susan]]: Founder and CEO
-- [[public/people/eclipse.capital--michael-laser-61f861|Michael Laser]]: Venture Partner
-- [[public/people/eclipse.capital--pierre-lamond-6d3e3c|Pierre Lamond]]: Partner Emeritus
-- [[public/people/eclipse.capital--ryan-gibson-7b666d|Ryan Gibson]]: Venture Partner
-- [[public/people/eclipse.capital--seth-winterroth-3a6855|Seth Winterroth]]: Partner
-- [[public/people/eclipse.capital--thomas-storch-2a24c0|Thomas Storch]]: Partner and Head of Policy
+- [Aidan Madigan-Curtis](../people/eclipse.capital--aidan-madigan-curtis-f8d1e8.md) - Partner
+- [Angela Hayward](../people/eclipse.capital--angela-hayward-d03eaf.md) - Partner and Head of Strategy
+- [Charly Mwangi](../people/eclipse.capital--charly-mwangi-50a260.md) - Partner
+- [Greg Lyon](../people/eclipse.capital--greg-lyon-325c68.md) - Partner, Chief Operating Officer, and Chief Financial Officer
+- [Greg Reichow](../people/eclipse.capital--greg-reichow-a95bbd.md) - Partner
+- [Jiten Behl](../people/eclipse.capital--jiten-behl-8d7fd6.md) - Partner
+- [Joe Fath](../people/eclipse.capital--joe-fath-8b9415.md) - Partner and Head of Growth
+- [Josh Richman](../people/eclipse.capital--josh-richman-3170ee.md) - Venture Partner
+- [Lior Susan](../people/eclipse.capital--lior-susan-2674c4.md) - Founder and CEO
+- [Michael Laser](../people/eclipse.capital--michael-laser-61f861.md) - Venture Partner
+- [Pierre Lamond](../people/eclipse.capital--pierre-lamond-6d3e3c.md) - Partner Emeritus
+- [Ryan Gibson](../people/eclipse.capital--ryan-gibson-7b666d.md) - Venture Partner
+- [Seth Winterroth](../people/eclipse.capital--seth-winterroth-3a6855.md) - Partner
+- [Thomas Storch](../people/eclipse.capital--thomas-storch-2a24c0.md) - Partner and Head of Policy
 
-## Sources
-
-- [Source](https://eclipse.capital/)
-- [Source](https://eclipse.capital/about)
-- [Source](https://eclipse.capital/blog/accelerating-autonomous-vehicles-with-embodied-ai-wayves-series-c/)
-- [Source](https://eclipse.capital/blog/announcing-eclipse-fund-vi-and-early-growth-iii)
-- [Source](https://eclipse.capital/companies)
-- [Source](https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/)
-- [Source](https://thenextweb.com/news/eclipse-fund-vi-early-growth-iii-1-3-billion)
+[^s-f6fd7c71]: <https://eclipse.capital/>
+[^s-a90415a4]: <https://eclipse.capital/about>
+[^s-3465b9fc]: <https://eclipse.capital/blog/accelerating-autonomous-vehicles-with-embodied-ai-wayves-series-c/>
+[^s-12a8d9b5]: <https://eclipse.capital/blog/announcing-eclipse-fund-vi-and-early-growth-iii>
+[^s-bff661b6]: <https://eclipse.capital/companies>
+[^s-8de2335d]: <https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/>
+[^s-25acf18a]: <https://thenextweb.com/news/eclipse-fund-vi-early-growth-iii-1-3-billion>

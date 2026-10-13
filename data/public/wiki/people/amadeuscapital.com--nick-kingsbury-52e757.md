@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Nick Kingsbury
+description: Partner at Amadeus Capital Partners.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-04b283e9
+  resource: https://www.amadeuscapital.com/the-team/
+---
+
 # Nick Kingsbury
 
-[[public/firms/amadeuscapital.com|Firm profile]]
+[Firm profile](../firms/amadeuscapital.com.md)
 
-Role: Partner
+Role: Partner[^s-04b283e9]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.amadeuscapital.com/the-team/)
+[^s-04b283e9]: <https://www.amadeuscapital.com/the-team/>

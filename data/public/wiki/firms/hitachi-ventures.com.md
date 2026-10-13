@@ -1,27 +1,41 @@
 ---
+type: Investor Firm
+title: Hitachi Ventures GmbH
+description: corporate venture capital; Seed, Series A, Series B, Series C, Series
+  D; Digital, Industrial, Environment, Healthcare.
+resource: https://hitachi-ventures.com
+tags:
+- investor-firm
+- directory
+domain: hitachi-ventures.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 27
+status: draft
+sources:
+- id: s-f7ee90dc
+  resource: https://hitachi-ventures.com
+- id: s-1999565c
+  resource: https://www.hitachi-ventures.com/
+- id: s-48db7c2f
+  resource: https://www.hitachi-ventures.com/portfolio/
+- id: s-4f7d8ee5
+  resource: https://www.hitachi-ventures.com/team/galina-sagan/
 ---
 
 # Hitachi Ventures GmbH
-
-[Website](https://hitachi-ventures.com)
-
-Domain: hitachi-ventures.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** corporate venture capital ([source](https://www.hitachi-ventures.com/portfolio/), as of not recorded)
-- **Investment strategies:** venture capital ([source](https://www.hitachi-ventures.com/portfolio/), as of not recorded)
-- **Stages:** Seed, Series A, Series B, Series C, Series D ([source](https://www.hitachi-ventures.com/portfolio/), as of not recorded)
-- **Sectors:** Digital, Industrial, Environment, Healthcare ([source](https://www.hitachi-ventures.com/), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.hitachi-ventures.com/team/galina-sagan/), as of 2022-10-18)
-- **AUM:** USD 1 billion (date not reported) ([source](https://www.hitachi-ventures.com/), as of not recorded)
+- **Type:** corporate venture capital[^s-48db7c2f]
+- **Investment strategies:** venture capital[^s-48db7c2f]
+- **Stages:** Seed, Series A, Series B, Series C, Series D[^s-48db7c2f]
+- **Sectors:** Digital, Industrial, Environment, Healthcare[^s-1999565c]
+- **Leads rounds:** yes (as of 2022-10-18)[^s-4f7d8ee5]
+- **AUM:** USD 1 billion (date not reported)[^s-1999565c]
 
 ## Portfolio
 
@@ -29,10 +43,9 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://hitachi-ventures.com)
-- [Source](https://www.hitachi-ventures.com/)
-- [Source](https://www.hitachi-ventures.com/portfolio/)
-- [Source](https://www.hitachi-ventures.com/team/galina-sagan/)
+[^s-f7ee90dc]: <https://hitachi-ventures.com>
+[^s-1999565c]: <https://www.hitachi-ventures.com/>
+[^s-48db7c2f]: <https://www.hitachi-ventures.com/portfolio/>
+[^s-4f7d8ee5]: <https://www.hitachi-ventures.com/team/galina-sagan/>

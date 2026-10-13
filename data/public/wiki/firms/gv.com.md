@@ -1,43 +1,53 @@
 ---
+type: Investor Firm
+title: GV
+description: Public investor profile for GV.
+resource: https://gv.com
+tags:
+- investor-firm
+- directory
+domain: gv.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 48
+status: draft
+sources:
+- id: s-ef735340
+  resource: https://gv.com
+- id: s-7c8583e7
+  resource: https://www.crunchbase.com/organization/google-ventures
+- id: s-8f7f4a02
+  resource: https://www.gv.com/news/interview-with-nicholas-sharp-founder-of-attio
 ---
 
 # GV
-
-[Website](https://gv.com)
-
-Domain: gv.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** global, us, europe ([source](https://www.crunchbase.com/organization/google-ventures), as of 2026-06-08)
-- **About:** GV is a venture capital firm founded in 2009. Its public materials emphasize seed, growth investing, and focus areas include ai, enterprise, consumer, security ([source](https://www.crunchbase.com/organization/google-ventures), as of 2026-06-08)
-- **Leads rounds:** yes ([source](https://www.gv.com/news/interview-with-nicholas-sharp-founder-of-attio), as of not recorded)
+- **Geographies:** global, us, europe (as of 2026-06-08)[^s-7c8583e7]
+- **About:** GV is a venture capital firm founded in 2009. Its public materials emphasize seed, growth investing, and focus areas include ai, enterprise, consumer, security (as of 2026-06-08)[^s-7c8583e7]
+- **Leads rounds:** yes[^s-8f7f4a02]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Nest | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/google-ventures) |
-| Slack | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/google-ventures) |
-| Stripe | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/google-ventures) |
-| Flatiron Health | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/google-ventures) |
-| 23andMe | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/google-ventures) |
-| Duo Security | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/google-ventures) |
-| Skydio | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/google-ventures) |
-| Impossible Foods | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/google-ventures) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Nest[^s-7c8583e7] | Not recorded | Not recorded | Not recorded |
+| Slack[^s-7c8583e7] | Not recorded | Not recorded | Not recorded |
+| Stripe[^s-7c8583e7] | Not recorded | Not recorded | Not recorded |
+| Flatiron Health[^s-7c8583e7] | Not recorded | Not recorded | Not recorded |
+| 23andMe[^s-7c8583e7] | Not recorded | Not recorded | Not recorded |
+| Duo Security[^s-7c8583e7] | Not recorded | Not recorded | Not recorded |
+| Skydio[^s-7c8583e7] | Not recorded | Not recorded | Not recorded |
+| Impossible Foods[^s-7c8583e7] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://gv.com)
-- [Source](https://www.crunchbase.com/organization/google-ventures)
-- [Source](https://www.gv.com/news/interview-with-nicholas-sharp-founder-of-attio)
+[^s-ef735340]: <https://gv.com>
+[^s-7c8583e7]: <https://www.crunchbase.com/organization/google-ventures>
+[^s-8f7f4a02]: <https://www.gv.com/news/interview-with-nicholas-sharp-founder-of-attio>

@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Peter Schmetz
+description: Principal at Vorwerk Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-08-25T00:00:00Z'
+sources:
+- id: s-3cf5c14a
+  resource: https://vorwerkventures.com
+---
+
 # Peter Schmetz
 
-[[public/firms/vorwerkventures.com|Firm profile]]
+[Firm profile](../firms/vorwerkventures.com.md)
 
-Role: Principal
+Role: Principal[^s-3cf5c14a]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://vorwerkventures.com)
+[^s-3cf5c14a]: <https://vorwerkventures.com>

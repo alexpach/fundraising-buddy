@@ -1,24 +1,30 @@
 ---
+type: Investor Firm
+title: Ecosystem Integrity Fund
+description: vc; robotics, hardware, physical-ai.
+resource: https://eifund.com
+tags:
+- investor-firm
+- directory
+domain: eifund.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 11
+status: draft
+sources:
+- id: s-554d8559
+  resource: https://eifund.com
 ---
 
 # Ecosystem Integrity Fund
-
-[Website](https://eifund.com)
-
-Domain: eifund.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** vc ([source](https://eifund.com), as of 2026-04-24)
-- **Sectors:** robotics, hardware, physical-ai ([source](https://eifund.com), as of 2026-04-24)
-- **Leads rounds:** unknown ([source](https://eifund.com), as of not recorded)
+- **Type:** vc (as of 2026-04-24)[^s-554d8559]
+- **Sectors:** robotics, hardware, physical-ai (as of 2026-04-24)[^s-554d8559]
+- **Leads rounds:** unknown[^s-554d8559]
 
 ## Portfolio
 
@@ -26,7 +32,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://eifund.com)
+[^s-554d8559]: <https://eifund.com>

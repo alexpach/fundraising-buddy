@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Tim Guleri
+description: Managing Partner at Sierra Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-0e791ad5
+  resource: https://sierraventures.com/team
+---
+
 # Tim Guleri
 
-[[public/firms/sierraventures.com|Firm profile]]
+[Firm profile](../firms/sierraventures.com.md)
 
-Role: Managing Partner
+Role: Managing Partner[^s-0e791ad5]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://sierraventures.com/team)
+[^s-0e791ad5]: <https://sierraventures.com/team>

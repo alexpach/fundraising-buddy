@@ -1,45 +1,59 @@
 ---
+type: Investor Firm
+title: Greycroft
+description: venture capital; early, growth; Technology, Consumer Brands, Sustainability.
+resource: https://greycroft.com
+tags:
+- investor-firm
+- directory
+domain: greycroft.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 46
+status: draft
+sources:
+- id: s-08504b35
+  resource: https://greycroft.com
+- id: s-bd4fc15f
+  resource: https://www.crunchbase.com/organization/greycroft
+- id: s-aeb402a5
+  resource: https://www.greycroft.com/
+- id: s-1f8361eb
+  resource: https://www.greycroft.com/perspectives/introducing-our-latest-investment-coactive-ai/
+- id: s-9c10d9f8
+  resource: https://www.greycroft.com/portfolio/
 ---
 
 # Greycroft
-
-[Website](https://greycroft.com)
-
-Domain: greycroft.com
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** global ([source](https://www.crunchbase.com/organization/greycroft), as of 2026-04-26)
-- **About:** Greycroft is a venture capital firm. Its public materials emphasize seed, Series A, Series B, growth investing, and focus areas include ai, enterprise, fintech, consumer ([source](https://www.crunchbase.com/organization/greycroft), as of 2026-04-26)
-- **Type:** venture capital ([source](https://www.greycroft.com/), as of not recorded)
-- **Stages:** early, growth ([source](https://www.greycroft.com/portfolio/), as of not recorded)
-- **Sectors:** Technology, Consumer Brands, Sustainability ([source](https://www.greycroft.com/portfolio/), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.greycroft.com/perspectives/introducing-our-latest-investment-coactive-ai/), as of 2024-05-21)
+- **Geographies:** global (as of 2026-04-26)[^s-bd4fc15f]
+- **About:** Greycroft is a venture capital firm. Its public materials emphasize seed, Series A, Series B, growth investing, and focus areas include ai, enterprise, fintech, consumer (as of 2026-04-26)[^s-bd4fc15f]
+- **Type:** venture capital[^s-aeb402a5]
+- **Stages:** early, growth[^s-9c10d9f8]
+- **Sectors:** Technology, Consumer Brands, Sustainability[^s-9c10d9f8]
+- **Leads rounds:** yes (as of 2024-05-21)[^s-1f8361eb]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Venmo | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/greycroft) |
-| Plated | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/greycroft) |
-| Axios | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/greycroft) |
-| Acorns | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/greycroft) |
-| Scopely | Not recorded | Not recorded | Not recorded | [Source](https://www.crunchbase.com/organization/greycroft) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Venmo[^s-bd4fc15f] | Not recorded | Not recorded | Not recorded |
+| Plated[^s-bd4fc15f] | Not recorded | Not recorded | Not recorded |
+| Axios[^s-bd4fc15f] | Not recorded | Not recorded | Not recorded |
+| Acorns[^s-bd4fc15f] | Not recorded | Not recorded | Not recorded |
+| Scopely[^s-bd4fc15f] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://greycroft.com)
-- [Source](https://www.crunchbase.com/organization/greycroft)
-- [Source](https://www.greycroft.com/)
-- [Source](https://www.greycroft.com/perspectives/introducing-our-latest-investment-coactive-ai/)
-- [Source](https://www.greycroft.com/portfolio/)
+[^s-08504b35]: <https://greycroft.com>
+[^s-bd4fc15f]: <https://www.crunchbase.com/organization/greycroft>
+[^s-aeb402a5]: <https://www.greycroft.com/>
+[^s-1f8361eb]: <https://www.greycroft.com/perspectives/introducing-our-latest-investment-coactive-ai/>
+[^s-9c10d9f8]: <https://www.greycroft.com/portfolio/>

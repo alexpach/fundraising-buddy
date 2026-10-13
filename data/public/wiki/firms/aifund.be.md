@@ -1,44 +1,55 @@
 ---
+type: Investor Firm
+title: Agri Investment Fund bv (AIF)
+description: private equity; venture capital; start-up, successive follow-on rounds;
+  Ag-Tech, Agro-Food.
+resource: https://aifund.be
+tags:
+- investor-firm
+- directory
+domain: aifund.be
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
 jev-score: 45
+status: draft
+sources:
+- id: s-40cd797b
+  resource: https://aifund.be
+- id: s-2ba3474a
+  resource: https://aifund.be/en/
+- id: s-1975f766
+  resource: https://aifund.be/en/about-us/
 ---
 
 # Agri Investment Fund bv (AIF)
-
-[Website](https://aifund.be)
-
-Domain: aifund.be
-
-Coverage: directory
-
-Research date: 2026-10-03
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe ([source](https://aifund.be), as of 2026-08-06)
-- **About:** Agri Investment Fund (AIF) is the ag-tech/agrifood strategic investment vehicle of MRBB (the investment arm of Boerenbond, Belgium's farmers' union/cooperative financial group), established in 2007 to back companies improving sustainability and innovation in agriculture and horticulture across Flanders and German-speaking Belgium. It invests from start-up stage through successive follow-on rounds  ([source](https://aifund.be), as of 2026-08-06)
-- **Type:** private equity; venture capital ([source](https://aifund.be/en/), as of not recorded)
-- **Investment strategies:** early-stage investing, long-term investment ([source](https://aifund.be/en/), as of not recorded)
-- **Stages:** start-up, successive follow-on rounds ([source](https://aifund.be/en/about-us/), as of not recorded)
-- **Sectors:** Ag-Tech, Agro-Food ([source](https://aifund.be/en/), as of not recorded)
+- **Geographies:** europe (as of 2026-08-06)[^s-40cd797b]
+- **About:** Agri Investment Fund (AIF) is the ag-tech/agrifood strategic investment vehicle of MRBB (the investment arm of Boerenbond, Belgium's farmers' union/cooperative financial group), established in 2007 to back companies improving sustainability and innovation in agriculture and horticulture across Flanders and German-speaking Belgium. It invests from start-up stage through successive follow-on rounds  (as of 2026-08-06)[^s-40cd797b]
+- **Type:** private equity; venture capital[^s-2ba3474a]
+- **Investment strategies:** early-stage investing, long-term investment[^s-2ba3474a]
+- **Stages:** start-up, successive follow-on rounds[^s-1975f766]
+- **Sectors:** Ag-Tech, Agro-Food[^s-2ba3474a]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Aphea.Bio | Not recorded | Not recorded | Not recorded | [Source](https://aifund.be) |
-| Protealis | Not recorded | Not recorded | Not recorded | [Source](https://aifund.be) |
-| Biotalys | Not recorded | Not recorded | Not recorded | [Source](https://aifund.be) |
-| ViroVet | Not recorded | Not recorded | Not recorded | [Source](https://aifund.be) |
-| Animab | Not recorded | Not recorded | Not recorded | [Source](https://aifund.be) |
-| biotope by VIB | Not recorded | Not recorded | Not recorded | [Source](https://aifund.be) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Aphea.Bio[^s-40cd797b] | Not recorded | Not recorded | Not recorded |
+| Protealis[^s-40cd797b] | Not recorded | Not recorded | Not recorded |
+| Biotalys[^s-40cd797b] | Not recorded | Not recorded | Not recorded |
+| ViroVet[^s-40cd797b] | Not recorded | Not recorded | Not recorded |
+| Animab[^s-40cd797b] | Not recorded | Not recorded | Not recorded |
+| biotope by VIB[^s-40cd797b] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://aifund.be)
-- [Source](https://aifund.be/en/)
-- [Source](https://aifund.be/en/about-us/)
+[^s-40cd797b]: <https://aifund.be>
+[^s-2ba3474a]: <https://aifund.be/en/>
+[^s-1975f766]: <https://aifund.be/en/about-us/>

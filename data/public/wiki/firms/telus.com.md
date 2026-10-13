@@ -1,23 +1,29 @@
 ---
+type: Investor Firm
+title: Telus
+description: cvc.
+resource: https://telus.com
+tags:
+- investor-firm
+- directory
+domain: telus.com
+generated:
+  by: fundraising-buddy/catalog
 jev-score: 4
+status: draft
+sources:
+- id: s-fd26bc9d
+  resource: https://telus.com
 ---
 
 # Telus
-
-[Website](https://telus.com)
-
-Domain: telus.com
-
-Coverage: directory
-
-Research date: Not recorded
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Type:** cvc ([source](https://telus.com), as of 2026-04-25)
-- **Leads rounds:** unknown ([source](https://telus.com), as of not recorded)
+- **Type:** cvc (as of 2026-04-25)[^s-fd26bc9d]
+- **Leads rounds:** unknown[^s-fd26bc9d]
 
 ## Portfolio
 
@@ -25,7 +31,6 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://telus.com)
+[^s-fd26bc9d]: <https://telus.com>

@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Akshat Goenka
+description: Partner at Moonfire Ventures LLP.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-ec8ec150
+  resource: https://www.moonfire.com/people/
+---
+
 # Akshat Goenka
 
-[[public/firms/moonfire.com|Firm profile]]
+[Firm profile](../firms/moonfire.com.md)
 
-Role: Partner
+Role: Partner[^s-ec8ec150]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://www.moonfire.com/people/)
+[^s-ec8ec150]: <https://www.moonfire.com/people/>

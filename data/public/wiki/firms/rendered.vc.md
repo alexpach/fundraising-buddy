@@ -1,38 +1,46 @@
 ---
+type: Investor Firm
+title: Rendered VC
+description: fund; early-stage; media technology, graphics.
+resource: https://rendered.vc
+tags:
+- investor-firm
+- directory
+domain: rendered.vc
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 32
+status: draft
+sources:
+- id: s-d988888f
+  resource: https://rendered.vc
+- id: s-ba353aa5
+  resource: https://rendered.vc/
 ---
 
 # Rendered VC
-
-[Website](https://rendered.vc)
-
-Domain: rendered.vc
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** us, europe ([source](https://rendered.vc), as of 2026-08-06)
-- **Type:** fund ([source](https://rendered.vc/), as of not recorded)
-- **Investment strategies:** early-stage investing ([source](https://rendered.vc/), as of not recorded)
-- **Stages:** early-stage ([source](https://rendered.vc/), as of not recorded)
-- **Sectors:** media technology, graphics ([source](https://rendered.vc/), as of not recorded)
+- **Geographies:** us, europe (as of 2026-08-06)[^s-d988888f]
+- **Type:** fund[^s-ba353aa5]
+- **Investment strategies:** early-stage investing[^s-ba353aa5]
+- **Stages:** early-stage[^s-ba353aa5]
+- **Sectors:** media technology, graphics[^s-ba353aa5]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| LocalizeDirect (Gridly) | Not recorded | Not recorded | Not recorded | [Source](https://rendered.vc) |
-| Spline | Not recorded | Not recorded | Not recorded | [Source](https://rendered.vc) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| LocalizeDirect (Gridly)[^s-d988888f] | Not recorded | Not recorded | Not recorded |
+| Spline[^s-d988888f] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://rendered.vc)
-- [Source](https://rendered.vc/)
+[^s-d988888f]: <https://rendered.vc>
+[^s-ba353aa5]: <https://rendered.vc/>

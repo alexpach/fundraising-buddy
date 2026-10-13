@@ -1,11 +1,23 @@
+---
+type: Investor
+title: Benjamin Schwiewagner
+description: Investment Director at Bayern Kapital.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-03T00:00:00Z'
+sources:
+- id: s-ae47a12c
+  resource: https://bayernkapital.de/team/seiten-menu/kategorie/investment-team/
+---
+
 # Benjamin Schwiewagner
 
-[[public/firms/bayernkapital.de|Firm profile]]
+[Firm profile](../firms/bayernkapital.de.md)
 
-Role: Investment Director
+Role: Investment Director[^s-ae47a12c]
 
 Focus: Not recorded
 
-## Public sources
-
-- [Source](https://bayernkapital.de/team/seiten-menu/kategorie/investment-team/)
+[^s-ae47a12c]: <https://bayernkapital.de/team/seiten-menu/kategorie/investment-team/>

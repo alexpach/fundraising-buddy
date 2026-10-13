@@ -1,42 +1,49 @@
 ---
+type: Investor Firm
+title: Novalis Biotech
+description: venture capital; pre-seed, seed, series A; life sciences, research and
+  manufacturing tools, bioinformatics, genomics, diagnostics, digital health.
+resource: https://noval.is
+tags:
+- investor-firm
+- directory
+domain: noval.is
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 47
+status: draft
+sources:
+- id: s-a4b271a3
+  resource: https://noval.is
 ---
 
 # Novalis Biotech
-
-[Website](https://noval.is)
-
-Domain: noval.is
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Geographies:** europe, global ([source](https://noval.is), as of 2026-08-07)
-- **About:** Novalis Biotech Incubation ("Novalis Biotech") is a Belgium-based (Ghent) early-stage venture capital investor in life sciences, focused on "enabling technologies": research/manufacturing tools, bioinformatics, genomics, diagnostics, digital health. Invests from (pre-)seed through Series A, often as a founding/first-check investor ([source](https://noval.is), as of 2026-08-07)
-- **Type:** venture capital ([source](https://noval.is), as of not recorded)
-- **Investment strategies:** early-stage life sciences venture capital ([source](https://noval.is), as of not recorded)
-- **Stages:** pre-seed, seed, series A ([source](https://noval.is), as of not recorded)
-- **Sectors:** life sciences, research and manufacturing tools, bioinformatics, genomics, diagnostics, digital health ([source](https://noval.is), as of not recorded)
+- **Geographies:** europe, global (as of 2026-08-07)[^s-a4b271a3]
+- **About:** Novalis Biotech Incubation ("Novalis Biotech") is a Belgium-based (Ghent) early-stage venture capital investor in life sciences, focused on "enabling technologies": research/manufacturing tools, bioinformatics, genomics, diagnostics, digital health. Invests from (pre-)seed through Series A, often as a founding/first-check investor (as of 2026-08-07)[^s-a4b271a3]
+- **Type:** venture capital[^s-a4b271a3]
+- **Investment strategies:** early-stage life sciences venture capital[^s-a4b271a3]
+- **Stages:** pre-seed, seed, series A[^s-a4b271a3]
+- **Sectors:** life sciences, research and manufacturing tools, bioinformatics, genomics, diagnostics, digital health[^s-a4b271a3]
 
 ## Portfolio
 
-| Company | Sector | Round | Date | Source |
-| --- | --- | --- | --- | --- |
-| Rarity Bioscience | Not recorded | Not recorded | Not recorded | [Source](https://noval.is) |
-| Carroucell | Not recorded | Not recorded | Not recorded | [Source](https://noval.is) |
-| Altavo | Not recorded | Not recorded | Not recorded | [Source](https://noval.is) |
-| RheumaFinder | Not recorded | Not recorded | Not recorded | [Source](https://noval.is) |
-| Clouds of Care | Not recorded | Not recorded | Not recorded | [Source](https://noval.is) |
-| Alithea Genomics | Not recorded | Not recorded | Not recorded | [Source](https://noval.is) |
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Rarity Bioscience[^s-a4b271a3] | Not recorded | Not recorded | Not recorded |
+| Carroucell[^s-a4b271a3] | Not recorded | Not recorded | Not recorded |
+| Altavo[^s-a4b271a3] | Not recorded | Not recorded | Not recorded |
+| RheumaFinder[^s-a4b271a3] | Not recorded | Not recorded | Not recorded |
+| Clouds of Care[^s-a4b271a3] | Not recorded | Not recorded | Not recorded |
+| Alithea Genomics[^s-a4b271a3] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://noval.is)
+[^s-a4b271a3]: <https://noval.is>

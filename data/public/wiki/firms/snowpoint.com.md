@@ -1,26 +1,40 @@
 ---
+type: Investor Firm
+title: Snowpoint Ventures
+description: Series A, Series B, Series C, Series D; Defense technology, Data, Deep
+  tech, Frontier tech.
+resource: https://snowpoint.com
+tags:
+- investor-firm
+- directory
+domain: snowpoint.com
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-04T00:00:00Z'
 jev-score: 27
+status: draft
+sources:
+- id: s-49a45421
+  resource: https://snowpoint.com
+- id: s-f4624873
+  resource: https://www.snowpoint.com/
+- id: s-fe3a6485
+  resource: https://www.snowpoint.com/portfolio
+- id: s-eb787994
+  resource: https://www.snowpoint.com/post/merlin-autonomy-vision-raises-questions-of-alaskas-preparedness
 ---
 
 # Snowpoint Ventures
-
-[Website](https://snowpoint.com)
-
-Domain: snowpoint.com
-
-Coverage: directory
-
-Research date: 2026-10-04
 
 ## Public research
 
 Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
 
-- **Investment strategies:** dual-purpose technology, defense technology ([source](https://www.snowpoint.com/), as of not recorded)
-- **Stages:** Series A, Series B, Series C, Series D ([source](https://www.snowpoint.com/portfolio), as of not recorded)
-- **Sectors:** Defense technology, Data, Deep tech, Frontier tech ([source](https://www.snowpoint.com/), as of not recorded)
-- **Leads rounds:** yes ([source](https://www.snowpoint.com/post/merlin-autonomy-vision-raises-questions-of-alaskas-preparedness), as of 2023-08-02)
-- **AUM:** Approximately USD 1 billion (date not reported) ([source](https://www.snowpoint.com/), as of not recorded)
+- **Investment strategies:** dual-purpose technology, defense technology[^s-f4624873]
+- **Stages:** Series A, Series B, Series C, Series D[^s-fe3a6485]
+- **Sectors:** Defense technology, Data, Deep tech, Frontier tech[^s-f4624873]
+- **Leads rounds:** yes (as of 2023-08-02)[^s-eb787994]
+- **AUM:** Approximately USD 1 billion (date not reported)[^s-f4624873]
 
 ## Portfolio
 
@@ -28,10 +42,9 @@ Not recorded.
 
 ## People
 
+Not recorded.
 
-## Sources
-
-- [Source](https://snowpoint.com)
-- [Source](https://www.snowpoint.com/)
-- [Source](https://www.snowpoint.com/portfolio)
-- [Source](https://www.snowpoint.com/post/merlin-autonomy-vision-raises-questions-of-alaskas-preparedness)
+[^s-49a45421]: <https://snowpoint.com>
+[^s-f4624873]: <https://www.snowpoint.com/>
+[^s-fe3a6485]: <https://www.snowpoint.com/portfolio>
+[^s-eb787994]: <https://www.snowpoint.com/post/merlin-autonomy-vision-raises-questions-of-alaskas-preparedness>

@@ -65,7 +65,7 @@ function Listings({view,data}:{view:View;data:Catalog}) {
     const firmName=(id:string)=>data.firms.find(f=>f.id===id)?.name||id;
     const columns:DataTableColumn<Person>[]=[
       {id:'name',header:'Person',sortable:true,cell:p=><Name name={p.name}/>},
-      {id:'firm',header:'Firm',sortable:true,value:p=>firmName(p.firm_id),cell:p=><a className="text-link" href={pageHref('public/firms/'+p.firm_id)}>{firmName(p.firm_id)}</a>},
+      {id:'firm',header:'Firm or affiliation',sortable:true,value:p=>p.firm_id?firmName(p.firm_id):'Independent investor',cell:p=>p.firm_id?<a className="text-link" href={pageHref('public/firms/'+p.firm_id)}>{firmName(p.firm_id)}</a>:'Independent investor'},
       {id:'title',header:'Role',sortable:true},
       {id:'researched_at',header:'Research date',sortable:true},
     ];
@@ -74,7 +74,7 @@ function Listings({view,data}:{view:View;data:Catalog}) {
   if(view==='people-table') {
     const firmName=(id:string)=>data.firms.find(f=>f.id===id)?.name||id;
     const columns:GridColumn<Person>[]=[
-      {id:'name',header:'Name',get:p=>p.name},{id:'id',header:'ID',get:p=>p.id},{id:'firm_id',header:'Firm ID',get:p=>p.firm_id},{id:'firm',header:'Firm',get:p=>firmName(p.firm_id)},
+      {id:'name',header:'Name',get:p=>p.name},{id:'id',header:'ID',get:p=>p.id},{id:'firm_id',header:'Firm ID',get:p=>p.firm_id},{id:'firm',header:'Firm or affiliation',get:p=>p.firm_id?firmName(p.firm_id):'Independent investor'},
       {id:'title',header:'Title',get:p=>p.title},{id:'profile',header:'Profile',get:p=>p.profile},{id:'focus',header:'Focus',get:p=>p.focus},{id:'researched_at',header:'Research date',get:p=>p.researched_at||''},
       {id:'sources_count',header:'Sources',numeric:true,get:p=>p.sources.length},
     ];
@@ -169,7 +169,7 @@ function App() {
             </section>
             <StatCards className="metrics" columns={4} cards={[
               {label:'Investor firms',value:data.firms.length,format:v=>Math.round(v).toLocaleString('en-US'),caption:'Public firm identities'},
-              {label:'Public people',value:data.people.length,format:v=>Math.round(v).toLocaleString('en-US'),caption:'People-at-firm records'},
+              {label:'Public people',value:data.people.length,format:v=>Math.round(v).toLocaleString('en-US'),caption:'Firm-linked people and independent investors'},
               {label:'Sourced profiles',value:data.firms.filter(f=>f.record_level==='sourced').length,format:v=>Math.round(v).toLocaleString('en-US'),caption:'Dated evidence, not live verification'},
               {label:'In your pipeline',value:data.private_firms.length,format:v=>Math.round(v).toLocaleString('en-US'),caption:'Your private relationships'},
             ]}/>
