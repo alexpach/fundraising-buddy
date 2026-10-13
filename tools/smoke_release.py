@@ -50,6 +50,7 @@ def smoke(root: Path):
         raise ValueError("Smoke shortlist unexpectedly empty")
     run(sys.executable, "-m", "fundraising_buddy.cli", "prospects-track", "smoke", "--firm", snapshot["rows"][0]["firm_id"])
     run(sys.executable, "-m", "fundraising_buddy.cli", "lint")
+    run(sys.executable, "tools/install_skills.py")
     run(sys.executable, "tools/install_skills.py", "--check")
     before = {name: (checkout / "src/fundraising_buddy/static" / name).read_bytes() for name in ("app.js", "style.css")}
     run("npm", "ci")

@@ -42,10 +42,10 @@ Follow [Company-specific prospects](prospects.md): run `uv run fundraising-buddy
 Run this once from the project root:
 
 ```sh
-uv run python tools/install_skills.py
+uv run python3 tools/install_skills.py
 ```
 
-It copies the same six canonical skills into `.agents/skills/` for Codex and `.claude/skills/` for Claude Code. Restart your agent session if needed and open this project. Both agents follow `AGENTS.md`; Claude also reads the short `CLAUDE.md` entrypoint. These project locations follow the [Codex skill documentation](https://learn.chatgpt.com/docs/build-skills) and [Claude Code skill documentation](https://code.claude.com/docs/en/skills).
+It generates local copies of the seven canonical skills from `skills/` in `.agents/skills/` for Codex and `.claude/skills/` for Claude Code. These generated directories are ignored by Git and excluded from release archives. Edit `skills/` and rerun the installer after changes. Restart your agent session if needed and open this project. Both agents follow `AGENTS.md`; Claude also reads the short `CLAUDE.md` entrypoint. These project locations follow the [Codex skill documentation](https://learn.chatgpt.com/docs/build-skills) and [Claude Code skill documentation](https://code.claude.com/docs/en/skills).
 
 Try these requests:
 
@@ -72,6 +72,6 @@ uv run fundraising-buddy rollup
 uv run fundraising-buddy lint
 ```
 
-Click Refresh in the viewer. To use Obsidian instead, run `uv run python tools/export_obsidian.py` and open the private `workspace/obsidian/` snapshot as a vault. See [Wiki structure](wiki.md) for how to preserve edits and refresh it.
+Click Refresh in the viewer. To use Obsidian instead, run `uv run python3 tools/export_obsidian.py` and open the private `workspace/obsidian/` snapshot as a vault. See [Wiki structure](wiki.md) for how to preserve edits and refresh it.
 
 No public hosting is required. The app saves private fund shortlists. Wiki editing remains in Markdown or with your agent. Public research contributions are a separate, reviewed operation.

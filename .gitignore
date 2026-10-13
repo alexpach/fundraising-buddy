@@ -11,5 +11,7 @@ dist/
 build/
 .firecrawl/
 .claude/settings.local.json
+.agents/skills/
+.claude/skills/
 
 node_modules/

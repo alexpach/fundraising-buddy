@@ -13,11 +13,11 @@ SKILLS = ["fb-daily-check", "fb-update-interactions", "fb-research-investor", "f
 FILES = ["Dockerfile", ".dockerignore", "compose.yaml", "compose.test.yaml", "README.md", "LICENSE", "AGENTS.md", "CLAUDE.md", "CONTRIBUTING.md", ".gitignore", "pyproject.toml", "uv.lock",
          "tools/promote_revalidation.py", "tests/test_promotion.py",
          "docs/getting-started.md", "docs/email.md", "docs/wiki.md", "docs/data.md", "docs/research.md", "docs/privacy.md",
-         "docs/prospects.md", "docs/release-plan.md",
+         "docs/prospects.md",
          "tools/import_public.py", "tools/export_public.py", "tools/export_obsidian.py", "tools/install_skills.py", "tools/package_release.py",
          "tools/migrate_legacy_fields.py", "tools/jev_score.py", "tools/test_viewer.py", "tools/smoke_release.py",
          "tools/dossier_fetch.py", "tools/dossier_check.py", "tools/revalidate_funds.py", "tools/run_revalidation.py", "tests/test_revalidation.py", "tests/test_revalidation_runner.py", "tools/jev_leads.py", "tests/test_leads.py",
-         "skills/fb-revalidate-funds/references/report-schema.md", ".agents/skills/fb-revalidate-funds/references/report-schema.md", ".claude/skills/fb-revalidate-funds/references/report-schema.md",
+         "skills/fb-revalidate-funds/references/report-schema.md",
          ".claude/agents/dossier-researcher.md", ".claude/agents/dossier-validator.md",
          "src/fundraising_buddy/__init__.py", "src/fundraising_buddy/catalog.py", "src/fundraising_buddy/wiki.py",
          "src/fundraising_buddy/email.py", "src/fundraising_buddy/server.py", "src/fundraising_buddy/cli.py", "src/fundraising_buddy/prospects.py", "src/fundraising_buddy/shortlists.py",
@@ -36,19 +36,8 @@ def release_files(root: Path):
     if errors:
         raise ValueError("; ".join(errors))
     names = FILES + ["data/public/" + name for name in artifacts(load(root))]
-    for name in FILES:
-        if name.startswith("skills/"):
-            for agent in (".agents", ".claude"):
-                copy_name = f"{agent}/{name}"
-                if copy_name in FILES and (root / copy_name).read_bytes() != (root / name).read_bytes():
-                    raise ValueError("Skill reference copies differ; run tools/install_skills.py")
     for skill in SKILLS:
-        canonical = root / "skills" / skill / "SKILL.md"
-        for parent in ("skills", ".agents/skills", ".claude/skills"):
-            name = f"{parent}/{skill}/SKILL.md"
-            if (root / name).read_text() != canonical.read_text():
-                raise ValueError("Skill copies differ; run tools/install_skills.py")
-            names.append(name)
+        names.append(f"skills/{skill}/SKILL.md")
     result = {}
     for name in sorted(names):
         path = root / name

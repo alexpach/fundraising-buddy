@@ -21,7 +21,7 @@ Read `workspace/config.json`, `workspace/wiki/Home.md`, and the latest daily log
 
 Always run the app in Docker using `docker compose up -d --build viewer`. Do not start the app server directly on the host. Rebuild and restart only the affected container after app changes, and verify the containerized app.
 
-Skills live in `skills/`; run `uv run python tools/install_skills.py` to install identical project-local copies for Codex and Claude Code. Start with `fb-daily-check` for new interactions or `fb-research-investor` for public research.
+Skills live in `skills/`; run `uv run python3 tools/install_skills.py` to generate ignored local copies for Codex and Claude Code; edit only the canonical files in `skills/`. Start with `fb-daily-check` for new interactions or `fb-research-investor` for public research.
 
 For company-specific investor discovery, read `docs/prospects.md`, private company context, and `workspace/prospects/criteria.json` if present. Keep criteria, fit assessments, saved lists, and exports private. Distinguish sourced support, legacy hints, potential mismatches, and unknowns. Missing data does not establish a mismatch. Review generated candidates before saving a new named snapshot; do not overwrite previous lists or track every candidate implicitly. Completeness scores never determine investment fit.
 
@@ -31,4 +31,4 @@ After mutations, run `uv run fundraising-buddy rollup` and `uv run fundraising-b
 
 ## Public contributions
 
-Public changes require public source links. Never promote a field learned only from email into public research. Use `uv run python tools/export_public.py` after editing the catalog, then `uv run fundraising-buddy validate-public`. Review the diff and use the explicit release packager; never copy a working workspace into a release.
+Public changes require public source links. Never promote a field learned only from email into public research. Use `uv run python3 tools/export_public.py` after editing the catalog, then `uv run fundraising-buddy validate-public`. Review the diff and use the explicit release packager; never copy a working workspace into a release.

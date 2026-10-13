@@ -8,7 +8,7 @@ Company criteria, matching assessments, saved prospect lists, and their CSV/JSON
 
 `workspace/`, `tmp/`, `.env` files, caches, and local agent settings are ignored by Git. This prevents ordinary accidental commits, but it is not encryption or access control. Your agent and anyone with filesystem access can still read your workspace. Back it up using a private destination. Force-adding an ignored file bypasses Git's protection.
 
-The host viewer binds to 127.0.0.1; Docker mode binds inside the container and must use the provided Compose loopback-only port mapping. The `--container` flag is rejected outside Docker. Compose runs a non-root viewer with a read-only filesystem, dropped capabilities, and a read-only workspace mount with a separate writable mount for `workspace/shortlists/`. The Docker build context is allowlisted and excludes private workspace files, credentials, and caches. Docker's daemon can read mounted private files, so use only a trusted local Docker installation. Do not change the mapping to a public interface.
+The viewer runs in Docker with the provided Compose loopback-only port mapping. The `--container` flag is rejected outside Docker. Compose runs a non-root viewer with a read-only filesystem, dropped capabilities, and a read-only workspace mount with a separate writable mount for `workspace/shortlists/`. The Docker build context is allowlisted and excludes private workspace files, credentials, and caches. Docker's daemon can read mounted private files, so use only a trusted local Docker installation. Do not change the mapping to a public interface.
 
 Editable fund shortlists are stored in `workspace/shortlists/lists.json`, outside the public catalog and release allowlist. Shortlist writes require a matching local Origin, a session token, JSON input, and the current revision. Updates are locked and atomic; stale browser revisions cannot overwrite another tab's changes.
 
@@ -20,10 +20,9 @@ Run:
 
 ```sh
 uv run fundraising-buddy validate-public
-uv run python -m unittest discover -s tests -v
-uv run python tools/install_skills.py --check
-uv run python tools/package_release.py
-uv run python tools/smoke_release.py
+uv run python3 -m unittest discover -s tests -v
+uv run python3 tools/package_release.py
+uv run python3 tools/smoke_release.py
 ```
 
 The public validator enforces allowed fields, source links, domain constraints, no email addresses, and exact derived exports. The packager uses an explicit list of project paths rather than archiving the repository. It rejects symlinks, unapproved files within the public dataset, personal email patterns outside synthetic examples, and obvious private-path or credential markers.

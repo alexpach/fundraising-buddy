@@ -1,124 +1,86 @@
 # Fundraising Buddy
 
-This is a work-in-progress. The goal of this project is to provide a knowledge database and a workspace for a fundraising process. Contains a starter investor database that can be maintained with any AI model to help coordinate pitching, feedback, and correspondence with investors.
+A Docker app for browsing investor funds, filtering by investment criteria, saving shortlists, and keeping private fundraising notes.
 
-<img width="1329" height="1035" alt="Screenshot 2026-10-03 at 14 36 42" src="https://github.com/user-attachments/assets/0059f9d1-f169-4e8f-9bd7-b1094155008d" />
+<img width="1329" height="1035" alt="Fundraising Buddy funds table" src="https://github.com/user-attachments/assets/0059f9d1-f169-4e8f-9bd7-b1094155008d" />
 
+## Run
 
-## Product direction
-
-Build a well-sourced database of funds, contacts, and investment information, present it in a useful web application, and help a company generate lists of investors to approach. The linked wiki and fundraising workflows should support the work from initial research through outreach, meetings, follow-ups, and round tracking.
-
-The core journey is: describe a company and its round, discover suitable investors, review the evidence and relevant contacts, save a prospect list, then track conversations and next actions in the private workspace.
-
-Implementation priorities:
-
-1. **Database and research quality:** expand fund and contact coverage, preserve sources and research dates, resolve duplicate identities, and make missing or stale information visible. Distinguish researched facts from legacy directory tags.
-2. **Company-specific prospect generation:** capture stage, sectors, geography, raise size, desired check sizes, lead requirements, and exclusions. Produce saved, exportable shortlists with fit reasons, supporting sources, relevant contacts, conflicts, and uncertainties. Profile completeness is separate from investment fit; missing information does not prove a mismatch.
-3. **Web application and wiki:** make funds, contacts, portfolio information, prospect lists, and private relationship pages searchable and linked. Support useful filtering and comparison, and provide a clear path from a prospect to an active fundraising conversation.
-4. **Fundraising operations:** adapt the reusable workflows from `investor-db`, including daily email and meeting checks, follow-up action boards, expected replies, round reviews, unmatched-contact review, and round summaries. Generalize company-specific assumptions and keep private history in the private workspace.
-
-The six existing `fb-*` skills provide the workflow foundation. The minimum prospect workflow now supports structured private criteria, explainable matching, named saved snapshots, exports, and explicit tracking. The app saves editable fund shortlists directly. The prospect view reviews evidence snapshots and prepares CLI save commands. The current `Prospects.md` remains an authored strategy page. Fuller action-board and round-review workflows remain future work.
-
-Research investors, find the right people, filter your email by investor domain, and keep interactions and follow-ups in linked Markdown pages. Browse with the included local viewer or Obsidian.
-
-Public investor research lives in `data/public/`. Your company, round, email, relationships, and notes live in a separate, ignored `workspace/`. No mailbox connection is needed to explore the directory.
-
-## Current status
-
-**Version 0.1.0: local first-release candidate, not yet publicly released.** The selected release scope includes the minimum company-specific prospect workflow. See the [release plan](docs/release-plan.md) for acceptance checks and outstanding release gates.
-
-| Area | Implemented |
-| --- | --- |
-| Public database | 900 firm/domain records: 120 sourced profiles and 780 directory records; 608 public person-at-firm records; 1,132 public portfolio rows |
-| Portable data | Canonical JSON, firm/people/portfolio CSVs, generated Markdown profiles, and a list of 900 investor domains |
-| Agent workflows | Six skills shared by Codex and Claude Code for daily checks, interactions, research, review decisions, maintenance, and logging |
-| Private wiki | Company context, prospects, firm and people pages, interaction history, review queue, daily logs, and generated pipeline/index |
-| Company-specific prospects | Private structured criteria, deterministic evidence-aware matching, saved snapshots, CSV/JSON exports, and explicit pipeline tracking |
-| Docker app | Unified funds table, configurable columns, filter rules, multiple sorts, collapsible groups, editable named shortlists, linked profiles, prospect review, and domain export |
-| Email | Read-only notmuch import, domain-based query generation for notmuch and Gmail, and guidance for using an external Gmail connector |
-| Obsidian | Export of a linked browsing vault, with protection against overwriting edited snapshots |
-| Release tooling | Public-data validation, wiki linting, synchronized skill copies, and an explicit release file allowlist |
-
-Latest local checks on October 2, 2026 passed **39 backend tests**, **4 browser tests** using installed Chrome, public-data validation, wiki linting, skill synchronization, frontend rebuilding, and an extracted-release smoke test. Browser tests use an isolated synthetic workspace. GitHub Actions is configured to run build, browser, and release checks; the hosted run still needs verification after commit and push. These mechanical checks do not replace the final provenance and repository-history review.
-
-### Boundaries and remaining release work
-
-- The app can create, rename, and update private fund shortlists. Wiki pages and public research remain read-only in the browser. Edit Markdown or ask your agent to maintain it, then refresh. Skills guide your agent; the application does not run an autonomous LLM or send email.
-- Gmail setup uses a separately authorized connector. There is no bundled Gmail OAuth application or direct Gmail import adapter.
-- Research dates and source links are retained, but the directory has not been mass re-verified. Directory seeds need identity checks; people records are firm associations, not necessarily unique individuals.
-- Investor records contain no individual email addresses, including publicly listed ones. Angel addresses and any additional email domains belong in private config.
-- Matching uses recorded evidence, not live investor appetite or an LLM recommendation. Unknown data is not a mismatch, legacy tags are unverified, and completeness scores do not influence fit. Save commands and tracking require explicit user action.
-- Before publishing, review the source archive, repository history, and retained data provenance, approve repository visibility, and create the initial release. Packaging does not publish or upload anything.
-
-## Get started
-
-Install Docker and [uv](https://docs.astral.sh/uv/getting-started/installation/), then run from this checkout:
+Install Docker and [uv](https://docs.astral.sh/uv/getting-started/installation/), then run from the project root:
 
 ```sh
 uv sync --locked
 uv run fundraising-buddy init
 mkdir -p workspace/shortlists
-docker compose up -d --build --wait viewer
+docker compose up -d --build viewer
 ```
 
-Open **http://127.0.0.1:10013**. The app always runs in Docker. Compose publishes only host loopback and mounts the workspace read-only, except for the private `workspace/shortlists/` directory used by browser saves. Private workspace files and credentials are excluded from the image build context. Use `docker compose up -d --build viewer` after changing code or public data; Refresh picks up workspace edits. Stop with `docker compose down`.
+Open **http://127.0.0.1:10013**. On Linux, prefix the Compose command with `FB_UID=$(id -u) FB_GID=$(id -g)` so the container can save shortlists. Stop with `docker compose down`.
 
-On Linux, give the container the host user's IDs so it can write the shortlist directory: prefix the Compose command with `FB_UID=$(id -u) FB_GID=$(id -g)`.
+Rebuild the viewer after changing application code or public data. Use Refresh in the app to reload data. The app runs locally in Docker and has no login or public hosting mode.
 
-Edit `workspace/config.json` for your company, round, and email aliases. Read the [getting started guide](docs/getting-started.md) to connect your agent and email.
+## Features
 
-Docker binds inside its container and publishes only **127.0.0.1:10013** through Compose. Never publish it to all host interfaces or a public proxy. Its prebuilt frontend is included, so Node.js is only needed when changing the UI. Python 3.11 or newer is required; `uv` manages the project environment.
+- Funds table with configurable columns, filters, sorting, optional groups, and incremental loading.
+- Named shortlists and a searchable domains table with plain-text export.
+- Public firm, people, and portfolio profiles with source links and research dates.
+- Private company criteria, prospect lists, relationship notes, and follow-ups.
+- Markdown wiki and Obsidian export.
+- Optional Codex and Claude Code workflows for research and wiki maintenance.
 
-## What is included
+The public catalog is in `data/public/catalog.json`. CSVs and Markdown profiles are generated from it. Company details, email, notes, shortlists, and research caches belong in the ignored `workspace/` directory.
 
-- An attributed investor directory, firm profiles, public people records, JSON/CSV exports, and an investor-domain list. No personal email addresses.
-- Skills for daily checks, investor research, interaction updates, pipeline rollups, review decisions, and wiki maintenance.
-- A local Spectrum UI viewer with searchable, sortable tables, linked profiles, domain export, and a private pipeline.
-- A notmuch email adapter and provider-neutral Gmail connector instructions.
-- A public-data validator and an explicit release packager that excludes private workspaces.
+Research coverage varies. Some records retain unverified directory data, and unresolved identities remain. Jev scores measure profile completeness, not accuracy or investment fit. See [data provenance](docs/data.md).
 
-The directory is a research starting point, not a live or exhaustive investor registry. Read [data provenance](docs/data.md) for coverage, dates, and limitations.
+## Agent setup
 
-For new research, use **Keenable**, **Firecrawl**, and/or **Exa** through your agent. Keep source URLs and dates with public facts, and keep company fit assessments private. See the [research guide](docs/research.md) for the workflow.
+The seven workflows live in `skills/`. To make them available to Codex and Claude Code:
+
+```sh
+uv run python3 tools/install_skills.py
+```
+
+This generates ignored copies in `.agents/skills/` and `.claude/skills/`. Edit only `skills/`, then rerun the installer. Generated copies are not committed or included in release archives. Agent workflows are optional; browsing the app needs no model or mailbox access.
 
 ## Guides
 
 - [Getting started](docs/getting-started.md)
+- [Investor research and revalidation](docs/research.md)
 - [Company-specific prospects](docs/prospects.md)
-- [Release plan](docs/release-plan.md)
 - [Email setup](docs/email.md)
-- [Wiki structure and maintenance](docs/wiki.md)
-- [Public research with Keenable, Firecrawl, or Exa](docs/research.md)
-- [Privacy and releases](docs/privacy.md)
-- [Viewer development](docs/ui.md)
+- [Wiki structure](docs/wiki.md)
+- [Privacy and release packaging](docs/privacy.md)
+- [UI development](docs/ui.md)
 - [Contributing](CONTRIBUTING.md)
 
 ## Development
 
+Python dependencies are managed by uv. The prebuilt frontend is included; changing it requires Node.js 22.12 or newer.
+
 ```sh
-uv run python3 -m unittest discover -s tests -v
+uv run python3 -m unittest discover -s tests
 uv run fundraising-buddy validate-public
-uv run fundraising-buddy lint
-uv run python3 tools/install_skills.py --check
-uv run python3 tools/package_release.py
-uv run python3 tools/smoke_release.py
-```
-
-To rebuild the frontend, use Node.js 22.12 or newer:
-
-```sh
 npm ci
 npm run build
+docker compose up -d --build viewer
 ```
 
-The browser checks start their own isolated Docker test server on port 10015 (override with `FB_TEST_PORT`); do not run a manual viewer for them:
+Browser tests start an isolated Docker container on port 10015. Override the port with `FB_TEST_PORT` if needed.
 
 ```sh
 npx playwright install chromium
 npm run test:ui
 ```
 
-The release packager writes `dist/fundraising-buddy-0.1.0.zip`. It includes the public dataset, application, prebuilt UI, frontend sources, skills, guides, tests, and third-party notices. It excludes `workspace/`, raw correspondence, caches, credentials, and the original project's Git history. See [privacy and releases](docs/privacy.md) for the checks and their limits.
+To build and verify a source archive:
 
-The application is MIT licensed. Spectrum UI components retain their Apache 2.0 license and attribution. See [LICENSE](LICENSE), [component notices](frontend/NOTICE.md), and [viewer development](docs/ui.md). Investor source material is not relicensed.
+```sh
+uv run python3 tools/package_release.py
+uv run python3 tools/smoke_release.py
+```
+
+The archive includes only allowlisted public files. Private workspace data, credentials, caches, and local agent copies are excluded.
+
+## License
+
+The application is [MIT licensed](LICENSE). Third-party components retain their licenses and [attribution](frontend/NOTICE.md). Investor source material is not relicensed.
