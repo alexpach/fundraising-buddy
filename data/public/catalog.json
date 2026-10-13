@@ -7755,39 +7755,6 @@
       }
     },
     {
-      "id": "amitours.com",
-      "name": "Amitours London Ltd",
-      "domain": "amitours.com",
-      "website": "https://www.amitours.com/",
-      "record_level": "directory",
-      "researched_at": "2026-10-03",
-      "fields": {
-        "geographies": [
-          "europe"
-        ],
-        "type": "transportation services company"
-      },
-      "sources": [
-        "https://www.amitours.com/",
-        "https://www.amitours.com/about-us",
-        "https://www.amitours.com/contacts"
-      ],
-      "evidence": {
-        "geographies": {
-          "url": "https://www.amitours.com/",
-          "as_of": "2026-08-07"
-        },
-        "type": {
-          "url": "https://www.amitours.com/about-us",
-          "as_of": ""
-        }
-      },
-      "portfolio": [],
-      "scores": {
-        "jev-score": 21
-      }
-    },
-    {
       "id": "amplovc.com",
       "name": "Amplo",
       "domain": "amplovc.com",
@@ -14687,49 +14654,6 @@
       ],
       "scores": {
         "jev-score": 72
-      }
-    },
-    {
-      "id": "bfi-consulting.ch",
-      "name": "BFI Consulting",
-      "domain": "bfi-consulting.ch",
-      "website": "https://bfi-consulting.ch",
-      "record_level": "directory",
-      "researched_at": "",
-      "fields": {
-        "type": "family-office",
-        "stages": [
-          "any"
-        ],
-        "geographies": [
-          "global"
-        ],
-        "leads_rounds": "unknown"
-      },
-      "sources": [
-        "https://bfi-consulting.ch"
-      ],
-      "evidence": {
-        "type": {
-          "url": "https://bfi-consulting.ch",
-          "as_of": "2026-08-17"
-        },
-        "stages": {
-          "url": "https://bfi-consulting.ch",
-          "as_of": "2026-08-17"
-        },
-        "geographies": {
-          "url": "https://bfi-consulting.ch",
-          "as_of": "2026-08-17"
-        },
-        "leads_rounds": {
-          "url": "https://bfi-consulting.ch",
-          "as_of": ""
-        }
-      },
-      "portfolio": [],
-      "scores": {
-        "jev-score": 11
       }
     },
     {
@@ -32602,62 +32526,6 @@
       "portfolio": [],
       "scores": {
         "jev-score": 12
-      }
-    },
-    {
-      "id": "enjoythework.com",
-      "name": "Enjoy The Work",
-      "domain": "enjoythework.com",
-      "website": "https://enjoythework.com",
-      "record_level": "directory",
-      "researched_at": "2026-10-03",
-      "fields": {
-        "geographies": [
-          "us",
-          "europe"
-        ],
-        "about": "Enjoy The Work (ETW) is a San Francisco–based founder advisory and operating-partner firm that doubles as a venture investor, founded in 2015 by Jonathan Lowenhar. ETW's 12 General Partners have worked with 125+ startups representing over $13B in combined market value; the model blends 1:1 CEO coaching with selective investment",
-        "type": "startup advisory firm"
-      },
-      "sources": [
-        "https://enjoythework.com",
-        "https://enjoythework.com/venture-capital/",
-        "https://www.crunchbase.com/organization/etw-advisors"
-      ],
-      "evidence": {
-        "geographies": {
-          "url": "https://www.crunchbase.com/organization/etw-advisors",
-          "as_of": "2026-04-19"
-        },
-        "about": {
-          "url": "https://www.crunchbase.com/organization/etw-advisors",
-          "as_of": "2026-04-19"
-        },
-        "type": {
-          "url": "https://enjoythework.com/venture-capital/",
-          "as_of": ""
-        }
-      },
-      "portfolio": [
-        {
-          "company": "Notable investments",
-          "sector": "",
-          "round": "",
-          "date": "",
-          "url": "https://www.crunchbase.com/organization/etw-advisors",
-          "as_of": "2026-04-19"
-        },
-        {
-          "company": "ETW operates primarily as a founder",
-          "sector": "",
-          "round": "",
-          "date": "",
-          "url": "https://www.crunchbase.com/organization/etw-advisors",
-          "as_of": "2026-04-19"
-        }
-      ],
-      "scores": {
-        "jev-score": 32
       }
     },
     {
@@ -56541,39 +56409,6 @@
       }
     },
     {
-      "id": "moorelaw.be",
-      "name": "Moore Law Belgium BV",
-      "domain": "moorelaw.be",
-      "website": "https://www.moorelaw.be",
-      "record_level": "directory",
-      "researched_at": "2026-10-04",
-      "fields": {
-        "geographies": [
-          "europe"
-        ],
-        "type": "law firm"
-      },
-      "sources": [
-        "https://www.moorelaw.be",
-        "https://www.moorelaw.be/nl",
-        "https://www.moorelaw.be/nl/expertises/corporate-ma"
-      ],
-      "evidence": {
-        "geographies": {
-          "url": "https://www.moorelaw.be",
-          "as_of": "2026-08-06"
-        },
-        "type": {
-          "url": "https://www.moorelaw.be/nl/expertises/corporate-ma",
-          "as_of": "2026"
-        }
-      },
-      "portfolio": [],
-      "scores": {
-        "jev-score": 21
-      }
-    },
-    {
       "id": "moradoventures.com",
       "name": "Morado Ventures",
       "domain": "moradoventures.com",
@@ -59147,64 +58982,6 @@
       ],
       "scores": {
         "jev-score": 65
-      }
-    },
-    {
-      "id": "nextworldcap.com",
-      "name": "NextWorld Capital",
-      "domain": "nextworldcap.com",
-      "website": "https://nextworldcap.com",
-      "record_level": "directory",
-      "researched_at": "",
-      "fields": {
-        "type": "vc",
-        "stages": [
-          "series-a",
-          "growth"
-        ],
-        "geographies": [
-          "global"
-        ],
-        "sectors": [
-          "enterprise",
-          "infrastructure"
-        ],
-        "leads_rounds": "unknown",
-        "about": "NextWorld Capital is a venture capital firm. Its public materials emphasize Series A, growth investing, and focus areas include enterprise, infrastructure."
-      },
-      "sources": [
-        "https://nextworldcap.com",
-        "https://www.crunchbase.com/organization/next-world-capital"
-      ],
-      "evidence": {
-        "type": {
-          "url": "https://www.crunchbase.com/organization/next-world-capital",
-          "as_of": "2026-04-19"
-        },
-        "stages": {
-          "url": "https://www.crunchbase.com/organization/next-world-capital",
-          "as_of": "2026-04-19"
-        },
-        "geographies": {
-          "url": "https://www.crunchbase.com/organization/next-world-capital",
-          "as_of": "2026-04-19"
-        },
-        "sectors": {
-          "url": "https://www.crunchbase.com/organization/next-world-capital",
-          "as_of": "2026-04-19"
-        },
-        "leads_rounds": {
-          "url": "https://nextworldcap.com",
-          "as_of": ""
-        },
-        "about": {
-          "url": "https://www.crunchbase.com/organization/next-world-capital",
-          "as_of": "2026-04-19"
-        }
-      },
-      "portfolio": [],
-      "scores": {
-        "jev-score": 32
       }
     },
     {
@@ -63474,65 +63251,6 @@
       ],
       "scores": {
         "jev-score": 73
-      }
-    },
-    {
-      "id": "pbfs.swiss",
-      "name": "PBFS",
-      "domain": "pbfs.swiss",
-      "website": "https://pbfs.swiss",
-      "record_level": "directory",
-      "researched_at": "",
-      "fields": {
-        "type": "vc",
-        "stages": [
-          "series-a",
-          "series-b",
-          "growth"
-        ],
-        "geographies": [
-          "europe",
-          "global"
-        ],
-        "sectors": [
-          "deep-tech",
-          "ai",
-          "biopharma",
-          "fintech",
-          "cybersecurity",
-          "autonomous-vehicles",
-          "energy"
-        ],
-        "leads_rounds": "unknown"
-      },
-      "sources": [
-        "https://pbfs.swiss"
-      ],
-      "evidence": {
-        "type": {
-          "url": "https://pbfs.swiss",
-          "as_of": "2026-09-07"
-        },
-        "stages": {
-          "url": "https://pbfs.swiss",
-          "as_of": "2026-09-07"
-        },
-        "geographies": {
-          "url": "https://pbfs.swiss",
-          "as_of": "2026-09-07"
-        },
-        "sectors": {
-          "url": "https://pbfs.swiss",
-          "as_of": "2026-09-07"
-        },
-        "leads_rounds": {
-          "url": "https://pbfs.swiss",
-          "as_of": ""
-        }
-      },
-      "portfolio": [],
-      "scores": {
-        "jev-score": 24
       }
     },
     {
@@ -67969,67 +67687,6 @@
       "portfolio": [],
       "scores": {
         "jev-score": 13
-      }
-    },
-    {
-      "id": "rrvp.com",
-      "name": "R&R Venture Partners",
-      "domain": "rrvp.com",
-      "website": "https://rrvp.com",
-      "record_level": "directory",
-      "researched_at": "",
-      "fields": {
-        "type": "vc",
-        "stages": [
-          "series-a",
-          "series-b",
-          "growth"
-        ],
-        "geographies": [
-          "us"
-        ],
-        "sectors": [
-          "consumer",
-          "technology",
-          "media",
-          "saas"
-        ],
-        "leads_rounds": "unknown",
-        "about": "R&R Venture Partners is the joint investment vehicle of Richard \"Dick\" Parsons (former CEO of Time Warner and Citigroup chair) and Ronald Lauder (Estée Lauder heir and philanthropist), founded in 2013. The firm invests across consumer, technology, media and SaaS. The \"R&R\" initials refer to Richard and Ronald."
-      },
-      "sources": [
-        "https://rrvp.com",
-        "https://www.crunchbase.com/organization/rr-venture-partners"
-      ],
-      "evidence": {
-        "type": {
-          "url": "https://www.crunchbase.com/organization/rr-venture-partners",
-          "as_of": "2026-04-24"
-        },
-        "stages": {
-          "url": "https://www.crunchbase.com/organization/rr-venture-partners",
-          "as_of": "2026-04-24"
-        },
-        "geographies": {
-          "url": "https://www.crunchbase.com/organization/rr-venture-partners",
-          "as_of": "2026-04-24"
-        },
-        "sectors": {
-          "url": "https://www.crunchbase.com/organization/rr-venture-partners",
-          "as_of": "2026-04-24"
-        },
-        "leads_rounds": {
-          "url": "https://rrvp.com",
-          "as_of": ""
-        },
-        "about": {
-          "url": "https://www.crunchbase.com/organization/rr-venture-partners",
-          "as_of": "2026-04-24"
-        }
-      },
-      "portfolio": [],
-      "scores": {
-        "jev-score": 36
       }
     },
     {
@@ -82150,54 +81807,6 @@
       }
     },
     {
-      "id": "tenten100.com",
-      "name": "tenten100 (trading name of Qahwa Management Consulting DWC-LLC)",
-      "domain": "tenten100.com",
-      "website": "https://www.tenten100.com",
-      "record_level": "directory",
-      "researched_at": "2026-10-04",
-      "fields": {
-        "geographies": [
-          "global"
-        ],
-        "type": "strategic foresight advisory; strategy consulting",
-        "investment_strategies": [
-          "strategic foresight",
-          "startup ecosystem strategy advisory"
-        ],
-        "legal_structure": [
-          "DWC-LLC (Qahwa Management Consulting DWC-LLC is the stated legal operator/trading-name entity)"
-        ]
-      },
-      "sources": [
-        "https://www.tenten100.com",
-        "https://www.tenten100.com/",
-        "https://www.tenten100.com/services"
-      ],
-      "evidence": {
-        "geographies": {
-          "url": "https://www.tenten100.com",
-          "as_of": "2026-07-02"
-        },
-        "type": {
-          "url": "https://www.tenten100.com/",
-          "as_of": ""
-        },
-        "investment_strategies": {
-          "url": "https://www.tenten100.com/",
-          "as_of": ""
-        },
-        "legal_structure": {
-          "url": "https://www.tenten100.com/",
-          "as_of": ""
-        }
-      },
-      "portfolio": [],
-      "scores": {
-        "jev-score": 16
-      }
-    },
-    {
       "id": "thefsegroup.com",
       "name": "The FSE Group",
       "domain": "thefsegroup.com",
@@ -89712,54 +89321,6 @@
       ],
       "scores": {
         "jev-score": 84
-      }
-    },
-    {
-      "id": "vptextile.eu",
-      "name": "VP Textile",
-      "domain": "vptextile.eu",
-      "website": "https://www.vptextile.eu/",
-      "record_level": "directory",
-      "researched_at": "2026-10-04",
-      "fields": {
-        "geographies": [
-          "europe"
-        ],
-        "type": "operating company; textile manufacturer",
-        "legal_structure": [
-          "family-owned company"
-        ],
-        "sectors": [
-          "textile manufacturing",
-          "workwear and protective clothing"
-        ]
-      },
-      "sources": [
-        "https://vptextile.eu/about-us/",
-        "https://vptextile.eu/vp-textile-sustainable-textile-manufacturing/",
-        "https://www.vptextile.eu/"
-      ],
-      "evidence": {
-        "geographies": {
-          "url": "https://www.vptextile.eu/",
-          "as_of": "2026-08-06"
-        },
-        "type": {
-          "url": "https://vptextile.eu/vp-textile-sustainable-textile-manufacturing/",
-          "as_of": "2023-07-10"
-        },
-        "legal_structure": {
-          "url": "https://vptextile.eu/vp-textile-sustainable-textile-manufacturing/",
-          "as_of": "2023-07-10"
-        },
-        "sectors": {
-          "url": "https://vptextile.eu/about-us/",
-          "as_of": ""
-        }
-      },
-      "portfolio": [],
-      "scores": {
-        "jev-score": 25
       }
     },
     {
@@ -97346,6 +96907,2517 @@
           "date": "",
           "url": "https://zeroshotfund.com/",
           "as_of": ""
+        }
+      ]
+    },
+    {
+      "id": "2square.xyz",
+      "name": "2Square",
+      "domain": "2square.xyz",
+      "website": "https://2square.xyz/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "investment firm"
+      },
+      "sources": [
+        "https://x.com/2squarecapital",
+        "https://www.finsmes.com/2026/09/infinifi-closes-3m-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://x.com/2squarecapital",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "infiniFi",
+          "sector": "",
+          "round": "Seed",
+          "date": "2026-09-23",
+          "url": "https://www.finsmes.com/2026/09/infinifi-closes-3m-seed-funding.html",
+          "as_of": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "id": "araya.ventures",
+      "name": "Arāya Ventures",
+      "domain": "araya.ventures",
+      "website": "https://araya.ventures/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "stages": [
+          "pre-seed",
+          "seed"
+        ],
+        "geographies": [
+          "global",
+          "Europe",
+          "GCC",
+          "Asia",
+          "UK"
+        ],
+        "sectors": [
+          "AI",
+          "healthcare",
+          "commerce",
+          "fintech",
+          "future of work",
+          "climate",
+          "deeptech/AI"
+        ],
+        "leads_rounds": "yes"
+      },
+      "sources": [
+        "https://araya.ventures/",
+        "https://www.finsmes.com/2026/10/comparables-ai-raises-6m-in-seed-funding.html",
+        "https://www.finsmes.com/2026/06/paypercut-raises-eur-5m-in-seed-funding.html",
+        "https://araya.ventures/team",
+        "https://araya.ventures/portfolio"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://araya.ventures/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://araya.ventures/",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://araya.ventures/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://araya.ventures/",
+          "as_of": ""
+        },
+        "leads_rounds": {
+          "url": "https://www.finsmes.com/2026/10/comparables-ai-raises-6m-in-seed-funding.html",
+          "as_of": "2026-10-06"
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Paypercut",
+          "sector": "FinTech",
+          "round": "Seed",
+          "date": "2026-06-03",
+          "url": "https://araya.ventures/portfolio",
+          "as_of": ""
+        }
+      ]
+    },
+    {
+      "id": "brightcap.vc",
+      "name": "BrightCap Ventures",
+      "domain": "brightcap.vc",
+      "website": "https://brightcap.vc",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "hq": "Sofia, Bulgaria",
+        "stages": [
+          "pre-seed",
+          "seed"
+        ],
+        "geographies": [
+          "Southeastern Europe"
+        ],
+        "sectors": [
+          "Future of Work",
+          "Fintech",
+          "Health"
+        ],
+        "check_size_min": "€0.4 million",
+        "check_size_max": "€3 million"
+      },
+      "sources": [
+        "https://brightcap.vc/news/brightcap-launches-60m-successor-fund-invest-in-see-founders",
+        "https://www.brightcap.vc/portfolio/paypercut",
+        "https://www.brightcap.vc/",
+        "https://www.finsmes.com/2026/06/paypercut-raises-eur-5m-in-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://brightcap.vc/news/brightcap-launches-60m-successor-fund-invest-in-see-founders",
+          "as_of": "2024-07-08"
+        },
+        "hq": {
+          "url": "https://brightcap.vc/news/brightcap-launches-60m-successor-fund-invest-in-see-founders",
+          "as_of": "2024-07-08"
+        },
+        "stages": {
+          "url": "https://brightcap.vc/news/brightcap-launches-60m-successor-fund-invest-in-see-founders",
+          "as_of": "2024-07-08"
+        },
+        "geographies": {
+          "url": "https://brightcap.vc/news/brightcap-launches-60m-successor-fund-invest-in-see-founders",
+          "as_of": "2024-07-08"
+        },
+        "sectors": {
+          "url": "https://www.brightcap.vc/",
+          "as_of": ""
+        },
+        "check_size_min": {
+          "url": "https://brightcap.vc/news/brightcap-launches-60m-successor-fund-invest-in-see-founders",
+          "as_of": "2024-07-08"
+        },
+        "check_size_max": {
+          "url": "https://brightcap.vc/news/brightcap-launches-60m-successor-fund-invest-in-see-founders",
+          "as_of": "2024-07-08"
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Paypercut",
+          "sector": "Fintech payments",
+          "round": "Seed",
+          "date": "2026-06-03",
+          "url": "https://www.finsmes.com/2026/06/paypercut-raises-eur-5m-in-seed-funding.html",
+          "as_of": "2026-06-03"
+        }
+      ]
+    },
+    {
+      "id": "capitaleleven.com",
+      "name": "Capital Eleven",
+      "domain": "capitaleleven.com",
+      "website": "https://capitaleleven.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "hq": "Meridian, Idaho, United States",
+        "stages": [
+          "Seed"
+        ]
+      },
+      "sources": [
+        "https://capitaleleven.com/about/",
+        "https://www.finsmes.com/2026/09/boomeranghr-raises-12-7m-in-seed-funding.html",
+        "https://capitaleleven.com/venture/"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://capitaleleven.com/about/",
+          "as_of": ""
+        },
+        "hq": {
+          "url": "https://capitaleleven.com/about/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://capitaleleven.com/about/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "BoomerangHR",
+          "sector": "AI-powered platform for offboarding and alumni management",
+          "round": "Seed",
+          "date": "",
+          "url": "https://www.finsmes.com/2026/09/boomeranghr-raises-12-7m-in-seed-funding.html",
+          "as_of": "2026-09-15"
+        }
+      ]
+    },
+    {
+      "id": "dhvp.io",
+      "name": "Digital Health Venture Partners",
+      "domain": "dhvp.io",
+      "website": "https://dhvp.io/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "stages": [
+          "early stage"
+        ],
+        "sectors": [
+          "healthcare companies building durable solutions across software (AI & SaaS), AI-enabled services, and consumerism"
+        ]
+      },
+      "sources": [
+        "https://dhvp.io/",
+        "https://www.finsmes.com/2026/10/peppermint-raises-raises-4-7m-in-seed-funding.html",
+        "https://dhvp.io/portfolio"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://dhvp.io/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://dhvp.io/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://dhvp.io/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Peppermint",
+          "sector": "",
+          "round": "Seed",
+          "date": "2026-10-08",
+          "url": "https://www.finsmes.com/2026/10/peppermint-raises-raises-4-7m-in-seed-funding.html",
+          "as_of": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "durationventures.com",
+      "name": "Duration Ventures",
+      "domain": "durationventures.com",
+      "website": "https://durationventures.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "hq": "San Francisco, California",
+        "sectors": [
+          "Artificial intelligence"
+        ],
+        "leads_rounds": "yes"
+      },
+      "sources": [
+        "https://durationventures.com/",
+        "https://avarra.ai/blog/seriesa"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://avarra.ai/blog/seriesa",
+          "as_of": "2026-10-06"
+        },
+        "hq": {
+          "url": "https://durationventures.com/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://durationventures.com/",
+          "as_of": ""
+        },
+        "leads_rounds": {
+          "url": "https://avarra.ai/blog/seriesa",
+          "as_of": "2026-10-06"
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Avarra",
+          "sector": "",
+          "round": "Series A",
+          "date": "2026-10-06",
+          "url": "https://avarra.ai/blog/seriesa",
+          "as_of": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "id": "fintopcapital.com",
+      "name": "FINTOP",
+      "domain": "fintopcapital.com",
+      "website": "https://www.fintopcapital.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "sectors": [
+          "FinTech"
+        ],
+        "leads_rounds": "yes"
+      },
+      "sources": [
+        "https://www.fintopcapital.com/",
+        "https://www.finsmes.com/2026/10/sante-raises-15m-in-series-a-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.fintopcapital.com/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.fintopcapital.com/",
+          "as_of": ""
+        },
+        "leads_rounds": {
+          "url": "https://www.finsmes.com/2026/10/sante-raises-15m-in-series-a-funding.html",
+          "as_of": "2026-10-06"
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Santé",
+          "sector": "",
+          "round": "Series A",
+          "date": "2026-10-06",
+          "url": "https://www.finsmes.com/2026/10/sante-raises-15m-in-series-a-funding.html",
+          "as_of": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "id": "genventures.xyz",
+      "name": "Generative Ventures",
+      "domain": "genventures.xyz",
+      "website": "https://www.genventures.xyz/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "stages": [
+          "early stage"
+        ],
+        "sectors": [
+          "financial technology, decentralized networks, and machine intelligence"
+        ]
+      },
+      "sources": [
+        "https://www.genventures.xyz/",
+        "https://www.finsmes.com/2026/09/infinifi-closes-3m-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.genventures.xyz/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.genventures.xyz/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.genventures.xyz/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "infiniFi",
+          "sector": "",
+          "round": "Seed",
+          "date": "2026-09-23",
+          "url": "https://www.finsmes.com/2026/09/infinifi-closes-3m-seed-funding.html",
+          "as_of": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "id": "gorillacapital.fi",
+      "name": "Gorilla Capital",
+      "domain": "gorillacapital.fi",
+      "website": "https://gorillacapital.fi/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "stages": [
+          "early stage",
+          "before product–market fit"
+        ],
+        "geographies": [
+          "Finland",
+          "Sweden",
+          "Denmark",
+          "UK",
+          "Baltics"
+        ],
+        "sectors": [
+          "technology-enabled companies"
+        ]
+      },
+      "sources": [
+        "https://gorillacapital.fi/",
+        "https://finland.dlapiper.com/en/news/dla-piper-advises-gorilla-capital-first-closing-its-gorilla-capital-fund-iii"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://finland.dlapiper.com/en/news/dla-piper-advises-gorilla-capital-first-closing-its-gorilla-capital-fund-iii",
+          "as_of": "2023-11-07"
+        },
+        "stages": {
+          "url": "https://finland.dlapiper.com/en/news/dla-piper-advises-gorilla-capital-first-closing-its-gorilla-capital-fund-iii",
+          "as_of": "2023-11-07"
+        },
+        "geographies": {
+          "url": "https://gorillacapital.fi/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://finland.dlapiper.com/en/news/dla-piper-advises-gorilla-capital-first-closing-its-gorilla-capital-fund-iii",
+          "as_of": "2023-11-07"
+        }
+      },
+      "portfolio": []
+    },
+    {
+      "id": "hvcapital.com",
+      "name": "HV Capital",
+      "domain": "hvcapital.com",
+      "website": "https://hvcapital.com",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital firm with Venture and Growth strategies",
+        "hq": "Munich, Germany",
+        "stages": [
+          "Seed",
+          "Series A",
+          "Series B and beyond",
+          "IPO"
+        ],
+        "geographies": [
+          "Europe"
+        ],
+        "sectors": [
+          "Consumer",
+          "Enterprise",
+          "Fintech",
+          "Deep tech",
+          "AI"
+        ],
+        "aum": "€2.8B",
+        "check_size_min": "€500K (Venture Fund), source wording",
+        "check_size_max": "€100M (Growth Fund follow-on capital; primary Growth investments up to €60M)"
+      },
+      "sources": [
+        "https://hvcapital.com/approach",
+        "https://hvcapital.com/imprint",
+        "https://www.finsmes.com/2026/10/hadrian-raises-40m-in-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://hvcapital.com/approach",
+          "as_of": ""
+        },
+        "hq": {
+          "url": "https://hvcapital.com/imprint",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://hvcapital.com/approach",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://hvcapital.com/approach",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://hvcapital.com/approach",
+          "as_of": ""
+        },
+        "aum": {
+          "url": "https://hvcapital.com/approach",
+          "as_of": ""
+        },
+        "check_size_min": {
+          "url": "https://hvcapital.com/approach",
+          "as_of": ""
+        },
+        "check_size_max": {
+          "url": "https://hvcapital.com/approach",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Hadrian",
+          "sector": "",
+          "round": "$40M funding round",
+          "date": "2026-10-06",
+          "url": "https://www.finsmes.com/2026/10/hadrian-raises-40m-in-funding.html",
+          "as_of": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "id": "impactshakers.com",
+      "name": "Impact Shakers",
+      "domain": "impactshakers.com",
+      "website": "https://www.impactshakers.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "stages": [
+          "pre-seed",
+          "seed"
+        ],
+        "geographies": [
+          "Europe (including the UK)"
+        ],
+        "sectors": [
+          "Climate Tech",
+          "Inclusion Tech",
+          "Impact Infrastructure"
+        ]
+      },
+      "sources": [
+        "https://www.impactshakers.com/",
+        "https://www.finsmes.com/2026/07/digiclean-solutions-raises-e2-5m-in-seed-funding.html",
+        "https://www.impactshakers.com/ventures",
+        "https://www.impactshakers.com/team"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.impactshakers.com/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.impactshakers.com/ventures",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://www.impactshakers.com/ventures",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.impactshakers.com/ventures",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Digiclean Solutions",
+          "sector": "",
+          "round": "seed",
+          "date": "",
+          "url": "https://www.finsmes.com/2026/07/digiclean-solutions-raises-e2-5m-in-seed-funding.html",
+          "as_of": "2026-07-06"
+        }
+      ]
+    },
+    {
+      "id": "interwoven.vc",
+      "name": "Interwoven Ventures",
+      "domain": "interwoven.vc",
+      "website": "https://www.interwoven.vc/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital firm",
+        "stages": [
+          "early-stage",
+          "high-growth"
+        ],
+        "sectors": [
+          "robotics",
+          "artificial intelligence",
+          "healthcare",
+          "agriculture",
+          "construction",
+          "transportation",
+          "logistics",
+          "industrial manufacturing"
+        ]
+      },
+      "sources": [
+        "https://www.interwoven.vc/",
+        "https://www.prnewswire.com/news-releases/interwoven-ventures-selected-by-njeda-to-co-invest-in-next-generation-of-ai-and-robotics-startups-in-new-jersey-302573301.html",
+        "https://www.finsmes.com/2026/10/chiplytics-raises-4-5m-in-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Chiplytics",
+          "sector": "",
+          "round": "",
+          "date": "2026-10-07",
+          "url": "https://www.finsmes.com/2026/10/chiplytics-raises-4-5m-in-funding.html",
+          "as_of": "2026-10-07"
+        },
+        {
+          "company": "Proscia",
+          "sector": "AI/Computational Biology",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Parallel Systems",
+          "sector": "Autonomous Solution",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "PlusOne Robotics",
+          "sector": "AI/Robotics",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Slamcore",
+          "sector": "AI/Computer Vision",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Outrider",
+          "sector": "Autonomous Solution",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Evidium",
+          "sector": "AI/HealthTech",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Verity",
+          "sector": "Autonomous Solution",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Chef",
+          "sector": "AI/Robotics",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Ironyun",
+          "sector": "AI/Computer Vision",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Blackshark",
+          "sector": "AI/Data Analytics",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Oii",
+          "sector": "AI/Data Analytics",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Nops",
+          "sector": "Enterprise SaaS",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Aperture Data",
+          "sector": "AI/Data Analytics",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Flowly",
+          "sector": "AI/HealthTech",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Iona Mind",
+          "sector": "AI/HealthTech",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Diligent Robotics",
+          "sector": "AI / Robotics / Healthcare",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        },
+        {
+          "company": "Generalist AI",
+          "sector": "AI / Robotics",
+          "round": "",
+          "date": "",
+          "url": "https://www.interwoven.vc/",
+          "as_of": ""
+        }
+      ]
+    },
+    {
+      "id": "jambaar-capital.com",
+      "name": "Jambaar Capital",
+      "domain": "jambaar-capital.com",
+      "website": "https://jambaar-capital.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital fund",
+        "hq": "Dakar",
+        "stages": [
+          "early-stage"
+        ],
+        "geographies": [
+          "Francophone Africa",
+          "North Africa",
+          "West Africa"
+        ]
+      },
+      "sources": [
+        "https://jambaar-capital.com/",
+        "https://incubees.com/bekia-secures-765k-to-launch-b2b-recycling-platform/",
+        "https://www.finsmes.com/2026/09/bekia-raises-usd765k-in-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://jambaar-capital.com/",
+          "as_of": ""
+        },
+        "hq": {
+          "url": "https://jambaar-capital.com/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://jambaar-capital.com/",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://jambaar-capital.com/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Bekia",
+          "sector": "",
+          "round": "seed",
+          "date": "",
+          "url": "https://incubees.com/bekia-secures-765k-to-launch-b2b-recycling-platform/",
+          "as_of": ""
+        }
+      ]
+    },
+    {
+      "id": "kalosventures.com",
+      "name": "Kalos Ventures",
+      "domain": "kalosventures.com",
+      "website": "https://www.kalosventures.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital firm",
+        "stages": [
+          "Seed+",
+          "Series A"
+        ],
+        "sectors": [
+          "workforce",
+          "care",
+          "education"
+        ],
+        "leads_rounds": "yes"
+      },
+      "sources": [
+        "https://www.kalosventures.com/",
+        "https://www.kalosventures.com/news",
+        "https://www.finsmes.com/2026/09/boomeranghr-raises-12-7m-in-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.kalosventures.com/news",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.kalosventures.com/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.kalosventures.com/",
+          "as_of": ""
+        },
+        "leads_rounds": {
+          "url": "https://www.kalosventures.com/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "BoomerangHR",
+          "sector": "",
+          "round": "Seed",
+          "date": "",
+          "url": "https://www.finsmes.com/2026/09/boomeranghr-raises-12-7m-in-seed-funding.html",
+          "as_of": "2026-09-15"
+        }
+      ]
+    },
+    {
+      "id": "layoutventures.com",
+      "name": "Layout Ventures",
+      "domain": "layoutventures.com",
+      "website": "https://www.layoutventures.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "stages": [
+          "first institutional round"
+        ],
+        "sectors": [
+          "any company that sells into healthcare"
+        ]
+      },
+      "sources": [
+        "https://www.layoutventures.com/",
+        "https://www.layoutventures.com/fund-announcement.html",
+        "https://www.finsmes.com/2026/10/peppermint-raises-raises-4-7m-in-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.layoutventures.com/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.layoutventures.com/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.layoutventures.com/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Peppermint",
+          "sector": "",
+          "round": "Seed",
+          "date": "2026-10-08",
+          "url": "https://www.finsmes.com/2026/10/peppermint-raises-raises-4-7m-in-seed-funding.html",
+          "as_of": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "mfg.bg",
+      "name": "MFG Invest",
+      "domain": "mfg.bg",
+      "website": "https://mfg.bg/companies/mfg-invest",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "investment company"
+      },
+      "sources": [
+        "https://mfg.bg/companies/mfg-invest",
+        "https://www.finsmes.com/2026/06/paypercut-raises-eur-5m-in-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://mfg.bg/companies/mfg-invest",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Paypercut",
+          "sector": "",
+          "round": "seed",
+          "date": "2026-06-03",
+          "url": "https://www.finsmes.com/2026/06/paypercut-raises-eur-5m-in-seed-funding.html",
+          "as_of": "2026-06-03"
+        }
+      ]
+    },
+    {
+      "id": "medin-vc.co",
+      "name": "Medin VC",
+      "domain": "medin-vc.co",
+      "website": "https://medin-vc.co/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "stages": [
+          "Pre-Seed",
+          "Seed"
+        ],
+        "geographies": [
+          "Silicon Valley",
+          "Europe",
+          "Maghreb"
+        ],
+        "sectors": [
+          "Artificial Intelligence",
+          "Biotech & Life Sciences",
+          "Space Tech",
+          "Robotics & Automation",
+          "Quantum & Semiconductors",
+          "Cyber & Deep Security"
+        ],
+        "leads_rounds": "yes"
+      },
+      "sources": [
+        "https://medin-vc.co/",
+        "https://www.colibritd.com/press-releases/colibritd-raises-eu4m-seed-round-to-scale-quantum-powered-simulation-across-industry"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://medin-vc.co/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://medin-vc.co/",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://medin-vc.co/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://medin-vc.co/",
+          "as_of": ""
+        },
+        "leads_rounds": {
+          "url": "https://medin-vc.co/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "ColibriTD",
+          "sector": "quantum software",
+          "round": "Seed",
+          "date": "2026-08-27",
+          "url": "https://www.colibritd.com/press-releases/colibritd-raises-eu4m-seed-round-to-scale-quantum-powered-simulation-across-industry",
+          "as_of": "2026-08-27"
+        }
+      ]
+    },
+    {
+      "id": "montavc.com",
+      "name": "Monta Vista Capital",
+      "domain": "montavc.com",
+      "website": "https://montavc.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "seed-stage investment firm",
+        "stages": [
+          "seed-stage",
+          "early-stage"
+        ],
+        "sectors": [
+          "technology",
+          "B2B"
+        ]
+      },
+      "sources": [
+        "https://montavc.com/",
+        "https://montavc.com/about/",
+        "https://www.finsmes.com/2026/09/boomeranghr-raises-12-7m-in-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://montavc.com/about/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://montavc.com/about/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://montavc.com/about/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "BoomerangHR",
+          "sector": "",
+          "round": "Seed",
+          "date": "2026-09-15",
+          "url": "https://www.finsmes.com/2026/09/boomeranghr-raises-12-7m-in-seed-funding.html",
+          "as_of": "2026-09-15"
+        }
+      ]
+    },
+    {
+      "id": "motivepartners.com",
+      "name": "Motive Partners",
+      "domain": "motivepartners.com",
+      "website": "https://motivepartners.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "private investment firm with venture capital, growth equity, and buyout strategies",
+        "stages": [
+          "pre-seed to Series A",
+          "growth equity",
+          "buyout"
+        ],
+        "geographies": [
+          "North America",
+          "Europe"
+        ],
+        "sectors": [
+          "banking and payments",
+          "capital markets",
+          "insurance",
+          "wealth and asset management",
+          "data and analytics",
+          "technology-enabled business services"
+        ],
+        "check_size_min": "$1M (venture lead/co-lead checks)",
+        "check_size_max": "$10M (venture lead/co-lead checks)",
+        "leads_rounds": "yes"
+      },
+      "sources": [
+        "https://motivepartners.com/content/motive-partners-named-to-time-americas-top-venture-capital-firms-2026",
+        "https://www.finsmes.com/2026/10/hadrian-raises-40m-in-funding.html",
+        "https://motivepartners.com/about"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://motivepartners.com/content/motive-partners-named-to-time-americas-top-venture-capital-firms-2026",
+          "as_of": "2026-08-18"
+        },
+        "stages": {
+          "url": "https://motivepartners.com/about",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://motivepartners.com/about",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://motivepartners.com/content/motive-partners-named-to-time-americas-top-venture-capital-firms-2026",
+          "as_of": "2026-08-18"
+        },
+        "check_size_min": {
+          "url": "https://motivepartners.com/about",
+          "as_of": ""
+        },
+        "check_size_max": {
+          "url": "https://motivepartners.com/about",
+          "as_of": ""
+        },
+        "leads_rounds": {
+          "url": "https://motivepartners.com/about",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Hadrian",
+          "sector": "",
+          "round": "$40M funding round",
+          "date": "2026-10-06",
+          "url": "https://www.finsmes.com/2026/10/hadrian-raises-40m-in-funding.html",
+          "as_of": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "id": "moxxie.vc",
+      "name": "Moxxie",
+      "domain": "moxxie.vc",
+      "website": "https://www.moxxie.vc/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "stages": [
+          "pre-seed",
+          "seed"
+        ],
+        "sectors": [
+          "Enterprise",
+          "Climate",
+          "Consumer",
+          "FinTech",
+          "healthcare",
+          "Infra",
+          "Vertical AI"
+        ],
+        "check_size_min": "$500K",
+        "check_size_max": "$2M",
+        "leads_rounds": "yes",
+        "geographies": [
+          "North America"
+        ]
+      },
+      "sources": [
+        "https://www.moxxie.vc/",
+        "https://www.businesswire.com/news/home/20261008554385/en/Peppermint-Raises-%244.7M-to-Bring-Scientific-Precision-to-the-Finances-of-Clinical-Research"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.moxxie.vc/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.moxxie.vc/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.moxxie.vc/",
+          "as_of": ""
+        },
+        "check_size_min": {
+          "url": "https://www.moxxie.vc/",
+          "as_of": ""
+        },
+        "check_size_max": {
+          "url": "https://www.moxxie.vc/",
+          "as_of": ""
+        },
+        "leads_rounds": {
+          "url": "https://www.moxxie.vc/",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://www.moxxie.vc/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Peppermint",
+          "sector": "healthcare",
+          "round": "seed",
+          "date": "2026-10-08",
+          "url": "https://www.businesswire.com/news/home/20261008554385/en/Peppermint-Raises-%244.7M-to-Bring-Scientific-Precision-to-the-Finances-of-Clinical-Research",
+          "as_of": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "newformcap.com",
+      "name": "New Form Capital",
+      "domain": "newformcap.com",
+      "website": "https://newformcap.com",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "stages": [
+          "pre-seed",
+          "seed"
+        ],
+        "sectors": [
+          "fintech",
+          "blockchain"
+        ],
+        "aum": "100 M+ (currency not stated)",
+        "offices": [
+          "New York City"
+        ]
+      },
+      "sources": [
+        "https://www.finsmes.com/2026/09/infinifi-closes-3m-seed-funding.html",
+        "https://www.newformcap.com/",
+        "https://www.newformcap.com/team/",
+        "https://newformcap.com/info"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://newformcap.com/info",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.newformcap.com/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.newformcap.com/",
+          "as_of": ""
+        },
+        "aum": {
+          "url": "https://www.newformcap.com/",
+          "as_of": ""
+        },
+        "offices": {
+          "url": "https://www.newformcap.com/team/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "infiniFi",
+          "sector": "",
+          "round": "Seed",
+          "date": "",
+          "url": "https://www.finsmes.com/2026/09/infinifi-closes-3m-seed-funding.html",
+          "as_of": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "id": "nightcapvc.com",
+      "name": "Night Capital",
+      "domain": "nightcapvc.com",
+      "website": "https://nightcapvc.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital firm",
+        "stages": [
+          "Seed",
+          "Series A",
+          "growth rounds"
+        ]
+      },
+      "sources": [
+        "https://nightcapvc.com/",
+        "https://www.finsmes.com/2026/10/peppermint-raises-raises-4-7m-in-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://nightcapvc.com/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://nightcapvc.com/",
+          "as_of": ""
+        }
+      },
+      "portfolio": []
+    },
+    {
+      "id": "operatorcollective.com",
+      "name": "Operator Collective",
+      "domain": "operatorcollective.com",
+      "website": "https://www.operatorcollective.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital firm",
+        "stages": [
+          "early-stage"
+        ],
+        "sectors": [
+          "enterprise",
+          "B2B"
+        ]
+      },
+      "sources": [
+        "https://www.operatorcollective.com/",
+        "https://www.operatorcollective.com/portfolio-companies",
+        "https://www.finsmes.com/2026/10/sante-raises-15m-in-series-a-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.operatorcollective.com/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.operatorcollective.com/portfolio-companies",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.operatorcollective.com/portfolio-companies",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Santé",
+          "sector": "Vertical Solutions",
+          "round": "Series A",
+          "date": "",
+          "url": "https://www.operatorcollective.com/portfolio-companies",
+          "as_of": ""
+        }
+      ]
+    },
+    {
+      "id": "outsetcapital.com",
+      "name": "Outset Capital",
+      "domain": "outsetcapital.com",
+      "website": "https://outsetcapital.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital firm",
+        "sectors": [
+          "AI",
+          "devtools",
+          "robotics",
+          "future of work"
+        ],
+        "investment_strategies": [
+          "investing before anyone else",
+          "writes small checks rather than leading rounds"
+        ]
+      },
+      "sources": [
+        "https://outsetcapital.com/",
+        "https://www.finsmes.com/2026/08/sitevue-ai-raises-7-5m-in-seed-funding.html",
+        "https://outsetcapital.com/team"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://outsetcapital.com/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://outsetcapital.com/",
+          "as_of": ""
+        },
+        "investment_strategies": {
+          "url": "https://outsetcapital.com/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "SiteVue",
+          "sector": "",
+          "round": "Seed",
+          "date": "2026-08-07",
+          "url": "https://outsetcapital.com/",
+          "as_of": ""
+        }
+      ]
+    },
+    {
+      "id": "pennyjar.com",
+      "name": "Penny Jar Capital",
+      "domain": "pennyjar.com",
+      "website": "https://www.pennyjar.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "stages": [
+          "seed"
+        ],
+        "leads_rounds": "yes"
+      },
+      "sources": [
+        "https://www.pennyjar.com/",
+        "https://www.finsmes.com/2026/08/sitevue-ai-raises-7-5m-in-seed-funding.html",
+        "https://www.pennyjar.com/people"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.pennyjar.com/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.pennyjar.com/",
+          "as_of": ""
+        },
+        "leads_rounds": {
+          "url": "https://www.finsmes.com/2026/08/sitevue-ai-raises-7-5m-in-seed-funding.html",
+          "as_of": "2026-08-07"
+        }
+      },
+      "portfolio": [
+        {
+          "company": "SiteVue AI",
+          "sector": "",
+          "round": "Seed",
+          "date": "",
+          "url": "https://www.finsmes.com/2026/08/sitevue-ai-raises-7-5m-in-seed-funding.html",
+          "as_of": "2026-08-07"
+        }
+      ]
+    },
+    {
+      "id": "pragma.tech",
+      "name": "Pragmatech Ventures",
+      "domain": "pragma.tech",
+      "website": "https://pragma.tech/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital firm",
+        "hq": "London, United Kingdom",
+        "founded": "2020",
+        "stages": [
+          "Pre-Seed",
+          "Seed"
+        ],
+        "geographies": [
+          "Europe",
+          "US"
+        ],
+        "sectors": [
+          "B2B",
+          "B2B2C",
+          "AI-powered workflow software",
+          "Trust-heavy real world workflows",
+          "Software-led service delivery",
+          "Managed Marketplaces"
+        ],
+        "check_size_max": "Up to $500k (first ticket)",
+        "leads_rounds": "yes"
+      },
+      "sources": [
+        "https://www.linkedin.com/company/pragmatech-ventures/",
+        "https://pragma.tech/",
+        "https://www.finsmes.com/2026/10/comparables-ai-raises-6m-in-seed-funding.html",
+        "https://pragma.tech/portfolio.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.linkedin.com/company/pragmatech-ventures/",
+          "as_of": ""
+        },
+        "hq": {
+          "url": "https://www.linkedin.com/company/pragmatech-ventures/",
+          "as_of": ""
+        },
+        "founded": {
+          "url": "https://www.linkedin.com/company/pragmatech-ventures/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://pragma.tech/",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://pragma.tech/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://pragma.tech/",
+          "as_of": ""
+        },
+        "check_size_max": {
+          "url": "https://pragma.tech/",
+          "as_of": ""
+        },
+        "leads_rounds": {
+          "url": "https://www.linkedin.com/company/pragmatech-ventures/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Comparables.ai",
+          "sector": "M&A intelligence platform",
+          "round": "Seed",
+          "date": "2026-10-06",
+          "url": "https://pragma.tech/portfolio.html",
+          "as_of": ""
+        }
+      ]
+    },
+    {
+      "id": "purple-ventures.com",
+      "name": "Purple Ventures",
+      "domain": "purple-ventures.com",
+      "website": "https://www.purple-ventures.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital fund",
+        "stages": [
+          "pre-seed",
+          "seed"
+        ],
+        "geographies": [
+          "CEE+"
+        ],
+        "sectors": [
+          "tech-enabled innovations"
+        ],
+        "check_size_min": "€250k initial ticket",
+        "check_size_max": "€400k initial ticket",
+        "leads_rounds": "yes"
+      },
+      "sources": [
+        "https://www.purple-ventures.com/",
+        "https://www.finsmes.com/2026/10/comparables-ai-raises-6m-in-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.purple-ventures.com/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.purple-ventures.com/",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://www.purple-ventures.com/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.purple-ventures.com/",
+          "as_of": ""
+        },
+        "check_size_min": {
+          "url": "https://www.purple-ventures.com/",
+          "as_of": ""
+        },
+        "check_size_max": {
+          "url": "https://www.purple-ventures.com/",
+          "as_of": ""
+        },
+        "leads_rounds": {
+          "url": "https://www.purple-ventures.com/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Comparables.ai",
+          "sector": "",
+          "round": "seed",
+          "date": "2026-10-06",
+          "url": "https://www.finsmes.com/2026/10/comparables-ai-raises-6m-in-seed-funding.html",
+          "as_of": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "id": "sabah.fund",
+      "name": "SABAH.fund",
+      "domain": "sabah.fund",
+      "website": "https://sabah.fund",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital firm",
+        "stages": [
+          "pre-seed",
+          "seed"
+        ],
+        "check_size_min": "$100k",
+        "check_size_max": "$750k",
+        "geographies": [
+          "South Caucasus",
+          "Central Asia",
+          "MENAPT+"
+        ],
+        "sectors": [
+          "FinTech",
+          "EduTech",
+          "CleanTech",
+          "HealthTech",
+          "Other breakthrough ideas"
+        ],
+        "leads_rounds": "yes"
+      },
+      "sources": [
+        "https://sabahhub.com/fund/",
+        "https://www.finsmes.com/2026/06/paypercut-raises-eur-5m-in-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://sabahhub.com/fund/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://sabahhub.com/fund/",
+          "as_of": ""
+        },
+        "check_size_min": {
+          "url": "https://sabahhub.com/fund/",
+          "as_of": ""
+        },
+        "check_size_max": {
+          "url": "https://sabahhub.com/fund/",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://sabahhub.com/fund/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://sabahhub.com/fund/",
+          "as_of": ""
+        },
+        "leads_rounds": {
+          "url": "https://sabahhub.com/fund/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Paypercut",
+          "sector": "",
+          "round": "Seed",
+          "date": "",
+          "url": "https://www.finsmes.com/2026/06/paypercut-raises-eur-5m-in-seed-funding.html",
+          "as_of": "2026-06-03"
+        }
+      ]
+    },
+    {
+      "id": "smok.vc",
+      "name": "SMOK Ventures",
+      "domain": "smok.vc",
+      "website": "https://www.smok.vc/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital fund",
+        "hq": "Warsaw, Poland",
+        "stages": [
+          "pre-seed",
+          "early stage"
+        ],
+        "geographies": [
+          "Poland",
+          "Central and Eastern Europe",
+          "CEE diaspora globally"
+        ],
+        "sectors": [
+          "software development tools",
+          "artificial intelligence",
+          "robotics",
+          "energy",
+          "fintech",
+          "proptech",
+          "foodtech",
+          "biotech",
+          "hospitality"
+        ],
+        "check_size_min": "USD 100,000",
+        "check_size_max": "USD 1,000,000",
+        "aum": "A little over USD 35M across two funds",
+        "latest_fund": "SMOK Ventures II; USD 25M fund size. FAQ says launched 2023; official Our Funds page gives vintage 2022.",
+        "leads_rounds": "yes"
+      },
+      "sources": [
+        "https://www.smok.vc/our-funds/",
+        "https://www.finsmes.com/2026/06/paypercut-raises-eur-5m-in-seed-funding.html",
+        "https://www.smok.vc/faq/"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.smok.vc/our-funds/",
+          "as_of": ""
+        },
+        "hq": {
+          "url": "https://www.smok.vc/our-funds/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.smok.vc/faq/",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://www.smok.vc/faq/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.smok.vc/faq/",
+          "as_of": ""
+        },
+        "check_size_min": {
+          "url": "https://www.smok.vc/faq/",
+          "as_of": ""
+        },
+        "check_size_max": {
+          "url": "https://www.smok.vc/faq/",
+          "as_of": ""
+        },
+        "aum": {
+          "url": "https://www.smok.vc/faq/",
+          "as_of": ""
+        },
+        "latest_fund": {
+          "url": "https://www.smok.vc/faq/",
+          "as_of": ""
+        },
+        "leads_rounds": {
+          "url": "https://www.smok.vc/faq/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Paypercut",
+          "sector": "fintech payments platform",
+          "round": "Seed",
+          "date": "",
+          "url": "https://www.finsmes.com/2026/06/paypercut-raises-eur-5m-in-seed-funding.html",
+          "as_of": "2026-06-03"
+        }
+      ]
+    },
+    {
+      "id": "smartfinvc.com",
+      "name": "Smartfin",
+      "domain": "smartfinvc.com",
+      "website": "https://smartfinvc.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital investor",
+        "geographies": [
+          "Europe",
+          "United Kingdom"
+        ],
+        "sectors": [
+          "B2B technology"
+        ],
+        "aum": "more than €600m",
+        "check_size_max": "up to €50m investment tickets"
+      },
+      "sources": [
+        "https://smartfinvc.com/about/",
+        "https://smartfinvc.com/news/hadrian-raises-40m-to-tackle-the-ai-hacking-cyber-security-crisis/",
+        "https://smartfinvc.com/"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://smartfinvc.com/about/",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://smartfinvc.com/about/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://smartfinvc.com/about/",
+          "as_of": ""
+        },
+        "aum": {
+          "url": "https://smartfinvc.com/",
+          "as_of": ""
+        },
+        "check_size_max": {
+          "url": "https://smartfinvc.com/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Hadrian",
+          "sector": "cybersecurity",
+          "round": "funding round",
+          "date": "2026-10-06",
+          "url": "https://smartfinvc.com/news/hadrian-raises-40m-to-tackle-the-ai-hacking-cyber-security-crisis/",
+          "as_of": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "id": "somersault.vc",
+      "name": "Somersault Ventures",
+      "domain": "somersault.vc",
+      "website": "https://somersault.vc/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital firm",
+        "stages": [
+          "Seed"
+        ],
+        "sectors": [
+          "Software",
+          "Marketplaces"
+        ],
+        "geographies": [
+          "North America",
+          "Europe"
+        ]
+      },
+      "sources": [
+        "https://somersault.vc/",
+        "https://www.finsmes.com/2026/10/comparables-ai-raises-6m-in-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://somersault.vc/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://somersault.vc/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://somersault.vc/",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://somersault.vc/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Comparables.ai",
+          "sector": "",
+          "round": "Seed",
+          "date": "",
+          "url": "https://www.finsmes.com/2026/10/comparables-ai-raises-6m-in-seed-funding.html",
+          "as_of": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "id": "symbia-vc.com",
+      "name": "SymbiaVC GmbH",
+      "domain": "symbia-vc.com",
+      "website": "https://www.symbia-vc.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "corporate venture capital",
+        "legal_name": "SymbiaVC GmbH",
+        "hq": "Imst, Austria",
+        "sectors": [
+          "deeptech",
+          "hardware",
+          "construction",
+          "material processing",
+          "logistics",
+          "automation"
+        ]
+      },
+      "sources": [
+        "https://www.symbia-vc.com/imprint/",
+        "https://www.symbia-vc.com/about/",
+        "https://www.symbia-vc.com/portfolio/",
+        "https://www.finsmes.com/2026/08/colibritd-closes-e4m-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.symbia-vc.com/about/",
+          "as_of": ""
+        },
+        "legal_name": {
+          "url": "https://www.symbia-vc.com/imprint/",
+          "as_of": ""
+        },
+        "hq": {
+          "url": "https://www.symbia-vc.com/imprint/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.symbia-vc.com/about/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Modvion",
+          "sector": "wooden wind turbine tower technology",
+          "round": "",
+          "date": "",
+          "url": "https://www.symbia-vc.com/portfolio/",
+          "as_of": ""
+        },
+        {
+          "company": "recalm",
+          "sector": "active noise cancelling technology",
+          "round": "",
+          "date": "",
+          "url": "https://www.symbia-vc.com/portfolio/",
+          "as_of": ""
+        },
+        {
+          "company": "Pina Earth",
+          "sector": "forest carbon credits",
+          "round": "",
+          "date": "",
+          "url": "https://www.symbia-vc.com/portfolio/",
+          "as_of": ""
+        },
+        {
+          "company": "Wingtra",
+          "sector": "drones",
+          "round": "",
+          "date": "",
+          "url": "https://www.symbia-vc.com/portfolio/",
+          "as_of": ""
+        },
+        {
+          "company": "refinq",
+          "sector": "climate and nature risk software",
+          "round": "",
+          "date": "",
+          "url": "https://www.symbia-vc.com/portfolio/",
+          "as_of": ""
+        },
+        {
+          "company": "ColibriTD",
+          "sector": "quantum computing software",
+          "round": "seed",
+          "date": "2026-08-27",
+          "url": "https://www.finsmes.com/2026/08/colibritd-closes-e4m-seed-funding.html",
+          "as_of": "2026-08-27"
+        }
+      ]
+    },
+    {
+      "id": "unconventional.vc",
+      "name": "Unconventional Ventures",
+      "domain": "unconventional.vc",
+      "website": "https://unconventional.vc/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "stages": [
+          "pre-seed",
+          "seed"
+        ],
+        "geographies": [
+          "The Nordics",
+          "Europe"
+        ],
+        "sectors": [
+          "Climate and Environment",
+          "Health and Femtech",
+          "Education",
+          "Financial inclusion"
+        ]
+      },
+      "sources": [
+        "https://unconventional.vc/",
+        "https://www.finsmes.com/2026/07/digiclean-solutions-raises-e2-5m-in-seed-funding.html",
+        "https://unconventional.vc/investment-focus/"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://unconventional.vc/investment-focus/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://unconventional.vc/investment-focus/",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://unconventional.vc/investment-focus/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://unconventional.vc/investment-focus/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Digiclean Solutions",
+          "sector": "",
+          "round": "seed",
+          "date": "2026-07-06",
+          "url": "https://www.finsmes.com/2026/07/digiclean-solutions-raises-e2-5m-in-seed-funding.html",
+          "as_of": "2026-07-06"
+        }
+      ]
+    },
+    {
+      "id": "untapped.ventures",
+      "name": "Untapped Ventures",
+      "domain": "untapped.ventures",
+      "website": "https://www.untapped.ventures/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital firm",
+        "stages": [
+          "Pre-Seed",
+          "Seed"
+        ],
+        "sectors": [
+          "AI"
+        ]
+      },
+      "sources": [
+        "https://www.untapped.ventures/",
+        "https://www.finsmes.com/2026/08/sitevue-ai-raises-7-5m-in-seed-funding.html",
+        "https://www.untapped.ventures/portfolio",
+        "https://www.untapped.ventures/team"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.untapped.ventures/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.untapped.ventures/portfolio",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.untapped.ventures/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "SiteVue AI",
+          "sector": "AI-powered cameras and video analytics for manufacturing operations",
+          "round": "Seed",
+          "date": "",
+          "url": "https://www.finsmes.com/2026/08/sitevue-ai-raises-7-5m-in-seed-funding.html",
+          "as_of": "2026-08-07"
+        }
+      ]
+    },
+    {
+      "id": "veridical.vc",
+      "name": "Veridical Ventures",
+      "domain": "veridical.vc",
+      "website": "https://www.veridical.vc/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "stages": [
+          "pre-seed",
+          "seed"
+        ],
+        "sectors": [
+          "B2B software"
+        ],
+        "geographies": [
+          "United States",
+          "Canada"
+        ],
+        "leads_rounds": "yes"
+      },
+      "sources": [
+        "https://www.veridical.vc/",
+        "https://www.sec.gov/Archives/edgar/data/2035717/000203571724000001/xslFormDX01/primary_doc.xml",
+        "https://www.finsmes.com/2026/10/sante-raises-15m-in-series-a-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.veridical.vc/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.veridical.vc/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.veridical.vc/",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://www.veridical.vc/",
+          "as_of": ""
+        },
+        "leads_rounds": {
+          "url": "https://www.veridical.vc/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Santé",
+          "sector": "",
+          "round": "Series A",
+          "date": "",
+          "url": "https://www.finsmes.com/2026/10/sante-raises-15m-in-series-a-funding.html",
+          "as_of": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "id": "waypointventures.com",
+      "name": "Waypoint Ventures",
+      "domain": "waypointventures.com",
+      "website": "https://www.waypointventures.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital",
+        "investment_strategies": [
+          "backs exceptional leaders with a strong bias towards those produced at our nation's Service Academies"
+        ]
+      },
+      "sources": [
+        "https://www.waypointventures.com/",
+        "https://markets.financialcontent.com/stocks/article/bizwire-2026-10-6-chiplytics-secures-45m-to-bring-resiliency-to-us-electronics-supply-chain"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.waypointventures.com/",
+          "as_of": ""
+        },
+        "investment_strategies": {
+          "url": "https://www.waypointventures.com/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Chiplytics",
+          "sector": "",
+          "round": "funding round",
+          "date": "2026-10-06",
+          "url": "https://markets.financialcontent.com/stocks/article/bizwire-2026-10-6-chiplytics-secures-45m-to-bring-resiliency-to-us-electronics-supply-chain",
+          "as_of": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "id": "hi5.ventures",
+      "name": "hi5 Ventures",
+      "domain": "hi5.ventures",
+      "website": "https://hi5.ventures",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "Venture Capital firm",
+        "hq": "Kyiv",
+        "geographies": [
+          "Eastern European"
+        ],
+        "sectors": [
+          "B2C / B2B tech"
+        ],
+        "stages": [
+          "Early Stage"
+        ]
+      },
+      "sources": [
+        "https://hi5.ventures/about.html",
+        "https://hi5.ventures/investment.html",
+        "https://www.finsmes.com/2026/10/comparables-ai-raises-6m-in-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://hi5.ventures/about.html",
+          "as_of": ""
+        },
+        "hq": {
+          "url": "https://hi5.ventures/about.html",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://hi5.ventures/about.html",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://hi5.ventures/investment.html",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://hi5.ventures/investment.html",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Comparables.ai",
+          "sector": "",
+          "round": "Seed",
+          "date": "",
+          "url": "https://www.finsmes.com/2026/10/comparables-ai-raises-6m-in-seed-funding.html",
+          "as_of": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "id": "encoded.vc",
+      "name": "Encoded Ventures",
+      "domain": "encoded.vc",
+      "website": "https://encoded.vc/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture capital fund",
+        "stages": [
+          "inception",
+          "pre-seed",
+          "seed"
+        ],
+        "geographies": [
+          "geographically agnostic"
+        ],
+        "sectors": [
+          "Cloud",
+          "Data/AI",
+          "Security"
+        ]
+      },
+      "sources": [
+        "https://encoded.vc/",
+        "https://www.finsmes.com/2026/09/g5-labs-raises-14m-in-seed-funding.html",
+        "https://encoded.vc/encoded-ventures-seed-stage-infrastructure-investing/"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://encoded.vc/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://encoded.vc/",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://encoded.vc/encoded-ventures-seed-stage-infrastructure-investing/",
+          "as_of": "2025-10-28"
+        },
+        "sectors": {
+          "url": "https://encoded.vc/encoded-ventures-seed-stage-infrastructure-investing/",
+          "as_of": "2025-10-28"
+        }
+      },
+      "portfolio": [
+        {
+          "company": "G5 Labs",
+          "sector": "",
+          "round": "Seed",
+          "date": "2026-09-15",
+          "url": "https://www.finsmes.com/2026/09/g5-labs-raises-14m-in-seed-funding.html",
+          "as_of": "2026-09-15"
+        }
+      ]
+    },
+    {
+      "id": "demea-si.com",
+      "name": "Demea Sustainable Investment",
+      "domain": "demea-si.com",
+      "website": "https://www.demea-si.com/en",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "investment fund manager",
+        "sectors": [
+          "Environment and energy transition"
+        ],
+        "aum": "More than €1.4 billion in sustainable assets under management (2026-07-17)",
+        "leads_rounds": "yes"
+      },
+      "sources": [
+        "https://www.demea-si.com/en",
+        "https://www.demea-si.com/en/regulated-information",
+        "https://www.demea-si.com/en/actualites/seventeenth-edition-of-the-esg-and-impact-report-of-demea-sustainable-investment",
+        "https://www.finsmes.com/2026/08/bioscout-raises-4-8m-in-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.demea-si.com/en/regulated-information",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.demea-si.com/en/regulated-information",
+          "as_of": ""
+        },
+        "aum": {
+          "url": "https://www.demea-si.com/en/actualites/seventeenth-edition-of-the-esg-and-impact-report-of-demea-sustainable-investment",
+          "as_of": "2026-07-17"
+        },
+        "leads_rounds": {
+          "url": "https://www.finsmes.com/2026/08/bioscout-raises-4-8m-in-seed-funding.html",
+          "as_of": "2026-08-13"
+        }
+      },
+      "portfolio": [
+        {
+          "company": "BioScout",
+          "sector": "",
+          "round": "Seed",
+          "date": "",
+          "url": "https://www.finsmes.com/2026/08/bioscout-raises-4-8m-in-seed-funding.html",
+          "as_of": "2026-08-13"
+        }
+      ]
+    },
+    {
+      "id": "oetker-collection.com",
+      "name": "Oetker Ventures",
+      "domain": "oetker-collection.com",
+      "website": "https://oetker-collection.com/en/business-divisions/oetker-ventures/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "venture and growth capital company",
+        "hq": "Bielefeld, Germany"
+      },
+      "sources": [
+        "https://oetker-collection.com/en/business-divisions/oetker-ventures/",
+        "https://hadrian.io/blog/hadrian-40m-raised-to-tackle-the-ai-hacking-cyber-security-crisis"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://oetker-collection.com/en/business-divisions/oetker-ventures/",
+          "as_of": ""
+        },
+        "hq": {
+          "url": "https://oetker-collection.com/en/business-divisions/oetker-ventures/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Hadrian",
+          "sector": "cybersecurity",
+          "round": "Series B",
+          "date": "2026-10-06",
+          "url": "https://hadrian.io/blog/hadrian-40m-raised-to-tackle-the-ai-hacking-cyber-security-crisis",
+          "as_of": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "id": "portfolio.ventures",
+      "name": "Portfolio Ventures",
+      "domain": "portfolio.ventures",
+      "website": "https://www.portfolio.ventures/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "Angel fund",
+        "stages": [
+          "Seed",
+          "Pre-seed",
+          "Series A"
+        ],
+        "sectors": [
+          "fintech",
+          "SaaS",
+          "verticalised AI",
+          "B2B software"
+        ],
+        "check_size_min": "£200k",
+        "check_size_max": "£500k"
+      },
+      "sources": [
+        "https://www.portfolio.ventures/",
+        "https://www.portfolio.ventures/legal/terms-conditions",
+        "https://www.finsmes.com/2026/06/paypercut-raises-eur-5m-in-seed-funding.html"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.portfolio.ventures/",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.portfolio.ventures/",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.portfolio.ventures/",
+          "as_of": ""
+        },
+        "check_size_min": {
+          "url": "https://www.portfolio.ventures/",
+          "as_of": ""
+        },
+        "check_size_max": {
+          "url": "https://www.portfolio.ventures/",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Paypercut",
+          "sector": "fintech",
+          "round": "Seed",
+          "date": "",
+          "url": "https://www.finsmes.com/2026/06/paypercut-raises-eur-5m-in-seed-funding.html",
+          "as_of": "2026-06-03"
+        }
+      ]
+    },
+    {
+      "id": "allianceofangels.com",
+      "name": "Alliance of Angels",
+      "domain": "allianceofangels.com",
+      "website": "https://www.allianceofangels.com/",
+      "record_level": "sourced",
+      "researched_at": "2026-10-12",
+      "fields": {
+        "type": "angel investment group with member-led annual fund",
+        "stages": [
+          "seed",
+          "early-stage"
+        ],
+        "geographies": [
+          "US",
+          "Canada"
+        ],
+        "sectors": [
+          "sector agnostic",
+          "SAAS",
+          "AI",
+          "Life Sciences",
+          "manufacturing",
+          "retail",
+          "food industries"
+        ],
+        "leads_rounds": "yes"
+      },
+      "sources": [
+        "https://www.allianceofangels.com/",
+        "https://www.finsmes.com/2026/10/chiplytics-raises-4-5m-in-funding.html",
+        "https://www.allianceofangels.com/investment-criteria-and-process",
+        "https://allianceofangels.com/join-aoa"
+      ],
+      "evidence": {
+        "type": {
+          "url": "https://www.allianceofangels.com/investment-criteria-and-process",
+          "as_of": ""
+        },
+        "stages": {
+          "url": "https://www.allianceofangels.com/investment-criteria-and-process",
+          "as_of": ""
+        },
+        "geographies": {
+          "url": "https://www.allianceofangels.com/investment-criteria-and-process",
+          "as_of": ""
+        },
+        "sectors": {
+          "url": "https://www.allianceofangels.com/investment-criteria-and-process",
+          "as_of": ""
+        },
+        "leads_rounds": {
+          "url": "https://www.allianceofangels.com/investment-criteria-and-process",
+          "as_of": ""
+        }
+      },
+      "portfolio": [
+        {
+          "company": "Chiplytics",
+          "sector": "",
+          "round": "",
+          "date": "",
+          "url": "https://www.finsmes.com/2026/10/chiplytics-raises-4-5m-in-funding.html",
+          "as_of": "2026-10-07"
         }
       ]
     }
@@ -123244,6 +125316,858 @@
         "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to"
       ],
       "researched_at": "2026-10-11",
+      "focus": ""
+    },
+    {
+      "id": "araya.ventures--rupa-popat-ede74470",
+      "name": "Rupa Popat",
+      "firm_id": "araya.ventures",
+      "title": "Founder and Managing Partner",
+      "profile": "",
+      "sources": [
+        "https://araya.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "araya.ventures--mitul-ruparelia-94a54a64",
+      "name": "Mitul Ruparelia",
+      "firm_id": "araya.ventures",
+      "title": "Partner, Global",
+      "profile": "",
+      "sources": [
+        "https://araya.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "araya.ventures--martin-carruthers-25260fc2",
+      "name": "Martin Carruthers",
+      "firm_id": "araya.ventures",
+      "title": "Partner, Super Angel",
+      "profile": "",
+      "sources": [
+        "https://araya.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "araya.ventures--triin-linamagi-67514932",
+      "name": "Triin Linamagi",
+      "firm_id": "araya.ventures",
+      "title": "Managing Partner, Arāya Sie",
+      "profile": "",
+      "sources": [
+        "https://araya.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "araya.ventures--kavit-haria-d37218a6",
+      "name": "Kavit Haria",
+      "firm_id": "araya.ventures",
+      "title": "CEO & Partner, House of Arāya",
+      "profile": "",
+      "sources": [
+        "https://araya.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "araya.ventures--manny-singh-5d76477c",
+      "name": "Manny Singh",
+      "firm_id": "araya.ventures",
+      "title": "Investment Principal",
+      "profile": "",
+      "sources": [
+        "https://araya.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "araya.ventures--kamyaar-butt-8b8602a0",
+      "name": "Kamyaar Butt",
+      "firm_id": "araya.ventures",
+      "title": "Investment Lead, GCC",
+      "profile": "",
+      "sources": [
+        "https://araya.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "araya.ventures--vicky-stogiannidou-e33a77ad",
+      "name": "Vicky Stogiannidou",
+      "firm_id": "araya.ventures",
+      "title": "Investment Associate",
+      "profile": "",
+      "sources": [
+        "https://araya.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "araya.ventures--soizic-le-lasseur-10402ae2",
+      "name": "Soizic Le Lasseur",
+      "firm_id": "araya.ventures",
+      "title": "Operations Manager",
+      "profile": "",
+      "sources": [
+        "https://araya.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "araya.ventures--nayla-waly-37603240",
+      "name": "Nayla Waly",
+      "firm_id": "araya.ventures",
+      "title": "Investment Associate",
+      "profile": "",
+      "sources": [
+        "https://araya.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "capitaleleven.com--travis-hawkes-ee4cbbb1",
+      "name": "Travis Hawkes",
+      "firm_id": "capitaleleven.com",
+      "title": "CEO + Managing Partner",
+      "profile": "",
+      "sources": [
+        "https://capitaleleven.com/venture/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "capitaleleven.com--david-k-gardner-2aecc14f",
+      "name": "David K. Gardner",
+      "firm_id": "capitaleleven.com",
+      "title": "Managing Partner",
+      "profile": "",
+      "sources": [
+        "https://capitaleleven.com/venture/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "capitaleleven.com--mason-whitt-2d273d85",
+      "name": "Mason Whitt",
+      "firm_id": "capitaleleven.com",
+      "title": "Principal",
+      "profile": "",
+      "sources": [
+        "https://capitaleleven.com/venture/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "dhvp.io--arvin-grover-19366b53",
+      "name": "Arvin Grover",
+      "firm_id": "dhvp.io",
+      "title": "Founder & General Partner",
+      "profile": "",
+      "sources": [
+        "https://dhvp.io/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "dhvp.io--steve-yaskin-e618712f",
+      "name": "Steve Yaskin",
+      "firm_id": "dhvp.io",
+      "title": "Partner",
+      "profile": "",
+      "sources": [
+        "https://dhvp.io/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "dhvp.io--dan-cimaglia-99aeca18",
+      "name": "Dan Cimaglia",
+      "firm_id": "dhvp.io",
+      "title": "Scout",
+      "profile": "",
+      "sources": [
+        "https://dhvp.io/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "dhvp.io--dennis-cardoza-c3f89d30",
+      "name": "Dennis Cardoza",
+      "firm_id": "dhvp.io",
+      "title": "Advisor",
+      "profile": "",
+      "sources": [
+        "https://dhvp.io/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "dhvp.io--eric-hargan-7c246765",
+      "name": "Eric Hargan",
+      "firm_id": "dhvp.io",
+      "title": "Advisor",
+      "profile": "",
+      "sources": [
+        "https://dhvp.io/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "durationventures.com--arif-janmohamed-73ebad67",
+      "name": "Arif Janmohamed",
+      "firm_id": "durationventures.com",
+      "title": "Co-Founder & Managing Director",
+      "profile": "",
+      "sources": [
+        "https://avarra.ai/blog/seriesa"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "impactshakers.com--yonca-braeckman-538c1d99",
+      "name": "Yonca Braeckman",
+      "firm_id": "impactshakers.com",
+      "title": "Founder & CEO",
+      "profile": "",
+      "sources": [
+        "https://www.impactshakers.com/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "impactshakers.com--alina-klarner-7e921152",
+      "name": "Alina Klarner",
+      "firm_id": "impactshakers.com",
+      "title": "Founding Partner",
+      "profile": "",
+      "sources": [
+        "https://www.impactshakers.com/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "impactshakers.com--lucija-matic-978289bf",
+      "name": "Lucija Matic",
+      "firm_id": "impactshakers.com",
+      "title": "Investment Associate",
+      "profile": "",
+      "sources": [
+        "https://www.impactshakers.com/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "jambaar-capital.com--nadia-seemuth-77687d34",
+      "name": "Nadia Seemuth",
+      "firm_id": "jambaar-capital.com",
+      "title": "Managing Partner",
+      "profile": "https://www.linkedin.com/in/nadiaseemuth/",
+      "sources": [
+        "https://jambaar-capital.com/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "jambaar-capital.com--july-andraous-e67dff42",
+      "name": "July Andraous",
+      "firm_id": "jambaar-capital.com",
+      "title": "Managing Partner",
+      "profile": "https://www.linkedin.com/in/july-andraous",
+      "sources": [
+        "https://jambaar-capital.com/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "jambaar-capital.com--paul-breloff-e4fe74e3",
+      "name": "Paul Breloff",
+      "firm_id": "jambaar-capital.com",
+      "title": "Venture Partner",
+      "profile": "https://www.linkedin.com/in/paul-breloff/",
+      "sources": [
+        "https://jambaar-capital.com/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "medin-vc.co--noomane-fehri-88bd5b65",
+      "name": "Noomane Fehri",
+      "firm_id": "medin-vc.co",
+      "title": "General Partner",
+      "profile": "",
+      "sources": [
+        "https://medin-vc.co/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "medin-vc.co--ghazi-ben-othman-8b79fd8a",
+      "name": "Ghazi Ben Othman",
+      "firm_id": "medin-vc.co",
+      "title": "General Partner",
+      "profile": "",
+      "sources": [
+        "https://medin-vc.co/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "medin-vc.co--sami-ben-romdhane-1fbd72c8",
+      "name": "Sami Ben Romdhane",
+      "firm_id": "medin-vc.co",
+      "title": "Venture Partner",
+      "profile": "",
+      "sources": [
+        "https://medin-vc.co/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "montavc.com--venktesh-shukla-3242a09f",
+      "name": "Venktesh Shukla",
+      "firm_id": "montavc.com",
+      "title": "Founder & General Partner",
+      "profile": "",
+      "sources": [
+        "https://montavc.com/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "montavc.com--roger-krakoff-caff3c75",
+      "name": "Roger Krakoff",
+      "firm_id": "montavc.com",
+      "title": "General Partner",
+      "profile": "",
+      "sources": [
+        "https://montavc.com/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "montavc.com--prashant-shah-adcb8712",
+      "name": "Prashant Shah",
+      "firm_id": "montavc.com",
+      "title": "Partner",
+      "profile": "",
+      "sources": [
+        "https://montavc.com/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "montavc.com--glen-anderson-fa2b0d7d",
+      "name": "Glen Anderson",
+      "firm_id": "montavc.com",
+      "title": "Partner",
+      "profile": "",
+      "sources": [
+        "https://montavc.com/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "montavc.com--viswa-sankaranarayanan-bee19381",
+      "name": "Viswa Sankaranarayanan",
+      "firm_id": "montavc.com",
+      "title": "Venture Partner",
+      "profile": "",
+      "sources": [
+        "https://montavc.com/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "montavc.com--job-simon-a30dc7a8",
+      "name": "Job Simon",
+      "firm_id": "montavc.com",
+      "title": "Venture Partner and CTO",
+      "profile": "",
+      "sources": [
+        "https://montavc.com/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "montavc.com--matt-cherian-11c96511",
+      "name": "Matt Cherian",
+      "firm_id": "montavc.com",
+      "title": "Venture Partner",
+      "profile": "",
+      "sources": [
+        "https://montavc.com/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "montavc.com--kaz-terada-bce7fe7d",
+      "name": "Kaz Terada",
+      "firm_id": "montavc.com",
+      "title": "Venture Advisor",
+      "profile": "",
+      "sources": [
+        "https://montavc.com/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "moxxie.vc--katie-jacobs-stanton-caf04593",
+      "name": "Katie Jacobs Stanton",
+      "firm_id": "moxxie.vc",
+      "title": "Founder, General partner",
+      "profile": "",
+      "sources": [
+        "https://www.moxxie.vc/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "moxxie.vc--alex-roetter-731b5514",
+      "name": "Alex Roetter",
+      "firm_id": "moxxie.vc",
+      "title": "General partner",
+      "profile": "",
+      "sources": [
+        "https://www.moxxie.vc/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "moxxie.vc--marie-drez-9cedea48",
+      "name": "Marie Drez",
+      "firm_id": "moxxie.vc",
+      "title": "CFO",
+      "profile": "",
+      "sources": [
+        "https://www.moxxie.vc/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "moxxie.vc--prateek-joshi-46ce0cf6",
+      "name": "Prateek Joshi",
+      "firm_id": "moxxie.vc",
+      "title": "investor",
+      "profile": "",
+      "sources": [
+        "https://www.moxxie.vc/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "moxxie.vc--rob-goulding-bd6b18d8",
+      "name": "Rob Goulding",
+      "firm_id": "moxxie.vc",
+      "title": "Operating Partner",
+      "profile": "",
+      "sources": [
+        "https://www.moxxie.vc/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "newformcap.com--alex-marinier-0622ea5f",
+      "name": "Alex Marinier",
+      "firm_id": "newformcap.com",
+      "title": "Founder & General Partner",
+      "profile": "",
+      "sources": [
+        "https://www.newformcap.com/team/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "newformcap.com--connor-klein-e39b9226",
+      "name": "Connor Klein",
+      "firm_id": "newformcap.com",
+      "title": "Investment Partner",
+      "profile": "",
+      "sources": [
+        "https://www.newformcap.com/team/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "newformcap.com--matt-cooper-0f49e70d",
+      "name": "Matt Cooper",
+      "firm_id": "newformcap.com",
+      "title": "Venture Partner",
+      "profile": "",
+      "sources": [
+        "https://www.newformcap.com/team/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "newformcap.com--matthew-cooper-55cbb78d",
+      "name": "Matthew Cooper",
+      "firm_id": "newformcap.com",
+      "title": "Investment Partner",
+      "profile": "",
+      "sources": [
+        "https://www.newformcap.com/team/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "outsetcapital.com--ali-rohde-eb7f297d",
+      "name": "Ali Rohde",
+      "firm_id": "outsetcapital.com",
+      "title": "Managing Partner",
+      "profile": "",
+      "sources": [
+        "https://outsetcapital.com/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "outsetcapital.com--kanjun-qiu-d8e75f15",
+      "name": "Kanjun Qiu",
+      "firm_id": "outsetcapital.com",
+      "title": "General Partner",
+      "profile": "",
+      "sources": [
+        "https://outsetcapital.com/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "outsetcapital.com--josh-albrecht-5638d0b6",
+      "name": "Josh Albrecht",
+      "firm_id": "outsetcapital.com",
+      "title": "General Partner",
+      "profile": "",
+      "sources": [
+        "https://outsetcapital.com/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "pennyjar.com--bryant-barr-9a60cc82",
+      "name": "Bryant Barr",
+      "firm_id": "pennyjar.com",
+      "title": "Founding Partner",
+      "profile": "",
+      "sources": [
+        "https://www.pennyjar.com/people"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "pennyjar.com--rich-scudellari-e372398c",
+      "name": "Rich Scudellari",
+      "firm_id": "pennyjar.com",
+      "title": "Founding Partner",
+      "profile": "",
+      "sources": [
+        "https://www.pennyjar.com/people"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "pennyjar.com--nia-pryce-a563bf19",
+      "name": "Nia Pryce",
+      "firm_id": "pennyjar.com",
+      "title": "Chief of Staff",
+      "profile": "",
+      "sources": [
+        "https://www.pennyjar.com/people"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "pennyjar.com--stephen-curry-359ac945",
+      "name": "Stephen Curry",
+      "firm_id": "pennyjar.com",
+      "title": "Special Advisor",
+      "profile": "",
+      "sources": [
+        "https://www.pennyjar.com/people"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "sabah.fund--rahim-bayramli-90689829",
+      "name": "Rahim Bayramli",
+      "firm_id": "sabah.fund",
+      "title": "Co-Founding General Partner",
+      "profile": "",
+      "sources": [
+        "https://sabahhub.com/fund/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "sabah.fund--abbas-kazmi-e1182e76",
+      "name": "Abbas Kazmi",
+      "firm_id": "sabah.fund",
+      "title": "Co-Founding General Partner",
+      "profile": "",
+      "sources": [
+        "https://sabahhub.com/fund/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "sabah.fund--masud-alisoy-eabbb11d",
+      "name": "Masud Alisoy",
+      "firm_id": "sabah.fund",
+      "title": "Senior Investment Associate",
+      "profile": "",
+      "sources": [
+        "https://sabahhub.com/fund/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "sabah.fund--sultan-abdullayev-e1d0d90e",
+      "name": "Sultan Abdullayev",
+      "firm_id": "sabah.fund",
+      "title": "Investment Analyst",
+      "profile": "",
+      "sources": [
+        "https://sabahhub.com/fund/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "sabah.fund--leylasi-taghiyeva-66ab5c57",
+      "name": "Leylasi Taghiyeva",
+      "firm_id": "sabah.fund",
+      "title": "Venture Fellow",
+      "profile": "",
+      "sources": [
+        "https://sabahhub.com/fund/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "somersault.vc--alex-turbanov-0d9f8ae0",
+      "name": "Alex Turbanov",
+      "firm_id": "somersault.vc",
+      "title": "General Partner",
+      "profile": "",
+      "sources": [
+        "https://somersault.vc/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "somersault.vc--alex-nevinsky-19541937",
+      "name": "Alex Nevinsky",
+      "firm_id": "somersault.vc",
+      "title": "General Partner",
+      "profile": "",
+      "sources": [
+        "https://somersault.vc/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "somersault.vc--julia-nechaieva-b686f64f",
+      "name": "Julia Nechaieva",
+      "firm_id": "somersault.vc",
+      "title": "Venture Partner",
+      "profile": "",
+      "sources": [
+        "https://somersault.vc/"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "untapped.ventures--george-bandarian-abb38728",
+      "name": "George Bandarian",
+      "firm_id": "untapped.ventures",
+      "title": "Founder, General Partner",
+      "profile": "",
+      "sources": [
+        "https://www.untapped.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "untapped.ventures--shant-meguerditchian-9d8046e5",
+      "name": "Shant Meguerditchian",
+      "firm_id": "untapped.ventures",
+      "title": "Head of Marketing",
+      "profile": "",
+      "sources": [
+        "https://www.untapped.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "untapped.ventures--jonah-sklar-71b0a771",
+      "name": "Jonah Sklar",
+      "firm_id": "untapped.ventures",
+      "title": "Technical Advisor",
+      "profile": "",
+      "sources": [
+        "https://www.untapped.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "untapped.ventures--tripp-doll-34348ded",
+      "name": "Tripp Doll",
+      "firm_id": "untapped.ventures",
+      "title": "Venture Associate",
+      "profile": "",
+      "sources": [
+        "https://www.untapped.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "untapped.ventures--dani-tao-33037ae3",
+      "name": "Dani Tao",
+      "firm_id": "untapped.ventures",
+      "title": "Marketing Coordinator",
+      "profile": "",
+      "sources": [
+        "https://www.untapped.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "untapped.ventures--siva-kumar-thota-9f1904f1",
+      "name": "Siva Kumar Thota",
+      "firm_id": "untapped.ventures",
+      "title": "AI Engineer",
+      "profile": "",
+      "sources": [
+        "https://www.untapped.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "untapped.ventures--ulises-ceja-496b18e9",
+      "name": "Ulises Ceja",
+      "firm_id": "untapped.ventures",
+      "title": "Venture Associate",
+      "profile": "",
+      "sources": [
+        "https://www.untapped.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "untapped.ventures--hamlet-azarian-2a212639",
+      "name": "Hamlet Azarian",
+      "firm_id": "untapped.ventures",
+      "title": "Venture Partner, Growth Advisor",
+      "profile": "",
+      "sources": [
+        "https://www.untapped.ventures/team"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "hi5.ventures--andrew-kryvorchuk-543c021c",
+      "name": "Andrew Kryvorchuk",
+      "firm_id": "hi5.ventures",
+      "title": "General Partner",
+      "profile": "",
+      "sources": [
+        "https://hi5.ventures/about.html"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "hi5.ventures--leon-podobedov-28fc1cf7",
+      "name": "Leon Podobedov",
+      "firm_id": "hi5.ventures",
+      "title": "General Partner",
+      "profile": "",
+      "sources": [
+        "https://hi5.ventures/about.html"
+      ],
+      "researched_at": "2026-10-12",
+      "focus": ""
+    },
+    {
+      "id": "encoded.vc--alex-benik-63de2558",
+      "name": "Alex Benik",
+      "firm_id": "encoded.vc",
+      "title": "Founder",
+      "profile": "",
+      "sources": [
+        "https://encoded.vc/"
+      ],
+      "researched_at": "2026-10-12",
       "focus": ""
     }
   ]
