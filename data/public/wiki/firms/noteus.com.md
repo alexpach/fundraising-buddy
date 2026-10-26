@@ -1,17 +1,16 @@
 ---
 type: Investor Firm
 title: Noteus Partners SAS
-description: growth equity investment firm; growth.
+description: growth equity investment firm; technology.
 resource: https://noteus.com/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: noteus.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 51
-status: draft
 sources:
 - id: s-d3ed0bea
   resource: https://noteus.com/
@@ -19,21 +18,22 @@ sources:
   resource: https://noteus.com/about-us
 - id: s-e7b0d473
   resource: https://noteus.com/disclaimer
+- id: s-9645faab
+  resource: https://noteus.com/people
+- id: s-469b5230
+  resource: https://www.rede-partners.com/news-insights-database/noteus-bridge-fund-close
 ---
 
 # Noteus Partners SAS
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe (as of 2026-08-06)[^s-d3ed0bea]
-- **About:** Noteus Partners (Noteus SAS) is an independent European growth-equity firm founded in 2023–2024, headquartered in Paris with offices in Berlin, London, and Madrid. It backs category-defining technology companies with proven, scalable business models, providing capital plus operational and strategic support; the team has collectively invested over €2.6–3B. Targeted €600M for its debut fund (Noteus  (as of 2026-08-06)[^s-d3ed0bea]
 - **Type:** growth equity investment firm[^s-7689c5a3]
-- **Investment strategies:** growth equity[^s-7689c5a3]
-- **Legal structure:** French SAS[^s-7689c5a3]
-- **Investment instruments:** equity[^s-7689c5a3]
-- **Stages:** growth[^s-7689c5a3]
+- **Sectors:** technology[^s-7689c5a3]
+- **Geographies:** Europe[^s-469b5230]
+- **Latest fund:** €413m Noteus Bridge Fund[^s-469b5230]
+- **Thesis quote:** We act nimbly and with conviction, backing businesses with the potential to win.[^s-7689c5a3]
+- **About:** Noteus is an independent, specialist growth equity investment firm focused on European technology companies.[^s-7689c5a3]
 
 ## Portfolio
 
@@ -44,11 +44,24 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | TravelPerk[^s-d3ed0bea] | Not recorded | Not recorded | Not recorded |
 | Neo4j[^s-d3ed0bea] | Not recorded | Not recorded | Not recorded |
 | GraphAware[^s-d3ed0bea] | Not recorded | Not recorded | Not recorded |
+| Fever[^s-469b5230] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Yann du Rusquec](../people/noteus.com--yann-du-rusquec-e44b8f.md) - Chief Executive Officer
+- [Nathalie Kornhoff Brüls](../people/noteus.com--nathalie-kornhoff-br-ls-6b4e5b.md) - General Partner
+- [Guillaume d’Audiffret](../people/noteus.com--guillaume-d-audiffret-4f02da.md) - General Partner
+- [Zoé Fabian-Frey](../people/noteus.com--zo-fabian-frey-3b86fb.md) - General Partner
+- [Yoan Pashov](../people/noteus.com--yoan-pashov-d11ae1.md) - Principal
+- [Carlos Fernandez Villar](../people/noteus.com--carlos-fernandez-villar-749f8f.md) - Vice President
+- [Dylan Gokani](../people/noteus.com--dylan-gokani-cd47dc.md) - Vice President
+- [Moritz Hummel](../people/noteus.com--moritz-hummel-a1bc7d.md) - Vice President
+- [Phillipp Schmitz](../people/noteus.com--phillipp-schmitz-2d7a5d.md) - Vice President
+- [Niccolò Saligari](../people/noteus.com--niccol-saligari-39d733.md) - Associate
+- [Sebastian Oechsner](../people/noteus.com--sebastian-oechsner-0f57be.md) - Analyst
 
 [^s-d3ed0bea]: <https://noteus.com/>
 [^s-7689c5a3]: <https://noteus.com/about-us>
 [^s-e7b0d473]: <https://noteus.com/disclaimer>
+[^s-9645faab]: <https://noteus.com/people>
+[^s-469b5230]: <https://www.rede-partners.com/news-insights-database/noteus-bridge-fund-close>

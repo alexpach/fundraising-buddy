@@ -1,23 +1,23 @@
 ---
 type: Investor Firm
 title: Prime Ventures
-description: venture capital; Series A, Series B, Series C; Marketplaces, SaaS, Fintech,
-  Consumer, Deeptech.
+description: venture capital; Marketplaces, SaaS, Fintech, Consumer, Deeptech.
 resource: https://primeventures.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: primeventures.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 50
-status: draft
 sources:
 - id: s-134eba17
   resource: https://primeventures.com
 - id: s-b4bf2f4e
   resource: https://www.crunchbase.com/organization/prime-technology-ventures
+- id: s-3c175d27
+  resource: https://www.finsmes.com/2013/01/prime-ventures-holds-close-vc-fund-iv-e100m.html
 - id: s-0b017361
   resource: https://www.primeventures.com/
 - id: s-a6e2c7c7
@@ -30,14 +30,14 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** global, europe (as of 2026-04-20)[^s-b4bf2f4e]
-- **About:** Prime Ventures is a North Holland, Netherlands-based venture capital firm founded in 1999. Its public materials emphasize Series C, late-stage investing, and focus areas include ai, fintech, consumer, security. (as of 2026-04-20)[^s-b4bf2f4e]
-- **Type:** venture capital[^s-ded5ceab]
-- **Investment strategies:** venture capital[^s-ded5ceab]
-- **Stages:** Series A, Series B, Series C[^s-ded5ceab]
+- **Type:** venture capital (as of 2013-01-24)[^s-3c175d27]
+- **Founded:** 1999[^s-3c175d27]
 - **Sectors:** Marketplaces, SaaS, Fintech, Consumer, Deeptech[^s-0b017361]
+- **Geographies:** Europe (as of 2013-01-24)[^s-3c175d27]
+- **AUM:** €375m under management (as of 2013-01-24)[^s-3c175d27]
+- **Latest fund:** Prime Ventures IV, first close €100m (as of 2013-01-24)[^s-3c175d27]
+- **Thesis quote:** We back exceptional founders building disruptive and innovative companies.[^s-0b017361]
+- **About:** Prime Ventures is a European venture capital firm founded in 1999 that invests in technology companies. (as of 2013-01-24)[^s-3c175d27]
 - **Leads rounds:** yes[^s-a6e2c7c7]
 
 ## Portfolio
@@ -51,6 +51,12 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Takeaway.com[^s-b4bf2f4e] | Not recorded | Not recorded | Not recorded |
 | Ohpen[^s-b4bf2f4e] | Not recorded | Not recorded | Not recorded |
 | Messagebird / Bird[^s-b4bf2f4e] | Not recorded | Not recorded | Not recorded |
+| MarkaVIP[^s-3c175d27] | Not recorded | Not recorded | Not recorded |
+| Service2Media[^s-3c175d27] | Not recorded | Not recorded | Not recorded |
+| Cint[^s-3c175d27] | Not recorded | Not recorded | Not recorded |
+| Eutechnyx[^s-3c175d27] | Not recorded | Not recorded | Not recorded |
+| Holidu[^s-0b017361] | Not recorded | Not recorded | Not recorded |
+| CybelAngel[^s-0b017361] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
@@ -58,6 +64,7 @@ Not recorded.
 
 [^s-134eba17]: <https://primeventures.com>
 [^s-b4bf2f4e]: <https://www.crunchbase.com/organization/prime-technology-ventures>
+[^s-3c175d27]: <https://www.finsmes.com/2013/01/prime-ventures-holds-close-vc-fund-iv-e100m.html>
 [^s-0b017361]: <https://www.primeventures.com/>
 [^s-a6e2c7c7]: <https://www.primeventures.com/relationships/holidu/>
 [^s-ded5ceab]: <https://www.primeventures.com/scaling-together/>

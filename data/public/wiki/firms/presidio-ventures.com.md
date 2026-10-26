@@ -1,19 +1,21 @@
 ---
 type: Investor Firm
 title: Presidio Ventures
-description: corporate venture capital; Enterprise IT, Cybersecurity, AI, Digital
-  Media, Mobility, IoT, Fintech, Robotics.
+description: corporate venture capital; Seed, Startup, Early Stage, Series B, Series
+  A; Software, IT, BioTech, FinTech, Hardware, Energy, CleanTech, AI, Cloud Services,
+  Aerospace.
 resource: https://presidio-ventures.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: presidio-ventures.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 41
-status: draft
 sources:
+- id: s-a263b5e7
+  resource: https://angelspartners.com/firm/presidio-ventures
 - id: s-0e6b67b5
   resource: https://presidio-ventures.com
 - id: s-040f5af4
@@ -26,12 +28,16 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us, europe, global (as of 2026-06-18)[^s-cd29478d]
-- **About:** Presidio Ventures is the US corporate-venture-capital arm of Sumitomo Corporation, the Japanese global trading/sogo-shosha conglomerate. Founded in 1998 in Silicon Valley as Sumitomo's first startup-investment vehicle, it has offices in Silicon Valley (Santa Clara), Boston, and Los Angeles, and has invested in 200+ companies (5 US unicorns) over ~25 years (as of 2026-06-18)[^s-cd29478d]
 - **Type:** corporate venture capital[^s-040f5af4]
-- **Sectors:** Enterprise IT, Cybersecurity, AI, Digital Media, Mobility, IoT, Fintech, Robotics[^s-040f5af4]
+- **HQ:** Santa Clara, California, United States[^s-a263b5e7]
+- **Stages:** Seed, Startup, Early Stage, Series B, Series A[^s-a263b5e7]
+- **Sectors:** Software, IT, BioTech, FinTech, Hardware, Energy, CleanTech, AI, Cloud Services, Aerospace[^s-a263b5e7]
+- **Geographies:** United States, United Kingdom, Canada, India, Japan, China, Singapore, Israel, Europe[^s-a263b5e7]
+- **Check size min:** $500K[^s-a263b5e7]
+- **Check size max:** $3M[^s-a263b5e7]
+- **AUM:** $75M[^s-a263b5e7]
+- **Thesis quote:** We invest in technology startups, with a focus on business development, cybersecurity, fintech, and IoT.[^s-a263b5e7]
+- **About:** Presidio Ventures is a corporate venture capital firm, the corporate venture arm of Sumitomo Corporation, that invests in emerging technology companies.[^s-040f5af4]
 
 ## Portfolio
 
@@ -50,6 +56,7 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 Not recorded.
 
+[^s-a263b5e7]: <https://angelspartners.com/firm/presidio-ventures>
 [^s-0e6b67b5]: <https://presidio-ventures.com>
 [^s-040f5af4]: <https://presidio-ventures.com/>
 [^s-cd29478d]: <https://www.crunchbase.com/organization/presidio-ventures>

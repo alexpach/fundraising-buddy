@@ -1,19 +1,19 @@
 ---
 type: Investor Firm
 title: Alnylam Pharmaceuticals, Inc.
-description: biopharmaceutical operating company; biopharmaceuticals, RNA interference
-  therapeutics.
+description: Public investor profile for Alnylam Pharmaceuticals, Inc.
 resource: https://www.alnylam.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: alnylam.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 37
-status: draft
 sources:
+- id: s-a6c7c9a1
+  resource: https://en.wikipedia.org/wiki/Alnylam
 - id: s-dafb9b98
   resource: https://www.alnylam.com
 - id: s-4f5bf902
@@ -24,13 +24,9 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-08-06)[^s-dafb9b98]
-- **Type:** biopharmaceutical operating company (as of 2025-12-31)[^s-4f5bf902]
-- **Investment strategies:** research, development and commercialization of RNAi therapeutics (as of 2025-12-31)[^s-4f5bf902]
-- **Legal structure:** Delaware corporation (as of 2025-12-31)[^s-4f5bf902]
-- **Sectors:** biopharmaceuticals, RNA interference therapeutics (as of 2025-12-31)[^s-4f5bf902]
+- **HQ:** Cambridge, Massachusetts[^s-a6c7c9a1]
+- **Founded:** 2002[^s-a6c7c9a1]
+- **About:** Alnylam Pharmaceuticals, Inc. is an American biopharmaceutical company focused on the discovery, development and commercialization of RNA interference (RNAi) therapeutics for genetically defined diseases.[^s-a6c7c9a1]
 
 ## Portfolio
 
@@ -42,5 +38,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 Not recorded.
 
+[^s-a6c7c9a1]: <https://en.wikipedia.org/wiki/Alnylam>
 [^s-dafb9b98]: <https://www.alnylam.com>
 [^s-4f5bf902]: <https://www.sec.gov/Archives/edgar/data/1178670/000162828026007497/alny-20251231.htm>

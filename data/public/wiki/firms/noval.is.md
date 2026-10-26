@@ -10,12 +10,14 @@ tags:
 domain: noval.is
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 47
 status: draft
 sources:
 - id: s-a4b271a3
   resource: https://noval.is
+- id: s-7fa9c1ee
+  resource: https://noval.is/
 ---
 
 # Novalis Biotech
@@ -41,9 +43,15 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | RheumaFinder[^s-a4b271a3] | Not recorded | Not recorded | Not recorded |
 | Clouds of Care[^s-a4b271a3] | Not recorded | Not recorded | Not recorded |
 | Alithea Genomics[^s-a4b271a3] | Not recorded | Not recorded | Not recorded |
+| pEGGy BV[^s-7fa9c1ee] | food technology | Not recorded | Not recorded |
+| H42 Inc[^s-7fa9c1ee] | epigenetic diagnostics | Not recorded | Not recorded |
+| Clouds of Care NV[^s-7fa9c1ee] | MedTech | Not recorded | Not recorded |
+| C-mo Medical Solutions[^s-7fa9c1ee] | digital health | Not recorded | Not recorded |
+| Trince[^s-7fa9c1ee] | cell-based therapeutics | Not recorded | Not recorded |
 
 ## People
 
 Not recorded.
 
 [^s-a4b271a3]: <https://noval.is>
+[^s-7fa9c1ee]: <https://noval.is/>

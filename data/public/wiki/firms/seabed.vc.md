@@ -1,18 +1,20 @@
 ---
 type: Investor Firm
 title: Seabed VC
-description: vc; seed, series-a; deep-tech, robotics, physical-ai, semiconductor,
-  enterprise-software, fintech, healthcare, hardware.
+description: venture capital; Pre-seed, Seed; Fintech, Healthcare Services, Robotics,
+  Software, AI.
 resource: https://seabed.vc
 tags:
 - investor-firm
-- directory
+- sourced
 domain: seabed.vc
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 42
-status: draft
 sources:
+- id: s-44047a96
+  resource: https://privateequitylist.com/investors/seabed-vc
 - id: s-9a9bb996
   resource: https://seabed.vc
 - id: s-38740217
@@ -23,14 +25,17 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** vc (as of 2026-04-19)[^s-38740217]
-- **Stages:** seed, series-a (as of 2026-04-19)[^s-38740217]
-- **Geographies:** us, global (as of 2026-04-19)[^s-38740217]
-- **Sectors:** deep-tech, robotics, physical-ai, semiconductor, enterprise-software, fintech, healthcare, hardware (as of 2026-04-19)[^s-38740217]
+- **Type:** venture capital (as of 2026-08-30)[^s-44047a96]
+- **HQ:** Saratoga, California, United States (as of 2026-08-30)[^s-44047a96]
+- **Founded:** 2015 (as of 2026-08-30)[^s-44047a96]
+- **Stages:** Pre-seed, Seed (as of 2026-08-30)[^s-44047a96]
+- **Sectors:** Fintech, Healthcare Services, Robotics, Software, AI (as of 2026-08-30)[^s-44047a96]
+- **Geographies:** North America (as of 2026-08-30)[^s-44047a96]
+- **Check size min:** $0 (as of 2026-08-30)[^s-44047a96]
+- **Check size max:** $1M (as of 2026-08-30)[^s-44047a96]
+- **Thesis quote:** The firm's investment philosophy focuses on founders who are driven to 'make a dent in the universe,' and it believes that a strong team and product are critical but that founder motivation is paramount. (as of 2026-08-30)[^s-44047a96]
+- **About:** Seabed VC is a venture capital firm based in the United States, focusing primarily on early-stage investments. (as of 2026-08-30)[^s-44047a96]
 - **Leads rounds:** unknown[^s-9a9bb996]
-- **About:** Seabed VC is an early-stage venture firm led by Vijay Ullal (former Fairchild Semiconductor/Maxim executive). Portfolio spans deep-tech, robotics (Nextera Robotics, Summer Robotics), enterprise software/analytics (Pareto), fintech/blockchain (Pillar), healthcare (Curie), and workplace/logistics (Bounce, Via). (as of 2026-04-19)[^s-38740217]
 
 ## Portfolio
 
@@ -49,5 +54,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 Not recorded.
 
+[^s-44047a96]: <https://privateequitylist.com/investors/seabed-vc>
 [^s-9a9bb996]: <https://seabed.vc>
 [^s-38740217]: <https://www.crunchbase.com/organization/seabed-vc>

@@ -1,18 +1,16 @@
 ---
 type: Investor Firm
 title: TION Health AG
-description: venture capital; incubator; pre-seed, seed; healthcare, food and nutrition,
-  fitness and sport, sustainability, MedTech, diagnostics, patient care.
+description: incubator; Pre-Seed, Seed; Healthcare, Sports Tech, Digital Health, Rehabilitation.
 resource: https://tion-health.com/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: tion-health.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 41
-status: draft
 sources:
 - id: s-3cfab329
   resource: https://tion-health.com/
@@ -20,29 +18,38 @@ sources:
   resource: https://tion-health.com/fonds/
 - id: s-07353485
   resource: https://tion-health.com/impressum/
+- id: s-34f07d96
+  resource: https://www.startuphub.ai/investors/tion-health
 ---
 
 # TION Health AG
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe (as of 2026-08-07)[^s-3cfab329]
-- **About:** TION Health AG (tion-health.com) is a Berlin-based, health-oriented early-stage incubator/investor, per its own site ("ein Health orientierter early stage Incubator aus Berlin"). Its two stated focus areas are Health Care (prevention, diagnostics, chronic-care tech) and Food (healthy nutrition, longevity) (as of 2026-08-07)[^s-3cfab329]
-- **Type:** venture capital; incubator[^s-8df85248]
-- **Investment strategies:** early-stage venture investing, startup incubation[^s-8df85248]
-- **Stages:** pre-seed, seed[^s-3cfab329]
-- **Sectors:** healthcare, food and nutrition, fitness and sport, sustainability, MedTech, diagnostics, patient care[^s-3cfab329]
+- **Type:** incubator[^s-3cfab329]
+- **HQ:** Berlin[^s-3cfab329]
+- **Stages:** Pre-Seed, Seed[^s-34f07d96]
+- **Sectors:** Healthcare, Sports Tech, Digital Health, Rehabilitation[^s-34f07d96]
+- **Check size min:** $2M[^s-34f07d96]
+- **Check size max:** $2M[^s-34f07d96]
+- **Thesis quote:** Wir unterstützen Start Ups und Investoren, die mit Innovationen und Transformationen in diesem Bereich die Lebensqualität der Menschen dauerhaft verbessern.[^s-3cfab329]
+- **About:** TION Health AG is a Berlin-based healthcare incubator and early-stage investor focused on sports, movement, rehabilitation, and physical fitness innovations.[^s-34f07d96]
 
 ## Portfolio
 
-Not recorded.
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| PENEMUE[^s-34f07d96] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Stefan Begemann](../people/tion-health.com--stefan-begemann-e4fca2.md) - Gesellschafter & Aufsichtsrat
+- [Joachim Bovelet](../people/tion-health.com--joachim-bovelet-21c599.md) - Gesellschafter & Aufsichtsratsvorsitzender
+- [Frank Michalak](../people/tion-health.com--frank-michalak-b05c38.md) - Gesellschafter & Aufsichtsrat
+- [Ingo Schiller](../people/tion-health.com--ingo-schiller-866d6f.md) - Gesellschafter & Vorstand
+- [Dr. Hans-Peter Schlaudt](../people/tion-health.com--dr-hans-peter-schlaudt-2a3317.md) - Gesellschafter & Vorstand
 
 [^s-3cfab329]: <https://tion-health.com/>
 [^s-8df85248]: <https://tion-health.com/fonds/>
 [^s-07353485]: <https://tion-health.com/impressum/>
+[^s-34f07d96]: <https://www.startuphub.ai/investors/tion-health>

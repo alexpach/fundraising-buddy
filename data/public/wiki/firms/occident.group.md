@@ -1,18 +1,19 @@
 ---
 type: Investor Firm
 title: OCCIDENT
-description: venture capital; seed, series A; Life Sciences, Industrial Tech.
+description: venture capital; Seed; Deep-Tech.
 resource: https://www.occident.group/en/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: occident.group
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 60
-status: draft
 sources:
+- id: s-2ec28fc5
+  resource: https://www.occident.group/
 - id: s-44a2238b
   resource: https://www.occident.group/en/
 - id: s-3d13306f
@@ -27,14 +28,11 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe (as of 2026-08-06)[^s-44a2238b]
-- **About:** OCCIDENT ("The Science Investor") is a Munich- and Zug-based deep-tech venture capital firm backing scientific spin-offs in life sciences and industrial technology, from seed stage onwards. It has 14 active portfolio companies and 7 exits, with a stated focus on translating academic research into commercially viable ventures. (as of 2026-08-06)[^s-44a2238b]
-- **Type:** venture capital[^s-3d13306f]
-- **Investment strategies:** deep tech venture investing[^s-3d13306f]
-- **Stages:** seed, series A[^s-588b6f88]
-- **Sectors:** Life Sciences, Industrial Tech[^s-588b6f88]
+- **Type:** venture capital[^s-2ec28fc5]
+- **Stages:** Seed[^s-2ec28fc5]
+- **Sectors:** Deep-Tech[^s-2ec28fc5]
+- **Thesis quote:** Wir investieren in Deep-Tech-Startups mit dem Fokus auf Spin-offs aus der[^s-2ec28fc5]
+- **About:** OCCIDENT is a venture capital investor backing deep-tech spin-offs from scientific research, starting at the seed stage.[^s-2ec28fc5]
 - **Leads rounds:** yes (as of 2023-07-12)[^s-59ef4b0f]
 
 ## Portfolio
@@ -53,6 +51,7 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 Not recorded.
 
+[^s-2ec28fc5]: <https://www.occident.group/>
 [^s-44a2238b]: <https://www.occident.group/en/>
 [^s-3d13306f]: <https://www.occident.group/en/about/>
 [^s-588b6f88]: <https://www.occident.group/en/for-founders/>

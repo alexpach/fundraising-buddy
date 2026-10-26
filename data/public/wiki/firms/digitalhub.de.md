@@ -1,21 +1,22 @@
 ---
 type: Investor Firm
 title: Digitaler Hub Region Bonn AG
-description: accelerator; pre-seed, seed, growth; Digital, Cybersecurity, Digital
-  health.
+description: accelerator and investor; Pre-Seed, Seed, Growth; Cyber Security, Digital
+  Health.
 resource: https://www.digitalhub.de/en
 tags:
 - investor-firm
-- directory
+- sourced
 domain: digitalhub.de
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 48
-status: draft
 sources:
 - id: s-964ae397
   resource: https://www.crunchbase.com/organization/digital-hub-bonn
+- id: s-0cbc5170
+  resource: https://www.digitalhub.de/
 - id: s-d8b6f9e7
   resource: https://www.digitalhub.de/en
 - id: s-30decbb2
@@ -26,22 +27,20 @@ sources:
   resource: https://www.digitalhub.de/en/startups
 - id: s-c98e2477
   resource: https://www.digitalhub.de/en/startups/hubgrade-invest
+- id: s-30f4995f
+  resource: https://www.digitalhub.de/uber-uns/team
 ---
 
 # Digitaler Hub Region Bonn AG
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** germany (as of 2026-08-06)[^s-964ae397]
-- **About:** DIGITALHUB.DE is a Bonn-based innovation hub and accelerator for the Rhineland region (founded 2016/2017), running structured programs , including HUBGRADE CYBER (a two-batch-per- year, 6-month cybersecurity accelerator) and a digital-health/cyber scale-up program , that combine mentoring, working space and an investor/corporate network, with occasional direct seed-stage investment via its HubGrad (as of 2026-08-06)[^s-964ae397]
-- **Type:** accelerator[^s-3ef0350d]
-- **Investment strategies:** startup accelerator programs, program-linked startup financing and investor introductions[^s-3ef0350d]
-- **Legal structure:** Aktiengesellschaft (AG)[^s-3ef0350d]
-- **Investment instruments:** convertible loans, direct participation (instrument unspecified)[^s-3ef0350d]
-- **Stages:** pre-seed, seed, growth[^s-c98e2477]
-- **Sectors:** Digital, Cybersecurity, Digital health[^s-3ef0350d]
+- **Type:** accelerator and investor[^s-0cbc5170]
+- **HQ:** Bonn, Germany[^s-0cbc5170]
+- **Stages:** Pre-Seed, Seed, Growth[^s-0cbc5170]
+- **Sectors:** Cyber Security, Digital Health[^s-0cbc5170]
+- **Thesis quote:** Wir sind Dein Startup-Accelerator und Investor für die Pre-Seed, Seed und Growth-Phase mit Fokus auf Cyber Security und Digital Health[^s-0cbc5170]
+- **About:** Digitaler Hub Region Bonn AG operates a startup accelerator and coworking spaces in Bonn, Germany.[^s-0cbc5170]
 
 ## Portfolio
 
@@ -53,11 +52,13 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## People
 
-Not recorded.
+- [Malte Gooß](../people/digitalhub.de--malte-goo-53c67d.md) - Investment Manager & KMU Manager
 
 [^s-964ae397]: <https://www.crunchbase.com/organization/digital-hub-bonn>
+[^s-0cbc5170]: <https://www.digitalhub.de/>
 [^s-d8b6f9e7]: <https://www.digitalhub.de/en>
 [^s-30decbb2]: <https://www.digitalhub.de/en/hubstories/hubgrade-cyber---vernetzt-ganz-sicher>
 [^s-6cbe0e84]: <https://www.digitalhub.de/en/information/impressum>
 [^s-3ef0350d]: <https://www.digitalhub.de/en/startups>
 [^s-c98e2477]: <https://www.digitalhub.de/en/startups/hubgrade-invest>
+[^s-30f4995f]: <https://www.digitalhub.de/uber-uns/team>

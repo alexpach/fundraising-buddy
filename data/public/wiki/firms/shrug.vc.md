@@ -1,19 +1,19 @@
 ---
 type: Investor Firm
 title: Shrug Capital
-description: venture capital; seed; Deep Tech, Climate / Energy, Creator, Health &
-  Wellness, Consumer, FinTech, Web3, Marketplaces, AI.
+description: venture capital; Seed, Series A; Entertainment, Impact, Music, Consumer.
 resource: https://www.shrug.vc
 tags:
 - investor-firm
-- directory
+- sourced
 domain: shrug.vc
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 52
-status: draft
 sources:
+- id: s-baba7fca
+  resource: https://angelspartners.com/firm/shrug-capital
 - id: s-a25197b7
   resource: https://medium.com/@nivo0o0/announcing-shrug-capital-1bfce52fc19c
 - id: s-a02a6631
@@ -28,14 +28,14 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-08-07)[^s-a02a6631]
-- **About:** Shrug Capital (run by Niv and Moshe) is a US early-stage seed fund with a generalist-but-bold thesis spanning deep tech, climate/energy, creator economy, and consumer health. Known for network-driven, hands-on early checks and portfolio names including Anduril and Feastables (as of 2026-08-07)[^s-a02a6631]
-- **Type:** venture capital (as of 2018-04)[^s-a25197b7]
-- **Investment strategies:** consumer-focused venture investing (as of 2018-04)[^s-a25197b7]
-- **Stages:** seed[^s-8ed8f466]
-- **Sectors:** Deep Tech, Climate / Energy, Creator, Health & Wellness, Consumer, FinTech, Web3, Marketplaces, AI[^s-77334955]
+- **Type:** venture capital[^s-baba7fca]
+- **Stages:** Seed, Series A[^s-baba7fca]
+- **Sectors:** Entertainment, Impact, Music, Consumer[^s-baba7fca]
+- **Check size min:** $100,000[^s-baba7fca]
+- **Check size max:** $300,000[^s-baba7fca]
+- **AUM:** $3,000,000[^s-baba7fca]
+- **Thesis quote:** We invest in consumer-focused startups.[^s-baba7fca]
+- **About:** Shrug Capital is a venture capital firm focused on seed and Series A investments within the entertainment, impact, music, and consumer sectors.[^s-baba7fca]
 
 ## Portfolio
 
@@ -47,11 +47,28 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Merlin Labs[^s-a02a6631] | Not recorded | Not recorded | Not recorded |
 | Feastables[^s-a02a6631] | Not recorded | Not recorded | Not recorded |
 | Levels[^s-a02a6631] | Not recorded | Not recorded | Not recorded |
+| Maude Group[^s-baba7fca] | Not recorded | Seed Round | Not recorded |
+| Mem Labs[^s-baba7fca] | Not recorded | Seed Round | Not recorded |
+| Chums[^s-baba7fca] | Not recorded | Seed Round | Not recorded |
+| Wardrobe[^s-baba7fca] | Not recorded | Pre Seed Round | Not recorded |
+| lockr[^s-baba7fca] | Not recorded | Pre Seed | Not recorded |
+| Windsor.io[^s-baba7fca] | Not recorded | Seed | Not recorded |
+| Summer Health[^s-8ed8f466] | Not recorded | Not recorded | Not recorded |
+| Living Carbon[^s-8ed8f466] | Not recorded | Not recorded | Not recorded |
+| Acquire.com[^s-8ed8f466] | Not recorded | Not recorded | Not recorded |
+| Mona Lee Solar[^s-8ed8f466] | Not recorded | Not recorded | Not recorded |
+| RTFKT[^s-8ed8f466] | Not recorded | Not recorded | Not recorded |
+| Genies[^s-8ed8f466] | Not recorded | Not recorded | Not recorded |
+| Alt & Lob[^s-8ed8f466] | Not recorded | Not recorded | Not recorded |
+| Varda[^s-8ed8f466] | Not recorded | Not recorded | Not recorded |
+| Superplastic[^s-8ed8f466] | Not recorded | Not recorded | Not recorded |
+| The Custom Movement[^s-8ed8f466] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
 Not recorded.
 
+[^s-baba7fca]: <https://angelspartners.com/firm/shrug-capital>
 [^s-a25197b7]: <https://medium.com/@nivo0o0/announcing-shrug-capital-1bfce52fc19c>
 [^s-a02a6631]: <https://www.shrug.vc>
 [^s-8ed8f466]: <https://www.shrug.vc/>

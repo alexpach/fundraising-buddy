@@ -1,18 +1,16 @@
 ---
 type: Investor Firm
 title: The Inner Foundation
-description: impact investor; grant-maker; ecosystem builder; early stage; mental
-  health, mental well-being, brain health, diversity, equity, inclusion, and belonging.
+description: impact investor; inner health, diversity, equity, inclusion, and belonging.
 resource: https://theinnerfoundation.org
 tags:
 - investor-firm
-- directory
+- sourced
 domain: theinnerfoundation.org
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 48
-status: draft
 sources:
 - id: s-cdd5c007
   resource: https://theinnerfoundation.org
@@ -22,21 +20,22 @@ sources:
   resource: https://theinnerfoundation.org/our-approach/
 - id: s-00090ee6
   resource: https://theinnerfoundation.org/portfolio/
+- id: s-8f391a7b
+  resource: https://theinnerfoundation.org/portfolio/bling-capital/
+- id: s-672b19a1
+  resource: https://www.businessinsider.com/northzone-gp-pj-paerson-spotify-commits-100m-mental-health-2022-7
 ---
 
 # The Inner Foundation
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** global (as of 2026-08-07)[^s-cdd5c007]
-- **About:** The Inner Foundation is a Swedish nonprofit impact foundation founded in 2022 by Annika Sten Pärson (with her husband Pär-Jörgen Pärson, a General Partner at Northzone), committed to deploying $100M over twenty years. It funds "inner health" causes, mental health and wellbeing for emerging adults, and EDIB, through a mix of grants and equity investments (as of 2026-08-07)[^s-cdd5c007]
-- **Type:** impact investor; grant-maker; ecosystem builder[^s-90401a7f]
-- **Investment strategies:** impact investing, grant-making, fund investments, catalytic capital[^s-90401a7f]
-- **Investment instruments:** grants, debt, equity[^s-90401a7f]
-- **Stages:** early stage[^s-0cec100d]
-- **Sectors:** mental health, mental well-being, brain health, diversity, equity, inclusion, and belonging[^s-90401a7f]
+- **Type:** impact investor[^s-90401a7f]
+- **Sectors:** inner health, diversity, equity, inclusion, and belonging[^s-90401a7f]
+- **Geographies:** North America, Africa, Europe (as of 2022-07)[^s-672b19a1]
+- **Check size max:** €2.5 million (as of 2022-07)[^s-672b19a1]
+- **Thesis quote:** aims to apply a venture capital funding model to social change companies to help them scale and maximize their impact (as of 2022-07)[^s-672b19a1]
+- **About:** The Inner Foundation is an impact investor, grant-maker, and ecosystem builder focused on inner health.[^s-90401a7f]
 
 ## Portfolio
 
@@ -47,12 +46,18 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | The Social Incubator[^s-cdd5c007] | Not recorded | Not recorded | Not recorded |
 | StrongMinds[^s-cdd5c007] | Not recorded | Not recorded | Not recorded |
 | Meela[^s-cdd5c007] | Not recorded | Not recorded | Not recorded |
+| BLING Capital[^s-8f391a7b] | Not recorded | Not recorded | 2022 |
+| Strong Minds[^s-672b19a1] | Not recorded | Not recorded | Not recorded |
+| First Close Partners[^s-672b19a1] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Annika Sten Pärson](../people/theinnerfoundation.org--annika-sten-p-rson-9498a4.md) - Partner
+- [Pär-Jörgen Pärson](../people/theinnerfoundation.org--p-r-j-rgen-p-rson-e6d0b4.md) - Non-executive board member
 
 [^s-cdd5c007]: <https://theinnerfoundation.org>
 [^s-90401a7f]: <https://theinnerfoundation.org/>
 [^s-0cec100d]: <https://theinnerfoundation.org/our-approach/>
 [^s-00090ee6]: <https://theinnerfoundation.org/portfolio/>
+[^s-8f391a7b]: <https://theinnerfoundation.org/portfolio/bling-capital/>
+[^s-672b19a1]: <https://www.businessinsider.com/northzone-gp-pj-paerson-spotify-commits-100m-mental-health-2022-7>

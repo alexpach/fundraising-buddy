@@ -1,18 +1,20 @@
 ---
 type: Investor Firm
 title: HANNOVER Finanz Group
-description: private equity; private debt; growth.
+description: venture capital; Expansion, Later Stage, MBO/LBO, Ownership Transition;
+  Other.
 resource: https://hannoverfinanz.de/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: hannoverfinanz.de
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 52
-status: draft
 sources:
+- id: s-4588cb91
+  resource: https://angelspartners.com/firm/hannover-finanz-gmbh
 - id: s-77734835
   resource: https://hannoverfinanz.de/
 - id: s-51d26101
@@ -25,18 +27,17 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe (as of 2026-08-07)[^s-77734835]
-- **Check size min:** 15M (as of 2026-08-07)[^s-77734835]
-- **Check size max:** 50M (as of 2026-08-07)[^s-77734835]
-- **About:** Founded 1979, HANNOVER Finanz Group is a family-owned private-equity partner for German-speaking (DACH) Mittelstand companies. It manages evergreen funds with no fixed term, is sector-agnostic ("keine Branchenschwerpunkte"), and as of 2025 held a portfolio of ~35 companies generating &gt;€4B combined revenue (as of 2026-08-07)[^s-77734835]
-- **Type:** private equity; private debt[^s-77734835]
-- **Investment strategies:** growth equity, special situations[^s-77734835]
-- **Legal structure:** evergreen funds, closed-end funds[^s-77734835]
-- **Investment instruments:** equity, private debt[^s-77734835]
-- **Stages:** growth[^s-756ed8d7]
-- **AUM:** Lower bound (over): EUR 900 million (date not reported)[^s-77734835]
+- **Type:** venture capital[^s-4588cb91]
+- **HQ:** Hannover, Germany[^s-4588cb91]
+- **Founded:** 1979[^s-4588cb91]
+- **Stages:** Expansion, Later Stage, MBO/LBO, Ownership Transition[^s-4588cb91]
+- **Sectors:** Other[^s-4588cb91]
+- **Geographies:** Germany, Austria[^s-4588cb91]
+- **Check size min:** €3,000,000[^s-4588cb91]
+- **Check size max:** €50,000,000[^s-4588cb91]
+- **AUM:** More than €900,000,000[^s-4588cb91]
+- **Thesis quote:** HF Equity is focused on equity investments in medium-sized family firms[^s-4588cb91]
+- **About:** Hannover Finanz GmbH is a venture capital fund based in Hannover, Germany.[^s-4588cb91]
 
 ## Portfolio
 
@@ -46,11 +47,16 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Flender[^s-77734835] | Not recorded | Not recorded | Not recorded |
 | Hirschvogel Automotive Group[^s-77734835] | Not recorded | Not recorded | Not recorded |
 | Source[^s-77734835] | Not recorded | Not recorded | Not recorded |
+| Rossmann[^s-4588cb91] | Not recorded | Not recorded | Not recorded |
+| Aixtron[^s-4588cb91] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Goetz Hertz-Eichenrode](../people/hannoverfinanz.de--goetz-hertz-eichenrode-abe3df.md) - Geschäftsführer
+- [Robert Pauli](../people/hannoverfinanz.de--robert-pauli-4fb9a8.md) - Geschäftsführer
+- [Dr. Sascha Haghani](../people/hannoverfinanz.de--dr-sascha-haghani-9687de.md) - Geschäftsführer
 
+[^s-4588cb91]: <https://angelspartners.com/firm/hannover-finanz-gmbh>
 [^s-77734835]: <https://hannoverfinanz.de/>
 [^s-51d26101]: <https://hf-equity.de/beteiligungsanlasse/>
 [^s-756ed8d7]: <https://hf-equity.de/unternehmen/>

@@ -1,18 +1,21 @@
 ---
 type: Investor Firm
 title: Pareto Holdings
-description: venture capital; venture studio.
+description: venture studio.
 resource: https://www.pareto20.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: pareto20.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 31
-status: draft
 sources:
+- id: s-c6a26bd3
+  resource: https://pareto20.com/
+- id: s-0bed25d7
+  resource: https://pareto20.com/team
 - id: s-a77df08c
   resource: https://www.pareto20.com
 - id: s-5495cb63
@@ -25,12 +28,11 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** global (as of 2026-08-07)[^s-a77df08c]
-- **About:** Pareto Holdings is Edward Lando's self-funded early-stage investment/company-building platform ("never raised any outside capital"), HQ'd in the US, operating worldwide, writing pre-seed/seed checks broadly. Lando is widely described as one of the most active angel investors globally (as of 2026-08-07)[^s-a77df08c]
-- **Type:** venture capital; venture studio[^s-1ec76851]
-- **Investment strategies:** early-stage investing[^s-1ec76851]
+- **Type:** venture studio[^s-0bed25d7]
+- **HQ:** U.S.[^s-c6a26bd3]
+- **Geographies:** US, France[^s-0bed25d7]
+- **Thesis quote:** E a r l y s t a g e i n v e s t i n g i n t h e w o r l d’s m o s t a m b i t i o u s f o u n d e r s.[^s-c6a26bd3]
+- **About:** Early-stage investor and venture studio based in the US & France.[^s-0bed25d7]
 
 ## Portfolio
 
@@ -40,8 +42,13 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## People
 
-Not recorded.
+- [Tim Simon](../people/pareto20.com--tim-simon-b24095.md) - Investor
+- [Anika Adzich](../people/pareto20.com--anika-adzich-d3d303.md) - Investor
+- [Carson Kraycik](../people/pareto20.com--carson-kraycik-2d1c9d.md) - Investor
+- [Celia Molkentin](../people/pareto20.com--celia-molkentin-c27939.md) - Investor
 
+[^s-c6a26bd3]: <https://pareto20.com/>
+[^s-0bed25d7]: <https://pareto20.com/team>
 [^s-a77df08c]: <https://www.pareto20.com>
 [^s-5495cb63]: <https://www.pareto20.com/>
 [^s-1ec76851]: <https://www.pareto20.com/team>

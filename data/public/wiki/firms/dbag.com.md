@@ -1,20 +1,20 @@
 ---
 type: Investor Firm
 title: Deutsche Beteiligungs AG
-description: private equity; mechanical and plant engineering, automotive supply,
-  industrial services, industrial components, environment, energy and infrastructure,
-  software, healthcare.
+description: private equity firm; IT services and software, healthcare, environment,
+  energy and infrastructure, industrial services, industry tech.
 resource: https://www.dbag.com/en/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: dbag.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 46
-status: draft
 sources:
+- id: s-89581abb
+  resource: https://www.dbag.com/
 - id: s-85695089
   resource: https://www.dbag.com/company/
 - id: s-140053b8
@@ -23,21 +23,24 @@ sources:
   resource: https://www.dbag.com/en/
 - id: s-a6f9305d
   resource: https://www.dbag.com/shareholder-relations/annual-report-2025/
+- id: s-422a2623
+  resource: https://www.eqs-news.com/news/corporate/deutsche-beteiligungs-ag-successful-final-closing-of-dbag-ecf-iv/ab79737b-0d98-46d9-9eca-6db733f938f5_en
 ---
 
 # Deutsche Beteiligungs AG
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe, germany (as of 2026-08-07)[^s-5c08e318]
-- **Type:** private equity[^s-85695089]
-- **Investment strategies:** management buyouts, growth financing, private debt[^s-85695089]
-- **Legal structure:** listed private equity company[^s-85695089]
-- **Investment instruments:** equity, quasi-equity, private debt[^s-85695089]
-- **Sectors:** mechanical and plant engineering, automotive supply, industrial services, industrial components, environment, energy and infrastructure, software, healthcare[^s-140053b8]
-- **AUM:** EUR 2.7 billion (as of 2025) (as of 2025)[^s-a6f9305d]
+- **Type:** private equity firm (as of 2024-11-21)[^s-422a2623]
+- **HQ:** Frankfurt am Main, Germany[^s-422a2623]
+- **Sectors:** IT services and software, healthcare, environment, energy and infrastructure, industrial services, industry tech (as of 2024-11-21)[^s-422a2623]
+- **Geographies:** Germany, Austria, Switzerland (as of 2024-11-21)[^s-422a2623]
+- **Check size min:** €10M (as of 2024-11-21)[^s-422a2623]
+- **Check size max:** €40M (as of 2024-11-21)[^s-422a2623]
+- **AUM:** €2.7B (as of 2024-11-21)[^s-422a2623]
+- **Latest fund:** DBAG ECF IV, €250M (as of 2024-11-21)[^s-422a2623]
+- **Thesis quote:** Our mission is investing in enterprises with high potential.[^s-89581abb]
+- **About:** Deutsche Beteiligungs AG is a listed German private equity firm and fund advisor focused on mid-market companies. (as of 2024-11-21)[^s-422a2623]
 
 ## Portfolio
 
@@ -49,12 +52,43 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | ProXES[^s-5c08e318] | Not recorded | Not recorded | Not recorded |
 | Schülerhilfe[^s-5c08e318] | Not recorded | Not recorded | Not recorded |
 | Spheros[^s-5c08e318] | Not recorded | Not recorded | Not recorded |
+| Cartonplast[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| congatec[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| evidia[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| Firian[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| Hausheld[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| JCK[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| Fischer TireTech[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| Netzkontor[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| Oechsler[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| operasan[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| Polytech Health & Aesthetics[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| Sero[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| Solvares[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| Telio[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| von Poll Immobilien[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| Itelyum[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| Dantherm[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| freiheit.com[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| vhf[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| MTWH[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| akquinet[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| Green Datahub[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| TBD[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| Avrio Energie[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| AOE[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| ProMik[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| Great Lengths[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| SignalFisher[^s-89581abb] | Not recorded | Not recorded | Not recorded |
+| UNITY AG[^s-422a2623] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Tom Alzin](../people/dbag.com--tom-alzin-f49bd4.md) - Spokesman of the Board of Management
 
+[^s-89581abb]: <https://www.dbag.com/>
 [^s-85695089]: <https://www.dbag.com/company/>
 [^s-140053b8]: <https://www.dbag.com/company/investment-strategy/>
 [^s-5c08e318]: <https://www.dbag.com/en/>
 [^s-a6f9305d]: <https://www.dbag.com/shareholder-relations/annual-report-2025/>
+[^s-422a2623]: <https://www.eqs-news.com/news/corporate/deutsche-beteiligungs-ag-successful-final-closing-of-dbag-ecf-iv/ab79737b-0d98-46d9-9eca-6db733f938f5_en>

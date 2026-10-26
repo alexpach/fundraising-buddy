@@ -1,34 +1,31 @@
 ---
 type: Investor Firm
 title: Uncorrelated Ventures
-description: vc; seed, series-a; infrastructure-software, crypto-web3.
+description: Infrastructure, Software and Hardware.
 resource: https://uncorrelated.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: uncorrelated.com
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 56
-status: draft
 sources:
 - id: s-df0ca7a4
   resource: https://uncorrelated.com
+- id: s-a561a6b5
+  resource: https://uncorrelated.com/
 ---
 
 # Uncorrelated Ventures
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** vc (as of 2026-08-07)[^s-df0ca7a4]
-- **Stages:** seed, series-a (as of 2026-08-07)[^s-df0ca7a4]
-- **Geographies:** us, global (as of 2026-08-07)[^s-df0ca7a4]
-- **Sectors:** infrastructure-software, crypto-web3 (as of 2026-08-07)[^s-df0ca7a4]
-- **AUM:** 750M (as of 2026-08-07)[^s-df0ca7a4]
+- **Sectors:** Infrastructure, Software and Hardware[^s-a561a6b5]
+- **AUM:** $750M+[^s-a561a6b5]
+- **About:** Uncorrelated Ventures is a venture investor whose website lists infrastructure and software and hardware investments across more than 100 companies.[^s-a561a6b5]
 - **Leads rounds:** unknown[^s-df0ca7a4]
-- **About:** Uncorrelated Ventures (founded 2019, Palo Alto) is an infrastructure-software VC founded by Salil Deshpande, investing "traditional and decentralized" (i.e. crypto/web3 alongside conventional software) (as of 2026-08-07)[^s-df0ca7a4]
 
 ## Portfolio
 
@@ -40,9 +37,22 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Astronomer[^s-df0ca7a4] | Not recorded | Not recorded | Not recorded |
 | ActiveState[^s-df0ca7a4] | Not recorded | Not recorded | Not recorded |
 | Converge[^s-df0ca7a4] | Not recorded | Not recorded | Not recorded |
+| Abstract Ventures[^s-a561a6b5] | Not recorded | Not recorded | Not recorded |
+| Adeptmind[^s-a561a6b5] | Not recorded | Not recorded | Not recorded |
+| ANJUNA[^s-a561a6b5] | Not recorded | Not recorded | Not recorded |
+| AUTIFY[^s-a561a6b5] | Not recorded | Not recorded | Not recorded |
+| BitGo[^s-a561a6b5] | Not recorded | Not recorded | Not recorded |
+| CAST.AI[^s-a561a6b5] | Not recorded | Not recorded | Not recorded |
+| Checkmarx[^s-a561a6b5] | Not recorded | Not recorded | Not recorded |
+| Cribl[^s-a561a6b5] | Not recorded | Not recorded | Not recorded |
+| DATABRICKS[^s-a561a6b5] | Not recorded | Not recorded | Not recorded |
+| Deel[^s-a561a6b5] | Not recorded | Not recorded | Not recorded |
+| DataStax[^s-a561a6b5] | Not recorded | Not recorded | Not recorded |
+| Hazelcast[^s-a561a6b5] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
 Not recorded.
 
 [^s-df0ca7a4]: <https://uncorrelated.com>
+[^s-a561a6b5]: <https://uncorrelated.com/>

@@ -1,18 +1,16 @@
 ---
 type: Investor Firm
 title: MTIP AG
-description: private equity; growth; Healthcare technology, Life sciences technology,
-  Digital therapeutics.
+description: healthcare technology.
 resource: https://mtip.ch
 tags:
 - investor-firm
-- directory
+- sourced
 domain: mtip.ch
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 46
-status: draft
 sources:
 - id: s-4b96040a
   resource: https://mtip.ch
@@ -30,14 +28,11 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe (as of 2026-08-17)[^s-4b96040a]
-- **Type:** private equity[^s-8c65073f]
-- **Investment strategies:** growth equity, buyout[^s-8c65073f]
-- **Investment instruments:** equity[^s-8c65073f]
-- **Stages:** growth[^s-30302544]
-- **Sectors:** Healthcare technology, Life sciences technology, Digital therapeutics[^s-30302544]
+- **HQ:** Basel, Switzerland[^s-8c65073f]
+- **Sectors:** healthcare technology[^s-8c65073f]
+- **Geographies:** 12 European countries[^s-8c65073f]
+- **Thesis quote:** We invest in AI-enabled and software-driven healthcare companies through majority and minority structures[^s-8c65073f]
+- **About:** MTIP is a Swiss-based specialist growth and buyout investor focused on European healthcare technology.[^s-8c65073f]
 - **Leads rounds:** yes (as of 2024-08-15)[^s-5c834adc]
 
 ## Portfolio

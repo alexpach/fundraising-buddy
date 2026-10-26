@@ -1,19 +1,20 @@
 ---
 type: Investor Firm
 title: Gi21 Capital
-description: venture capital; diversified investment firm; pre-seed, seed; Deep Tech,
-  AI, B2B software, Fintech, Robotics.
+description: venture capital; Seed, Pre-Seed, Series A; technology, hospitality, real
+  estate.
 resource: https://www.gi21capital.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: gi21capital.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 37
-status: draft
 sources:
+- id: s-0c659002
+  resource: https://shizune.co/investors/profile/gi21-capital
 - id: s-d41b3c02
   resource: https://www.gi21capital.com
 - id: s-ec38741d
@@ -28,23 +29,37 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe, us (as of 2026-08-06)[^s-d41b3c02]
-- **About:** Gi21 Capital is a Prague, Czech Republic-based venture capital firm founded in 2022. It invests from seed through late-stage across technology, hospitality, and real estate, concentrated in Europe and the US. (as of 2026-08-06)[^s-d41b3c02]
-- **Type:** venture capital; diversified investment firm[^s-0f91d708]
-- **Investment strategies:** direct venture investment, principal capital[^s-0f91d708]
-- **Stages:** pre-seed, seed[^s-e7db71a2]
-- **Sectors:** Deep Tech, AI, B2B software, Fintech, Robotics[^s-0f91d708]
+- **Type:** venture capital[^s-0c659002]
+- **HQ:** Nicosia, Cyprus[^s-0c659002]
+- **Founded:** 2022[^s-0c659002]
+- **Stages:** Seed, Pre-Seed, Series A[^s-0c659002]
+- **Sectors:** technology, hospitality, real estate[^s-0c659002]
+- **Geographies:** EU, US[^s-0c659002]
+- **Check size min:** $499K[^s-0c659002]
+- **Check size max:** $32M[^s-0c659002]
+- **Thesis quote:** We deploy principal capital to accelerate global AI-first startups and leverage institutional fund structures to build the continent's most ambitious digital assets.[^s-ec38741d]
+- **About:** Gi21 Capital is a multi-stage investment group bridging the gap between entrepreneurial agility and institutional-grade scale.[^s-ec38741d]
 
 ## Portfolio
 
-Not recorded.
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| FaceUp[^s-0c659002] | Not recorded | Series A | May 19, 2026 |
+| Zerops[^s-0c659002] | Not recorded | Seed | May 14, 2026 |
+| Ranketta[^s-0c659002] | Not recorded | Pre-Seed | Nov 27, 2025 |
+| FleetFox[^s-0c659002] | Not recorded | Seed | Oct 27, 2025 |
+| TRIFFT Loyalty Platform[^s-0c659002] | Not recorded | Pre-Seed | Jul 17, 2025 |
+| ArtMaster[^s-0c659002] | Not recorded | Not recorded | Mar 13, 2025 |
+| Keboola[^s-0c659002] | Not recorded | Series A | Dec 01, 2023 |
+| taikun.cloud[^s-0c659002] | Not recorded | Seed | Jun 23, 2022 |
 
 ## People
 
-Not recorded.
+- [Damir Spoljaric](../people/gi21capital.com--damir-spoljaric-efc6ec.md) - Managing Partner, CEO and Co-Founder
+- [Ilya Meshkov](../people/gi21capital.com--ilya-meshkov-605d0d.md) - Investment analyst
+- [Jan Martinů](../people/gi21capital.com--jan-martin-afb26b.md) - CTO and Co-Founder
 
+[^s-0c659002]: <https://shizune.co/investors/profile/gi21-capital>
 [^s-d41b3c02]: <https://www.gi21capital.com>
 [^s-ec38741d]: <https://www.gi21capital.com/>
 [^s-0f91d708]: <https://www.gi21capital.com/about/gi21>

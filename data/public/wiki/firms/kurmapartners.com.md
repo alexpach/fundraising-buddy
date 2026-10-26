@@ -1,20 +1,20 @@
 ---
 type: Investor Firm
 title: Kurma Partners
-description: venture capital; seed, venture, Series A, Series B, growth, late-stage,
-  crossover, public rounds; Biotechnology, Therapeutics, Diagnostics, HealthTech,
-  MedTech.
+description: venture capital; inception, growth; healthcare, biotechnology, digital
+  health, diagnostics.
 resource: https://www.kurmapartners.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: kurmapartners.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 68
-status: draft
 sources:
+- id: s-2aa482f0
+  resource: https://finanzwire.fr/press-release/eurazeo-epa-rf-kurma-partners-an-eurazeo-group-company-closes-215-million-biofund-iv-Dv88DXR6z2O
 - id: s-be1eb810
   resource: https://www.kurmapartners.com
 - id: s-241aaab9
@@ -33,17 +33,16 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe (as of 2026-08-07)[^s-be1eb810]
-- **About:** Kurma Partners is a Paris-founded (2009), also Munich-officed, venture capital firm and "major player in the funding of healthcare and biotechnology in Europe." Distinctively company-building: works directly with European academic research centers to found new biotech/medtech companies, then also invests in later rounds through capital expansion. Financed 40+ companies, founded 10+ since 2009; clo (as of 2026-08-07)[^s-be1eb810]
-- **Type:** venture capital (as of 2024-10-03)[^s-7a227142]
-- **Investment strategies:** company creation, growth capital, therapeutic investment (as of 2024-10-03)[^s-7a227142]
-- **Legal structure:** asset manager (as of 2024-10-03)[^s-7a227142]
-- **Stages:** seed, venture, Series A, Series B, growth, late-stage, crossover, public rounds[^s-45653a85]
-- **Sectors:** Biotechnology, Therapeutics, Diagnostics, HealthTech, MedTech[^s-45653a85]
+- **Type:** venture capital (as of 2026-04-23)[^s-2aa482f0]
+- **Founded:** 2009[^s-2aa482f0]
+- **Stages:** inception, growth[^s-2aa482f0]
+- **Sectors:** healthcare, biotechnology, digital health, diagnostics[^s-2aa482f0]
+- **Geographies:** Europe[^s-241aaab9]
+- **AUM:** €1 billion (as of 2026-04-23)[^s-2aa482f0]
+- **Latest fund:** Biofund IV: €215 million (as of 2026-04-23)[^s-2aa482f0]
+- **Thesis quote:** Our ambition is to work with leading European research centers to build the healthcare industry of tomorrow.[^s-241aaab9]
+- **About:** Paris-founded healthcare venture firm, active from 2009, that invests from inception through growth and is part of the Eurazeo group.[^s-2aa482f0]
 - **Leads rounds:** yes (as of 2025-10-16)[^s-b5818447]
-- **AUM:** EUR 890 million (date not reported)[^s-241aaab9]
 
 ## Portfolio
 
@@ -55,11 +54,28 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Cardiologs[^s-be1eb810] | Not recorded | Not recorded | Not recorded |
 | Pharvaris[^s-be1eb810] | Not recorded | Not recorded | Not recorded |
 | DNA Script[^s-be1eb810] | Not recorded | Not recorded | Not recorded |
+| SciRhom[^s-2aa482f0] | autoimmune diseases | Not recorded | Not recorded |
+| Memo Therapeutics[^s-2aa482f0] | natural immunity | Not recorded | Not recorded |
+| Avidicure[^s-2aa482f0] | cancer immunotherapy | Not recorded | Not recorded |
+| Elkedonia[^s-2aa482f0] | resistant depression | Not recorded | Not recorded |
+| Nuevocor[^s-2aa482f0] | genetic heart diseases | Not recorded | Not recorded |
+| Evla Bio[^s-2aa482f0] | cardiorenal diseases | Not recorded | Not recorded |
+| Adcytherix[^s-2aa482f0] | antibodies targeting solid tumors | Not recorded | Not recorded |
+| Evidence Bio[^s-2aa482f0] | respiratory diseases | Not recorded | Not recorded |
+| Laigo Bio[^s-2aa482f0] | oncology and autoimmune diseases | Not recorded | Not recorded |
+| Alveus[^s-2aa482f0] | respiratory diseases | Not recorded | Not recorded |
+| Givax[^s-2aa482f0] | next-generation cancer vaccines | Not recorded | Not recorded |
+| Amolyt Pharma[^s-2aa482f0] | rare endocrine diseases | Not recorded | Not recorded |
+| Emergence Therapeutics[^s-2aa482f0] | cancer-targeting Antibody-Drug Conjugates | Not recorded | Not recorded |
+| Corlieve Therapeutics[^s-2aa482f0] | rare epilepsies | Not recorded | Not recorded |
+| ImCheck[^s-2aa482f0] | next-generation immunotherapy antibodies for cancer | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Thierry Laugel](../people/kurmapartners.com--thierry-laugel-16325c.md) - Managing Partner
+- [Rémi Droller](../people/kurmapartners.com--r-mi-droller-651b7b.md) - Managing Partner
 
+[^s-2aa482f0]: <https://finanzwire.fr/press-release/eurazeo-epa-rf-kurma-partners-an-eurazeo-group-company-closes-215-million-biofund-iv-Dv88DXR6z2O>
 [^s-be1eb810]: <https://www.kurmapartners.com>
 [^s-241aaab9]: <https://www.kurmapartners.com/en>
 [^s-b5818447]: <https://www.kurmapartners.com/en/news/adcytherix-leve-105-millions-deuros-pour-accelerer-le-developpement-de-son-portefeuille-danticorps-conjugues-de-nouvelle-generation-integrant-de-nouveaux-agents-cytotoxiques>

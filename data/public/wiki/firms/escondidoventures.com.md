@@ -1,18 +1,19 @@
 ---
 type: Investor Firm
 title: Escondido Ventures
-description: early-stage; AI, Energy, Defense, Agriculture, Healthcare, IoT.
+description: AI, Energy, Defense, Agriculture, Healthcare.
 resource: https://www.escondidoventures.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: escondidoventures.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 36
-status: draft
 sources:
+- id: s-1bc771a6
+  resource: https://escondidoventures.com/
 - id: s-5f28db93
   resource: https://www.badrinvestments.com/portfolio
 - id: s-14ef15a7
@@ -21,19 +22,17 @@ sources:
   resource: https://www.escondidoventures.com
 - id: s-4f840350
   resource: https://www.escondidoventures.com/
+- id: s-7145f9e7
+  resource: https://www.escondidoventures.com/portfolio
 ---
 
 # Escondido Ventures
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us, global (as of 2026-04-19)[^s-14ef15a7]
-- **About:** Escondido Ventures is an early-stage venture capital firm that invests in technology, healthcare and agriculture startups globally. Co-founded by Khaled Badr-El-Din, the firm draws on a network of innovators and industry experts to help portfolio companies scale (as of 2026-04-19)[^s-14ef15a7]
-- **Investment strategies:** early-stage technology investing[^s-5f28db93]
-- **Stages:** early-stage[^s-5f28db93]
-- **Sectors:** AI, Energy, Defense, Agriculture, Healthcare, IoT[^s-4f840350]
+- **Sectors:** AI, Energy, Defense, Agriculture, Healthcare[^s-1bc771a6]
+- **Thesis quote:** Reshaping traditional industries by backing transformative technologies[^s-1bc771a6]
+- **About:** Escondido Ventures invests in emerging technologies at the convergence of AI, Energy, Defense, Agriculture, and Healthcare.[^s-1bc771a6]
 
 ## Portfolio
 
@@ -41,12 +40,20 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | --- | --- | --- | --- |
 | Notable investments[^s-14ef15a7] | Not recorded | Not recorded | Not recorded |
 | ~17[^s-14ef15a7] | Not recorded | Not recorded | Not recorded |
+| Agvend[^s-7145f9e7] | Not recorded | Not recorded | Not recorded |
+| Hyro[^s-7145f9e7] | Not recorded | Not recorded | Not recorded |
+| SpaceX[^s-7145f9e7] | Not recorded | Not recorded | Not recorded |
+| Imubit[^s-7145f9e7] | Not recorded | Not recorded | Not recorded |
+| Innerplant[^s-7145f9e7] | Not recorded | Not recorded | Not recorded |
+| Cera[^s-7145f9e7] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
 Not recorded.
 
+[^s-1bc771a6]: <https://escondidoventures.com/>
 [^s-5f28db93]: <https://www.badrinvestments.com/portfolio>
 [^s-14ef15a7]: <https://www.crunchbase.com/organization/escondido-ventures>
 [^s-97246886]: <https://www.escondidoventures.com>
 [^s-4f840350]: <https://www.escondidoventures.com/>
+[^s-7145f9e7]: <https://www.escondidoventures.com/portfolio>

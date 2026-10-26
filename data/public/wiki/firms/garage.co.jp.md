@@ -1,19 +1,20 @@
 ---
 type: Investor Firm
 title: Digital Garage, Inc.
-description: corporate venture capital; seed; fintech, digital transformation, generative
-  AI, ESG-related social and environmental challenges.
+description: venture capital; Seed, Series A; Financial Services, Fintech, Healthcare
+  Services, Robotics, SaaS, AI, CleanTech.
 resource: https://www.garage.co.jp
 tags:
 - investor-firm
-- directory
+- sourced
 domain: garage.co.jp
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 39
-status: draft
 sources:
+- id: s-5edd431f
+  resource: https://privateequitylist.com/investors/digital-garage
 - id: s-c5436dd9
   resource: https://www.crunchbase.com/organization/digital-garage
 - id: s-b157a785
@@ -28,14 +29,18 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** apac, us, global (as of 2026-04-24)[^s-c5436dd9]
-- **About:** Digital Garage is a publicly-traded Japanese tech conglomerate founded in 1995 in Tokyo by Kaoru Hayashi and Joi Ito. Runs three business segments: Platform Solutions (including Veritrans payments), Long-term Incubation (Japanese startup investing), and Global Investment Incubation (cross-border investing via DG Ventures and DG Daiwa Ventures) (as of 2026-04-24)[^s-c5436dd9]
-- **Type:** corporate venture capital[^s-3c5b586b]
-- **Investment strategies:** startup investing, corporate strategic investment[^s-3c5b586b]
-- **Stages:** seed[^s-3c5b586b]
-- **Sectors:** fintech, digital transformation, generative AI, ESG-related social and environmental challenges[^s-3c5b586b]
+- **Type:** venture capital (as of 2026-08-21)[^s-5edd431f]
+- **HQ:** Tokyo, Japan (as of 2026-08-21)[^s-5edd431f]
+- **Founded:** 1995 (as of 2026-08-21)[^s-5edd431f]
+- **Stages:** Seed, Series A (as of 2026-08-21)[^s-5edd431f]
+- **Sectors:** Financial Services, Fintech, Healthcare Services, Robotics, SaaS, AI, CleanTech (as of 2026-08-21)[^s-5edd431f]
+- **Geographies:** North America, Europe, Asia (as of 2026-08-21)[^s-5edd431f]
+- **Check size min:** $0 (as of 2026-08-21)[^s-5edd431f]
+- **Check size max:** $1M (as of 2026-08-21)[^s-5edd431f]
+- **AUM:** $70M (as of 2026-08-21)[^s-5edd431f]
+- **Latest fund:** DG Ventures, launched 2009-06-25, size $5-10 m (as of 2009-06-25)[^s-5edd431f]
+- **Thesis quote:** Designing “New Context” for a sustainable society with technology (as of 2026-08-21)[^s-5edd431f]
+- **About:** Venture capital firm headquartered in Tokyo, backing Seed and Series A companies. (as of 2026-08-21)[^s-5edd431f]
 
 ## Portfolio
 
@@ -45,6 +50,7 @@ Not recorded.
 
 Not recorded.
 
+[^s-5edd431f]: <https://privateequitylist.com/investors/digital-garage>
 [^s-c5436dd9]: <https://www.crunchbase.com/organization/digital-garage>
 [^s-b157a785]: <https://www.garage.co.jp>
 [^s-3c5b586b]: <https://www.garage.co.jp/en/business/global-investment-incubation/>

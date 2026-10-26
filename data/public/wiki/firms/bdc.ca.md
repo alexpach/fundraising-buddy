@@ -1,22 +1,24 @@
 ---
 type: Investor Firm
 title: BDC Capital
-description: venture capital investor; growth equity investor; seed, growth.
+description: venture capital; Early-stage; Energy and electrification, Industrial
+  systems, Artificial intelligence and machine learning, Cloud computing.
 resource: https://www.bdc.ca/en/bdc-capital
 tags:
 - investor-firm
-- directory
+- sourced
 domain: bdc.ca
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 47
-status: draft
 sources:
 - id: s-a4931e4f
   resource: https://www.bdc.ca/en/bdc-capital
 - id: s-f7e52f93
   resource: https://www.bdc.ca/en/bdc-capital/growth-equity
+- id: s-4e6e6cb0
+  resource: https://www.bdc.ca/en/bdc-capital/venture-capital/funds/industrial-clean-energy-technology-fund
 - id: s-3a5115a3
   resource: https://www.bdc.ca/en/bdc-capital/venture-capital/funds/seed-fund
 - id: s-f9be1209
@@ -27,15 +29,13 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** canada (as of 2026-08-07)[^s-f9be1209]
-- **About:** BDC Capital is the investment arm of the Business Development Bank of Canada, a federal Crown corporation (state-owned development bank). It manages $6B+ in assets, including specialized vehicles like a $500M Thrive Venture Fund and a $400M Climate Tech Fund, investing directly and as an LP into Canadian venture and growth-stage companies (as of 2026-08-07)[^s-f9be1209]
-- **Type:** venture capital investor; growth equity investor[^s-a4931e4f]
-- **Investment strategies:** seed venture capital, growth equity[^s-a4931e4f]
-- **Legal structure:** investment arm of BDC[^s-a4931e4f]
-- **Investment instruments:** equity[^s-a4931e4f]
-- **Stages:** seed, growth[^s-3a5115a3]
+- **Type:** venture capital[^s-4e6e6cb0]
+- **Stages:** Early-stage[^s-4e6e6cb0]
+- **Sectors:** Energy and electrification, Industrial systems, Artificial intelligence and machine learning, Cloud computing[^s-4e6e6cb0]
+- **Geographies:** Canada[^s-4e6e6cb0]
+- **Latest fund:** Industrial, Clean and Energy Technology (ICE) Venture Fund[^s-4e6e6cb0]
+- **Thesis quote:** We help entrepreneurs with bold ideas build global companies.[^s-4e6e6cb0]
+- **About:** The Industrial, Clean and Energy Technology (ICE) Venture Fund is a BDC Capital fund that is now closed to new investments and focused on existing portfolio companies.[^s-4e6e6cb0]
 - **Leads rounds:** yes[^s-f7e52f93]
 
 ## Portfolio
@@ -54,5 +54,6 @@ Not recorded.
 
 [^s-a4931e4f]: <https://www.bdc.ca/en/bdc-capital>
 [^s-f7e52f93]: <https://www.bdc.ca/en/bdc-capital/growth-equity>
+[^s-4e6e6cb0]: <https://www.bdc.ca/en/bdc-capital/venture-capital/funds/industrial-clean-energy-technology-fund>
 [^s-3a5115a3]: <https://www.bdc.ca/en/bdc-capital/venture-capital/funds/seed-fund>
 [^s-f9be1209]: <https://www.crunchbase.com/organization/bdc-venture-capital>

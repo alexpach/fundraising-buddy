@@ -1,19 +1,23 @@
 ---
 type: Investor Firm
 title: Threshold Ventures
-description: vc; series-a, series-b; healthcare, enterprise-software, software.
+description: Enterprise Software, Fintech, Healthcare, Developer Tools, Climate, AI.
 resource: https://threshold.vc
 tags:
 - investor-firm
-- directory
+- sourced
 domain: threshold.vc
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 50
-status: draft
 sources:
+- id: s-75a4ab8a
+  resource: https://thevcpowerboard.com/firms/threshold-ventures/
 - id: s-49637e0f
   resource: https://threshold.vc
+- id: s-ef2c5a2b
+  resource: https://threshold.vc/
 - id: s-c49733d6
   resource: https://www.crunchbase.com/organization/threshold
 ---
@@ -22,14 +26,14 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** vc (as of 2026-05-01)[^s-c49733d6]
-- **Stages:** series-a, series-b (as of 2026-05-01)[^s-c49733d6]
-- **Geographies:** us (as of 2026-05-01)[^s-c49733d6]
-- **Sectors:** healthcare, enterprise-software, software (as of 2026-05-01)[^s-c49733d6]
+- **HQ:** Portola Valley, CA[^s-75a4ab8a]
+- **Founded:** 2019[^s-75a4ab8a]
+- **Sectors:** Enterprise Software, Fintech, Healthcare, Developer Tools, Climate, AI[^s-75a4ab8a]
+- **AUM:** $450M[^s-75a4ab8a]
+- **Latest fund:** $450M combined (Fund IV and Select Fund) (as of 2022-05)[^s-75a4ab8a]
+- **Thesis quote:** A deliberate, deeply committed partner to founder-led companies at the threshold of breakout growth.[^s-ef2c5a2b]
+- **About:** Threshold Ventures is a venture investor based in Portola Valley, CA that backs founders at inflection points in enterprise software, fintech, healthcare and other sectors.[^s-75a4ab8a]
 - **Leads rounds:** unknown[^s-49637e0f]
-- **About:** Threshold Ventures is a Palo Alto-based early-stage venture capital firm that rebranded from DFJ Venture in 2019. Its official materials say it primarily invests in Series A and B companies, especially software and software-enabled businesses serving healthcare and enterprise customers (as of 2026-05-01)[^s-c49733d6]
 
 ## Portfolio
 
@@ -49,5 +53,7 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 Not recorded.
 
+[^s-75a4ab8a]: <https://thevcpowerboard.com/firms/threshold-ventures/>
 [^s-49637e0f]: <https://threshold.vc>
+[^s-ef2c5a2b]: <https://threshold.vc/>
 [^s-c49733d6]: <https://www.crunchbase.com/organization/threshold>

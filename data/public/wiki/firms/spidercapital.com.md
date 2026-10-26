@@ -1,19 +1,20 @@
 ---
 type: Investor Firm
 title: Spider Capital
-description: venture capital firm; seed; Construction, Financial Services, Energy,
-  Government, Healthcare, Insurance, Mining, Manufacturing, Supply Chain, Transportation.
+description: venture capital; Seed, Series A; Enterprise cloud, SaaS software, Applied
+  AI.
 resource: https://www.spidercapital.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: spidercapital.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 50
-status: draft
 sources:
+- id: s-e4fc91b5
+  resource: https://dww.show/investor/spider-capital/
 - id: s-6826a2c7
   resource: https://www.crunchbase.com/organization/spider-capital-partners
 - id: s-94e2f951
@@ -30,14 +31,15 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-04-19)[^s-6826a2c7]
-- **About:** Spider Capital is a San Francisco–based seed-stage VC focused on enterprise cloud and AI software, founded in 2015 by Michael Neril. The firm typically leads or co-leads seed rounds in the US, Canada and Israel (as of 2026-04-19)[^s-6826a2c7]
-- **Type:** venture capital firm[^s-ceac3e0f]
-- **Investment strategies:** seed-stage investing, applied AI software[^s-ceac3e0f]
-- **Stages:** seed[^s-ceac3e0f]
-- **Sectors:** Construction, Financial Services, Energy, Government, Healthcare, Insurance, Mining, Manufacturing, Supply Chain, Transportation[^s-38f1d29e]
+- **Type:** venture capital[^s-e4fc91b5]
+- **HQ:** San Francisco, California[^s-e4fc91b5]
+- **Founded:** 2015[^s-e4fc91b5]
+- **Stages:** Seed, Series A[^s-e4fc91b5]
+- **Sectors:** Enterprise cloud, SaaS software, Applied AI[^s-e4fc91b5]
+- **Geographies:** United States, Canada, Israel[^s-e4fc91b5]
+- **AUM:** $200M[^s-e4fc91b5]
+- **Thesis quote:** We back founders using applied AI to modernize the world’s most complex industries.[^s-38f1d29e]
+- **About:** Spider Capital is a San Francisco seed-stage venture capital firm that backs enterprise cloud and SaaS software.[^s-e4fc91b5]
 - **Leads rounds:** yes[^s-651ba2bd]
 
 ## Portfolio
@@ -51,11 +53,13 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Alyce[^s-6826a2c7] | Not recorded | Not recorded | Not recorded |
 | ConductorOne[^s-6826a2c7] | Not recorded | Not recorded | Not recorded |
 | Bloomfilter[^s-6826a2c7] | Not recorded | Not recorded | Not recorded |
+| Klir[^s-e4fc91b5] | Software platform for water utilities | Seed | Not recorded |
 
 ## People
 
-Not recorded.
+- [Michael Neril](../people/spidercapital.com--michael-neril-4de068.md) - Founder & Managing Partner
 
+[^s-e4fc91b5]: <https://dww.show/investor/spider-capital/>
 [^s-6826a2c7]: <https://www.crunchbase.com/organization/spider-capital-partners>
 [^s-94e2f951]: <https://www.spidercapital.com>
 [^s-38f1d29e]: <https://www.spidercapital.com/>

@@ -1,19 +1,19 @@
 ---
 type: Investor Firm
 title: HealthCare Royalty (HCRx)
-description: royalty acquisition company; structured finance firm; late stage, commercial
-  stage, near-commercial stage; biopharmaceuticals, life sciences.
+description: biopharma royalty acquisition company; biopharma.
 resource: https://www.hcrx.com/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: hcrx.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 56
-status: draft
 sources:
+- id: s-b3785ef6
+  resource: https://www.ainvest.com/news/kkr-expands-healthcare-presence-acquisition-healthcare-royalty-partners-2508/
 - id: s-2e5bdff4
   resource: https://www.hcrx.com/
 - id: s-573eef63
@@ -28,16 +28,13 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us, europe, global (as of 2026-08-06)[^s-2e5bdff4]
-- **About:** HealthCare Royalty (HCRx) is a royalty/revenue-interest financing firm founded in 2006, majority-owned by KKR since a July 2025 acquisition, managing ~$3B in assets across 30+ therapeutic areas and 55+ products. It provides non-dilutive royalty monetization, revenue-participation, and customized debt financing to commercial and near-commercial-stage biopharmaceutical companies , this is specialty  (as of 2026-08-06)[^s-2e5bdff4]
-- **Type:** royalty acquisition company; structured finance firm[^s-d38291e5]
-- **Investment strategies:** royalty monetization, structured credit, royalty-based financing[^s-d38291e5]
-- **Investment instruments:** debt, royalty-linked financing[^s-d38291e5]
-- **Stages:** late stage, commercial stage, near-commercial stage[^s-d38291e5]
-- **Sectors:** biopharmaceuticals, life sciences (as of 2026-06-30)[^s-573eef63]
-- **AUM:** Approximately USD 3 billion (as of 2026-06-30) (as of 2026-06-30)[^s-573eef63]
+- **Type:** biopharma royalty acquisition company[^s-b3785ef6]
+- **Founded:** 2006[^s-b3785ef6]
+- **Sectors:** biopharma[^s-b3785ef6]
+- **Geographies:** New York, San Francisco, Boston, London[^s-2e5bdff4]
+- **AUM:** approximately $3 billion in assets under management[^s-b3785ef6]
+- **Thesis quote:** The deal is a bet that financing needs from drug companies will continue to rise, prompting them to strike royalty deals.[^s-b3785ef6]
+- **About:** HCRx is a biopharma royalty acquisition company founded in 2006 that is now majority owned by KKR.[^s-b3785ef6]
 
 ## Portfolio
 
@@ -51,8 +48,9 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## People
 
-Not recorded.
+- [Clarke Futch](../people/hcrx.com--clarke-futch-93b63f.md) - Chairman and CEO
 
+[^s-b3785ef6]: <https://www.ainvest.com/news/kkr-expands-healthcare-presence-acquisition-healthcare-royalty-partners-2508/>
 [^s-2e5bdff4]: <https://www.hcrx.com/>
 [^s-573eef63]: <https://www.hcrx.com/about-us/>
 [^s-d38291e5]: <https://www.hcrx.com/approach/corporate-financing/>

@@ -1,19 +1,21 @@
 ---
 type: Investor Firm
 title: Scrum Ventures
-description: venture capital; early-stage, seed; AI, robotics, climate tech, mobility,
-  healthcare, deeptech, sports & entertainment.
+description: venture capital; Early, Angel, Seed Round, Series B, Series C, Pre-IPO,
+  Series A, Pre-seed; commerce, transportation, healthcare, SaaS, fintech, internet
+  of things.
 resource: https://scrum.vc
 tags:
 - investor-firm
-- directory
+- sourced
 domain: scrum.vc
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 46
-status: draft
 sources:
+- id: s-7ab4e835
+  resource: https://angelspartners.com/firm/scrum-ventures
 - id: s-68c7b9a8
   resource: https://scrum.vc
 - id: s-6c51d9bd
@@ -28,14 +30,17 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** global, us (as of 2026-06-08)[^s-978d243b]
-- **About:** Scrum Ventures is a San Francisco, California-based venture capital firm. Its public materials emphasize growth investing, and focus areas include ai, climate, healthcare, biotech. (as of 2026-06-08)[^s-978d243b]
-- **Type:** venture capital[^s-845be94f]
-- **Investment strategies:** early-stage venture investing[^s-845be94f]
-- **Stages:** early-stage, seed[^s-845be94f]
-- **Sectors:** AI, robotics, climate tech, mobility, healthcare, deeptech, sports & entertainment[^s-845be94f]
+- **Type:** venture capital[^s-6c51d9bd]
+- **HQ:** San Francisco and Tokyo[^s-6c51d9bd]
+- **Founded:** 2013[^s-7ab4e835]
+- **Stages:** Early, Angel, Seed Round, Series B, Series C, Pre-IPO, Series A, Pre-seed[^s-7ab4e835]
+- **Sectors:** commerce, transportation, healthcare, SaaS, fintech, internet of things[^s-7ab4e835]
+- **Geographies:** United States, Japan, Israel[^s-7ab4e835]
+- **Check size min:** $200K[^s-7ab4e835]
+- **Check size max:** $2M[^s-7ab4e835]
+- **AUM:** $19M[^s-7ab4e835]
+- **Thesis quote:** Investing in emerging technologies to advance AI into the physical world[^s-6c51d9bd]
+- **About:** Scrum Ventures is a venture capital firm based in San Francisco and Tokyo that invests in emerging technologies.[^s-6c51d9bd]
 
 ## Portfolio
 
@@ -48,11 +53,21 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | FiscalNote[^s-978d243b] | Not recorded | Not recorded | Not recorded |
 | Vendo[^s-978d243b] | Not recorded | Not recorded | Not recorded |
 | Dispatch[^s-978d243b] | Not recorded | Not recorded | Not recorded |
+| Second Measure[^s-7ab4e835] | Not recorded | Seed Round | Not recorded |
+| Realtime Robotics[^s-7ab4e835] | Not recorded | Later stage VC | Not recorded |
+| SmartScan[^s-7ab4e835] | Not recorded | Later stage VC | Not recorded |
+| TeraWatt Technology[^s-7ab4e835] | Not recorded | Not recorded | Not recorded |
+| MIL (Multimedia and Design Software)[^s-7ab4e835] | Not recorded | Early Stage VC | Not recorded |
+| Saurus Japan[^s-7ab4e835] | Not recorded | Seed Round | Not recorded |
+| SwipeVideo[^s-7ab4e835] | Not recorded | Seed Round | Not recorded |
+| MiL[^s-7ab4e835] | Not recorded | Early Stage VC | Not recorded |
+| Apptronik[^s-845be94f] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
 Not recorded.
 
+[^s-7ab4e835]: <https://angelspartners.com/firm/scrum-ventures>
 [^s-68c7b9a8]: <https://scrum.vc>
 [^s-6c51d9bd]: <https://scrum.vc/>
 [^s-845be94f]: <https://scrum.vc/investment/>

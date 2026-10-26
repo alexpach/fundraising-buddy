@@ -1,19 +1,17 @@
 ---
 type: Investor Firm
 title: BroadOak Capital Partners
-description: direct investment firm; investment banking advisory firm; early stage,
-  growth stage, commercial stage; life sciences tools, life sciences services, biopharma
-  services, pharma tech, diagnostics, cell and gene therapy.
+description: boutique financial institution; growth-stage, commercial-stage; life
+  sciences tools, diagnostics, biopharma services.
 resource: https://broadoak.com/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: broadoak.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 66
-status: draft
 sources:
 - id: s-8d759dfa
   resource: https://broadoak.com/
@@ -25,6 +23,8 @@ sources:
   resource: https://broadoak.com/broadoak-leads-investment-in-genomenon/
 - id: s-9f7f1942
   resource: https://broadoak.com/investing/
+- id: s-8515017d
+  resource: https://inforcapital.com/investors/private-equity-firms-in-bethesda/
 - id: s-4241f758
   resource: https://www.crunchbase.com/organization/broadoak-capital-partners
 ---
@@ -33,15 +33,14 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-08-06)[^s-4241f758]
-- **About:** BroadOak Capital Partners is a boutique life-sciences investment firm founded in 2006, headquartered in Bethesda, MD (also DC and San Francisco). It operates two lines: BroadOak Asset Management (growth capital) and BroadOak Partners (M&A/capital-raising advisory), focused on life-sciences tools, services, diagnostics, and biopharma services , cell and gene therapy, single-cell genomics, and life- (as of 2026-08-06)[^s-4241f758]
-- **Type:** direct investment firm; investment banking advisory firm[^s-8d759dfa]
-- **Investment strategies:** growth capital, private credit[^s-8d759dfa]
-- **Investment instruments:** debt[^s-8d759dfa]
-- **Stages:** early stage, growth stage, commercial stage (as of 2022-10)[^s-a5fca41e]
-- **Sectors:** life sciences tools, life sciences services, biopharma services, pharma tech, diagnostics, cell and gene therapy[^s-9f7f1942]
+- **Type:** boutique financial institution[^s-8d759dfa]
+- **Founded:** 2006[^s-8d759dfa]
+- **Stages:** growth-stage, commercial-stage[^s-9f7f1942]
+- **Sectors:** life sciences tools, diagnostics, biopharma services[^s-8d759dfa]
+- **AUM:** $300M[^s-8515017d]
+- **Latest fund:** Fund VI (initial closing)[^s-8515017d]
+- **Thesis quote:** BroadOak Asset Management was founded to address the capital needs of underserved, growth-stage life sciences companies, particularly in the areas of tools, services, and pharma tech.[^s-9f7f1942]
+- **About:** BroadOak Capital Partners is a life sciences focused boutique financial institution offering direct investment and investment banking services.[^s-8d759dfa]
 - **Leads rounds:** yes (as of 2021-03-21)[^s-5a1b03bb]
 
 ## Portfolio
@@ -54,14 +53,33 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Azure Biosystems[^s-4241f758] | Not recorded | Not recorded | Not recorded |
 | VIDA Diagnostics[^s-4241f758] | Not recorded | Not recorded | Not recorded |
 | Prognos Health[^s-4241f758] | Not recorded | Not recorded | Not recorded |
+| Axol Bioscience[^s-9f7f1942] | Not recorded | Not recorded | Not recorded |
+| EpiCypher[^s-9f7f1942] | Not recorded | Not recorded | Not recorded |
+| Harvard Bioscience[^s-9f7f1942] | Not recorded | Not recorded | Not recorded |
+| IC Biomedical[^s-9f7f1942] | Not recorded | Not recorded | Not recorded |
+| VIDA[^s-9f7f1942] | Not recorded | Not recorded | Not recorded |
+| Hudson Lab Automation[^s-9f7f1942] | Not recorded | Not recorded | Not recorded |
+| Pluristyx[^s-9f7f1942] | Not recorded | Not recorded | Not recorded |
+| PAK BioSolutions[^s-9f7f1942] | Not recorded | Not recorded | Not recorded |
+| Horizon Infusions[^s-9f7f1942] | Not recorded | Not recorded | Not recorded |
+| BioCare Medical[^s-9f7f1942] | Not recorded | Not recorded | Not recorded |
+| Microsize[^s-9f7f1942] | Not recorded | Not recorded | Not recorded |
+| Indee Labs[^s-8515017d] | Not recorded | Not recorded | Not recorded |
+| PhenoVista[^s-8515017d] | Not recorded | Not recorded | Not recorded |
+| Quartzy[^s-8515017d] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Bill Snider](../people/broadoak.com--bill-snider-d36a61.md) - Partner
+- [D. Kyle Wilson](../people/broadoak.com--d-kyle-wilson-d52a51.md) - Partner
+- [Tim Johnson](../people/broadoak.com--tim-johnson-307ba2.md) - Partner
+- [Lars Hanan](../people/broadoak.com--lars-hanan-0267a0.md) - Partner
+- [Matt McFarland](../people/broadoak.com--matt-mcfarland-b5212f.md) - Partner
 
 [^s-8d759dfa]: <https://broadoak.com/>
 [^s-4f9e577a]: <https://broadoak.com/broadoak-capital-partners-adds-more-than-200-million-of-permanent-capital-to-supplement-investment-platform/>
 [^s-a5fca41e]: <https://broadoak.com/broadoak-launches-biotools-venture-fund-in-collaboration-with-decibio/>
 [^s-5a1b03bb]: <https://broadoak.com/broadoak-leads-investment-in-genomenon/>
 [^s-9f7f1942]: <https://broadoak.com/investing/>
+[^s-8515017d]: <https://inforcapital.com/investors/private-equity-firms-in-bethesda/>
 [^s-4241f758]: <https://www.crunchbase.com/organization/broadoak-capital-partners>

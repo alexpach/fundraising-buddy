@@ -1,18 +1,20 @@
 ---
 type: Investor Firm
 title: Atento Capital
-description: venture capital.
+description: venture capital; Pre-seed, Series A; Enterprise software, Healthcare,
+  Climate technologies.
 resource: https://www.atentocapital.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: atentocapital.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 50
-status: draft
 sources:
+- id: s-51f5bd82
+  resource: https://startupintros.com/orgs/atento-capital
 - id: s-5182bc32
   resource: https://www.atentocapital.com
 - id: s-bec8880b
@@ -27,11 +29,18 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us, latin-america (as of 2026-04-19)[^s-1a27479a]
-- **About:** Atento Capital is a Tulsa, Oklahoma-based early-stage venture capital firm founded in 2020 and backed by the George Kaiser Family Foundation, focused on unlocking capital for underinvested tech founders across the US heartland and Latin America. The firm has committed $128M across 66 portfolio companies and 35 funds, with 48% of capital deployed to underinvested founders and GPs (as of 2026-04-19)[^s-1a27479a]
-- **Type:** venture capital (as of 2026)[^s-bec8880b]
+- **Type:** venture capital[^s-51f5bd82]
+- **HQ:** Tulsa, Oklahoma[^s-51f5bd82]
+- **Founded:** 2018[^s-51f5bd82]
+- **Stages:** Pre-seed, Series A[^s-51f5bd82]
+- **Sectors:** Enterprise software, Healthcare, Climate technologies[^s-51f5bd82]
+- **Geographies:** American Midwest, Latin America[^s-51f5bd82]
+- **Check size min:** $250K[^s-51f5bd82]
+- **Check size max:** $2M[^s-51f5bd82]
+- **AUM:** $100M+[^s-51f5bd82]
+- **Latest fund:** $100M Fund II (as of 2023-10)[^s-51f5bd82]
+- **Thesis quote:** Its core investment strategy targets enterprise software, healthcare, and climate technologies[^s-51f5bd82]
+- **About:** Atento Capital is an early-stage venture capital firm based in Tulsa, Oklahoma, that invests in high-potential technology startups and emerging venture funds.[^s-51f5bd82]
 
 ## Portfolio
 
@@ -42,11 +51,19 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Conveniently[^s-1a27479a] | Not recorded | Not recorded | Not recorded |
 | Zenus Biomedical[^s-1a27479a] | Not recorded | Not recorded | Not recorded |
 | Notable investments[^s-1a27479a] | Not recorded | Not recorded | Not recorded |
+| PatchRx[^s-51f5bd82] | Not recorded | Series A | 2023-08-30 |
+| SquadTrip[^s-51f5bd82] | Not recorded | Pre-Seed | 2023-07-21 |
+| Pear Suite[^s-51f5bd82] | Not recorded | Seed | 2023-05-01 |
+| WriteSea[^s-51f5bd82] | Not recorded | Pre-Seed | 2023-01-20 |
+| Array[^s-51f5bd82] | Not recorded | Not recorded | Not recorded |
+| Teleport[^s-51f5bd82] | Not recorded | Not recorded | Not recorded |
+| Brij[^s-51f5bd82] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Michael Basch](../people/atentocapital.com--michael-basch-a022bd.md) - founder and CEO
 
+[^s-51f5bd82]: <https://startupintros.com/orgs/atento-capital>
 [^s-5182bc32]: <https://www.atentocapital.com>
 [^s-bec8880b]: <https://www.atentocapital.com/>
 [^s-74a955e1]: <https://www.atentocapital.com/team>

@@ -1,19 +1,22 @@
 ---
 type: Investor Firm
 title: J2 Ventures
-description: venture capital; seed, series A; Advanced Computing, Biomedical Engineering,
-  Cybersecurity, Infrastructure.
+description: venture capital; early-stage; advanced computing, biomedical engineering,
+  cybersecurity, infrastructure.
 resource: https://www.j2vp.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: j2vp.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 53
-status: draft
 sources:
+- id: s-eca48f5e
+  resource: https://j2vp.com/
+- id: s-4fe92603
+  resource: https://j2vp.com/companies
 - id: s-54e29ec0
   resource: https://www.crunchbase.com/organization/j2-ventures
 - id: s-6fef9f7b
@@ -30,24 +33,60 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-04-27)[^s-54e29ec0]
-- **About:** J2 Ventures is a Boston, Massachusetts-based early-stage venture firm investing in dual-use technologies across advanced computing, biomedical engineering, cybersecurity, and infrastructure. The team includes PhD scientists, combat veterans, practicing physicians, and entrepreneurs, and emphasizes federal-market access (as of 2026-04-27)[^s-54e29ec0]
-- **Type:** venture capital (as of 2024-07-04)[^s-c3314968]
-- **Investment strategies:** early-stage venture (as of 2024-07-04)[^s-c3314968]
-- **Stages:** seed, series A[^s-ae45dcba]
-- **Sectors:** Advanced Computing, Biomedical Engineering, Cybersecurity, Infrastructure[^s-ae45dcba]
-- **AUM:** Lower bound (over): USD 200 million (date not reported)[^s-c3314968]
+- **Type:** venture capital[^s-eca48f5e]
+- **Stages:** early-stage[^s-eca48f5e]
+- **Sectors:** advanced computing, biomedical engineering, cybersecurity, infrastructure[^s-eca48f5e]
+- **Thesis quote:** We only invest when we know the product, the market, and how to help founders grow their business.[^s-eca48f5e]
+- **About:** J2 Ventures is a venture investor that backs early-stage companies in advanced computing, biomedical engineering, cybersecurity, and infrastructure.[^s-eca48f5e]
 
 ## Portfolio
 
-Not recorded.
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Aalyria[^s-4fe92603] | infrastructure | Not recorded | Not recorded |
+| Acalvio[^s-4fe92603] | cybersecurity | Not recorded | Not recorded |
+| Aether[^s-4fe92603] | biomedical engineering | Not recorded | Not recorded |
+| Apex Space[^s-4fe92603] | infrastructure | Not recorded | Not recorded |
+| Arkenstone Defense[^s-4fe92603] | Not recorded | Not recorded | Not recorded |
+| Cinder[^s-4fe92603] | cybersecurity | Not recorded | Not recorded |
+| Code Metal[^s-4fe92603] | advanced computing | Not recorded | Not recorded |
+| Druid[^s-4fe92603] | Not recorded | Not recorded | Not recorded |
+| Empress[^s-4fe92603] | biomedical engineering | Not recorded | Not recorded |
+| Femtosense[^s-4fe92603] | advanced computing | Not recorded | Not recorded |
+| Flashpass[^s-4fe92603] | advanced computing | Not recorded | Not recorded |
+| GameBeast[^s-4fe92603] | advanced computing | Not recorded | Not recorded |
+| Holly[^s-4fe92603] | advanced computing | Not recorded | Not recorded |
+| iCOUNTER[^s-4fe92603] | Not recorded | Not recorded | Not recorded |
+| InfiniG[^s-4fe92603] | Not recorded | Not recorded | Not recorded |
+| Kusari[^s-4fe92603] | Not recorded | Not recorded | Not recorded |
+| LightSource[^s-4fe92603] | Not recorded | Not recorded | Not recorded |
+| Lumia Health[^s-4fe92603] | biomedical engineering | Not recorded | Not recorded |
+| MesaQuantum[^s-4fe92603] | advanced computing | Not recorded | Not recorded |
+| Micron Biomedical[^s-4fe92603] | biomedical engineering | Not recorded | Not recorded |
+| Musubi[^s-4fe92603] | Not recorded | Not recorded | Not recorded |
+| Nametag[^s-4fe92603] | Not recorded | Not recorded | Not recorded |
+| Oura Ring[^s-4fe92603] | biomedical engineering | Not recorded | Not recorded |
+| Parallel Fluidics[^s-4fe92603] | biomedical engineering | Not recorded | Not recorded |
+| Paravision[^s-4fe92603] | advanced computing | Not recorded | Not recorded |
+| Phoenix Semiconductor[^s-4fe92603] | advanced computing | Not recorded | Not recorded |
+| Plato Systems[^s-4fe92603] | Not recorded | Not recorded | Not recorded |
+| Principal Mineral[^s-4fe92603] | Not recorded | Not recorded | Not recorded |
+| Ravn[^s-4fe92603] | Not recorded | Not recorded | Not recorded |
+| Redcoat[^s-4fe92603] | Not recorded | Not recorded | Not recorded |
+| Safi[^s-4fe92603] | biomedical engineering | Not recorded | Not recorded |
+| Sealonix[^s-4fe92603] | biomedical engineering | Not recorded | Not recorded |
+| SkyFi[^s-4fe92603] | Not recorded | Not recorded | Not recorded |
+| Somnair[^s-4fe92603] | biomedical engineering | Not recorded | Not recorded |
+| Tasso[^s-4fe92603] | biomedical engineering | Not recorded | Not recorded |
+| Unit 221B[^s-4fe92603] | Not recorded | Not recorded | Not recorded |
+| VectorWave[^s-4fe92603] | advanced computing | Not recorded | Not recorded |
 
 ## People
 
 Not recorded.
 
+[^s-eca48f5e]: <https://j2vp.com/>
+[^s-4fe92603]: <https://j2vp.com/companies>
 [^s-54e29ec0]: <https://www.crunchbase.com/organization/j2-ventures>
 [^s-6fef9f7b]: <https://www.j2vp.com>
 [^s-94adddfd]: <https://www.j2vp.com/>

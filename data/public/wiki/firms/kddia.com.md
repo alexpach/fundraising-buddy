@@ -1,37 +1,36 @@
 ---
 type: Investor Firm
 title: KDDI Open Innovation Fund
-description: cvc; series-a, series-b; telco, 5g, iot, enterprise, mobility.
+description: corporate venture capital; AI, IoT, Data Marketing, Fintech, B2B SaaS.
 resource: https://kddia.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: kddia.com
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 49
-status: draft
 sources:
 - id: s-c100cf67
   resource: https://kddia.com
 - id: s-2049c726
   resource: https://www.crunchbase.com/organization/kddi-open-innovation-fund
+- id: s-2e5e8a1a
+  resource: https://www.kddi.com/english/open-innovation-program/koif/
 ---
 
 # KDDI Open Innovation Fund
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** cvc (as of 2026-04-26)[^s-2049c726]
-- **Stages:** series-a, series-b (as of 2026-04-26)[^s-2049c726]
-- **Geographies:** apac, us (as of 2026-04-26)[^s-2049c726]
-- **Sectors:** telco, 5g, iot, enterprise, mobility (as of 2026-04-26)[^s-2049c726]
-- **Check size min:** 500K (as of 2026-04-26)[^s-2049c726]
-- **Check size max:** 10M (as of 2026-04-26)[^s-2049c726]
+- **Type:** corporate venture capital[^s-2e5e8a1a]
+- **Sectors:** AI, IoT, Data Marketing, Fintech, B2B SaaS[^s-2e5e8a1a]
+- **Geographies:** Japan and other countries[^s-2e5e8a1a]
+- **Latest fund:** KDDI Open Innovation Fund V, total amount managed five (5) billion yen (as of 2025-04)[^s-2e5e8a1a]
+- **Thesis quote:** The fund invests in wide range of fields based on KDDI's expertise in business and technologies including AI and DeepTech to support promising startups.[^s-2e5e8a1a]
+- **About:** KDDI Open Innovation Fund is a corporate venture capital fund that aims for business co-creations with startups by leveraging KDDI group resources.[^s-2e5e8a1a]
 - **Leads rounds:** unknown[^s-c100cf67]
-- **About:** KDDI Open Innovation Fund (KOIF) is the corporate venture arm of KDDI, Japan's second-largest telecommunications operator. Founded in 2012, now on its multiple-fund iteration (as of 2026-04-26)[^s-2049c726]
 
 ## Portfolio
 
@@ -43,3 +42,4 @@ Not recorded.
 
 [^s-c100cf67]: <https://kddia.com>
 [^s-2049c726]: <https://www.crunchbase.com/organization/kddi-open-innovation-fund>
+[^s-2e5e8a1a]: <https://www.kddi.com/english/open-innovation-program/koif/>

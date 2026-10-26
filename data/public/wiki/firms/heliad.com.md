@@ -1,17 +1,19 @@
 ---
 type: Investor Firm
 title: Heliad Equity
-description: pe; growth; fintech, defense-tech, deep-tech, high-tech-growth.
+description: pre-seed, Series A, growth-stage; technology, e-commerce, lifestyle.
 resource: https://www.heliad.com/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: heliad.com
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 34
-status: draft
 sources:
+- id: s-56c476b0
+  resource: https://www.edisongroup.com/research/focused-dach-tech-investor/19026/
 - id: s-fda1d467
   resource: https://www.heliad.com/
 ---
@@ -20,12 +22,14 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** pe (as of 2026-08-06)[^s-fda1d467]
-- **Stages:** growth (as of 2026-08-06)[^s-fda1d467]
-- **Geographies:** germany (as of 2026-08-06)[^s-fda1d467]
-- **Sectors:** fintech, defense-tech, deep-tech, high-tech-growth (as of 2026-08-06)[^s-fda1d467]
+- **HQ:** Frankfurt am Main, Germany[^s-56c476b0]
+- **Founded:** 2004[^s-56c476b0]
+- **Stages:** pre-seed, Series A, growth-stage[^s-fda1d467]
+- **Sectors:** technology, e-commerce, lifestyle (as of 2017-06-12)[^s-56c476b0]
+- **Geographies:** DACH (Germany, Austria, Switzerland) (as of 2017-06-12)[^s-56c476b0]
+- **AUM:** €84.5m (as of 2017-06-12)[^s-56c476b0]
+- **Thesis quote:** We believe in generational founders from the earliest stages and our evergreen structure allows us to support them to IPO and beyond[^s-fda1d467]
+- **About:** Heliad is a DACH-focused investment firm that backs early-stage and growth-stage founders through an evergreen structure. (as of 2017-06-12)[^s-56c476b0]
 - **Leads rounds:** unknown[^s-fda1d467]
 
 ## Portfolio
@@ -38,9 +42,15 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Clark[^s-fda1d467] | Not recorded | Not recorded | Not recorded |
 | Enpal[^s-fda1d467] | Not recorded | Not recorded | Not recorded |
 | AI21 Labs[^s-fda1d467] | Not recorded | Not recorded | Not recorded |
+| bmp Holding AG[^s-56c476b0] | e-commerce | Not recorded | 2017-05-08 |
+| Cubitabo[^s-56c476b0] | e-commerce | Not recorded | Not recorded |
+| FinTech Group[^s-56c476b0] | tech | Not recorded | Not recorded |
+| MagForce[^s-56c476b0] | tech | Not recorded | Not recorded |
+| AlphaPet Ventures[^s-56c476b0] | Not recorded | Not recorded | 2017-06-02 |
 
 ## People
 
 Not recorded.
 
+[^s-56c476b0]: <https://www.edisongroup.com/research/focused-dach-tech-investor/19026/>
 [^s-fda1d467]: <https://www.heliad.com/>

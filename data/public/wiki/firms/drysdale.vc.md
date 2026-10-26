@@ -11,7 +11,7 @@ tags:
 domain: drysdale.vc
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 36
 status: draft
 sources:
@@ -45,10 +45,41 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Clarifeye[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
 | White Circle[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
 | Marso (Marso Robotics)[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Lord of the Games[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Matys[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Notte[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Genesis[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Noa[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| AlterTable[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Omniscient[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Piston[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Twin[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Alpic[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Reduck[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Symbiotic[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Kairos[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| UMA[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Gradium[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Pergamon[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Nabel[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Marso[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Sillage[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Revox[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Isara[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| The Compute Index[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Vertical Compute[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| AMI Labs[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Quest[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
+| Arrakis[^s-e734dd29] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Nicolas Essayan](../people/drysdale.vc--nicolas-essayan-416613.md) - Founder
+- [Vittorio Noury](../people/drysdale.vc--vittorio-noury-70caa1.md) - Principal
+- [Dalia Mahfouf](../people/drysdale.vc--dalia-mahfouf-9ae528.md) - Associate
+- [Xavier Fischer](../people/drysdale.vc--xavier-fischer-e8213d.md) - Operating Partner
+- [Olivier Bonnet](../people/drysdale.vc--olivier-bonnet-d827ca.md) - Sparring Partner
+- [Claire Calméjane](../people/drysdale.vc--claire-calm-jane-017391.md) - Sparring Partner
 
 [^s-e734dd29]: <https://www.drysdale.vc/>
 [^s-b6dd1188]: <https://www.linkedin.com/company/drysdaleventures/>

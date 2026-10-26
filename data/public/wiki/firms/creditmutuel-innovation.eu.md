@@ -1,41 +1,44 @@
 ---
 type: Investor Firm
 title: Crédit Mutuel Innovation
-description: venture capital; series A; digital, healthcare, deeptech, life sciences.
+description: venture capital; Pre-Seed / Seed, Series A/B, Series C & Beyond; healthcare,
+  information technology, life science, clean technology, digital health.
 resource: https://www.creditmutuel-innovation.eu/en/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: creditmutuel-innovation.eu
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 72
-status: draft
 sources:
 - id: s-5eee5430
   resource: https://www.creditmutuel-innovation.eu/en/
 - id: s-1d3b16ab
   resource: https://www.creditmutuel-innovation.eu/en/news/press-releases/harfanglab.html
+- id: s-ccce8b8f
+  resource: https://www.creditmutuel-innovation.eu/fr/index.html
 - id: s-2aa7f1d0
   resource: https://www.crunchbase.com/organization/cm-cic-capital-innovation
+- id: s-a46aaef2
+  resource: https://www.eu-startups.com/investor/credit-mutuel-innovation
 ---
 
 # Crédit Mutuel Innovation
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe, france (as of 2026-08-06)[^s-2aa7f1d0]
-- **Check size min:** 1M (as of 2026-08-06)[^s-2aa7f1d0]
-- **Check size max:** 20M (as of 2026-08-06)[^s-2aa7f1d0]
-- **About:** Crédit Mutuel Innovation is the evergreen venture capital entity of Crédit Mutuel Equity, the private-equity/investment arm of the French banking group Crédit Mutuel Alliance Fédérale (formerly known as CM-CIC Innovation). It manages roughly €4B and invests €1–20M in deeptech, digital-infrastructure, life-sciences, and spacetech companies from seed to growth stage, with 350+ portfolio companies ac (as of 2026-08-06)[^s-2aa7f1d0]
-- **Type:** venture capital (as of 2023-10-09)[^s-1d3b16ab]
-- **Investment strategies:** evergreen venture investing, growth expansion phase (as of 2023-10-09)[^s-1d3b16ab]
-- **Investment instruments:** equity (as of 2023-10-09)[^s-1d3b16ab]
-- **Stages:** series A (as of 2023-10-09)[^s-1d3b16ab]
-- **Sectors:** digital, healthcare, deeptech, life sciences[^s-5eee5430]
+- **Type:** venture capital[^s-a46aaef2]
+- **HQ:** France[^s-a46aaef2]
+- **Stages:** Pre-Seed / Seed, Series A/B, Series C & Beyond[^s-a46aaef2]
+- **Sectors:** healthcare, information technology, life science, clean technology, digital health[^s-a46aaef2]
+- **Geographies:** Europe, North America[^s-ccce8b8f]
+- **Check size min:** €1M[^s-a46aaef2]
+- **Check size max:** €20M[^s-a46aaef2]
+- **AUM:** €4 billion[^s-a46aaef2]
+- **Thesis quote:** At Crédit Mutuel Innovation, our focus is on investing in innovative companies in deeptech, digital, and life sciences sectors[^s-a46aaef2]
+- **About:** Crédit Mutuel Innovation is a strategic business within Crédit Mutuel Equity that seeks to detect and support startups.[^s-ccce8b8f]
 - **Leads rounds:** yes (as of 2023-10-09)[^s-1d3b16ab]
 
 ## Portfolio
@@ -50,8 +53,10 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## People
 
-Not recorded.
+- [Emilie Lidome](../people/creditmutuel-innovation.eu--emilie-lidome-088243.md) - Présidente de Crédit Mutuel Innovation
 
 [^s-5eee5430]: <https://www.creditmutuel-innovation.eu/en/>
 [^s-1d3b16ab]: <https://www.creditmutuel-innovation.eu/en/news/press-releases/harfanglab.html>
+[^s-ccce8b8f]: <https://www.creditmutuel-innovation.eu/fr/index.html>
 [^s-2aa7f1d0]: <https://www.crunchbase.com/organization/cm-cic-capital-innovation>
+[^s-a46aaef2]: <https://www.eu-startups.com/investor/credit-mutuel-innovation>

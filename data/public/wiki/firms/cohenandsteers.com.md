@@ -1,18 +1,16 @@
 ---
 type: Investor Firm
 title: Cohen & Steers, Inc.
-description: global investment manager; real estate, infrastructure, preferred securities,
-  natural resources, commodities.
+description: investment manager; real assets, alternative income.
 resource: https://www.cohenandsteers.com/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: cohenandsteers.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 49
-status: draft
 sources:
 - id: s-73b257b5
   resource: https://www.cohenandsteers.com/
@@ -22,21 +20,20 @@ sources:
   resource: https://www.cohenandsteers.com/news/cohen-steers-announces-preliminary-assets-under-management-and-net-flows-for-august-2026/
 - id: s-56890c03
   resource: https://www.cohenandsteers.com/strategies/
+- id: s-2085018b
+  resource: https://www.prnewswire.com/news-releases/cohen--steers-announces-preliminary-assets-under-management-and-net-flows-for-september-2026-302902977.html
 ---
 
 # Cohen & Steers, Inc.
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us, global (as of 2026-08-06)[^s-73b257b5]
-- **About:** Cohen & Steers, Inc. (NYSE: CNS) is a publicly traded global investment manager founded in 1986, headquartered in New York, specializing in real assets and alternative income , REITs, listed infrastructure, preferred securities, and resource equities , with ~$99.5B AUM (the third-largest manager of REIT securities worldwide) (as of 2026-08-06)[^s-73b257b5]
-- **Type:** global investment manager (as of 2026-09-09)[^s-4f373e66]
-- **Investment strategies:** listed real estate, private real estate, listed infrastructure, preferred securities, natural resource equities, real assets multi-strategy (as of 2026-09-09)[^s-4f373e66]
-- **Investment instruments:** debt (as of 2026-09-09)[^s-4f373e66]
-- **Sectors:** real estate, infrastructure, preferred securities, natural resources, commodities[^s-56890c03]
-- **AUM:** Approximately USD 101 billion (as of 2026-08-31) (as of 2026-08-31)[^s-4f373e66]
+- **Type:** investment manager (as of 2026-10-08)[^s-2085018b]
+- **HQ:** New York City (as of 2026-10-08)[^s-2085018b]
+- **Founded:** 1986 (as of 2026-10-08)[^s-2085018b]
+- **Sectors:** real assets, alternative income (as of 2026-10-08)[^s-2085018b]
+- **AUM:** $95.9 billion (as of 2026-09-30)[^s-2085018b]
+- **About:** Cohen & Steers is a New York-headquartered global investment manager founded in 1986 that specializes in real assets and alternative income. (as of 2026-10-08)[^s-2085018b]
 
 ## Portfolio
 
@@ -50,3 +47,4 @@ Not recorded.
 [^s-078f5605]: <https://www.cohenandsteers.com/about-us/>
 [^s-4f373e66]: <https://www.cohenandsteers.com/news/cohen-steers-announces-preliminary-assets-under-management-and-net-flows-for-august-2026/>
 [^s-56890c03]: <https://www.cohenandsteers.com/strategies/>
+[^s-2085018b]: <https://www.prnewswire.com/news-releases/cohen--steers-announces-preliminary-assets-under-management-and-net-flows-for-september-2026-302902977.html>

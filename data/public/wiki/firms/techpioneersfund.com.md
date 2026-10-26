@@ -1,19 +1,23 @@
 ---
 type: Investor Firm
 title: Tech Pioneers Fund
-description: vc.
+description: venture capital; seed, early stage; innovative technology.
 resource: https://techpioneersfund.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: techpioneersfund.com
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 22
-status: draft
 sources:
 - id: s-2040b5e3
   resource: https://techpioneersfund.com
+- id: s-070a9534
+  resource: https://techpioneersfund.com/
+- id: s-c9f6ee4c
+  resource: https://vcspine.com/firms/tech-pioneers
 - id: s-31af2d21
   resource: https://www.crunchbase.com/organization/tech-pioneers-fund
 ---
@@ -22,12 +26,14 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** vc (as of 2026-04-18)[^s-31af2d21]
-- **Geographies:** us (as of 2026-04-18)[^s-31af2d21]
+- **Type:** venture capital[^s-070a9534]
+- **HQ:** Cambridge, MA[^s-070a9534]
+- **Stages:** seed, early stage[^s-c9f6ee4c]
+- **Sectors:** innovative technology[^s-070a9534]
+- **Latest fund:** Tech Pioneers Fund, L.P. ($50M offered)[^s-c9f6ee4c]
+- **Thesis quote:** Tech Pioneers Fund is a new, independent and membership-driven venture capital fund investing in innovative technology companies.[^s-070a9534]
+- **About:** Tech Pioneers Fund is a venture capital fund investing in innovative technology companies, with offices in Cambridge, MA and Menlo Park, CA.[^s-070a9534]
 - **Leads rounds:** unknown[^s-2040b5e3]
-- **About:** Tech Pioneers Fund is a Menlo Park, California-based venture capital firm. (as of 2026-04-18)[^s-31af2d21]
 
 ## Portfolio
 
@@ -38,4 +44,6 @@ Not recorded.
 Not recorded.
 
 [^s-2040b5e3]: <https://techpioneersfund.com>
+[^s-070a9534]: <https://techpioneersfund.com/>
+[^s-c9f6ee4c]: <https://vcspine.com/firms/tech-pioneers>
 [^s-31af2d21]: <https://www.crunchbase.com/organization/tech-pioneers-fund>

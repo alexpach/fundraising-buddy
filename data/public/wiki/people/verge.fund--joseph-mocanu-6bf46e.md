@@ -1,0 +1,23 @@
+---
+type: Investor
+title: Joseph Mocanu
+description: Co-Founder and Managing Partner at Verge HealthTech Fund.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
+sources:
+- id: s-b0c99ebd
+  resource: https://www.verge.fund/
+---
+
+# Joseph Mocanu
+
+[Firm profile](../firms/verge.fund.md)
+
+Role: Co-Founder and Managing Partner[^s-b0c99ebd]
+
+Focus: Not recorded
+
+[^s-b0c99ebd]: <https://www.verge.fund/>

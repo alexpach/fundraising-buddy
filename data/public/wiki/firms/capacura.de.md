@@ -1,17 +1,16 @@
 ---
 type: Investor Firm
 title: Capacura GmbH
-description: impact investor; early stage, seed; Education, Health, Environment.
+description: venture capital; early-stage; environment, health, ecology.
 resource: https://www.capacura.de
 tags:
 - investor-firm
-- directory
+- sourced
 domain: capacura.de
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 58
-status: draft
 sources:
 - id: s-1ecee563
   resource: https://www.capacura.de
@@ -21,22 +20,20 @@ sources:
   resource: https://www.capacura.de/fileadmin/presse/Capacura-Fact-Sheet-2025.pdf
 - id: s-225e9b9d
   resource: https://www.crunchbase.com/organization/capacura
+- id: s-ffc827b1
+  resource: https://www.foster-institut.com/en/the-foster-network/capacura-gmbh
 ---
 
 # Capacura GmbH
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe, germany (as of 2026-08-07)[^s-225e9b9d]
-- **About:** Capacura is a Cologne/Berlin-based retail "Investment Club" (crowdinvesting platform), not a traditional fund: its own site pitches "invest from €100/month in a diversified startup portfolio," pooling retail capital into impact/health/climate startups it screens. Founded 2018 (as of 2026-08-07)[^s-225e9b9d]
-- **Type:** impact investor (as of 2025)[^s-22c3fef4]
-- **Investment strategies:** impact investing, early-stage startup investment (as of 2025)[^s-22c3fef4]
-- **Legal structure:** GmbH (as of 2025)[^s-22c3fef4]
-- **Investment instruments:** profit participation rights (as of 2025)[^s-22c3fef4]
-- **Stages:** early stage, seed (as of 2025)[^s-22c3fef4]
-- **Sectors:** Education, Health, Environment (as of 2025)[^s-22c3fef4]
+- **Type:** venture capital[^s-ffc827b1]
+- **Stages:** early-stage[^s-ffc827b1]
+- **Sectors:** environment, health, ecology[^s-ffc827b1]
+- **AUM:** EUR 22 million (as of 2024-08)[^s-ffc827b1]
+- **Thesis quote:** Wir haben capacura gegründet, um in Impact-Startups aus den Bereichen Bildung, Gesundheit und Umwelt zu investieren.[^s-3f1c6626]
+- **About:** capacura GmbH is a German impact startup investor focused on early-stage startups in environment, health and ecology.[^s-ffc827b1]
 
 ## Portfolio
 
@@ -51,9 +48,10 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## People
 
-Not recorded.
+- [Ina Dahm](../people/capacura.de--ina-dahm-310466.md) - Gründer von Capacura
 
 [^s-1ecee563]: <https://www.capacura.de>
 [^s-3f1c6626]: <https://www.capacura.de/>
 [^s-22c3fef4]: <https://www.capacura.de/fileadmin/presse/Capacura-Fact-Sheet-2025.pdf>
 [^s-225e9b9d]: <https://www.crunchbase.com/organization/capacura>
+[^s-ffc827b1]: <https://www.foster-institut.com/en/the-foster-network/capacura-gmbh>

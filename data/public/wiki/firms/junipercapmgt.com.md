@@ -1,18 +1,16 @@
 ---
 type: Investor Firm
 title: Juniper Capital Management
-description: private equity firm; Business services, Industrial products and services,
-  Manufacturing, Residential services, Infrastructure services.
+description: private equity.
 resource: https://junipercapmgt.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: junipercapmgt.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 49
-status: draft
 sources:
 - id: s-8679129d
   resource: https://junipercapmgt.com
@@ -30,14 +28,10 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-08-06)[^s-8679129d]
-- **About:** Juniper Capital Management is a Dallas, Texas-based private equity firm founded in 2015 that invests in industrial, manufacturing, business-services, and residential-services companies across the US. In June 2026 it announced Bug ID, Inc. , a San Francisco Bay Area audiovisual systems design/integration firm founded in 1997 by Matt Lavine , as the inaugural acquisition for Juniper Capital Fund I ( (as of 2026-08-06)[^s-8679129d]
-- **Type:** private equity firm (as of 2017-09-07)[^s-79d83c11]
-- **Investment strategies:** traditional private equity, lower middle-market growth and buyout investments, operational improvement and strategic acquisitions (as of 2017-09-07)[^s-79d83c11]
-- **Investment instruments:** equity, debt (as of 2017-09-07)[^s-79d83c11]
-- **Sectors:** Business services, Industrial products and services, Manufacturing, Residential services, Infrastructure services[^s-64db0ab2]
+- **Type:** private equity[^s-64db0ab2]
+- **Founded:** 1915[^s-64db0ab2]
+- **Thesis quote:** We partner with founders and management teams to provide a principled, patient, and flexible investment solution.[^s-64db0ab2]
+- **About:** Juniper Capital Management is a private equity firm that partners with founders and management teams.[^s-64db0ab2]
 
 ## Portfolio
 

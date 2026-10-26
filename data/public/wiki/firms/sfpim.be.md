@@ -1,24 +1,24 @@
 ---
 type: Investor Firm
 title: Federal Holding and Investment Company (SFPIM)
-description: federal holding and investment company; sovereign wealth fund; start-ups,
-  scale-ups; life sciences, finance, aviation, energy & utilities, transport & mobility,
-  impact investing.
+description: sovereign fund; sciences de la vie, soins de santé, finance, aéronautique,
+  énergie & services publics, transport & mobilité, investissement d'impact.
 resource: https://sfpim.be/en/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: sfpim.be
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 51
-status: draft
 sources:
 - id: s-94b9b655
   resource: https://sfpim.be/en/
 - id: s-2dd9b88b
   resource: https://sfpim.be/en/vision-strategy/value-proposition/
+- id: s-8f93b52b
+  resource: https://sfpim.be/fr/
 - id: s-93d8edf6
   resource: https://www.crunchbase.com/organization/sfpi-fpim
 ---
@@ -27,16 +27,11 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe, belgium (as of 2026-08-06)[^s-93d8edf6]
-- **About:** SFPIM (Société Fédérale de Participations et d'Investissement / Federaal Participatie- en Investeringsfonds, also referenced as SFPI-FPIM) is Belgium's sovereign wealth fund , a federal holding and investment company founded in 2006, headquartered in Brussels, managing roughly €14B on behalf of the Belgian federal state. It combines legacy strategic shareholdings (bpost, BNP Paribas, the National  (as of 2026-08-06)[^s-93d8edf6]
-- **Type:** federal holding and investment company; sovereign wealth fund[^s-94b9b655]
-- **Investment strategies:** direct investment, indirect investment through funds[^s-94b9b655]
-- **Legal structure:** public limited company[^s-94b9b655]
-- **Investment instruments:** contribution, quasi-contribution[^s-94b9b655]
-- **Stages:** start-ups, scale-ups[^s-2dd9b88b]
-- **Sectors:** life sciences, finance, aviation, energy & utilities, transport & mobility, impact investing[^s-94b9b655]
+- **Type:** sovereign fund[^s-8f93b52b]
+- **Sectors:** sciences de la vie, soins de santé, finance, aéronautique, énergie & services publics, transport & mobilité, investissement d'impact[^s-8f93b52b]
+- **AUM:** EUR 14 billion[^s-8f93b52b]
+- **Thesis quote:** SFPIM se veut un partenaire de confiance qui aide les entreprises belges à devenir des références dans leur secteur.[^s-8f93b52b]
+- **About:** SFPIM is the Belgian federal sovereign fund that takes stakes in Belgian companies.[^s-8f93b52b]
 
 ## Portfolio
 
@@ -53,4 +48,5 @@ Not recorded.
 
 [^s-94b9b655]: <https://sfpim.be/en/>
 [^s-2dd9b88b]: <https://sfpim.be/en/vision-strategy/value-proposition/>
+[^s-8f93b52b]: <https://sfpim.be/fr/>
 [^s-93d8edf6]: <https://www.crunchbase.com/organization/sfpi-fpim>

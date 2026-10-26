@@ -1,19 +1,24 @@
 ---
 type: Investor Firm
 title: Fort Ross
-description: vc; series-b, growth; enterprise-software, fintech, b2b, ai.
+description: venture capital; mid stage, growth stage; cloud, fintech, cybersecurity,
+  artificial intelligence, machine learning, marketplaces.
 resource: https://fortross.vc
 tags:
 - investor-firm
-- directory
+- sourced
 domain: fortross.vc
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 63
-status: draft
 sources:
+- id: s-fa1b477a
+  resource: http://globenewswire.com/news-release/2020/03/25/2006182/0/en/Fort-Ross-Ventures-Closes-Oversubscribed-Second-Fund.html
 - id: s-4e2047fb
   resource: https://fortross.vc
+- id: s-27f79c76
+  resource: https://fortross.vc/
 - id: s-8cec8691
   resource: https://www.crunchbase.com/organization/fort-ross-ventures
 ---
@@ -22,25 +27,40 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** vc (as of 2026-04-24)[^s-8cec8691]
-- **Stages:** series-b, growth (as of 2026-04-24)[^s-8cec8691]
-- **Geographies:** us, global (as of 2026-04-24)[^s-8cec8691]
-- **Sectors:** enterprise-software, fintech, b2b, ai (as of 2026-04-24)[^s-8cec8691]
-- **AUM:** 400M (as of 2026-04-24)[^s-8cec8691]
-- **Check size min:** 2M (as of 2026-04-24)[^s-8cec8691]
-- **Check size max:** 20M (as of 2026-04-24)[^s-8cec8691]
+- **Type:** venture capital (as of 2020-03-25)[^s-fa1b477a]
+- **Stages:** mid stage, growth stage[^s-27f79c76]
+- **Sectors:** cloud, fintech, cybersecurity, artificial intelligence, machine learning, marketplaces (as of 2020-03-25)[^s-fa1b477a]
+- **Geographies:** U.S., Israel, Eastern Europe (as of 2020-03-25)[^s-fa1b477a]
+- **AUM:** $345 million (as of 2020-03-25)[^s-fa1b477a]
+- **Latest fund:** $235 million Fund II (as of 2020-03-25)[^s-fa1b477a]
+- **Thesis quote:** At Fort Ross Ventures, our capital, connections and capabilities transform mid and growth stage startups into global leaders.[^s-27f79c76]
+- **About:** Fort Ross Ventures is a venture capital firm with a network of relationships in the U.S., Israel, and Eastern Europe. (as of 2020-03-25)[^s-fa1b477a]
 - **Leads rounds:** unknown[^s-4e2047fb]
-- **About:** Fort Ross Ventures is a growth-stage cross-border fund investing in mid- and growth-stage B2B SaaS, fintech, and enterprise AI. Originally founded as Sberbank Ventures (Russia-backed) in 2015 and subsequently renamed Fort Ross Ventures; post-2022 the firm has restructured and focuses on US and Israeli portfolio. Offices in Silicon Valley and Tel Aviv. (as of 2026-04-24)[^s-8cec8691]
 
 ## Portfolio
 
-Not recorded.
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Roofstock[^s-fa1b477a] | Not recorded | Series D | Not recorded |
+| Fetch Robotics[^s-fa1b477a] | Not recorded | Series C | Not recorded |
+| FireFly[^s-fa1b477a] | Not recorded | Series A2 | Not recorded |
+| Uber[^s-fa1b477a] | Not recorded | Not recorded | Not recorded |
+| GridGain[^s-fa1b477a] | Not recorded | Not recorded | Not recorded |
+| Moven[^s-fa1b477a] | Not recorded | Not recorded | Not recorded |
+| eToro[^s-fa1b477a] | Not recorded | Not recorded | Not recorded |
+| Tufin[^s-fa1b477a] | Not recorded | Not recorded | Not recorded |
+| NetGuardians[^s-fa1b477a] | Not recorded | Not recorded | Not recorded |
+| Mobeewave[^s-fa1b477a] | Not recorded | Not recorded | Not recorded |
+| LendingHome[^s-fa1b477a] | Not recorded | Not recorded | Not recorded |
+| Dynamic Yield[^s-fa1b477a] | Not recorded | Not recorded | Not recorded |
+| CoverWallet[^s-fa1b477a] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Victor Orlovski](../people/fortross.vc--victor-orlovski-d24fc3.md) - Founder and Managing Partner
+- [Sharin Fisher](../people/fortross.vc--sharin-fisher-c92e03.md) - partner
 
+[^s-fa1b477a]: <http://globenewswire.com/news-release/2020/03/25/2006182/0/en/Fort-Ross-Ventures-Closes-Oversubscribed-Second-Fund.html>
 [^s-4e2047fb]: <https://fortross.vc>
+[^s-27f79c76]: <https://fortross.vc/>
 [^s-8cec8691]: <https://www.crunchbase.com/organization/fort-ross-ventures>

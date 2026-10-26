@@ -1,18 +1,19 @@
 ---
 type: Investor Firm
 title: meerkat Holding GmbH
-description: investment holding company; early-stage; healthcare, software.
+description: Investment- und Beteiligungsgesellschaft; Frühphase; Healthcare software.
 resource: https://www.meerkat.de
 tags:
 - investor-firm
-- directory
+- sourced
 domain: meerkat.de
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 54
-status: draft
 sources:
+- id: s-82a62f47
+  resource: https://altss.com/profile/meerkat
 - id: s-a7384990
   resource: https://www.meerkat.de
 - id: s-a143a311
@@ -25,15 +26,14 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe (as of 2026-08-06)[^s-a7384990]
-- **About:** meerkat Holding GmbH is a privately held German investment holding on the Gesundheitscampus in Bochum, run by a small team of IT entrepreneurs from the healthcare software sector (Jörg Holstein, Amelie Holstein, Susanne O'Brien and Klaus Kleber). Its stated focus is "Smart Money for Smart Health": early-stage software and software-driven innovation in healthcare, with an explicit sustainability /  (as of 2026-08-06)[^s-a7384990]
-- **Type:** investment holding company[^s-a143a311]
-- **Investment strategies:** early-stage investment, Smart Health[^s-a143a311]
-- **Legal structure:** German GmbH[^s-a143a311]
-- **Stages:** early-stage[^s-a143a311]
-- **Sectors:** healthcare, software[^s-a143a311]
+- **Type:** Investment- und Beteiligungsgesellschaft[^s-a143a311]
+- **HQ:** Bochum[^s-a143a311]
+- **Founded:** 2014[^s-82a62f47]
+- **Stages:** Frühphase[^s-a143a311]
+- **Sectors:** Healthcare software[^s-a143a311]
+- **Geographies:** Germany[^s-82a62f47]
+- **Thesis quote:** Mit Meerkat investieren wir bevorzugt in frühphasige Start-Ups mit gesellschaftlichem Impact[^s-a143a311]
+- **About:** Meerkat Holding is a Bochum-based investment and holding company focused on software-driven innovation in healthcare.[^s-a143a311]
 - **Leads rounds:** yes[^s-3f2b1b11]
 
 ## Portfolio
@@ -46,11 +46,21 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | TimeTeller[^s-a7384990] | Not recorded | Not recorded | Not recorded |
 | Meliodays Medical[^s-a7384990] | Not recorded | Not recorded | Not recorded |
 | Detechgene[^s-a7384990] | Not recorded | Not recorded | Not recorded |
+| Breathment[^s-82a62f47] | Not recorded | Not recorded | Not recorded |
+| ATLAS[^s-82a62f47] | Not recorded | Not recorded | Not recorded |
+| Meliodays[^s-82a62f47] | Not recorded | Not recorded | Not recorded |
+| ichó[^s-82a62f47] | Not recorded | Not recorded | Not recorded |
+| roclub[^s-82a62f47] | Not recorded | Not recorded | Not recorded |
+| QuantActions[^s-82a62f47] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Jörg Holstein](../people/meerkat.de--j-rg-holstein-ebfa53.md) - Co-Founder
+- [Klaus Kleber](../people/meerkat.de--klaus-kleber-4b48c7.md) - Co-Founder
+- [Amelie Holstein](../people/meerkat.de--amelie-holstein-3571b2.md) - Team Member
+- [Susanne O'Brien](../people/meerkat.de--susanne-o-brien-fa3003.md) - Team Member
 
+[^s-82a62f47]: <https://altss.com/profile/meerkat>
 [^s-a7384990]: <https://www.meerkat.de>
 [^s-a143a311]: <https://www.meerkat.de/>
 [^s-3f2b1b11]: <https://www.meerkat.de/blog/capacura-26-07>

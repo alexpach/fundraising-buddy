@@ -9,6 +9,7 @@ tags:
 domain: yventures.com
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 40
 status: draft
 sources:
@@ -33,7 +34,27 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## Portfolio
 
-Not recorded.
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Whop[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| Etched[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| Palantir[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| Socket[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| Field Materials[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| Reddit[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| Gusto[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| PagerDuty[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| Postmates[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| Opendoor[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| Airbnb[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| TrueBill[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| HelloSign[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| DataFox[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| Counsyl[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| FutureAdvisor[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| Skybox[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| TokBox[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
+| Milo[^s-5b3567c5] | Not recorded | Not recorded | Not recorded |
 
 ## People
 

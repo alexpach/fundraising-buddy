@@ -1,20 +1,21 @@
 ---
 type: Investor Firm
 title: Asterion Ventures
-description: venture capital; pre-seed, seed, Series A; energy transition and infrastructure,
-  industrial decarbonization and new materials, agritech and food transition, AI as
-  a transition enabler.
+description: venture capital; Pre-seed, Seed, Series A, Series B; Energy transition,
+  Food & agriculture, Biodiversity & infrastructure, Resources & circularity, Impact
+  on society.
 resource: https://www.asterionventures.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: asterionventures.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 57
-status: draft
 sources:
+- id: s-29b5bd2c
+  resource: https://asterionventures.com/en/portfolio
 - id: s-341add06
   resource: https://www.asterionventures.com
 - id: s-e0795768
@@ -23,20 +24,21 @@ sources:
   resource: https://www.asterionventures.com/en/media/asterion-principal-investor-dowgo
 - id: s-f6346636
   resource: https://www.asterionventures.com/en/model
+- id: s-31b5bcab
+  resource: https://www.gritt.io/company/asterionventures/
 ---
 
 # Asterion Ventures
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe, france (as of 2026-08-07)[^s-341add06]
-- **About:** Asterion Ventures is a Paris- and Amsterdam-based impact venture firm backing "Europe's post-carbon champions from pre-seed onwards" , climate, energy, industrial decarbonisation, sustainable finance and deep tech. Its model is distinctive: roughly forty private investors (operators and executives) put their own capital alongside the fund in each deal and work with the founders, drawn from a commu (as of 2026-08-07)[^s-341add06]
-- **Type:** venture capital[^s-f6346636]
-- **Investment strategies:** impact venture capital, deeptech and digital ventures[^s-f6346636]
-- **Stages:** pre-seed, seed, Series A[^s-f6346636]
-- **Sectors:** energy transition and infrastructure, industrial decarbonization and new materials, agritech and food transition, AI as a transition enabler[^s-f6346636]
+- **Type:** venture capital[^s-29b5bd2c]
+- **Stages:** Pre-seed, Seed, Series A, Series B[^s-e0795768]
+- **Sectors:** Energy transition, Food & agriculture, Biodiversity & infrastructure, Resources & circularity, Impact on society[^s-29b5bd2c]
+- **Geographies:** Europe[^s-e0795768]
+- **Latest fund:** €50M[^s-31b5bcab]
+- **Thesis quote:** Rebuilding the economy within planetary and social boundaries is the greatest entrepreneurial adventure of our time, and nowhere does it matter more than in Europe.[^s-e0795768]
+- **About:** Early-stage investment firm focused on systemic impact across Europe, with offices in Paris and Amsterdam.[^s-31b5bcab]
 - **Leads rounds:** yes (as of 2026-09-03)[^s-af387185]
 
 ## Portfolio
@@ -56,7 +58,9 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 Not recorded.
 
+[^s-29b5bd2c]: <https://asterionventures.com/en/portfolio>
 [^s-341add06]: <https://www.asterionventures.com>
 [^s-e0795768]: <https://www.asterionventures.com/en>
 [^s-af387185]: <https://www.asterionventures.com/en/media/asterion-principal-investor-dowgo>
 [^s-f6346636]: <https://www.asterionventures.com/en/model>
+[^s-31b5bcab]: <https://www.gritt.io/company/asterionventures/>

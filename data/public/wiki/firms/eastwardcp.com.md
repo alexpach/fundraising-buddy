@@ -1,18 +1,21 @@
 ---
 type: Investor Firm
 title: Eastward Capital Partners, LLC
-description: venture debt; SaaS, fintech, hardware.
+description: venture debt; Seed, Startup, Early Stage, Expansion, Later Stage; Software,
+  IT & TMT, Media, Hardware & Manufacturing, Energy, HealthTech & Fitness, Material
+  Science, Mobile.
 resource: https://eastwardcp.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: eastwardcp.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 40
-status: draft
 sources:
+- id: s-e36396af
+  resource: https://angelspartners.com/firm/eastward-capital-partners
 - id: s-cda18503
   resource: https://eastwardcp.com
 - id: s-631546ac
@@ -27,14 +30,15 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-04-19)[^s-b80be22c]
-- **About:** Eastward Capital Partners is a Boston-area (West Newton, MA) venture-debt provider with a 30-year history and 270+ portfolio companies. The firm provides founder-friendly, minimally dilutive growth financing to VC-backed technology companies across SaaS, fintech, and hardware without restrictive covenants. (as of 2026-04-19)[^s-b80be22c]
-- **Type:** venture debt[^s-acdeeb21]
-- **Investment strategies:** growth financing, venture debt[^s-acdeeb21]
-- **Investment instruments:** debt, equity[^s-acdeeb21]
-- **Sectors:** SaaS, fintech, hardware[^s-631546ac]
+- **Type:** venture debt[^s-631546ac]
+- **Stages:** Seed, Startup, Early Stage, Expansion, Later Stage[^s-e36396af]
+- **Sectors:** Software, IT & TMT, Media, Hardware & Manufacturing, Energy, HealthTech & Fitness, Material Science, Mobile[^s-e36396af]
+- **Geographies:** United States[^s-e36396af]
+- **Check size min:** $3,000,000[^s-e36396af]
+- **Check size max:** $15,000,000[^s-e36396af]
+- **AUM:** $400,000,000[^s-e36396af]
+- **Thesis quote:** Eastward Capital Partners provides venture debt and equity financing to VC-backed technology companies, offering a flexible alternative to equity that minimizes dilution while ensuring access to critical capital.[^s-631546ac]
+- **About:** Eastward Capital Partners, LLC is a private equity fund that specializes in providing a range of financial solutions including debt, equity, and leases to emerging growth companies.[^s-e36396af]
 
 ## Portfolio
 
@@ -43,11 +47,17 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | PrecisionHawk[^s-b80be22c] | Not recorded | Not recorded | Not recorded |
 | Eastward is a venture[^s-b80be22c] | Not recorded | Not recorded | Not recorded |
 | Notable investments[^s-b80be22c] | Not recorded | Not recorded | Not recorded |
+| Smalls[^s-631546ac] | Pet food | Not recorded | Not recorded |
+| Reggora, Inc.[^s-631546ac] | Real estate fintech (appraisal management SaaS) | Not recorded | Not recorded |
+| Lightmatter, inc.[^s-631546ac] | AI hardware (optical chips) | Not recorded | Not recorded |
+| LevelBlue[^s-631546ac] | Managed security services | Not recorded | Not recorded |
+| MixLab[^s-e36396af] | Veterinary compounding pharmacy | Not recorded | Not recorded |
 
 ## People
 
 Not recorded.
 
+[^s-e36396af]: <https://angelspartners.com/firm/eastward-capital-partners>
 [^s-cda18503]: <https://eastwardcp.com>
 [^s-631546ac]: <https://eastwardcp.com/>
 [^s-acdeeb21]: <https://eastwardcp.com/about/>

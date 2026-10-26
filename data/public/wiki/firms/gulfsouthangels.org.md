@@ -1,22 +1,23 @@
 ---
 type: Investor Firm
 title: Gulf South Angels
-description: angel group; seed, series A, series B, series C.
+description: angel syndicate.
 resource: https://gulfsouthangels.org
 tags:
 - investor-firm
-- directory
+- sourced
 domain: gulfsouthangels.org
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 22
-status: draft
 sources:
 - id: s-fc9222f9
   resource: https://gulfsouthangels.org
 - id: s-bb9243ba
   resource: https://gulfsouthangels.org/
+- id: s-a94c5ba2
+  resource: https://gulfsouthangels.org/about/
 - id: s-028a2af5
   resource: https://gulfsouthangels.org/for-investors/
 ---
@@ -25,14 +26,11 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-07-15)[^s-fc9222f9]
-- **Type:** angel group[^s-028a2af5]
-- **Investment strategies:** early-stage angel investing, syndication[^s-028a2af5]
-- **Legal structure:** angel network using LLC special purpose vehicles[^s-028a2af5]
-- **Investment instruments:** equity, convertible notes[^s-028a2af5]
-- **Stages:** seed, series A, series B, series C[^s-028a2af5]
+- **Type:** angel syndicate[^s-a94c5ba2]
+- **Founded:** 2014[^s-a94c5ba2]
+- **Geographies:** Gulf South[^s-a94c5ba2]
+- **Thesis quote:** Our members independently choose to invest in high-growth ventures with clear paths to exit.[^s-a94c5ba2]
+- **About:** Gulf South Angels is an active angel investor network of accredited members that provides early-stage funding and mentorship to high-growth startups.[^s-a94c5ba2]
 
 ## Portfolio
 
@@ -40,8 +38,10 @@ Not recorded.
 
 ## People
 
-Not recorded.
+- [Mike Eckert](../people/gulfsouthangels.org--mike-eckert-8735e9.md) - Founder and Chairman
+- [Sam Felton](../people/gulfsouthangels.org--sam-felton-39b5f6.md) - Investment Process Manager
 
 [^s-fc9222f9]: <https://gulfsouthangels.org>
 [^s-bb9243ba]: <https://gulfsouthangels.org/>
+[^s-a94c5ba2]: <https://gulfsouthangels.org/about/>
 [^s-028a2af5]: <https://gulfsouthangels.org/for-investors/>

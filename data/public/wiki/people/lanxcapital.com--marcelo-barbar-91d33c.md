@@ -1,0 +1,23 @@
+---
+type: Investor
+title: Marcelo Barbará
+description: Co-Founder at LANX CAPITAL INVESTIMENTOS LTDA.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
+sources:
+- id: s-065172bf
+  resource: https://www.lanxcapital.com/
+---
+
+# Marcelo Barbará
+
+[Firm profile](../firms/lanxcapital.com.md)
+
+Role: Co-Founder[^s-065172bf]
+
+Focus: Not recorded
+
+[^s-065172bf]: <https://www.lanxcapital.com/>

@@ -1,19 +1,17 @@
 ---
 type: Investor Firm
 title: Catapult Ventures
-description: venture capital; pre-seed, seed; artificial intelligence, automation,
-  robotics, internet of things, embedded systems, automotive, aerospace, industrial
-  manufacturing.
+description: pre-seed, seed; artificial intelligence, automation, robotics, internet-of-things,
+  embedded systems.
 resource: https://catapult.vc/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: catapult.vc
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 42
-status: draft
 sources:
 - id: s-cb14fb84
   resource: https://catapult.vc/
@@ -25,13 +23,10 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-08-06)[^s-cb14fb84]
-- **Type:** venture capital[^s-c8c4d8ee]
-- **Investment strategies:** early-stage, deep tech[^s-c8c4d8ee]
 - **Stages:** pre-seed, seed[^s-cb14fb84]
-- **Sectors:** artificial intelligence, automation, robotics, internet of things, embedded systems, automotive, aerospace, industrial manufacturing[^s-cb14fb84]
+- **Sectors:** artificial intelligence, automation, robotics, internet-of-things, embedded systems[^s-cb14fb84]
+- **Thesis quote:** We look for founders who create a competitive advantage with interdisciplinary thinking.[^s-cb14fb84]
+- **About:** Catapult Ventures is an investment firm founded by Darren Liccardo and Rouz Jazayeri that invests in pre-seed and seed-stage startups.[^s-cb14fb84]
 - **Leads rounds:** yes[^s-cb14fb84]
 
 ## Portfolio

@@ -1,18 +1,19 @@
 ---
 type: Investor Firm
 title: Oak HC/FT
-description: venture capital; seed, growth; healthcare, fintech.
+description: growth equity; seed, growth; healthcare, financial services.
 resource: https://oakhcft.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: oakhcft.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 35
-status: draft
 sources:
+- id: s-f2e333d0
+  resource: https://inforcapital.com/funds/oak-hc-ft-partners-i/
 - id: s-009ef393
   resource: https://oakhcft.com
 - id: s-aec09be1
@@ -27,15 +28,18 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** venture capital (as of 2024-10-16)[^s-0910c167]
-- **Investment strategies:** growth equity (as of 2024-10-16)[^s-0910c167]
-- **Investment instruments:** equity (as of 2024-10-16)[^s-0910c167]
+- **Type:** growth equity[^s-aec09be1]
+- **Founded:** 2014 (as of 2014)[^s-f2e333d0]
 - **Stages:** seed, growth[^s-aec09be1]
-- **Sectors:** healthcare, fintech[^s-aec09be1]
+- **Sectors:** healthcare, financial services[^s-aec09be1]
+- **Geographies:** United States[^s-f2e333d0]
+- **Check size min:** $1M[^s-aec09be1]
+- **Check size max:** $100M[^s-aec09be1]
+- **AUM:** ~$10B[^s-aec09be1]
+- **Latest fund:** Oak HC/FT Partners V ($1.9B, 2022) (as of 2022)[^s-f2e333d0]
+- **Thesis quote:** We work with founders driving structural change in two complex systems: healthcare and financial services.[^s-aec09be1]
+- **About:** Venture and growth equity firm investing in healthcare and financial technology. (as of 2014)[^s-f2e333d0]
 - **Leads rounds:** yes (as of 2024-10-16)[^s-0910c167]
-- **AUM:** Lower bound (over): USD 7 billion (date not reported)[^s-aec09be1]
 
 ## Portfolio
 
@@ -45,6 +49,7 @@ Not recorded.
 
 Not recorded.
 
+[^s-f2e333d0]: <https://inforcapital.com/funds/oak-hc-ft-partners-i/>
 [^s-009ef393]: <https://oakhcft.com>
 [^s-aec09be1]: <https://www.oakhcft.com/>
 [^s-07c6f5d1]: <https://www.oakhcft.com/news/ambience-healthcare-announces-243-million-series-c-to-scale-its-ai-platform-for-health-systems>

@@ -1,19 +1,19 @@
 ---
 type: Investor Firm
 title: Hyundai CRADLE
-description: corporate venture capital; seed to growth; mobility services, artificial
-  intelligence, robotics, smart energy solutions, smart cities, cyber security.
+description: venture capital; early-stage, seed; mobility, logistics, manufacturing.
 resource: https://www.cradleinc.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: cradleinc.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 44
-status: draft
 sources:
+- id: s-f3ec9b5b
+  resource: https://angelspartners.com/firm/hyundai-cradle
 - id: s-40f87b1b
   resource: https://www.cradleinc.com
 - id: s-f5085d7c
@@ -30,14 +30,14 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** global, us, apac, europe (as of 2026-04-19)[^s-b58afc4a]
-- **About:** Hyundai CRADLE (Center for Robotic-Augmented Design in Living Experiences) is Hyundai Motor Group's corporate venture capital and open innovation arm. It operates five global innovation centers (Silicon Valley, Tel Aviv, Berlin, Beijing, Singapore) and invests in mobility services, AI, robotics, smart energy, smart cities and cybersecurity (as of 2026-04-19)[^s-b58afc4a]
-- **Type:** corporate venture capital (as of 2021-10-27)[^s-dca7e6b0]
-- **Investment strategies:** corporate venturing, open innovation (as of 2021-10-27)[^s-dca7e6b0]
-- **Stages:** seed to growth (as of 2018-11-06)[^s-52239001]
-- **Sectors:** mobility services, artificial intelligence, robotics, smart energy solutions, smart cities, cyber security (as of 2018-11-06)[^s-52239001]
+- **Type:** venture capital[^s-f3ec9b5b]
+- **Stages:** early-stage, seed[^s-f3ec9b5b]
+- **Sectors:** mobility, logistics, manufacturing[^s-f3ec9b5b]
+- **Geographies:** United States, Israel, Singapore, China, Europe[^s-f3ec9b5b]
+- **Check size min:** $300,000[^s-f3ec9b5b]
+- **Check size max:** $10,000,000[^s-f3ec9b5b]
+- **Thesis quote:** We invest in startups solving problems in mobility, logistics, or manufacturing; each office has a regional focus.[^s-f3ec9b5b]
+- **About:** Hyundai CRADLE is the venture capital and open innovation business of Hyundai Motor Group, investing in global startups.[^s-f3ec9b5b]
 
 ## Portfolio
 
@@ -52,6 +52,7 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 Not recorded.
 
+[^s-f3ec9b5b]: <https://angelspartners.com/firm/hyundai-cradle>
 [^s-40f87b1b]: <https://www.cradleinc.com>
 [^s-f5085d7c]: <https://www.cradleinc.com/>
 [^s-b58afc4a]: <https://www.crunchbase.com/organization/hyundai-cradle>

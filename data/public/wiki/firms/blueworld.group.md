@@ -1,34 +1,35 @@
 ---
 type: Investor Firm
 title: Blueworld Group
-description: vc; seed, series-a, growth; consumer, food-beverage, robotics, fintech,
-  logistics, cybersecurity.
+description: venture capital; early stage, seed, bridge; healthcare, media and entertainment,
+  technology.
 resource: https://blueworld.group/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: blueworld.group
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 40
-status: draft
 sources:
 - id: s-8e67a7aa
   resource: https://blueworld.group/
+- id: s-6603c1da
+  resource: https://www.capboard.io/en/investor/blueworld-group
 ---
 
 # Blueworld Group
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** vc (as of 2026-08-07)[^s-8e67a7aa]
-- **Stages:** seed, series-a, growth (as of 2026-08-07)[^s-8e67a7aa]
-- **Geographies:** europe (as of 2026-08-07)[^s-8e67a7aa]
-- **Sectors:** consumer, food-beverage, robotics, fintech, logistics, cybersecurity (as of 2026-08-07)[^s-8e67a7aa]
+- **Type:** venture capital[^s-6603c1da]
+- **Stages:** early stage, seed, bridge[^s-6603c1da]
+- **Sectors:** healthcare, media and entertainment, technology[^s-6603c1da]
+- **Geographies:** US, Europe, Israel[^s-6603c1da]
+- **Thesis quote:** Because for us, the future is blue – a vision of sustainable and responsible entrepreneurship integrating economic, ecological, and social aspects.[^s-8e67a7aa]
+- **About:** Blueworld.group is a private equity and venture capital firm that specializes in investments in early-stage technology businesses.[^s-6603c1da]
 - **Leads rounds:** unknown[^s-8e67a7aa]
-- **About:** blueworld.group is a Germany-based entrepreneurial investment company founded by Dr. Rigbert Fischer (2014, after selling his prior company), investing in and co-building high-growth startups and "more mature business models" across sectors (as of 2026-08-07)[^s-8e67a7aa]
 
 ## Portfolio
 
@@ -47,3 +48,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 Not recorded.
 
 [^s-8e67a7aa]: <https://blueworld.group/>
+[^s-6603c1da]: <https://www.capboard.io/en/investor/blueworld-group>

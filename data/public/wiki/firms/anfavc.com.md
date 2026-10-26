@@ -5,13 +5,15 @@ description: Public investor profile for Anfa.
 resource: https://www.anfavc.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: anfavc.com
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 39
-status: draft
 sources:
+- id: s-10b65259
+  resource: https://anfavc.com/
 - id: s-83123ab3
   resource: https://www.anfavc.com
 ---
@@ -20,19 +22,25 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
+- **HQ:** New York and San Francisco[^s-10b65259]
+- **Geographies:** Global[^s-10b65259]
+- **Check size min:** $1M[^s-10b65259]
+- **Check size max:** $30M[^s-10b65259]
+- **Thesis quote:** We're long-term partners to exceptional founders, investing $1M-$30M:[^s-10b65259]
+- **About:** Anfa is a venture investor that backs exceptional founders with checks from $1M to $30M.[^s-10b65259]
 - **Leads rounds:** yes[^s-83123ab3]
-- **About:** Global, hyper-concentrated investment firm founded in 2020 by Idris Sami (ex-Anthos Capital, Hummingbird Ventures; Forbes 30U30 2021), offices in New York and London, "the fund we wish had backed us." Fewer than ten partnerships per fund, $1–30M per founder, pre-seed through public markets (they also run a hedge-fund sleeve), prefers to lead but will follow, no committees, yes/no in about a week ( (as of 2026-10-02)[^s-83123ab3]
 
 ## Portfolio
 
 | Company | Sector | Round | Date |
 | --- | --- | --- | --- |
 | Mindset[^s-83123ab3] | Not recorded | Not recorded | Not recorded |
+| Stealth Robotics[^s-10b65259] | Not recorded | Not recorded | Not recorded |
+| Stealth AI Bio[^s-10b65259] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
 Not recorded.
 
+[^s-10b65259]: <https://anfavc.com/>
 [^s-83123ab3]: <https://www.anfavc.com>

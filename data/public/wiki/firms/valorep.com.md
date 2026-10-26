@@ -1,18 +1,16 @@
 ---
 type: Investor Firm
 title: Valor Equity Partners
-description: private investment firm; early stage; biosciences, transportation, food,
-  health and wellness, industrial.
+description: biosciences, transportation, food, health and wellness.
 resource: https://www.valorep.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: valorep.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 67
-status: draft
 sources:
 - id: s-a23b3248
   resource: https://www.crunchbase.com/organization/valor-equity-partners
@@ -28,16 +26,9 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us, global (as of 2026-06-08)[^s-a23b3248]
-- **Check size min:** 25M (as of 2026-06-08)[^s-a23b3248]
-- **Check size max:** 75M (as of 2026-06-08)[^s-a23b3248]
-- **About:** Valor Equity Partners is a Chicago-based operational growth investment firm founded in 1995 by Antonio Gracias. Valor pioneered the "operational growth" model, working hands-on with founders through its in-house Scale Group of engineers, data scientists, manufacturing experts, and operators (as of 2026-06-08)[^s-a23b3248]
-- **Type:** private investment firm[^s-ac526093]
-- **Investment strategies:** operational growth, early-stage relationship capital[^s-ac526093]
-- **Stages:** early stage (as of 2026-07)[^s-a66ec173]
-- **Sectors:** biosciences, transportation, food, health and wellness, industrial[^s-ac526093]
+- **Sectors:** biosciences, transportation, food, health and wellness[^s-ac526093]
+- **Thesis quote:** Today, we continue to invest in technology and technology-enabled companies that innovate and disrupt existing industries[^s-ac526093]
+- **About:** Valor is a private investment firm that invests in technology and technology-enabled companies.[^s-ac526093]
 
 ## Portfolio
 

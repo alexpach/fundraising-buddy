@@ -1,17 +1,16 @@
 ---
 type: Investor Firm
 title: Paradigm
-description: frontier technology investment firm; earliest stages; crypto, AI, robotics.
+description: venture capital; early stage; crypto, AI, robotics.
 resource: https://www.paradigm.xyz
 tags:
 - investor-firm
-- directory
+- sourced
 domain: paradigm.xyz
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 55
-status: draft
 sources:
 - id: s-beb4b3d0
   resource: https://monadxyz.substack.com/p/monad-labs-raises-225m-in-funding
@@ -19,20 +18,21 @@ sources:
   resource: https://www.paradigm.xyz
 - id: s-1e83406a
   resource: https://www.paradigm.xyz/
+- id: s-94ac546e
+  resource: https://www.siliconreport.com/crypto-vc-paradigm-closes-1-2b-fund-to-expand-into-ai-and-robotics-d744cfbe
 ---
 
 # Paradigm
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us, global (as of 2026-08-07)[^s-e902102b]
-- **About:** Paradigm is a San Francisco-based, research-driven investment firm founded in 2018 by Matt Huang (ex-Sequoia) and Fred Ehrsam (co-founder of Coinbase). It built its reputation as a crypto-native investor writing multi-stage checks from seed through growth, with a large in-house engineering and research team (as of 2026-08-07)[^s-e902102b]
-- **Type:** frontier technology investment firm[^s-1e83406a]
-- **Investment strategies:** crypto, frontier technologies[^s-1e83406a]
-- **Stages:** earliest stages[^s-1e83406a]
+- **Type:** venture capital[^s-94ac546e]
+- **Stages:** early stage[^s-1e83406a]
 - **Sectors:** crypto, AI, robotics[^s-1e83406a]
+- **AUM:** $11.9 billion[^s-94ac546e]
+- **Latest fund:** $1.2 billion[^s-94ac546e]
+- **Thesis quote:** Research, build, and invest alongside founders — first in crypto, now also in AI, robotics, and other frontier areas.[^s-94ac546e]
+- **About:** Paradigm is a frontier technology investment firm that builds and invests in crypto, AI, robotics, and across new frontiers from the earliest stages.[^s-1e83406a]
 - **Leads rounds:** yes (as of 2024-04-09)[^s-beb4b3d0]
 
 ## Portfolio
@@ -47,11 +47,16 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Kalshi[^s-e902102b] | Not recorded | Not recorded | Not recorded |
 | Magic Eden[^s-e902102b] | Not recorded | Not recorded | Not recorded |
 | Flashbots[^s-e902102b] | Not recorded | Not recorded | Not recorded |
+| Zipline[^s-94ac546e] | autonomous drone delivery | Not recorded | Not recorded |
+| True Anomaly[^s-94ac546e] | orbital defense | Not recorded | Not recorded |
+| SendCutSend[^s-94ac546e] | manufacturing | Not recorded | Not recorded |
+| Nous Research[^s-94ac546e] | AI model developer | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Matt Huang](../people/paradigm.xyz--matt-huang-b8400f.md) - Co-founder
 
 [^s-beb4b3d0]: <https://monadxyz.substack.com/p/monad-labs-raises-225m-in-funding>
 [^s-e902102b]: <https://www.paradigm.xyz>
 [^s-1e83406a]: <https://www.paradigm.xyz/>
+[^s-94ac546e]: <https://www.siliconreport.com/crypto-vc-paradigm-closes-1-2b-fund-to-expand-into-ai-and-robotics-d744cfbe>

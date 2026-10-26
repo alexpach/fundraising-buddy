@@ -1,19 +1,22 @@
 ---
 type: Investor Firm
 title: AME Cloud Ventures
-description: venture capital; seed, later stage; Data infrastructure, Applications,
-  Mobile, Sensors.
+description: venture capital; seed, later stage; Big Data, mobility, sensors, cloud
+  ecosystems.
 resource: https://www.amecloudventures.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: amecloudventures.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 64
-status: draft
 sources:
+- id: s-f535431c
+  resource: http://www.amecloudventures.com//
+- id: s-05101b70
+  resource: https://lpbacked.com/limited-partners/firm/ame-cloud-ventures
 - id: s-e1d0e512
   resource: https://www.amecloudventures.com
 - id: s-dd0a5204
@@ -26,16 +29,15 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us, global, asia (as of 2026-06-08)[^s-96646b8c]
-- **Check size min:** 1M (as of 2026-06-08)[^s-96646b8c]
-- **Check size max:** 10M (as of 2026-06-08)[^s-96646b8c]
-- **About:** AME Cloud Ventures is the venture fund of Jerry Yang, co-founder of Yahoo!, investing in seed to growth-stage technology companies building infrastructure and value chains around data. The firm backs data-driven businesses with deep science or technology differentiation, with an emphasis on companies that create unique data at every layer of the stack , from infrastructure through applications (as of 2026-06-08)[^s-96646b8c]
-- **Type:** venture capital[^s-dd0a5204]
-- **Investment strategies:** data technology investing[^s-dd0a5204]
-- **Stages:** seed, later stage[^s-dd0a5204]
-- **Sectors:** Data infrastructure, Applications, Mobile, Sensors[^s-dd0a5204]
+- **Type:** venture capital[^s-f535431c]
+- **HQ:** Palo Alto, United States[^s-05101b70]
+- **Founded:** 2012[^s-05101b70]
+- **Stages:** seed, later stage[^s-f535431c]
+- **Sectors:** Big Data, mobility, sensors, cloud ecosystems[^s-05101b70]
+- **Geographies:** Asia/Pacific, Global, United States[^s-05101b70]
+- **AUM:** $43.0B[^s-05101b70]
+- **Thesis quote:** AME Cloud Ventures focuses on seed to later stage companies building infrastructure and value chains around data.[^s-f535431c]
+- **About:** AME Cloud Ventures is a venture fund led by Jerry Yang, co-founder of Yahoo!, investing in seed to later stage data-focused companies.[^s-f535431c]
 
 ## Portfolio
 
@@ -49,11 +51,31 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Forty Seven[^s-96646b8c] | Not recorded | Not recorded | Not recorded |
 | Luminar Technologies[^s-96646b8c] | Not recorded | Not recorded | Not recorded |
 | Kespry / Aria Insights[^s-96646b8c] | Not recorded | Not recorded | Not recorded |
+| Nervana Systems[^s-f535431c] | Not recorded | Not recorded | Not recorded |
+| Freenome[^s-f535431c] | Not recorded | Not recorded | Not recorded |
+| Elementum[^s-f535431c] | Not recorded | Not recorded | Not recorded |
+| Synthego[^s-f535431c] | Not recorded | Not recorded | Not recorded |
+| Rigetti Quantum Computing[^s-f535431c] | Not recorded | Not recorded | Not recorded |
+| Capella Space[^s-f535431c] | Not recorded | Not recorded | Not recorded |
+| Accion Systems[^s-f535431c] | Not recorded | Not recorded | Not recorded |
+| Canvas Technology[^s-f535431c] | Not recorded | Not recorded | Not recorded |
+| MegaBots[^s-f535431c] | Not recorded | Not recorded | Not recorded |
+| Vicarious Surgical[^s-f535431c] | Not recorded | Not recorded | Not recorded |
+| Atomwise[^s-05101b70] | Not recorded | Not recorded | Not recorded |
+| Recursion Pharmaceuticals[^s-05101b70] | Not recorded | Not recorded | Not recorded |
+| Treasure Data[^s-05101b70] | Not recorded | Not recorded | Not recorded |
+| Zymergen[^s-05101b70] | Not recorded | Not recorded | Not recorded |
+| Ozlo[^s-05101b70] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Jeff Chung](../people/amecloudventures.com--jeff-chung-5cd8cf.md) - Managing Director
+- [Wretch Chien](../people/amecloudventures.com--wretch-chien-c0c32d.md) - Principal
+- [Jerry Yang](../people/amecloudventures.com--jerry-yang-c9b904.md) - Founding Partner
+- [Nick Adams](../people/amecloudventures.com--nick-adams-1a62f1.md) - Venture Partner
 
+[^s-f535431c]: <http://www.amecloudventures.com//>
+[^s-05101b70]: <https://lpbacked.com/limited-partners/firm/ame-cloud-ventures>
 [^s-e1d0e512]: <https://www.amecloudventures.com>
 [^s-dd0a5204]: <https://www.amecloudventures.com/>
 [^s-96646b8c]: <https://www.crunchbase.com/organization/ame-cloud-ventures>

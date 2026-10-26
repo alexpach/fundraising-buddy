@@ -1,20 +1,21 @@
 ---
 type: Investor Firm
 title: Marcau Partners AG
-description: portfolio manager; venture capital as a service; early stage.
+description: venture capital; seed, Series C; digital health, games & gaming, eSports.
 resource: https://marcau.vc
 tags:
 - investor-firm
-- directory
+- sourced
 domain: marcau.vc
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 23
-status: draft
 sources:
 - id: s-cc0b4d05
   resource: https://marcau.vc
+- id: s-a5d8fe5e
+  resource: https://startupintros.com/orgs/marcau-partners-gmbh
 - id: s-998c5e84
   resource: https://www.marcau.vc/
 - id: s-c6b83c3f
@@ -27,22 +28,27 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe (as of 2026-08-17)[^s-cc0b4d05]
-- **Type:** portfolio manager; venture capital as a service[^s-998c5e84]
-- **Legal structure:** Swiss AG[^s-998c5e84]
-- **Stages:** early stage[^s-998c5e84]
+- **Type:** venture capital[^s-a5d8fe5e]
+- **HQ:** Zurich, Switzerland[^s-a5d8fe5e]
+- **Founded:** 2018[^s-a5d8fe5e]
+- **Stages:** seed, Series C[^s-a5d8fe5e]
+- **Sectors:** digital health, games & gaming, eSports[^s-a5d8fe5e]
+- **Geographies:** Europe, Switzerland[^s-a5d8fe5e]
+- **Thesis quote:** Marcau Partners is a Swiss-based investment manager specializing in early-stage venture capital.[^s-a5d8fe5e]
+- **About:** Swiss-based investment manager specializing in early-stage venture capital, regulated by FINMA.[^s-a5d8fe5e]
 
 ## Portfolio
 
-Not recorded.
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| AirConsole[^s-a5d8fe5e] | Not recorded | Series A | Not recorded |
 
 ## People
 
 Not recorded.
 
 [^s-cc0b4d05]: <https://marcau.vc>
+[^s-a5d8fe5e]: <https://startupintros.com/orgs/marcau-partners-gmbh>
 [^s-998c5e84]: <https://www.marcau.vc/>
 [^s-c6b83c3f]: <https://www.marcau.vc/Imprint>
 [^s-3743933a]: <https://www.ringier.com/about-us/digital-ventures/>

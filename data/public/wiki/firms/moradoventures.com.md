@@ -1,34 +1,38 @@
 ---
 type: Investor Firm
 title: Morado Ventures
-description: vc; seed, series-a; ai, data-infrastructure, industrial-iot, robotics,
-  autonomy, computer-vision, healthtech.
+description: venture capital; seed; AI, data infrastructure, industrial IoT, robotics
+  & autonomy, computer vision, health tech.
 resource: https://moradoventures.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: moradoventures.com
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 43
-status: draft
 sources:
+- id: s-45c6bf79
+  resource: https://angelspartners.com/firm/morado-ventures
 - id: s-62e9e3cd
   resource: https://moradoventures.com
+- id: s-67085060
+  resource: https://moradoventures.com/
 ---
 
 # Morado Ventures
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** vc (as of 2026-06-12)[^s-62e9e3cd]
-- **Stages:** seed, series-a (as of 2026-06-12)[^s-62e9e3cd]
-- **Geographies:** us (as of 2026-06-12)[^s-62e9e3cd]
-- **Sectors:** ai, data-infrastructure, industrial-iot, robotics, autonomy, computer-vision, healthtech (as of 2026-06-12)[^s-62e9e3cd]
+- **Type:** venture capital[^s-45c6bf79]
+- **HQ:** Palo Alto, California[^s-45c6bf79]
+- **Stages:** seed[^s-67085060]
+- **Sectors:** AI, data infrastructure, industrial IoT, robotics & autonomy, computer vision, health tech[^s-67085060]
+- **Check size min:** $150K[^s-45c6bf79]
+- **Thesis quote:** Our mission is to support early-stage data-fueled companies with the potential to solve significant challenges in industries ripe for disruption.[^s-67085060]
+- **About:** Morado Ventures is a venture capital firm based in Palo Alto, California, with a specific focus on seed-stage investments.[^s-45c6bf79]
 - **Leads rounds:** unknown[^s-62e9e3cd]
-- **About:** Morado Ventures is a Bay Area seed-stage VC backing "data-fueled" companies , passionate entrepreneurs applying both software and hardware to complex technical problems. Focus areas per their site: AI, data infrastructure, industrial IoT, robotics & autonomy, computer vision, and health tech (as of 2026-06-12)[^s-62e9e3cd]
 
 ## Portfolio
 
@@ -46,4 +50,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 Not recorded.
 
+[^s-45c6bf79]: <https://angelspartners.com/firm/morado-ventures>
 [^s-62e9e3cd]: <https://moradoventures.com>
+[^s-67085060]: <https://moradoventures.com/>

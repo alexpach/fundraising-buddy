@@ -1,19 +1,26 @@
 ---
 type: Investor Firm
 title: Gradient
-description: venture capital; pre-seed, seed; artificial intelligence, B2B software,
-  AI infrastructure and developer tools, robotics, biology and materials.
+description: venture capital; pre-seed, seed; AI applications, AI agents, AI developer
+  stack, Real-world AI.
 resource: https://www.gradient.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: gradient.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 54
-status: draft
 sources:
+- id: s-b5a7c009
+  resource: https://gradient.com/blog/posts/fund-5/
+- id: s-422ed910
+  resource: https://gradient.com/portfolio/
+- id: s-b8982935
+  resource: https://gradient.com/team/
+- id: s-0214a929
+  resource: https://theagenttimes.com/articles/gradient-closes-220m-fifth-fund-targeting-seed-stage-agent-i-09105502
 - id: s-ab5744a0
   resource: https://www.crunchbase.com/organization/gradient-ventures
 - id: s-eecb2553
@@ -30,15 +37,14 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** global (as of 2026-08-06)[^s-ab5744a0]
-- **About:** Gradient Ventures (gradient.com) is Google's AI-focused venture fund, investing seed through Series A in AI-native and machine-learning startups globally; it is now investing out of Gradient Ventures IV. It participated in the $10M seed round of Credible Data (a governed-business-context platform for enterprise AI agents, built on the Malloy semantic modeling language) alongside SignalFire and K5  (as of 2026-08-06)[^s-ab5744a0]
-- **Type:** venture capital (as of 2026-03-17)[^s-940c5eed]
-- **Investment strategies:** early-stage AI venture investing (as of 2026-03-17)[^s-940c5eed]
-- **Legal structure:** independent venture firm (as of 2026-03-17)[^s-940c5eed]
-- **Stages:** pre-seed, seed (as of 2026-03-17)[^s-940c5eed]
-- **Sectors:** artificial intelligence, B2B software, AI infrastructure and developer tools, robotics, biology and materials (as of 2026-03-17)[^s-940c5eed]
+- **Type:** venture capital[^s-b5a7c009]
+- **Founded:** 2017[^s-b5a7c009]
+- **Stages:** pre-seed, seed[^s-b5a7c009]
+- **Sectors:** AI applications, AI agents, AI developer stack, Real-world AI[^s-b5a7c009]
+- **AUM:** nearly $1.2 billion (as of 2026-03-17)[^s-0214a929]
+- **Latest fund:** $220M Fund 5[^s-b5a7c009]
+- **Thesis quote:** Gradient was built to be an early-stage venture firm focused exclusively on AI, not as a side bet, but as the entire mandate.[^s-b5a7c009]
+- **About:** Gradient is an early-stage venture firm focused on AI, founded in 2017 and operating independently.[^s-b5a7c009]
 - **Leads rounds:** yes (as of 2025-02-20)[^s-274a9e6e]
 
 ## Portfolio
@@ -47,11 +53,40 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | --- | --- | --- | --- |
 | Credible Data[^s-ab5744a0] | Not recorded | Not recorded | Not recorded |
 | Broader Gradient portfolio not independently re[^s-ab5744a0] | Not recorded | Not recorded | Not recorded |
+| Airspace Intelligence[^s-422ed910] | Not recorded | Not recorded | 2018 |
+| BackOps[^s-422ed910] | Not recorded | Not recorded | 2024 |
+| CentML[^s-422ed910] | Not recorded | Not recorded | 2023 |
+| Clarify[^s-422ed910] | Not recorded | Not recorded | 2024 |
+| Density[^s-422ed910] | Not recorded | Not recorded | 2024 |
+| Gigs[^s-422ed910] | Not recorded | Not recorded | 2022 |
+| Infisical[^s-422ed910] | Not recorded | Not recorded | 2023 |
+| Krea[^s-422ed910] | Not recorded | Not recorded | 2022 |
+| Lambda[^s-422ed910] | Not recorded | Not recorded | 2017 |
+| Openly[^s-422ed910] | Not recorded | Not recorded | 2019 |
+| Oura[^s-422ed910] | Not recorded | Not recorded | 2019 |
+| Prepared[^s-422ed910] | Not recorded | Not recorded | 2022 |
+| Range[^s-422ed910] | Not recorded | Not recorded | 2022 |
+| Sona[^s-422ed910] | Not recorded | Not recorded | 2022 |
+| Stack AI[^s-422ed910] | Not recorded | Not recorded | 2023 |
+| Streamlit[^s-422ed910] | Not recorded | Not recorded | 2018 |
+| Vera Health[^s-422ed910] | Not recorded | Not recorded | 2024 |
+| Writer[^s-422ed910] | Not recorded | Not recorded | 2021 |
 
 ## People
 
-Not recorded.
+- [Darian Shirazi](../people/gradient.com--darian-shirazi-0ed858.md) - General Partner
+- [Zach Bratun-Glennon](../people/gradient.com--zach-bratun-glennon-add854.md) - General Partner
+- [Andrew Brackin](../people/gradient.com--andrew-brackin-3b3e67.md) - Partner
+- [Clayton Petty](../people/gradient.com--clayton-petty-f35b73.md) - Partner
+- [Denise Teng](../people/gradient.com--denise-teng-f42c6a.md) - Partner
+- [Vig Sachidananda](../people/gradient.com--vig-sachidananda-5edf12.md) - Partner
+- [Kyle Duffy](../people/gradient.com--kyle-duffy-5b995a.md) - Operating Partner
+- [Braden Harrison](../people/gradient.com--braden-harrison-e3c0d3.md) - Associate
 
+[^s-b5a7c009]: <https://gradient.com/blog/posts/fund-5/>
+[^s-422ed910]: <https://gradient.com/portfolio/>
+[^s-b8982935]: <https://gradient.com/team/>
+[^s-0214a929]: <https://theagenttimes.com/articles/gradient-closes-220m-fifth-fund-targeting-seed-stage-agent-i-09105502>
 [^s-ab5744a0]: <https://www.crunchbase.com/organization/gradient-ventures>
 [^s-eecb2553]: <https://www.gradient.com>
 [^s-810c1713]: <https://www.gradient.com/>

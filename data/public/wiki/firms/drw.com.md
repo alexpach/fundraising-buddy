@@ -1,18 +1,21 @@
 ---
 type: Investor Firm
 title: DRW Venture Capital
-description: cvc; series-a, series-b, growth; fintech, capital-markets-infrastructure,
-  crypto, enterprise-software.
+description: venture capital; financial technology, enterprise technology.
 resource: https://www.drw.com/vc
 tags:
 - investor-firm
-- directory
+- sourced
 domain: drw.com
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 65
-status: draft
 sources:
+- id: s-caa15ac0
+  resource: https://drw.com/
+- id: s-bddfd8be
+  resource: https://hedgelists.com/hedge-fund-manager-info/drw-venture-capital/
 - id: s-829e9c43
   resource: https://www.crunchbase.com/organization/drw-venture-capital
 - id: s-3141cbd5
@@ -23,16 +26,14 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** cvc (as of 2026-08-06)[^s-829e9c43]
-- **Stages:** series-a, series-b, growth (as of 2026-08-06)[^s-829e9c43]
-- **Geographies:** us, global (as of 2026-08-06)[^s-829e9c43]
-- **Sectors:** fintech, capital-markets-infrastructure, crypto, enterprise-software (as of 2026-08-06)[^s-829e9c43]
-- **Check size min:** 1M (as of 2026-08-06)[^s-829e9c43]
-- **Check size max:** 5M (as of 2026-08-06)[^s-829e9c43]
+- **Type:** venture capital[^s-caa15ac0]
+- **HQ:** Chicago, IL[^s-bddfd8be]
+- **Founded:** 2014[^s-bddfd8be]
+- **Sectors:** financial technology, enterprise technology[^s-caa15ac0]
+- **AUM:** $10 million[^s-bddfd8be]
+- **Thesis quote:** Through our VC firm, we invest in financial and enterprise technology that benefits the work we do every day.[^s-caa15ac0]
+- **About:** DRW Venture Capital is the venture investing arm of DRW, a Chicago-based diversified trading firm.[^s-caa15ac0]
 - **Leads rounds:** unknown[^s-3141cbd5]
-- **About:** DRW Venture Capital is the corporate venture arm of DRW Holdings, a Chicago-based principal trading firm founded by Don Wilson. Founded in 2014, it invests DRW's own balance-sheet capital (no outside LPs) into fintech, enterprise-tech, and crypto/market-infrastructure companies, stage-agnostic with checks typically $1M–$5M+. It has made ~70+ investments, including Databento, Kraken, and TRM Labs. (as of 2026-08-06)[^s-829e9c43]
 
 ## Portfolio
 
@@ -49,5 +50,7 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 Not recorded.
 
+[^s-caa15ac0]: <https://drw.com/>
+[^s-bddfd8be]: <https://hedgelists.com/hedge-fund-manager-info/drw-venture-capital/>
 [^s-829e9c43]: <https://www.crunchbase.com/organization/drw-venture-capital>
 [^s-3141cbd5]: <https://www.drw.com/vc>

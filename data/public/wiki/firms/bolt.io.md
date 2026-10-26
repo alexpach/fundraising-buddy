@@ -1,18 +1,20 @@
 ---
 type: Investor Firm
 title: Bolt
-description: venture capital; pre-seed, seed; hardware, software and physical goods.
+description: venture capital; Seed, Early Stage, Series A, Pre-seed, Series B; Software,
+  IT, Hardware, IoT, HealthTech, Robotics.
 resource: https://bolt.io
 tags:
 - investor-firm
-- directory
+- sourced
 domain: bolt.io
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 29
-status: draft
 sources:
+- id: s-6f0c975a
+  resource: https://angelspartners.com/firm/bolt
 - id: s-47ba81ec
   resource: https://blog.bolt.io/bolt-is-not-an-accelerator/
 - id: s-711870b2
@@ -27,22 +29,38 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** venture capital (as of 2014-01)[^s-47ba81ec]
-- **Investment strategies:** pre-seed, concept-stage hardware and software/physical-product intersection (as of 2014-01)[^s-47ba81ec]
-- **Investment instruments:** equity (as of 2014-01)[^s-47ba81ec]
-- **Stages:** pre-seed, seed (as of 2014-01)[^s-47ba81ec]
-- **Sectors:** hardware, software and physical goods (as of 2014-01)[^s-47ba81ec]
+- **Type:** venture capital[^s-6d8e89fa]
+- **HQ:** San Francisco, California[^s-6f0c975a]
+- **Stages:** Seed, Early Stage, Series A, Pre-seed, Series B[^s-6f0c975a]
+- **Sectors:** Software, IT, Hardware, IoT, HealthTech, Robotics[^s-6f0c975a]
+- **Geographies:** United States, Canada[^s-6f0c975a]
+- **Check size min:** $100K[^s-6f0c975a]
+- **Check size max:** $1M[^s-6f0c975a]
+- **AUM:** $80.3M[^s-6f0c975a]
+- **Latest fund:** $25M (as of 2015-02)[^s-6f0c975a]
+- **Thesis quote:** We invest in ventures where the digital and physical worlds converge.[^s-6f0c975a]
+- **About:** Bolt is a former pre-seed venture capital firm that invested between 2013 and 2020 and is no longer making new investments under the Bolt banner.[^s-6d8e89fa]
 
 ## Portfolio
 
-Not recorded.
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Loci Controls[^s-6f0c975a] | Not recorded | Seed Round | Not recorded |
+| Dunwello[^s-6f0c975a] | Not recorded | Seed Round | Not recorded |
+| EnglishCentral[^s-6f0c975a] | Not recorded | Venture Round | Not recorded |
+| VideoIQ[^s-6f0c975a] | Not recorded | Series C | Not recorded |
+| Pixtronix[^s-6f0c975a] | Not recorded | Venture Round | Not recorded |
+| OwnerIQ[^s-6f0c975a] | Not recorded | Series C | Not recorded |
+| DipJar[^s-6f0c975a] | Not recorded | Not recorded | Not recorded |
+| Kuvee[^s-6f0c975a] | Not recorded | Not recorded | Not recorded |
+| Petnet[^s-6f0c975a] | Not recorded | Not recorded | Not recorded |
+| Understory[^s-6f0c975a] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
 Not recorded.
 
+[^s-6f0c975a]: <https://angelspartners.com/firm/bolt>
 [^s-47ba81ec]: <https://blog.bolt.io/bolt-is-not-an-accelerator/>
 [^s-711870b2]: <https://bolt.io>
 [^s-6d8e89fa]: <https://bolt.io/>

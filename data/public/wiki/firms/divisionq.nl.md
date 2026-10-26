@@ -1,21 +1,23 @@
 ---
 type: Investor Firm
 title: Division Q
-description: impact investor; early-stage investor; early-stage; sustainable greenhouse
-  horticulture.
+description: Seed.
 resource: https://divisionq.nl
 tags:
 - investor-firm
-- directory
+- sourced
 domain: divisionq.nl
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 55
-status: draft
 sources:
 - id: s-25b09f6e
   resource: https://divisionq.nl
+- id: s-a85b14e5
+  resource: https://divisionq.nl/
+- id: s-2b627862
+  resource: https://theventurecodex.com/funds/division-q
 - id: s-98b34623
   resource: https://www.divisionq.nl/blog/division-q-investeert-in-sensie-om-plantgestuurd-telen-in-de-glastuinbouw-te-versnellen/
 - id: s-8c424d41
@@ -26,15 +28,11 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe (as of 2026-08-06)[^s-25b09f6e]
-- **About:** Division Q is the innovation and venture-testing arm of Koppert Cress Group ("Member of the Koppert Cress Group"), based in Monster, Netherlands. It bills itself as "de toegangspoort tot de tuinbouw" (the gateway to horticulture) , a testing ground/accelerator for sustainable greenhouse-farming innovation organized into six labs (Energy, Data, Water, Packaging, Mechanics, Eco) (as of 2026-08-06)[^s-25b09f6e]
-- **Type:** impact investor; early-stage investor[^s-8c424d41]
-- **Investment strategies:** sustainable innovation investing in greenhouse horticulture[^s-8c424d41]
-- **Legal structure:** Koppert Cress sister company[^s-8c424d41]
-- **Stages:** early-stage[^s-8c424d41]
-- **Sectors:** sustainable greenhouse horticulture[^s-8c424d41]
+- **HQ:** Monster, Zuid-Holland, The Netherlands[^s-2b627862]
+- **Stages:** Seed[^s-2b627862]
+- **Geographies:** Australia, The Netherlands[^s-2b627862]
+- **Thesis quote:** Division Q is dé toegangspoort tot de tuinbouw en investeert in jouw innovatie.[^s-a85b14e5]
+- **About:** Division Q is a Dutch horticulture innovation project bureau that develops, validates and accelerates sustainable greenhouse innovations and invests in startups.[^s-a85b14e5]
 - **Leads rounds:** yes (as of 2026-06-04)[^s-98b34623]
 
 ## Portfolio
@@ -42,11 +40,15 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Company | Sector | Round | Date |
 | --- | --- | --- | --- |
 | Sensie[^s-25b09f6e] | Not recorded | Not recorded | Not recorded |
+| BioScout[^s-2b627862] | Not recorded | Seed | Aug 2026 |
+| PATS[^s-2b627862] | Not recorded | Seed | Sep 2025 |
 
 ## People
 
-Not recorded.
+- [Bart van Meurs](../people/divisionq.nl--bart-van-meurs-27f236.md) - Founder & General Manager
 
 [^s-25b09f6e]: <https://divisionq.nl>
+[^s-a85b14e5]: <https://divisionq.nl/>
+[^s-2b627862]: <https://theventurecodex.com/funds/division-q>
 [^s-98b34623]: <https://www.divisionq.nl/blog/division-q-investeert-in-sensie-om-plantgestuurd-telen-in-de-glastuinbouw-te-versnellen/>
 [^s-8c424d41]: <https://www.koppertcress.com/en/news/new-company-division-q-100-focus-on-sustainable-innovation-for-greenhouse-horticulture>

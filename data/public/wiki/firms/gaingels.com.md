@@ -1,21 +1,21 @@
 ---
 type: Investor Firm
 title: Gaingels
-description: venture capital; pre-seed, seed, pre-IPO; Artificial intelligence, Healthcare,
-  Fintech, Defense, Deep tech.
+description: venture capital.
 resource: https://gaingels.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: gaingels.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 31
-status: draft
 sources:
 - id: s-dffac93a
   resource: https://gaingels.com
+- id: s-3018c343
+  resource: https://gaingels.com/
 - id: s-862adc25
   resource: https://gaingels.com/about
 ---
@@ -24,13 +24,9 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us, global (as of 2026-08-20)[^s-dffac93a]
-- **Type:** venture capital[^s-862adc25]
-- **Investment strategies:** venture syndicate, co-investment[^s-862adc25]
-- **Stages:** pre-seed, seed, pre-IPO[^s-862adc25]
-- **Sectors:** Artificial intelligence, Healthcare, Fintech, Defense, Deep tech[^s-dffac93a]
+- **Type:** venture capital[^s-3018c343]
+- **Thesis quote:** Our Mission is to foster social change through business and create a more diverse, inclusive and accessible venture ecosystem at all levels of leadership.[^s-3018c343]
+- **About:** Gaingels is a venture investor that supports LGBTQIA+ and allied founders and promotes diversity and inclusion at its portfolio companies.[^s-3018c343]
 
 ## Portfolio
 
@@ -45,4 +41,5 @@ Directory seed with curated tags carried over from a legacy list; not independen
 Not recorded.
 
 [^s-dffac93a]: <https://gaingels.com>
+[^s-3018c343]: <https://gaingels.com/>
 [^s-862adc25]: <https://gaingels.com/about>

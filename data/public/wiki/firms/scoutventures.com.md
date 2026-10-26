@@ -1,28 +1,39 @@
 ---
 type: Investor Firm
 title: Scout Ventures
-description: vc.
+description: venture capital; Seed, Series B; AI, Machine-Learning, Quantum Computing,
+  Robotics, Advanced Materials Science, Security, Space & Aerospace, Advanced Energy.
 resource: https://scoutventures.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: scoutventures.com
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 5
-status: draft
 sources:
 - id: s-33e37230
   resource: https://scoutventures.com
+- id: s-e19a908f
+  resource: https://www.scout.vc/
+- id: s-edcfd012
+  resource: https://www.teknovation.biz/vc-news-three-funds-close-raises-totaling-320-million/
 ---
 
 # Scout Ventures
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** vc (as of 2026-04-24)[^s-33e37230]
+- **Type:** venture capital[^s-e19a908f]
+- **HQ:** Austin, TX[^s-edcfd012]
+- **Stages:** Seed, Series B[^s-e19a908f]
+- **Sectors:** AI, Machine-Learning, Quantum Computing, Robotics, Advanced Materials Science, Security, Space & Aerospace, Advanced Energy[^s-e19a908f]
+- **Check size min:** $2M[^s-e19a908f]
+- **Check size max:** $5M[^s-e19a908f]
+- **Latest fund:** Fund IV, $94 million[^s-edcfd012]
+- **Thesis quote:** Scout VC is an venture capital firm that invests in frontier technologies built by founders from the military, its intelligence community, and national research labs.[^s-e19a908f]
+- **About:** Scout Ventures is a venture capital firm investing in frontier technologies built by founders from the military, intelligence community, and national research labs.[^s-e19a908f]
 - **Leads rounds:** unknown[^s-33e37230]
 
 ## Portfolio
@@ -31,6 +42,8 @@ Not recorded.
 
 ## People
 
-Not recorded.
+- [Brad Harrison](../people/scoutventures.com--brad-harrison-a2b7f8.md) - Managing Partner
 
 [^s-33e37230]: <https://scoutventures.com>
+[^s-e19a908f]: <https://www.scout.vc/>
+[^s-edcfd012]: <https://www.teknovation.biz/vc-news-three-funds-close-raises-totaling-320-million/>

@@ -1,0 +1,23 @@
+---
+type: Investor
+title: Mike Collett
+description: Founder, Managing Partner at Promus Ventures.
+tags:
+- investor-person
+generated:
+  by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
+sources:
+- id: s-bdd1dece
+  resource: https://promusventures.com/our-team/
+---
+
+# Mike Collett
+
+[Firm profile](../firms/promusventures.com.md)
+
+Role: Founder, Managing Partner[^s-bdd1dece]
+
+Focus: Not recorded
+
+[^s-bdd1dece]: <https://promusventures.com/our-team/>

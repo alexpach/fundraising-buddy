@@ -1,18 +1,19 @@
 ---
 type: Investor Firm
 title: Pymwymic
-description: venture capital; Agriculture, Food systems.
+description: impact investing cooperative; early-stage; agri-food.
 resource: https://pymwymic.com/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: pymwymic.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 46
-status: draft
 sources:
+- id: s-8c61e163
+  resource: https://impact-investor.com/pymwymic-closes-food-systems-fund-as-institutions-pile-in
 - id: s-a36b21c1
   resource: https://pymwymic.com/
 - id: s-6753d3cf
@@ -25,13 +26,15 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe, global (as of 2026-08-06)[^s-a36b21c1]
-- **About:** Pymwymic ("Put Your Money Where Your Meaning Is Community") is an Amsterdam-based investment cooperative founded in 1994 , one of Europe's oldest impact investors. It's a peer-to-peer holding of 250+ mission-aligned families, family foundations, and individual investors rather than a conventional fund manager, though it now also runs formal vehicles: the Healthy Food Systems Impact Fund I and II ( (as of 2026-08-06)[^s-a36b21c1]
-- **Type:** venture capital[^s-6753d3cf]
-- **Investment strategies:** impact investing[^s-6753d3cf]
-- **Sectors:** Agriculture, Food systems[^s-cf5a6a65]
+- **Type:** impact investing cooperative[^s-8c61e163]
+- **Founded:** 1994[^s-8c61e163]
+- **Stages:** early-stage[^s-8c61e163]
+- **Sectors:** agri-food[^s-8c61e163]
+- **Check size min:** €500,000[^s-8c61e163]
+- **Check size max:** €5m[^s-8c61e163]
+- **Latest fund:** €71.5m[^s-8c61e163]
+- **Thesis quote:** By investing in visionary entrepreneurs who are rethinking how we grow, produce, and consume food, we help scale regenerative solutions that work in harmony with nature, empower farmers, and create lasting impact.[^s-a36b21c1]
+- **About:** Dutch impact investing cooperative investing in agri-food companies.[^s-8c61e163]
 
 ## Portfolio
 
@@ -42,11 +45,13 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Trapview[^s-a36b21c1] | Not recorded | Not recorded | Not recorded |
 | Naïo Technologies[^s-a36b21c1] | Not recorded | Not recorded | Not recorded |
 | stenon AgTech[^s-a36b21c1] | Not recorded | Not recorded | Not recorded |
+| Augmenta[^s-8c61e163] | precision agriculture | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Maarten van Dam](../people/pymwymic.com--maarten-van-dam-e45a8f.md) - partner
 
+[^s-8c61e163]: <https://impact-investor.com/pymwymic-closes-food-systems-fund-as-institutions-pile-in>
 [^s-a36b21c1]: <https://pymwymic.com/>
 [^s-6753d3cf]: <https://pymwymic.com/about/>
 [^s-cf5a6a65]: <https://pymwymic.com/portfolio-where-innovation-meets-impact/>

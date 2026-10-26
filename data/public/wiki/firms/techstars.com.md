@@ -1,18 +1,16 @@
 ---
 type: Investor Firm
 title: Techstars
-description: accelerator; investor; early-stage; Health, Finance, Space & Defense,
-  Critical Infrastructure.
+description: accelerator and investor.
 resource: https://techstars.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: techstars.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 21
-status: draft
 sources:
 - id: s-0b4ddb25
   resource: https://techstars.com
@@ -28,17 +26,16 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** accelerator; investor[^s-797b81a4]
-- **Investment strategies:** accelerator investing[^s-797b81a4]
-- **Investment instruments:** equity, SAFE[^s-797b81a4]
-- **Stages:** early-stage[^s-d713935d]
-- **Sectors:** Health, Finance, Space & Defense, Critical Infrastructure[^s-797b81a4]
+- **Type:** accelerator and investor[^s-797b81a4]
+- **Founded:** 2006[^s-797b81a4]
+- **About:** Techstars is an accelerator and investor that has backed early-stage startups since 2006.[^s-797b81a4]
 
 ## Portfolio
 
-Not recorded.
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Chainalysis[^s-797b81a4] | Not recorded | Not recorded | 2015 |
+| Remitly[^s-797b81a4] | Not recorded | Not recorded | Not recorded |
 
 ## People
 

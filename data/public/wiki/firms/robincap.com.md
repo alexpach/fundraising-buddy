@@ -1,18 +1,17 @@
 ---
 type: Investor Firm
 title: Robin Capital
-description: venture capital; Angel, Pre-Seed, Seed; enterprise software and technology,
-  AI / Software 3.0, deeptech, robotics, space technology.
+description: venture capital; pre-seed, seed; HR, AI, fintech, climate, DevOps, robotics,
+  industrial tech.
 resource: https://robincap.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: robincap.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 45
-status: draft
 sources:
 - id: s-d4ace5e2
   resource: https://robincap.com
@@ -20,20 +19,23 @@ sources:
   resource: https://robincap.com/
 - id: s-90f29bf6
   resource: https://robincap.com/about
+- id: s-5b819b23
+  resource: https://techcrunch.com/2024/12/19/european-solo-gp-robin-capital-closes-first-fund-with-e15m-to-play-with/
 ---
 
 # Robin Capital
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe (as of 2026-08-07)[^s-d4ace5e2]
-- **About:** Robin Capital (founder Robin Haak, Hamburg) is a solo-GP fund investing Angel through Series A, vertical-agnostic but weighted toward Software 3.0/AI and deeptech (robotics, space tech). Primarily Europe with select deals in Israel and the US. Domain confirmed via robincap.com scrape (site content matches the fund's profile) plus corroboration from a Ventech press release and PitchBook, both namin (as of 2026-08-07)[^s-d4ace5e2]
-- **Type:** venture capital[^s-10cd92a8]
-- **Investment strategies:** early-stage venture[^s-10cd92a8]
-- **Stages:** Angel, Pre-Seed, Seed[^s-10cd92a8]
-- **Sectors:** enterprise software and technology, AI / Software 3.0, deeptech, robotics, space technology[^s-10cd92a8]
+- **Type:** venture capital (as of 2024-12-19)[^s-5b819b23]
+- **HQ:** Germany (as of 2024-12-19)[^s-5b819b23]
+- **Founded:** December 2022 (as of 2022-12)[^s-5b819b23]
+- **Stages:** pre-seed, seed (as of 2024-12-19)[^s-5b819b23]
+- **Sectors:** HR, AI, fintech, climate, DevOps, robotics, industrial tech (as of 2024-12-19)[^s-5b819b23]
+- **Geographies:** DACH region (as of 2024-12-19)[^s-5b819b23]
+- **Latest fund:** €13 million (as of 2024-12-19)[^s-5b819b23]
+- **Thesis quote:** Robin Capital is aimed at European B2B midmarket enterprise SaaS startups, focusing on the DACH region, at the pre-seed and seed stages. (as of 2024-12-19)[^s-5b819b23]
+- **About:** Robin Capital is a Germany-based solo GP venture capital fund investing in pre-seed and seed B2B SaaS startups, primarily in the DACH region. (as of 2024-12-19)[^s-5b819b23]
 
 ## Portfolio
 
@@ -43,11 +45,17 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | ARX Robotics[^s-d4ace5e2] | Not recorded | Not recorded | Not recorded |
 | Deltia AI[^s-d4ace5e2] | Not recorded | Not recorded | Not recorded |
 | Kombo[^s-d4ace5e2] | Not recorded | Not recorded | Not recorded |
+| Kombo Dev[^s-5b819b23] | Not recorded | Not recorded | 2024-12-19 |
+| Phacet Labs[^s-5b819b23] | Not recorded | Not recorded | 2024-12-19 |
 
 ## People
 
-Not recorded.
+- [Robin Haak](../people/robincap.com--robin-haak-371729.md) - solo GP
+- [Renaud Visage](../people/robincap.com--renaud-visage-832e01.md) - venture partner
+- [Jerome Ternynck](../people/robincap.com--jerome-ternynck-168afd.md) - venture partner
+- [Lea Vajnorsky](../people/robincap.com--lea-vajnorsky-85e6bb.md) - venture partner
 
 [^s-d4ace5e2]: <https://robincap.com>
 [^s-10cd92a8]: <https://robincap.com/>
 [^s-90f29bf6]: <https://robincap.com/about>
+[^s-5b819b23]: <https://techcrunch.com/2024/12/19/european-solo-gp-robin-capital-closes-first-fund-with-e15m-to-play-with/>

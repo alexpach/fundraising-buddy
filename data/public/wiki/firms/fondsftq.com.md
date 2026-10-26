@@ -1,19 +1,21 @@
 ---
 type: Investor Firm
 title: Fonds de solidarité FTQ
-description: venture capital; development capital; startup, research and development,
-  growth.
+description: venture capital; Pre-seed, Seed, Series A, Series B, Late Stage (Series
+  C+); Manufacturing, HealthTech, CleanTech, Infrastructure, Technology, Financial
+  Services, Pharmaceuticals, Software, Aerospace, Business Services (B2B), Logistics.
 resource: https://www.fondsftq.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: fondsftq.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 52
-status: draft
 sources:
+- id: s-94210181
+  resource: https://privateequitylist.com/investors/fonds-de-solidarite-ftq
 - id: s-d30f5c1c
   resource: https://www.fondsftq.com
 - id: s-f6ad8762
@@ -28,24 +30,31 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** canada (as of 2026-08-07)[^s-d30f5c1c]
-- **About:** Fonds de solidarité FTQ is a labour-sponsored development capital fund based in Montréal, Québec, capitalized by union-member RRSP+ savings. With $23.7B net assets (2026 fiscal results), it is the largest development-capital investor network in Québec, deploying across all stages (venture through buyout/growth equity) and virtually all sectors in Canadian (mostly Québec) businesses (as of 2026-08-07)[^s-d30f5c1c]
-- **Type:** venture capital; development capital (as of 2026-06-23)[^s-b1c93940]
-- **Investment strategies:** venture capital, development capital (as of 2026-06-23)[^s-b1c93940]
-- **Stages:** startup, research and development, growth[^s-508a1386]
+- **Type:** venture capital (as of 2026-08-12)[^s-94210181]
+- **HQ:** Québec, Quebec, Canada[^s-94210181]
+- **Founded:** 1983[^s-94210181]
+- **Stages:** Pre-seed, Seed, Series A, Series B, Late Stage (Series C+) (as of 2026-08-12)[^s-94210181]
+- **Sectors:** Manufacturing, HealthTech, CleanTech, Infrastructure, Technology, Financial Services, Pharmaceuticals, Software, Aerospace, Business Services (B2B), Logistics (as of 2026-08-12)[^s-94210181]
+- **Geographies:** North America, Europe (as of 2026-08-12)[^s-94210181]
+- **Check size min:** $1M (as of 2026-08-12)[^s-94210181]
+- **Check size max:** $5M (as of 2026-08-12)[^s-94210181]
+- **AUM:** $15,600M (as of 2026-08-12)[^s-94210181]
+- **Thesis quote:** The firm's investments are guided by its commitment to impact and sustainable growth. (as of 2026-08-12)[^s-94210181]
 
 ## Portfolio
 
 | Company | Sector | Round | Date |
 | --- | --- | --- | --- |
 | Congruence Therapeutics[^s-d30f5c1c] | Not recorded | Not recorded | Not recorded |
+| Lion Electric[^s-94210181] | electric vehicles | Not recorded | Not recorded |
+| Stingray[^s-94210181] | telecom services | Not recorded | Not recorded |
+| Vision Globale[^s-94210181] | media production | Not recorded | Not recorded |
 
 ## People
 
 Not recorded.
 
+[^s-94210181]: <https://privateequitylist.com/investors/fonds-de-solidarite-ftq>
 [^s-d30f5c1c]: <https://www.fondsftq.com>
 [^s-f6ad8762]: <https://www.fondsftq.com/fr-ca/entreprise/accompagnement/faq/solutions/capital-developpement>
 [^s-508a1386]: <https://www.fondsftq.com/fr-ca/entreprise/accompagnement/faq/solutions/capital-risque>

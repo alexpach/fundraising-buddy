@@ -1,19 +1,21 @@
 ---
 type: Investor Firm
 title: Mana Ventures
-description: venture capital; seed, series A, series B, series C; Artificial Intelligence,
-  Software, Space, HealthTech, BioTech, Robotics, Autonomy.
+description: venture capital; Early, Pre-Seed, Seed, Series A; Software (including
+  Web Marketplace and SaaS), PropTech, Business Solutions, Artificial Intelligence
+  & Big Data, Blockchain & Cryptocurrencies, Gaming & eSports, Real Estate & Construction.
 resource: https://www.manaventures.vc/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: manaventures.vc
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 51
-status: draft
 sources:
+- id: s-2e7f0001
+  resource: https://angelspartners.com/firm/mana-ventures
 - id: s-7e6ba024
   resource: https://www.manaventures.vc/
 - id: s-00290de7
@@ -24,13 +26,16 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-08-07)[^s-7e6ba024]
-- **About:** Mana Ventures is a US deeptech + AI specialist venture capital firm (led by partner Morgan, per founder testimonials) investing in early-stage (seed/Series A) companies across Artificial Intelligence, Software, Space, HealthTech, BioTech, Robotics, and Autonomy. It runs an AngelList syndicate ("The Collective") and a scout program (as of 2026-08-07)[^s-7e6ba024]
-- **Type:** venture capital[^s-00290de7]
-- **Stages:** seed, series A, series B, series C[^s-00290de7]
-- **Sectors:** Artificial Intelligence, Software, Space, HealthTech, BioTech, Robotics, Autonomy[^s-7e6ba024]
+- **Type:** venture capital[^s-2e7f0001]
+- **HQ:** San Francisco, California[^s-2e7f0001]
+- **Founded:** 2016[^s-2e7f0001]
+- **Stages:** Early, Pre-Seed, Seed, Series A[^s-2e7f0001]
+- **Sectors:** Software (including Web Marketplace and SaaS), PropTech, Business Solutions, Artificial Intelligence & Big Data, Blockchain & Cryptocurrencies, Gaming & eSports, Real Estate & Construction[^s-2e7f0001]
+- **Check size min:** $10,000[^s-2e7f0001]
+- **Check size max:** $100,000[^s-2e7f0001]
+- **AUM:** $8,240,000[^s-2e7f0001]
+- **Thesis quote:** We invest in early-stage companies that are building the future with frontier technologies.[^s-2e7f0001]
+- **About:** Mana Ventures is a venture capital firm that specializes in early-stage investments and is based in San Francisco, California.[^s-2e7f0001]
 - **Leads rounds:** no[^s-00290de7]
 
 ## Portfolio
@@ -44,10 +49,18 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | K2 Space[^s-7e6ba024] | Not recorded | Not recorded | Not recorded |
 | Unity[^s-7e6ba024] | Not recorded | Not recorded | Not recorded |
 | Abridge[^s-7e6ba024] | Not recorded | Not recorded | Not recorded |
+| Restream[^s-2e7f0001] | Not recorded | Not recorded | Not recorded |
+| Carousel Brands[^s-2e7f0001] | Not recorded | Not recorded | Not recorded |
+| Datalogz[^s-2e7f0001] | Not recorded | Series A | Not recorded |
+| EquityList[^s-2e7f0001] | Not recorded | Seed | Not recorded |
+| Wisecut[^s-2e7f0001] | Not recorded | Seed | Not recorded |
+| UtilizeCore[^s-2e7f0001] | Not recorded | Series A | Not recorded |
+| TrueFoundry[^s-2e7f0001] | Not recorded | Seed | Not recorded |
 
 ## People
 
 Not recorded.
 
+[^s-2e7f0001]: <https://angelspartners.com/firm/mana-ventures>
 [^s-7e6ba024]: <https://www.manaventures.vc/>
 [^s-00290de7]: <https://www.manaventures.vc/scout-program>

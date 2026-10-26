@@ -1,42 +1,42 @@
 ---
 type: Investor Firm
 title: Franvest Capital Partners Inc.
-description: private investment firm; early stage, established companies; fitness,
-  wellness, franchise.
+description: early stage, established; fitness, wellness, franchise.
 resource: https://franvest.ca
 tags:
 - investor-firm
-- directory
+- sourced
 domain: franvest.ca
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 38
-status: draft
 sources:
 - id: s-c0368340
   resource: https://franvest.ca
+- id: s-e620ef4e
+  resource: https://franvest.ca/
 - id: s-0b1a425a
   resource: https://franvest.ca/our-company2/
 - id: s-6ab346b0
   resource: https://franvest.ca/privacy-policy/
 - id: s-c5a2c137
   resource: https://www.crunchbase.com/organization/franvest-capital-partners
+- id: s-466423dc
+  resource: https://www.marketscreener.com/insider/DAVID-A-HARDY-A1RWEU/
 ---
 
 # Franvest Capital Partners Inc.
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** canada, us (as of 2026-04-27)[^s-c5a2c137]
-- **About:** Franvest Capital Partners is an Edmonton, Alberta-based privately-held investment firm with a diversified portfolio across direct private investments, real estate, and venture-stage opportunities. The firm operates in a family-office / boutique model (as of 2026-04-27)[^s-c5a2c137]
-- **Type:** private investment firm[^s-0b1a425a]
-- **Investment strategies:** lower middle market private company investment[^s-0b1a425a]
-- **Investment instruments:** equity[^s-0b1a425a]
-- **Stages:** early stage, established companies[^s-0b1a425a]
-- **Sectors:** fitness, wellness, franchise[^s-0b1a425a]
+- **Stages:** early stage, established[^s-e620ef4e]
+- **Sectors:** fitness, wellness, franchise[^s-e620ef4e]
+- **Geographies:** Canada[^s-466423dc]
+- **Check size min:** USD 1M[^s-466423dc]
+- **Check size max:** more than USD 10M[^s-466423dc]
+- **Thesis quote:** Franvest Capital Partners invests in lower middle market privately held companies primarily in the fitness, wellness, or franchise industries.[^s-e620ef4e]
+- **About:** Franvest Capital Partners is a lower middle market investment firm that works with management teams of fitness, wellness, and franchise companies.[^s-e620ef4e]
 
 ## Portfolio
 
@@ -44,9 +44,13 @@ Not recorded.
 
 ## People
 
-Not recorded.
+- [David A. Hardy, MBA](../people/franvest.ca--david-a-hardy-mba-f1b950.md) - PRINCIPAL & PRESIDENT
+- [Blake Macdonald, B.COM](../people/franvest.ca--blake-macdonald-b-com-d0d731.md) - MANAGING PARTNER
+- [Matt Walsh, B.COM](../people/franvest.ca--matt-walsh-b-com-972ca5.md) - Director, Investments
 
 [^s-c0368340]: <https://franvest.ca>
+[^s-e620ef4e]: <https://franvest.ca/>
 [^s-0b1a425a]: <https://franvest.ca/our-company2/>
 [^s-6ab346b0]: <https://franvest.ca/privacy-policy/>
 [^s-c5a2c137]: <https://www.crunchbase.com/organization/franvest-capital-partners>
+[^s-466423dc]: <https://www.marketscreener.com/insider/DAVID-A-HARDY-A1RWEU/>

@@ -1,18 +1,20 @@
 ---
 type: Investor Firm
 title: Bloomhaus Ventures
-description: venture capital; early-stage, seed; CleanTech, IndustryTech, Digitalization.
+description: venture capital; pre-seed, post-seed; SaaS, Cybersecurity, Blockchain,
+  Deeptech, Industrytech, Cleantech.
 resource: https://www.bloomhaus.vc/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: bloomhaus.vc
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 46
-status: draft
 sources:
+- id: s-8bcf2683
+  resource: https://battery-tech.net/company/bloomhaus-ventures-ag/
 - id: s-88f6b649
   resource: https://www.bloomhaus.vc/
 - id: s-514693c4
@@ -27,15 +29,17 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe, us (as of 2026-08-17)[^s-88f6b649]
-- **About:** Bloomhaus (Bloomhaus Ventures AG) is an early-stage venture firm headquartered in Zug, Switzerland with additional presence in Berlin and Silicon Valley, investing in "IndustryTech" , technology addressing industrial and measurement challenges. It is a young and thinly-documented firm; most detail below is sourced from its own portfolio page and one co-investment (as of 2026-08-17)[^s-88f6b649]
-- **Type:** venture capital[^s-514693c4]
-- **Investment strategies:** early-stage venture investing, evergreen investing[^s-514693c4]
-- **Legal structure:** evergreen investment structure[^s-514693c4]
-- **Stages:** early-stage, seed[^s-514693c4]
-- **Sectors:** CleanTech, IndustryTech, Digitalization[^s-4f6576dc]
+- **Type:** venture capital[^s-8bcf2683]
+- **HQ:** Zug, Switzerland[^s-8bcf2683]
+- **Founded:** 2022[^s-8bcf2683]
+- **Stages:** pre-seed, post-seed[^s-8bcf2683]
+- **Sectors:** SaaS, Cybersecurity, Blockchain, Deeptech, Industrytech, Cleantech[^s-8bcf2683]
+- **Geographies:** Germany, Austria, Switzerland[^s-8bcf2683]
+- **Check size min:** CHF 50,000[^s-8bcf2683]
+- **Check size max:** CHF 500,000[^s-8bcf2683]
+- **AUM:** CHF 10 million[^s-8bcf2683]
+- **Thesis quote:** We believe that technology startups have the potential to solve some of the world's biggest challenges.[^s-88f6b649]
+- **About:** Swiss venture capital firm founded in 2022 and headquartered in Zug, with connections in Berlin and Silicon Valley.[^s-8bcf2683]
 
 ## Portfolio
 
@@ -45,11 +49,15 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Tentris[^s-88f6b649] | Not recorded | Not recorded | Not recorded |
 | Cortexia[^s-88f6b649] | Not recorded | Not recorded | Not recorded |
 | Gradesens[^s-88f6b649] | Not recorded | Not recorded | Not recorded |
+| AtmoCooling[^s-8bcf2683] | Not recorded | Not recorded | Not recorded |
+| Limatica[^s-8bcf2683] | Not recorded | Not recorded | Not recorded |
+| Manukai[^s-8bcf2683] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
 Not recorded.
 
+[^s-8bcf2683]: <https://battery-tech.net/company/bloomhaus-ventures-ag/>
 [^s-88f6b649]: <https://www.bloomhaus.vc/>
 [^s-514693c4]: <https://www.bloomhaus.vc/about>
 [^s-4f6576dc]: <https://www.bloomhaus.vc/startups>

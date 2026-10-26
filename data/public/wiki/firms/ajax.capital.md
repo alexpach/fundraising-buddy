@@ -10,7 +10,7 @@ tags:
 domain: ajax.capital
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 43
 status: draft
 sources:
@@ -18,6 +18,8 @@ sources:
   resource: https://ajax.capital
 - id: s-c0d58fc2
   resource: https://ajax.capital/about
+- id: s-508b49da
+  resource: https://ajax.capital/portfolio
 - id: s-14f86776
   resource: https://www.prnewswire.com/news-releases/former-dots-pretzels-ceo-randy-johnson-tapped-to-lead-the-farmer-companies-as-it-completes-17-million-series-a-financing-302839057.html
 ---
@@ -35,12 +37,24 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## Portfolio
 
-Not recorded.
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Bright AI[^s-508b49da] | Not recorded | Not recorded | Not recorded |
+| Radiant[^s-508b49da] | Not recorded | Not recorded | Not recorded |
+| The Farmer Companies[^s-508b49da] | Not recorded | Not recorded | Not recorded |
+| Kraken[^s-508b49da] | Not recorded | Not recorded | Not recorded |
+| Figure[^s-508b49da] | Not recorded | Not recorded | Not recorded |
+| Amgine[^s-508b49da] | Not recorded | Not recorded | Not recorded |
+| Synexis[^s-508b49da] | Not recorded | Not recorded | Not recorded |
+| Tempothera[^s-508b49da] | Not recorded | Not recorded | Not recorded |
+| DraftKings[^s-508b49da] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Per-Christian Brevig](../people/ajax.capital--per-christian-brevig-67ee6a.md) - Managing Partner and Founder
+- [Kirat Anand](../people/ajax.capital--kirat-anand-aca227.md) - Venture Partner
 
 [^s-3aa8e883]: <https://ajax.capital>
 [^s-c0d58fc2]: <https://ajax.capital/about>
+[^s-508b49da]: <https://ajax.capital/portfolio>
 [^s-14f86776]: <https://www.prnewswire.com/news-releases/former-dots-pretzels-ceo-randy-johnson-tapped-to-lead-the-farmer-companies-as-it-completes-17-million-series-a-financing-302839057.html>

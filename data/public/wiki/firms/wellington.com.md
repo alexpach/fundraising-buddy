@@ -10,7 +10,7 @@ tags:
 domain: wellington.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 16
 status: draft
 sources:
@@ -38,7 +38,7 @@ Not recorded.
 
 ## People
 
-Not recorded.
+- [Matt Witheiler](../people/wellington.com--matt-witheiler-b256ac.md) - Head of Late-Stage Growth
 
 [^s-e3acd1ff]: <https://wellington.com>
 [^s-aa318ec5]: <https://www.wellington.com/en>

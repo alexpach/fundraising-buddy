@@ -1,22 +1,21 @@
 ---
 type: Investor Firm
 title: Red Glass Ventures
-description: venture capital; formation stage, Series A; AI and physical world, infrastructure,
-  autonomy, robotics, industrials, manufacturing, automotive, construction, defense,
-  national security, health, energy.
+description: early stage, Series A-B; AI, physical world.
 resource: https://redglass.vc
 tags:
 - investor-firm
-- directory
+- sourced
 domain: redglass.vc
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 37
-status: draft
 sources:
 - id: s-d037d05e
   resource: https://redglass.vc
+- id: s-00625e79
+  resource: https://vcspine.com/firms/red-glass
 - id: s-8c2c932d
   resource: https://www.linkedin.com/company/red-glass
 - id: s-d3a62248
@@ -27,13 +26,12 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-07-27)[^s-d037d05e]
-- **Type:** venture capital[^s-8c2c932d]
-- **Investment strategies:** early-stage investing at the intersection of AI and the physical world[^s-8c2c932d]
-- **Stages:** formation stage, Series A[^s-8c2c932d]
-- **Sectors:** AI and physical world, infrastructure, autonomy, robotics, industrials, manufacturing, automotive, construction, defense, national security, health, energy[^s-d3a62248]
+- **HQ:** Menlo Park, CA[^s-d3a62248]
+- **Stages:** early stage, Series A-B[^s-00625e79]
+- **Sectors:** AI, physical world[^s-d3a62248]
+- **Latest fund:** Red Glass Ventures I, L.P., $150M offered, first close July 2025[^s-00625e79]
+- **Thesis quote:** Investing at the intersection of **AI** and the **physical** **world**.[^s-d3a62248]
+- **About:** Red Glass Ventures is an investor based in Menlo Park, CA, investing at the intersection of AI and the physical world.[^s-d3a62248]
 
 ## Portfolio
 
@@ -44,5 +42,6 @@ Not recorded.
 Not recorded.
 
 [^s-d037d05e]: <https://redglass.vc>
+[^s-00625e79]: <https://vcspine.com/firms/red-glass>
 [^s-8c2c932d]: <https://www.linkedin.com/company/red-glass>
 [^s-d3a62248]: <https://www.redglass.vc/>

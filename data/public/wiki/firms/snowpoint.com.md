@@ -1,18 +1,16 @@
 ---
 type: Investor Firm
 title: Snowpoint Ventures
-description: Series A, Series B, Series C, Series D; Defense technology, Data, Deep
-  tech, Frontier tech.
+description: data, deep tech, frontier tech.
 resource: https://snowpoint.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: snowpoint.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 27
-status: draft
 sources:
 - id: s-49a45421
   resource: https://snowpoint.com
@@ -28,13 +26,11 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Investment strategies:** dual-purpose technology, defense technology[^s-f4624873]
-- **Stages:** Series A, Series B, Series C, Series D[^s-fe3a6485]
-- **Sectors:** Defense technology, Data, Deep tech, Frontier tech[^s-f4624873]
+- **Sectors:** data, deep tech, frontier tech[^s-f4624873]
+- **AUM:** ~$1B[^s-f4624873]
+- **Thesis quote:** We back companies at the intersection of data, deep tech, and frontier tech looking to navigate the complexities of government and commercial use defining the defense landscape for the next generation.[^s-f4624873]
+- **About:** Snowpoint helps next-generation companies navigate the challenges and risks of creating innovative technologies that improve national security and societal resilience.[^s-f4624873]
 - **Leads rounds:** yes (as of 2023-08-02)[^s-eb787994]
-- **AUM:** Approximately USD 1 billion (date not reported)[^s-f4624873]
 
 ## Portfolio
 

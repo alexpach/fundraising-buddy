@@ -1,18 +1,19 @@
 ---
 type: Investor Firm
 title: Off The Chain Capital
-description: Blockchain, Artificial intelligence.
+description: hedge fund; blockchain, artificial intelligence.
 resource: https://offthechain.capital/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: offthechain.capital
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 42
-status: draft
 sources:
+- id: s-cef80a4b
+  resource: https://blockworks.com/news/off-the-chain-capital-mt-gox
 - id: s-fdd308e4
   resource: https://offthechain.capital/
 - id: s-bbde077c
@@ -23,13 +24,13 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us, global (as of 2026-08-06)[^s-fdd308e4]
-- **About:** Off The Chain Capital was founded in 2016 as a family office aiming to outperform bitcoin, and has since expanded to take capital from outside qualified purchasers (raised a dedicated $160M fund). Led by CIO/Managing Partner Brian Estes (also CEO Brian Dixon, CFO Tom Siegel), it runs a long-only fund focused on blockchain and digital assets , bitcoin, Mt (as of 2026-08-06)[^s-fdd308e4]
-- **Investment strategies:** value investing, long-only investing[^s-fdd308e4]
-- **Legal structure:** single fund[^s-fdd308e4]
-- **Sectors:** Blockchain, Artificial intelligence[^s-fdd308e4]
+- **Type:** hedge fund[^s-cef80a4b]
+- **HQ:** Orlando, Florida[^s-cef80a4b]
+- **Founded:** 2016[^s-fdd308e4]
+- **Sectors:** blockchain, artificial intelligence[^s-fdd308e4]
+- **AUM:** $140 million[^s-cef80a4b]
+- **Thesis quote:** The method is unchanged from the tradition it inherits: estimate intrinsic value, demand a margin of safety, and act only when price and value diverge.[^s-fdd308e4]
+- **About:** Off The Chain Capital is an investment firm applying a Graham and Buffett value approach to blockchain, artificial intelligence, and their intersection.[^s-fdd308e4]
 
 ## Portfolio
 
@@ -41,7 +42,8 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## People
 
-Not recorded.
+- [Brian Estes](../people/offthechain.capital--brian-estes-011093.md) - chief executive and chief investment officer
 
+[^s-cef80a4b]: <https://blockworks.com/news/off-the-chain-capital-mt-gox>
 [^s-fdd308e4]: <https://offthechain.capital/>
 [^s-bbde077c]: <https://offthechain.capital/about/>

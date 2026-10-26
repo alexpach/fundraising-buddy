@@ -1,18 +1,16 @@
 ---
 type: Investor Firm
 title: Marlinspike Partners
-description: venture capital; defense, dual-use, aerospace, AI & machine learning,
-  autonomy & robotics, cybersecurity.
+description: aerospace and defense.
 resource: https://marlinspike.us/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: marlinspike.us
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 47
-status: draft
 sources:
 - id: s-2ede0a89
   resource: https://marlinspike.us/
@@ -26,13 +24,9 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-06-08)[^s-64c51694]
-- **About:** Marlinspike is a defense- and dual-use-focused venture capital firm based in Arlington, VA, backing companies with pioneering technologies that serve national security needs and meaningful commercial markets. Sectors include aerospace, AI/ML, autonomy and robotics, and cybersecurity. (as of 2026-06-08)[^s-64c51694]
-- **Type:** venture capital (as of 2024-11-22)[^s-5597885e]
-- **Investment strategies:** dual-use investing (as of 2024-11-22)[^s-5597885e]
-- **Sectors:** defense, dual-use, aerospace, AI & machine learning, autonomy & robotics, cybersecurity[^s-2ede0a89]
+- **Sectors:** aerospace and defense[^s-2ede0a89]
+- **Thesis quote:** We invest in companies with pioneering technologies addressing national security needs and possessing massive commercial markets.[^s-2ede0a89]
+- **About:** Marlinspike Partners is an investor that funds pioneering aerospace and defense technology companies.[^s-2ede0a89]
 
 ## Portfolio
 
@@ -44,6 +38,30 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Shift5[^s-64c51694] | Not recorded | Not recorded | Not recorded |
 | Second Front Systems[^s-64c51694] | Not recorded | Not recorded | Not recorded |
 | Distributed Spectrum[^s-64c51694] | Not recorded | Not recorded | Not recorded |
+| Shield AI[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Armada[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Anduril[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Kindo[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Rendered.ai[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Hypori[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Cambium[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Privateer[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Gambit[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Heliux[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Bright AI[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Variant Security[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Volund[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Exia Labs[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Magenta[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| LayUp[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| JetZero[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Lazarus Energy[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Foundry Robotics[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Chaos[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Palantir[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Kodiak[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Pictorus[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
+| Observable Space[^s-2ede0a89] | Not recorded | Not recorded | Not recorded |
 
 ## People
 

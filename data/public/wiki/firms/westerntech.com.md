@@ -1,41 +1,43 @@
 ---
 type: Investor Firm
 title: Western Technology Investment
-description: venture-debt provider; seed through public listing; technology and major
-  innovation sectors.
+description: venture debt; seed, public listing; software, cybersecurity, e-commerce,
+  hardware.
 resource: https://www.westerntech.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: westerntech.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 39
-status: draft
 sources:
+- id: s-c1f00745
+  resource: https://capitalaum.com/private-equity/westerntechnologyinvestmentwti-portolavalley-ca.htm
 - id: s-b0d0e3ca
   resource: https://www.crunchbase.com/organization/western-technology-investment
 - id: s-d1cd0130
   resource: https://www.westerntech.com
 - id: s-63e5dc26
   resource: https://www.westerntech.com/
+- id: s-5593fc38
+  resource: https://www.westerntech.com/companies
 ---
 
 # Western Technology Investment
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-04-19)[^s-b0d0e3ca]
-- **About:** Western Technology Investment (WTI) is a Portola Valley, California–based venture debt firm founded in 1980. WTI pioneered the venture-debt category; since 1994 it has raised 11 funds and deployed approximately $7.8B in aggregate loan commitments to over 1,500 tech and innovation companies from seed through IPO. P10 (NYSE: PX) acquired WTI in August 2022. (as of 2026-04-19)[^s-b0d0e3ca]
-- **Type:** venture-debt provider[^s-63e5dc26]
-- **Investment strategies:** venture debt[^s-63e5dc26]
-- **Legal structure:** debt capital provider[^s-63e5dc26]
-- **Investment instruments:** debt[^s-63e5dc26]
-- **Stages:** seed through public listing[^s-63e5dc26]
-- **Sectors:** technology and major innovation sectors[^s-63e5dc26]
+- **Type:** venture debt[^s-63e5dc26]
+- **HQ:** Portola Valley, CA[^s-c1f00745]
+- **Founded:** 1980[^s-c1f00745]
+- **Stages:** seed, public listing[^s-63e5dc26]
+- **Sectors:** software, cybersecurity, e-commerce, hardware[^s-c1f00745]
+- **AUM:** $1.9 Billion[^s-c1f00745]
+- **Latest fund:** 11th institutional fund[^s-63e5dc26]
+- **Thesis quote:** Our unique approach to venture debt offers companies a flexible and founder-friendly form of capital that supports their growth with less dilution.[^s-63e5dc26]
+- **About:** Western Technology Investment (WTI) is a technology-focused investment firm located in Portola Valley, California.[^s-c1f00745]
 
 ## Portfolio
 
@@ -43,11 +45,44 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | --- | --- | --- | --- |
 | Provided venture[^s-b0d0e3ca] | Not recorded | Not recorded | Not recorded |
 | Debt product rather than equity[^s-b0d0e3ca] | Not recorded | Not recorded | Not recorded |
+| OneVision[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Pioneers[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Allocate[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Flossy[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| GlobalComix[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Jericho Security[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| D2S[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Cofertility[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Canvas Medical[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Sygaldry[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Checksum[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Somos Internet[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Brick Dynamics[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Lucra[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| World View[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Outbuild[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| BossBites[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Orion[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Datachain[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Crowded[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Standard Dental[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Mesta[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Daisy[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Lone Gull Holdings[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| FeltSense[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Evolver[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| SkySQL[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| One Bio[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| DeepTempo[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Innventure[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
+| Wonder Group[^s-5593fc38] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
 Not recorded.
 
+[^s-c1f00745]: <https://capitalaum.com/private-equity/westerntechnologyinvestmentwti-portolavalley-ca.htm>
 [^s-b0d0e3ca]: <https://www.crunchbase.com/organization/western-technology-investment>
 [^s-d1cd0130]: <https://www.westerntech.com>
 [^s-63e5dc26]: <https://www.westerntech.com/>
+[^s-5593fc38]: <https://www.westerntech.com/companies>

@@ -1,16 +1,16 @@
 ---
 type: Investor Firm
 title: MGFO Private Investments
-description: family-office; any; fintech-crypto, life-sciences, carbon-economy.
+description: family office; technology, financial sector.
 resource: https://mgfo.hatcher.com/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: mgfo.hatcher.com
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 29
-status: draft
 sources:
 - id: s-df4e5ff6
   resource: https://mgfo.hatcher.com/
@@ -20,14 +20,12 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** family-office (as of 2026-08-06)[^s-df4e5ff6]
-- **Stages:** any (as of 2026-08-06)[^s-df4e5ff6]
-- **Geographies:** global (as of 2026-08-06)[^s-df4e5ff6]
-- **Sectors:** fintech-crypto, life-sciences, carbon-economy (as of 2026-08-06)[^s-df4e5ff6]
+- **Type:** family office[^s-df4e5ff6]
+- **Sectors:** technology, financial sector[^s-df4e5ff6]
+- **Geographies:** global[^s-df4e5ff6]
+- **Thesis quote:** The MGFO operates a proprietary quantitative trading firm and is a global private investor with a focus on technology and financial sector opportunities.[^s-df4e5ff6]
+- **About:** MGFO is a family office that oversees the investment activity of founder Harry McPike.[^s-df4e5ff6]
 - **Leads rounds:** unknown[^s-df4e5ff6]
-- **About:** MGFO (McPike Global Family Office) is a Bahamas-based (Nassau) single-family office overseeing the private investment activity of founder Harry McPike, whose core vehicle is a quantitative futures/FX trading firm. Its Private Investments arm deploys flexible, long-term capital across asset classes and stages, concentrating on fintech & crypto, life sciences, and the carbon economy; it is also an L (as of 2026-08-06)[^s-df4e5ff6]
 
 ## Portfolio
 
@@ -38,6 +36,6 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## People
 
-Not recorded.
+- [Harry McPike](../people/mgfo.hatcher.com--harry-mcpike-bc424f.md) - founder
 
 [^s-df4e5ff6]: <https://mgfo.hatcher.com/>

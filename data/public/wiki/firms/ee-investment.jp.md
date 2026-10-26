@@ -1,25 +1,27 @@
 ---
 type: Investor Firm
 title: Energy & Environment Investments, Inc.
-description: venture capital; early, late; energy transition, smart home, smart industries,
-  smart mobilities, smart cities, circular economy, natural resources.
+description: Energy Transition, Mobility & Transportation, Smart Society.
 resource: https://ee-investment.jp
 tags:
 - investor-firm
-- directory
+- sourced
 domain: ee-investment.jp
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 52
-status: draft
 sources:
 - id: s-6e6ca250
   resource: https://ee-investment.jp
+- id: s-7fabe147
+  resource: https://ee-investment.jp/
 - id: s-2fbdcd16
   resource: https://ee-investment.jp/en/about/
 - id: s-201a1367
   resource: https://ee-investment.jp/wp-content/uploads/2019/09/Outline-of-EEI-Fund-4.pdf
+- id: s-0c292834
+  resource: https://thevcpowerboard.com/firms/energy-environment-investment/
 - id: s-91233f36
   resource: https://www.crunchbase.com/organization/energy-environment-investment
 ---
@@ -28,13 +30,11 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** apac, global (as of 2026-04-19)[^s-91233f36]
-- **About:** Energy & Environment Investment, Inc. (EEI) is a Tokyo-based venture capital firm founded on March 3, 2006, self-described as the only Japanese VC firm dedicated exclusively to the energy and environment sectors (as of 2026-04-19)[^s-91233f36]
-- **Type:** venture capital[^s-2fbdcd16]
-- **Stages:** early, late (as of 2019)[^s-201a1367]
-- **Sectors:** energy transition, smart home, smart industries, smart mobilities, smart cities, circular economy, natural resources (as of 2019)[^s-201a1367]
+- **HQ:** Tokyo, Japan[^s-0c292834]
+- **Founded:** 2006 (as of 2006-03-03)[^s-0c292834]
+- **Sectors:** Energy Transition, Mobility & Transportation, Smart Society[^s-0c292834]
+- **Latest fund:** JPY 30bn (EEI5号イノベーション＆インパクト投資事業有限責任組合) (as of 2022-09)[^s-0c292834]
+- **About:** Japanese venture capital firm investing in the environment and energy sectors, founded in 2006 and based in Tokyo.[^s-0c292834]
 
 ## Portfolio
 
@@ -44,12 +44,23 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Traxess / ASF Technologies[^s-91233f36] | Not recorded | Not recorded | Not recorded |
 | Smart[^s-91233f36] | Not recorded | Not recorded | Not recorded |
 | Notable investments[^s-91233f36] | Not recorded | Not recorded | Not recorded |
+| Renova[^s-7fabe147] | Not recorded | Not recorded | Not recorded |
+| iGrid[^s-7fabe147] | Not recorded | Not recorded | Not recorded |
+| Rezil[^s-7fabe147] | Not recorded | Not recorded | Not recorded |
+| Sharing Energy[^s-7fabe147] | Not recorded | Not recorded | Not recorded |
+| Earthene[^s-7fabe147] | Not recorded | Not recorded | Not recorded |
+| Aeterlink[^s-7fabe147] | Not recorded | Not recorded | Not recorded |
+| Astroscale[^s-7fabe147] | Not recorded | Not recorded | Not recorded |
+| Synspective[^s-7fabe147] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Shuichiro Kawamura (河村 修一郎)](../people/ee-investment.jp--shuichiro-kawamura-8547b7.md) - 代表取締役 (Representative Director)
+- [Ryusuke Hayashi (林 隆介)](../people/ee-investment.jp--ryusuke-hayashi-f5cbc0.md) - Head of Mobility Business Innovation / モビリティ事業創造室長
 
 [^s-6e6ca250]: <https://ee-investment.jp>
+[^s-7fabe147]: <https://ee-investment.jp/>
 [^s-2fbdcd16]: <https://ee-investment.jp/en/about/>
 [^s-201a1367]: <https://ee-investment.jp/wp-content/uploads/2019/09/Outline-of-EEI-Fund-4.pdf>
+[^s-0c292834]: <https://thevcpowerboard.com/firms/energy-environment-investment/>
 [^s-91233f36]: <https://www.crunchbase.com/organization/energy-environment-investment>

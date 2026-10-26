@@ -9,7 +9,7 @@ tags:
 domain: thehouse.fund
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 24
 status: draft
 sources:
@@ -34,7 +34,22 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## Portfolio
 
-Not recorded.
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Databricks[^s-3316f701] | Not recorded | Not recorded | Not recorded |
+| Perplexity[^s-3316f701] | Not recorded | Not recorded | Not recorded |
+| Arena[^s-3316f701] | Not recorded | Not recorded | Not recorded |
+| PsiQuantum[^s-3316f701] | Not recorded | Not recorded | Not recorded |
+| Ayar Labs[^s-3316f701] | Not recorded | Not recorded | Not recorded |
+| Flexport[^s-3316f701] | Not recorded | Not recorded | Not recorded |
+| Recursive Superintelligence[^s-3316f701] | Not recorded | Not recorded | Not recorded |
+| Inferact[^s-3316f701] | Not recorded | Not recorded | Not recorded |
+| Savvy Wealth[^s-3316f701] | Not recorded | Not recorded | Not recorded |
+| Anyscale[^s-3316f701] | Not recorded | Not recorded | Not recorded |
+| Superhuman[^s-3316f701] | Not recorded | Not recorded | Not recorded |
+| Arize AI[^s-3316f701] | Not recorded | Not recorded | Not recorded |
+| Laurel[^s-3316f701] | Not recorded | Not recorded | Not recorded |
+| depthfirst[^s-3316f701] | Not recorded | Not recorded | Not recorded |
 
 ## People
 

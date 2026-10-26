@@ -1,17 +1,19 @@
 ---
 type: Investor Firm
 title: Giesecke+Devrient
-description: cvc; seed, series-a; cybersecurity, fintech, digital-identity, trusttech.
+description: venture capital; Seed, Series A, Series B; TrustTech.
 resource: https://www.gi-de.com/en/ventures
 tags:
 - investor-firm
-- directory
+- sourced
 domain: gi-de.com
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 34
-status: draft
 sources:
+- id: s-3e113223
+  resource: https://angelspartners.com/firm/GieseckeDevrientVentures
 - id: s-3a94e9ae
   resource: https://www.gi-de.com/en/ventures
 ---
@@ -20,14 +22,17 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** cvc (as of 2026-08-06)[^s-3a94e9ae]
-- **Stages:** seed, series-a (as of 2026-08-06)[^s-3a94e9ae]
-- **Geographies:** europe, germany (as of 2026-08-06)[^s-3a94e9ae]
-- **Sectors:** cybersecurity, fintech, digital-identity, trusttech (as of 2026-08-06)[^s-3a94e9ae]
+- **Type:** venture capital[^s-3e113223]
+- **Founded:** 2018[^s-3e113223]
+- **Stages:** Seed, Series A, Series B[^s-3e113223]
+- **Sectors:** TrustTech[^s-3e113223]
+- **Geographies:** European Union (EU-27)[^s-3e113223]
+- **Check size min:** €500K[^s-3e113223]
+- **Check size max:** €3M[^s-3e113223]
+- **Latest fund:** €50M co-investment fund with the European Investment Bank and G+D[^s-3e113223]
+- **Thesis quote:** We invest in European TrustTech startups developing solutions for greater security and trust in the digital world[^s-3e113223]
+- **About:** Giesecke+Devrient Ventures is a TrustTech-focused investment fund established in 2018.[^s-3e113223]
 - **Leads rounds:** unknown[^s-3a94e9ae]
-- **About:** G+D Ventures is the corporate venture arm of Giesecke+Devrient, a Munich-based international security-technology group (payments, connectivity, digital identities, digital infrastructure) founded in 1852. G+D Ventures (est (as of 2026-08-06)[^s-3a94e9ae]
 
 ## Portfolio
 
@@ -36,9 +41,12 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | CENSE AG[^s-3a94e9ae] | Not recorded | Not recorded | Not recorded |
 | FNA[^s-3a94e9ae] | Not recorded | Not recorded | Not recorded |
 | Blockbrain[^s-3a94e9ae] | Not recorded | Not recorded | Not recorded |
+| brighter AI[^s-3e113223] | Not recorded | Series A | Not recorded |
+| Build38[^s-3e113223] | Not recorded | Pre Seed | Not recorded |
 
 ## People
 
 Not recorded.
 
+[^s-3e113223]: <https://angelspartners.com/firm/GieseckeDevrientVentures>
 [^s-3a94e9ae]: <https://www.gi-de.com/en/ventures>

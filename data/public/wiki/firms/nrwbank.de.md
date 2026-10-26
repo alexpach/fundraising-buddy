@@ -1,23 +1,20 @@
 ---
 type: Investor Firm
 title: NRW.BANK
-description: public development bank; venture capital investor; early phase after
-  initial financing rounds, later-phase start-up and scale-up rounds; Climate Tech,
-  Information and communication technologies, AI, enterprise software, SaaS, and IT
-  security, Life sciences, Robotics, photonics, and new materials, Industrial digitization,
-  Deep tech, Green tech and circular economy, Digitalization, AI, cybersecurity, SaaS,
-  and robotics, Life sciences and medical technology.
+description: venture capital; Seed, Series A; ClimateTech, Chemicals, Life Sciences,
+  Energy, Logistics, New materials, HealthTech, Software.
 resource: https://www.nrwbank.de
 tags:
 - investor-firm
-- directory
+- sourced
 domain: nrwbank.de
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 48
-status: draft
 sources:
+- id: s-f3238f59
+  resource: https://privateequitylist.com/investors/nrwbank
 - id: s-e07e6c94
   resource: https://www.nrwbank.de
 - id: s-3da11033
@@ -32,15 +29,17 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe (as of 2026-08-06)[^s-e07e6c94]
-- **Check size max:** 15M (as of 2026-08-06)[^s-e07e6c94]
-- **Type:** public development bank; venture capital investor (as of 2026-09-17)[^s-b9772857]
-- **Investment strategies:** venture capital (as of 2026-09-17)[^s-b9772857]
-- **Investment instruments:** equity, convertible loan (as of 2026-09-17)[^s-b9772857]
-- **Stages:** early phase after initial financing rounds, later-phase start-up and scale-up rounds[^s-3da11033]
-- **Sectors:** Climate Tech, Information and communication technologies, AI, enterprise software, SaaS, and IT security, Life sciences, Robotics, photonics, and new materials, Industrial digitization, Deep tech, Green tech and circular economy, Digitalization, AI, cybersecurity, SaaS, and robotics, Life sciences and medical technology[^s-3da11033]
+- **Type:** venture capital (as of 2026-08-25)[^s-f3238f59]
+- **HQ:** Düsseldorf, North Rhine-Westphalia, Germany (as of 2026-08-25)[^s-f3238f59]
+- **Founded:** 2002 (as of 2026-08-25)[^s-f3238f59]
+- **Stages:** Seed, Series A (as of 2026-08-25)[^s-f3238f59]
+- **Sectors:** ClimateTech, Chemicals, Life Sciences, Energy, Logistics, New materials, HealthTech, Software (as of 2026-08-25)[^s-f3238f59]
+- **Geographies:** North America, Europe (as of 2026-08-25)[^s-f3238f59]
+- **Check size min:** $0 (as of 2026-08-25)[^s-f3238f59]
+- **Check size max:** $1M (as of 2026-08-25)[^s-f3238f59]
+- **AUM:** $161,000M (as of 2026-08-25)[^s-f3238f59]
+- **Latest fund:** Gründerfonds Ruhr II, $34 M (as of 2024-10-07)[^s-f3238f59]
+- **About:** NRW.BANK is a promotional bank for North Rhine-Westphalia that also runs venture capital and private equity investing. (as of 2026-08-25)[^s-f3238f59]
 
 ## Portfolio
 
@@ -50,6 +49,7 @@ Not recorded.
 
 Not recorded.
 
+[^s-f3238f59]: <https://privateequitylist.com/investors/nrwbank>
 [^s-e07e6c94]: <https://www.nrwbank.de>
 [^s-3da11033]: <https://www.nrwbank.de/de/foerderung/foerderprodukte/15261/nrwventure.html>
 [^s-0ad7f2be]: <https://www.nrwbank.de/de/foerderung/foerderprodukte/60398/nrwventure-eu-techscale.html>

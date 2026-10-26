@@ -1,17 +1,21 @@
 ---
 type: Investor Firm
 title: Swiss Finance & Property Group AG
-description: pe; real-estate, infrastructure, fund-management.
+description: real estate asset manager; real estate, capital markets.
 resource: https://www.sfp.ch/en/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: sfp.ch
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 28
-status: draft
 sources:
+- id: s-558adb1d
+  resource: https://hub.ipe.com/asset-manager/sfp-group-real-estate/424781.supplier
+- id: s-6b8f2f6b
+  resource: https://www.sfp.ch/
 - id: s-c5dafb3d
   resource: https://www.sfp.ch/en/
 ---
@@ -20,12 +24,12 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** pe (as of 2026-08-06)[^s-c5dafb3d]
-- **Geographies:** europe, switzerland (as of 2026-08-06)[^s-c5dafb3d]
-- **Sectors:** real-estate, infrastructure, fund-management (as of 2026-08-06)[^s-c5dafb3d]
-- **AUM:** CHF 14.8B (as of 2026-08-06)[^s-c5dafb3d]
+- **Type:** real estate asset manager[^s-558adb1d]
+- **Founded:** 2001[^s-558adb1d]
+- **Sectors:** real estate, capital markets[^s-558adb1d]
+- **Geographies:** Switzerland, Europe, global[^s-558adb1d]
+- **AUM:** CHF 15.0 billion[^s-6b8f2f6b]
+- **About:** Swiss Finance & Property Group is a Swiss investment and advisory property company focused on real estate asset management, founded in 2001.[^s-558adb1d]
 - **Leads rounds:** unknown[^s-c5dafb3d]
 
 ## Portfolio
@@ -36,4 +40,6 @@ Not recorded.
 
 Not recorded.
 
+[^s-558adb1d]: <https://hub.ipe.com/asset-manager/sfp-group-real-estate/424781.supplier>
+[^s-6b8f2f6b]: <https://www.sfp.ch/>
 [^s-c5dafb3d]: <https://www.sfp.ch/en/>

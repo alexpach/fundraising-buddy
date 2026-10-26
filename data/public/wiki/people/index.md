@@ -1,8 +1,16 @@
 # Investors
 
+* [Chris Wade](01ventures.com--chris-wade-f5ff75.md) - Partner at 01Ventures (01V).
+* [Christian Hernandez Gallardo](01ventures.com--christian-hernandez-gallardo-fcba5d.md) - Partner at 01Ventures (01V).
+* [Christian Joelck](01ventures.com--christian-joelck-a49401.md) - Partner at 01Ventures (01V).
+* [Jacob Bro](01ventures.com--jacob-bro-2ec13a.md) - Partner at 01Ventures (01V).
 * [Gilles Mattelin](100in.vc--gilles-mattelin-1fde1f.md) - Co-founder at 100IN C.V.
 * [Jorn Vanysacker](100in.vc--jorn-vanysacker-fa9454.md) - Co-founder at 100IN C.V.
 * [Julie Capiau](100in.vc--julie-capiau-f8b76d.md) - Chief of Operations at 100IN C.V.
+* [Alex Doll](1011vc.com--alex-doll-cbc0b6.md) - Founder at Ten Eleven Ventures.
+* [Brian Draves](1011vc.com--brian-draves-0b96a3.md) - partner and COO at Ten Eleven Ventures.
+* [Kaleigh Frost](10xu.group--kaleigh-frost-78c097.md) - Chief Executive Officer at 10XU Group.
+* [Steve Clarke](10xu.group--steve-clarke-b9a324.md) - Executive Chairman at 10XU Group.
 * [Andrew Hansen](137ventures.com--andrew-hansen-072321.md) - Partner, CFO & COO at 137 Ventures.
 * [Ashley Steinberg](137ventures.com--ashley-steinberg-96e322.md) - Head of Strategic Initiatives at 137 Ventures.
 * [Christian Garrett](137ventures.com--christian-garrett-681678.md) - Investment Partner at 137 Ventures.
@@ -51,6 +59,8 @@
 * [Alexander Kudlich](468cap.com--alexander-kudlich-d9a345de.md) - General Partner at 468 Capital.
 * [Florian Leibert](468cap.com--florian-leibert-1b451242.md) - General Partner at 468 Capital.
 * [Ludwig Ensthaler](468cap.com--ludwig-ensthaler-00abbda6.md) - General Partner at 468 Capital.
+* [Aaron Holiday](645ventures.com--aaron-holiday-ba4a4b.md) - Managing Partner and Co-Founder at 645 Ventures.
+* [Nnamdi Okike](645ventures.com--nnamdi-okike-93d414.md) - Managing Partner and Co-Founder at 645 Ventures.
 * [Andrew J Scott](7pc.vc--andrew-j-scott-8871bd.md) - Founding Partner at 7percent Ventures.
 * [Dylan Bourguignon](7pc.vc--dylan-bourguignon-ec17b3.md) - Partner at 7percent Ventures.
 * [Harry Morgan](7pc.vc--harry-morgan-3b3a26.md) - Investor at 7percent Ventures.
@@ -60,6 +70,12 @@
 * [Jin-Young Kim](8vc.com--jin-young-kim-a62a67.md) - Partner and Head of Capital Formation at 8VC.
 * [Joe Lonsdale](8vc.com--joe-lonsdale-9b2e32.md) - Founder and Managing Partner at 8VC.
 * [Sebastian Caliri](8vc.com--sebastian-caliri-df2dff.md) - Investment Team at 8VC.
+* [Daniel Jaffe](9yardscapital.com--daniel-jaffe-38ef64.md) - Partner at 9Yards Capital.
+* [David Fisher](9yardscapital.com--david-fisher-21c40a.md) - Managing Partner at 9Yards Capital.
+* [George Osborne](9yardscapital.com--george-osborne-cb1269.md) - Founding Partner at 9Yards Capital.
+* [Hunter Chen](9yardscapital.com--hunter-chen-475be8.md) - CFO at 9Yards Capital.
+* [Theo Osborne](9yardscapital.com--theo-osborne-0b5112.md) - Managing Partner at 9Yards Capital.
+* [Vik Chawla](9yardscapital.com--vik-chawla-f3729d.md) - Partner at 9Yards Capital.
 * [Alex Rampell](a16z.com--alex-rampell-28e786.md) - Investing at Andreessen Horowitz.
 * [Ben Horowitz](a16z.com--ben-horowitz-33be7e.md) - Investing at Andreessen Horowitz.
 * [Chris Dixon](a16z.com--chris-dixon-1b465b.md) - Investing at Andreessen Horowitz.
@@ -67,6 +83,8 @@
 * [Marc Andreessen](a16z.com--marc-andreessen-011b5c.md) - Investing at Andreessen Horowitz.
 * [Martin Casado](a16z.com--martin-casado-6e2669.md) - Investing at Andreessen Horowitz.
 * [Raghu Raghuram](a16z.com--raghu-raghuram-b2bf3a.md) - Growth Advisory, Investing at Andreessen Horowitz.
+* [Sven Rossmann](abacon.capital--sven-rossmann-2d01eb.md) - Chief Investment Officer - Venture Capital & Startups at ABACON CAPITAL GmbH.
+* [Tobias Krauss](abacon.capital--tobias-krauss-8fbbea.md) - CEO & Head of the Büll Family Office at ABACON CAPITAL GmbH.
 * [Elaine Coughlan](abven.com--elaine-coughlan-14b488.md) - Managing Partner at Atlantic Bridge.
 * [Helen McBreen](abven.com--helen-mcbreen-de8245.md) - Partner at Atlantic Bridge.
 * [Kevin Dillon](abven.com--kevin-dillon-e4b3a3.md) - Managing Partner at Atlantic Bridge.
@@ -87,6 +105,18 @@
 * [Christian Tang-Jespersen](acme.vc--christian-tang-jespersen-2e7311.md) - Partner at ACME Capital.
 * [Hany Nada](acme.vc--hany-nada-d2d887.md) - Co-Founder and Partner at ACME Capital.
 * [Scott Stanford](acme.vc--scott-stanford-1c92f7.md) - Co-Founder and Partner at ACME Capital.
+* [Anup Jacob](activatecap.com--anup-jacob-80117a.md) - Managing Partner at Activate Capital Partners.
+* [Caroline Chick](activatecap.com--caroline-chick-c46f96.md) - Vice President at Activate Capital Partners.
+* [David Lincoln](activatecap.com--david-lincoln-a6f4e5.md) - Managing Partner at Activate Capital Partners.
+* [Emma Bell](activatecap.com--emma-bell-8317e4.md) - Principal at Activate Capital Partners.
+* [Eric Meyer](activatecap.com--eric-meyer-1bcb42.md) - Partner at Activate Capital Partners.
+* [Jon Guerster](activatecap.com--jon-guerster-048b6a.md) - Partner at Activate Capital Partners.
+* [Leila Martin](activatecap.com--leila-martin-af5262.md) - Vice President at Activate Capital Partners.
+* [Nicole Wilkinson](activatecap.com--nicole-wilkinson-85a94d.md) - Associate at Activate Capital Partners.
+* [Paul Jordan](activatecap.com--paul-jordan-d83227.md) - Partner at Activate Capital Partners.
+* [Raj Atluru](activatecap.com--raj-atluru-3cacc4.md) - Managing Partner at Activate Capital Partners.
+* [Mike Winterfield](activeimpactinvestments.com--mike-winterfield-79677a.md) - Founder and Managing Partner at Active Impact Investments.
+* [Tom Boddez](activeimpactinvestments.com--tom-boddez-b893d8.md) - General Partner at Active Impact Investments.
 * [Beckett Jackson](aeroequity.com--beckett-jackson-62d92a.md) - Partner at AE Ventures, the venture capital platform of AE Industrial Partners.
 * [Ben Van Buskirk](aeroequity.com--ben-van-buskirk-3d90c7.md) - Senior Advisor at AE Ventures, the venture capital platform of AE Industrial Partners.
 * [Brett Johnson](aeroequity.com--brett-johnson-31891c.md) - Vice President at AE Ventures, the venture capital platform of AE Industrial Partners.
@@ -124,8 +154,21 @@
 * [Nick Crance](aixventures.com--nick-crance-86cc0e.md) - Partner at AIX Ventures.
 * [Richard Socher](aixventures.com--richard-socher-52a526.md) - Co-Founder & Managing Partner at AIX Ventures.
 * [Sara Tatman](aixventures.com--sara-tatman-043d8b.md) - Senior EA & Operations at AIX Ventures.
+* [Kirat Anand](ajax.capital--kirat-anand-aca227.md) - Venture Partner at AJAX Capital Partners.
+* [Per-Christian Brevig](ajax.capital--per-christian-brevig-67ee6a.md) - Managing Partner and Founder at AJAX Capital Partners.
 * [Courtney Cooper](alatepartners.com--courtney-cooper-8af72f.md) - Partner at Alate Partners.
 * [Stephanie Wood](alatepartners.com--stephanie-wood-0ca490.md) - Vice President at Alate Partners.
+* [Andrew Ferrero](align.vc--andrew-ferrero-6ddfe4.md) - Vice President at Align Ventures.
+* [Ben Bryce](align.vc--ben-bryce-42eac6.md) - Founder and Managing Partner at Align Ventures.
+* [Chris Gardner](align.vc--chris-gardner-e6a78c.md) - Venture Partner at Align Ventures.
+* [Grant Hosking](align.vc--grant-hosking-761488.md) - Managing Partner at Align Ventures.
+* [Greer Love](align.vc--greer-love-56fa1d.md) - Venture Partner at Align Ventures.
+* [Leif Lundaas](align.vc--leif-lundaas-48acc5.md) - Venture Partner at Align Ventures.
+* [Matt Riley](align.vc--matt-riley-66d561.md) - Venture Partner at Align Ventures.
+* [Melanie Singh](align.vc--melanie-singh-cd2450.md) - Investor at Align Ventures.
+* [Neel Chary](align.vc--neel-chary-c58b4c.md) - Partner, Growth Capital at Align Ventures.
+* [Peyton Raun](align.vc--peyton-raun-24e90f.md) - Investor at Align Ventures.
+* [Rodrigo Alvarez](align.vc--rodrigo-alvarez-a684b3.md) - Venture Partner at Align Ventures.
 * [George Mykoniatis](alkeoncapital.com--george-mykoniatis-b2b54c.md) - Chief Financial Officer at Alkeon Capital Management, LLC.
 * [Gregory Daniel Jakubowsky](alkeoncapital.com--gregory-daniel-jakubowsky-58fe5e.md) - Chief Operating Officer/Chief Compliance Officer at Alkeon Capital Management, LLC.
 * [Jennifer Wendy Shufro](alkeoncapital.com--jennifer-wendy-shufro-3b669a.md) - Managing Director of Legal and Compliance at Alkeon Capital Management, LLC.
@@ -159,6 +202,13 @@
 * [Peter Gullander](almi.se--peter-gullander-d7cdc2.md) - Fund Manager Stockholm at Almi Invest AB.
 * [Robert Wahlquist](almi.se--robert-wahlquist-f833be.md) - Fund Manager Småland och öarna at Almi Invest AB.
 * [Åsa Wallin](almi.se--sa-wallin-bbec68.md) - Fund Manager Östra Mellansverige at Almi Invest AB.
+* [Aubrie Pagano](alpaca.vc--aubrie-pagano-9e9960.md) - General Partner, Managing Member at Alpaca VC.
+* [Daniel Fetner](alpaca.vc--daniel-fetner-52b638.md) - Board Partner at Alpaca VC.
+* [David Goldberg](alpaca.vc--david-goldberg-384717.md) - Board Partner at Alpaca VC.
+* [Josh Jagota](alpaca.vc--josh-jagota-754a0f.md) - Principal at Alpaca VC.
+* [Lorraine Sanders](alpaca.vc--lorraine-sanders-deaad7.md) - Head of Content at Alpaca VC.
+* [Ray Updyke](alpaca.vc--ray-updyke-31a512.md) - SVP, Finance, Operations at Alpaca VC.
+* [Ryan Freedman](alpaca.vc--ryan-freedman-59a216.md) - Co-Founder, Executive Chairman at Alpaca VC.
 * [Ahmed Lateb](alpana-ventures.ch--ahmed-lateb-bd02c1.md) - Senior Advisor - Geneva at Alpana Ventures.
 * [Christophe Chemtob](alpana-ventures.ch--christophe-chemtob-98918e.md) - Partner - Geneva at Alpana Ventures.
 * [Guillaume Marit](alpana-ventures.ch--guillaume-marit-be603c.md) - Operations Manager at Alpana Ventures.
@@ -179,6 +229,7 @@
 * [Margret Dupslaff](alstin.capital--margret-dupslaff-677937.md) - Investment Manager at Alstin Capital.
 * [Nicolai Bastian](alstin.capital--nicolai-bastian-9db828.md) - Senior Investment Manager at Alstin Capital.
 * [Selin Daldal](alstin.capital--selin-daldal-7cf778.md) - Investment Manager at Alstin Capital.
+* [Brad Gerstner](altimeter.com--brad-gerstner-1486ee.md) - Founder at Altimeter Capital Management, LP.
 * [Amelia Armour](amadeuscapital.com--amelia-armour-73deec.md) - Partner at Amadeus Capital Partners.
 * [Anne Glover](amadeuscapital.com--anne-glover-06ee92.md) - Chief Executive & Co-founder at Amadeus Capital Partners.
 * [Carl Dickinson](amadeuscapital.com--carl-dickinson-9e4700.md) - Partner & General Counsel at Amadeus Capital Partners.
@@ -190,6 +241,10 @@
 * [Pat Burtis](amadeuscapital.com--pat-burtis-399072.md) - Partner at Amadeus Capital Partners.
 * [Pierre Socha](amadeuscapital.com--pierre-socha-60a3ee.md) - Partner at Amadeus Capital Partners.
 * [Steve Young](amadeuscapital.com--steve-young-3c793c.md) - Venture Partner at Amadeus Capital Partners.
+* [Jeff Chung](amecloudventures.com--jeff-chung-5cd8cf.md) - Managing Director at AME Cloud Ventures.
+* [Jerry Yang](amecloudventures.com--jerry-yang-c9b904.md) - Founding Partner at AME Cloud Ventures.
+* [Nick Adams](amecloudventures.com--nick-adams-1a62f1.md) - Venture Partner at AME Cloud Ventures.
+* [Wretch Chien](amecloudventures.com--wretch-chien-c0c32d.md) - Principal at AME Cloud Ventures.
 * [Adam Hammer](americasfrontier.com--adam-hammer-f9f61d.md) - General Partner at America's Frontier Fund.
 * [Brian Wilcove](americasfrontier.com--brian-wilcove-8ef01b.md) - Managing Partner at America's Frontier Fund.
 * [Gilman Louie](americasfrontier.com--gilman-louie-db5cdc.md) - Managing Partner at America's Frontier Fund.
@@ -287,6 +342,8 @@
 * [Vijay Shekhar Sharma](angel-vijay-shekhar-sharma-e638ded7.md) - Angel investor, independent.
 * [Yevgeny Dibrov](angel-yevgeny-dibrov-d6ed2ec8.md) - Angel investor, independent.
 * [Zubin Bharti Mittal](angel-zubin-bharti-mittal-e971a7a6.md) - Individual investor, independent.
+* [Carine Magescas](angelpad.com--carine-magescas-5f7eff.md) - Founder at AngelPad.
+* [Thomas Korte](angelpad.com--thomas-korte-328517.md) - Founder at AngelPad.
 * [Allan Jean-Baptiste](ansa.co--allan-jean-baptiste-e0d724.md) - General Partner at Ansa Capital.
 * [Arielle Warren](ansa.co--arielle-warren-695182.md) - Operations and Network at Ansa Capital.
 * [Ashley Henry](ansa.co--ashley-henry-4c8b65.md) - Operations at Ansa Capital.
@@ -314,6 +371,19 @@
 * [Rajiv Srivatsa](antler.co--rajiv-srivatsa-d84085.md) - Partner at Antler.
 * [Tobias Bengtsdahl](antler.co--tobias-bengtsdahl-62b082.md) - Partner at Antler.
 * [Vegard Medbo](antler.co--vegard-medbo-d955d5.md) - Co-founder & Chief Operating Officer at Antler.
+* [Jim Zelter](apollo.com--jim-zelter-7d183c.md) - President at Apollo Global Management, Inc.
+* [John Zito](apollo.com--john-zito-c6da2d.md) - Co-President at Apollo Global Management, Inc.
+* [Marc Rowan](apollo.com--marc-rowan-1ff0a9.md) - Chairman and CEO at Apollo Global Management, Inc.
+* [Scott Kleinman](apollo.com--scott-kleinman-feefa9.md) - Co-President at Apollo Global Management, Inc.
+* [Alexis Garavel](apventures.com--alexis-garavel-2c2378.md) - Senior Investment Manager at AP Ventures.
+* [Andrew Hinkly](apventures.com--andrew-hinkly-817956.md) - Founding Managing Partner at AP Ventures.
+* [James Diaz-Sokoloff](apventures.com--james-diaz-sokoloff-0251ca.md) - Senior Investment Manager at AP Ventures.
+* [Kevin Eggers](apventures.com--kevin-eggers-5c1a97.md) - Founding Partner at AP Ventures.
+* [Guy Spier](aquamarinefund.com--guy-spier-ed0432.md) - managing partner and principal at Aquamarine Fund Inc.
+* [Claudia Zimmermann](aravis.ch--claudia-zimmermann-6dfdf8.md) - Managing Partner at aravis.
+* [Jean-Philippe Tripet](aravis.ch--jean-philippe-tripet-33cdd6.md) - Founder and Chairman at aravis.
+* [Léna Tripet](aravis.ch--l-na-tripet-1d8d21.md) - Analyst at aravis.
+* [Simon Nebel](aravis.ch--simon-nebel-3cc7e7.md) - Venture Partner at aravis.
 * [Kamyaar Butt](araya.ventures--kamyaar-butt-8b8602a0.md) - Investment Lead, GCC at Arāya Ventures.
 * [Kavit Haria](araya.ventures--kavit-haria-d37218a6.md) - CEO & Partner, House of Arāya at Arāya Ventures.
 * [Manny Singh](araya.ventures--manny-singh-5d76477c.md) - Investment Principal at Arāya Ventures.
@@ -346,6 +416,9 @@
 * [Leslie Kapin](astanor.com--leslie-kapin-426021.md) - Partner at Astanor Ventures.
 * [Peter Eckes](astanor.com--peter-eckes-91e9dc.md) - Operational Partner at Astanor Ventures.
 * [Thomas Nagy](astanor.com--thomas-nagy-bd2141.md) - Operational Partner at Astanor Ventures.
+* [Alejandro Ponce](atariavc.com--alejandro-ponce-5e7449.md) - managing partner at Ataria Ventures.
+* [JP Ortiz](atariavc.com--jp-ortiz-a9331e.md) - managing partner at Ataria Ventures.
+* [Michael Basch](atentocapital.com--michael-basch-a022bd.md) - founder and CEO at Atento Capital.
 * [Ben Blume](atomico.com--ben-blume-fbcc94.md) - Partner at Atomico.
 * [Chris Barnes](atomico.com--chris-barnes-5cdb4b.md) - Partner and Chief Operating Officer at Atomico.
 * [Hillary Ball](atomico.com--hillary-ball-2c0b15.md) - Partner at Atomico.
@@ -364,6 +437,10 @@
 * [Howard Hartenbaum](augustcap.com--howard-hartenbaum-c1a7de.md) - General Partner at August Capital.
 * [John Johnston](augustcap.com--john-johnston-0c44b8.md) - Founding Partner at August Capital.
 * [Vivek Mehra](augustcap.com--vivek-mehra-a0a501.md) - Partner Emeritus at August Capital.
+* [Alexei Andreev](autotechvc.com--alexei-andreev-a937ae.md) - managing director at Autotech Ventures.
+* [Dan Hoffer](autotechvc.com--dan-hoffer-ebc16f.md) - managing director at Autotech Ventures.
+* [Quin Garcia](autotechvc.com--quin-garcia-1edfdf.md) - managing director at Autotech Ventures.
+* [Tony Rimas](autotechvc.com--tony-rimas-57caed.md) - venture partner at Autotech Ventures.
 * [Brian Keil](av.vc--brian-keil-ad8db6.md) - Managing Partner at Alumni Ventures.
 * [Jack Statza](av.vc--jack-statza-fdcdf6.md) - Senior Principal at Alumni Ventures.
 * [Laura Bordewieck Rippy](av.vc--laura-bordewieck-rippy-3166b6.md) - Managing Partner at Alumni Ventures.
@@ -371,6 +448,15 @@
 * [Ray Wu](av.vc--ray-wu-05122f.md) - Managing Partner at Alumni Ventures.
 * [Sophia Zhao](av.vc--sophia-zhao-d58b20.md) - Senior Principal at Alumni Ventures.
 * [Stacey Tsai](av.vc--stacey-tsai-771093.md) - Senior Partner at Alumni Ventures.
+* [Annie Rosen](avenuegp.com--annie-rosen-de8bbd.md) - CFO & Partner at Avenue Growth Partners.
+* [Brian Goldsmith](avenuegp.com--brian-goldsmith-5fba69.md) - Co-Founder & Partner at Avenue Growth Partners.
+* [Diana Stettner](avenuegp.com--diana-stettner-df59f3.md) - Vice President at Avenue Growth Partners.
+* [Emmanuel Onakoya](avenuegp.com--emmanuel-onakoya-978387.md) - Sr. Associate at Avenue Growth Partners.
+* [Harish Ramani](avenuegp.com--harish-ramani-c69e99.md) - Head of Technology and AI Innovation at Avenue Growth Partners.
+* [Karim Hassan](avenuegp.com--karim-hassan-371c07.md) - Analyst at Avenue Growth Partners.
+* [Oscar Lee](avenuegp.com--oscar-lee-832aee.md) - Vice President at Avenue Growth Partners.
+* [Ryan Russell](avenuegp.com--ryan-russell-42843d.md) - Co-Founder & Partner at Avenue Growth Partners.
+* [Wells Johnstone](avenuegp.com--wells-johnstone-599dc3.md) - Associate at Avenue Growth Partners.
 * [Alex Scherbakovsky](avpcap.com--alex-scherbakovsky-2be423.md) - General Partner at Atlantic Vantage Point (formerly AXA Venture Partners).
 * [Benoit Fosseprez](avpcap.com--benoit-fosseprez-272c9f.md) - General Partner at Atlantic Vantage Point (formerly AXA Venture Partners).
 * [Dominic Maier](avpcap.com--dominic-maier-44225f.md) - Partner – Head of Fund Investing at Atlantic Vantage Point (formerly AXA Venture Partners).
@@ -386,10 +472,22 @@
 * [Mathias Ockenfels](b2venture.vc--mathias-ockenfels-33df49.md) - Partner at b2venture.
 * [Sabrina Stöckl](b2venture.vc--sabrina-st-ckl-d68672.md) - Principal at b2venture.
 * [Sven Eppert](b2venture.vc--sven-eppert-3d2483.md) - Partner & CFO at b2venture.
+* [David He](ba-capital.com.cn--david-he-ec292f.md) - managing partner at BA Capital.
+* [Michael Zhang](ba-capital.com.cn--michael-zhang-7f4276.md) - managing partner at BA Capital.
+* [Christian Elam](bachmanitycap.com--christian-elam-fb059d.md) - GP at Bachmanity Capital.
 * [Dr. Jan Claudio Muñoz](backbone.vc--dr-jan-claudio-mu-oz-56a177.md) - General Partner at Backbone Ventures.
 * [Bonita C. Stewart](bagvc.com--bonita-c-stewart-57556c45.md) - Cofounder and Managing Partner at BAG Ventures.
 * [Eric Blackmon](bagvc.com--eric-blackmon-668c55a2.md) - Venture Partner at BAG Ventures.
 * [Jackson Georges, Jr.](bagvc.com--jackson-georges-jr-6c9ff69b.md) - Cofounder and Managing Partner at BAG Ventures.
+* [Aaref Hilaly](baincapitalventures.com--aaref-hilaly-6b2ef1.md) - Partner at Bain Capital Ventures.
+* [Abby Meyers](baincapitalventures.com--abby-meyers-a06dee.md) - Partner at Bain Capital Ventures.
+* [Ajay Agarwal](baincapitalventures.com--ajay-agarwal-da1c93.md) - Partner at Bain Capital Ventures.
+* [Alysaa Co](baincapitalventures.com--alysaa-co-d70c6c.md) - Partner at Bain Capital Ventures.
+* [C. Melas-Kyriazi](baincapitalventures.com--c-melas-kyriazi-4335a5.md) - Partner at Bain Capital Ventures.
+* [Kevin Zhang](baincapitalventures.com--kevin-zhang-82fc30.md) - Partner at Bain Capital Ventures.
+* [Merritt Hummer](baincapitalventures.com--merritt-hummer-1a061e.md) - Partner at Bain Capital Ventures.
+* [Ryan Kim](baincapitalventures.com--ryan-kim-f07c00.md) - Partner at Bain Capital Ventures.
+* [Slater Stich](baincapitalventures.com--slater-stich-433d02.md) - Partner at Bain Capital Ventures.
 * [Adrian Rainey](balderton.com--adrian-rainey-05a47f.md) - Operating Partner at Balderton Capital.
 * [Bernard Liautaud](balderton.com--bernard-liautaud-bf54b8.md) - Managing Partner at Balderton Capital.
 * [Claudia Rowe](balderton.com--claudia-rowe-818e86.md) - Managing Director at Balderton Capital.
@@ -409,6 +507,15 @@
 * [Daniel Wallman](balerionspace.com--daniel-wallman-16ac26.md) - General Partner at Balerion Space Ventures.
 * [Emerson Garnett](balerionspace.com--emerson-garnett-d5e5e6.md) - Principal at Balerion Space Ventures.
 * [Phil Scully](balerionspace.com--phil-scully-81cf6a.md) - General Partner at Balerion Space Ventures.
+* [Barmak Meftah](ballisticventures.com--barmak-meftah-d8677f.md) - General Partner at Ballistic Ventures.
+* [David Hahn](ballisticventures.com--david-hahn-9a6f3d.md) - CISO OPERATING PARTNER at Ballistic Ventures.
+* [Jake Seid](ballisticventures.com--jake-seid-8a6fdc.md) - General Partner at Ballistic Ventures.
+* [Kevin Mandia](ballisticventures.com--kevin-mandia-70e692.md) - General Partner at Ballistic Ventures.
+* [Nicole Perlroth](ballisticventures.com--nicole-perlroth-e7dd39.md) - Venture Partner at Ballistic Ventures.
+* [Phil Venables](ballisticventures.com--phil-venables-de7ff3.md) - Venture Partner at Ballistic Ventures.
+* [Roger Thornton](ballisticventures.com--roger-thornton-622dc9.md) - General Partner at Ballistic Ventures.
+* [Ted Schlein](ballisticventures.com--ted-schlein-cfd665.md) - General Partner at Ballistic Ventures.
+* [Turner Novak](bananacapital.vc--turner-novak-69a079.md) - solo-general partner at Banana Capital.
 * [Catherine Stewart](basisset.com--catherine-stewart-a4071d.md) - Venture Partner at Basis Set Ventures.
 * [Dr. Lan Xuezhao](basisset.com--dr-lan-xuezhao-a5edc7.md) - Founder & Partner at Basis Set Ventures.
 * [Ingrid Chen](basisset.com--ingrid-chen-993efc.md) - Controller & Partner at Basis Set Ventures.
@@ -424,6 +531,10 @@
 * [Jesse Feldman](battery.com--jesse-feldman-089681.md) - General Partner at Battery Ventures.
 * [Michael Brown](battery.com--michael-brown-19a636.md) - General Partner at Battery Ventures.
 * [Neeraj Agrawal](battery.com--neeraj-agrawal-16edb8.md) - General Partner at Battery Ventures.
+* [Axel Bichara](baukunst.co--axel-bichara-c7b034.md) - General Partner at Baukunst.
+* [Kate McAndrew](baukunst.co--kate-mcandrew-6be8da.md) - General Partner at Baukunst.
+* [Matt Thoms](baukunst.co--matt-thoms-46abfc.md) - General Partner at Baukunst.
+* [Tyler Mincey](baukunst.co--tyler-mincey-6b9af4.md) - General Partner at Baukunst.
 * [Ariel Golan](bayernkapital.de--ariel-golan-7e41b4.md) - Investment Director at Bayern Kapital.
 * [Benjamin Schwiewagner](bayernkapital.de--benjamin-schwiewagner-c7f25b.md) - Investment Director at Bayern Kapital.
 * [Bernd Schafberger](bayernkapital.de--bernd-schafberger-29f133.md) - Head of Venture Capital Investments I Prokurist at Bayern Kapital.
@@ -431,16 +542,46 @@
 * [Markus Mrachacz](bayernkapital.de--markus-mrachacz-b96052.md) - Geschäftsführer at Bayern Kapital.
 * [Monika Steger](bayernkapital.de--monika-steger-e64706.md) - Geschäftsführerin at Bayern Kapital.
 * [Wolfgang Dengler](bayernkapital.de--wolfgang-dengler-f65792.md) - Investment Director at Bayern Kapital.
+* [Eduardo Saverin](bcapgroup.com--eduardo-saverin-f9ff89.md) - co-CEO at B Capital.
+* [Gabe Greenbaum](bcapgroup.com--gabe-greenbaum-e572fa.md) - general partner at B Capital.
+* [Howard Morgan](bcapgroup.com--howard-morgan-89d432.md) - co-founder, chair and general partner at B Capital.
+* [Karan Mohla](bcapgroup.com--karan-mohla-892112.md) - general partner at B Capital.
+* [Raj Ganguly](bcapgroup.com--raj-ganguly-915b82.md) - co-CEO at B Capital.
 * [Collin Groves](bdevventures.com--collin-groves-ce88a2.md) - Partner at BDev Ventures.
 * [Fernando Galano](bdevventures.com--fernando-galano-bcb166.md) - General Partner at BDev Ventures.
 * [Keshia Theobald-van Gent](bdevventures.com--keshia-theobald-van-gent-43e521.md) - Partner at BDev Ventures.
 * [Nacho De Marco](bdevventures.com--nacho-de-marco-6f9ed4.md) - Co-Founder – General Partner at BDev Ventures.
+* [Birgitte Olsen](bellevue.ch--birgitte-olsen-bc7041.md) - Head Entrepreneur Investments at Bellevue Asset Management AG.
 * [Ryan Glenn](benfranklin.org--ryan-glenn-b0c294.md) - Director of Statewide Initiatives at Ben Franklin Technology Partners.
 * [Valerie Carchidi](benfranklin.org--valerie-carchidi-795467.md) - Manager of Statewide Marketing & Communications at Ben Franklin Technology Partners.
 * [John Borthwick](betaworks.com--john-borthwick-98abb34d.md) - Founder and CEO at Betaworks.
 * [Baptiste Hamel](better-angle.com--baptiste-hamel-e2d603.md) - Co-founder at Better Angle.
 * [Fayed Al Rashid](better-angle.com--fayed-al-rashid-00f104.md) - Investment Analyst at Better Angle.
 * [Nicolas Douay](better-angle.com--nicolas-douay-ac9df0.md) - Co-founder at Better Angle.
+* [Alex Garfitt](bgf.co.uk--alex-garfitt-2cb7a9.md) - Investment Partner at BGF.
+* [Alex Snodgrass](bgf.co.uk--alex-snodgrass-61df17.md) - Investment Partner at BGF.
+* [Alistair Brew](bgf.co.uk--alistair-brew-06a143.md) - Regional Investment Partner at BGF.
+* [Andy Gregory](bgf.co.uk--andy-gregory-02f605.md) - Chief Executive Officer at BGF.
+* [Barry Jackson](bgf.co.uk--barry-jackson-b40d92.md) - Regional Investment Partner at BGF.
+* [Ben Barker](bgf.co.uk--ben-barker-56f7ba.md) - Chief Investment Officer at BGF.
+* [Dr. Aristotelis Nastos](biomedvc.com--dr-aristotelis-nastos-98f368.md) - Managing Partner at BiomedVC.
+* [Dr. Claudia Ulbrich](biomedvc.com--dr-claudia-ulbrich-b6a461.md) - Venture Partner at BiomedVC.
+* [Dr. David Urech](biomedvc.com--dr-david-urech-e89b0b.md) - Venture Partner at BiomedVC.
+* [Dr. Marianna Feretzaki](biomedvc.com--dr-marianna-feretzaki-73d04d.md) - Senior Associate at BiomedVC.
+* [Dr. Markus Hosang](biomedvc.com--dr-markus-hosang-c024dc.md) - Managing Partner at BiomedVC.
+* [Dr. Mattias Ivarsson](biomedvc.com--dr-mattias-ivarsson-e4e712.md) - Entrepreneur in Residence at BiomedVC.
+* [Dr. Michael Wacker](biomedvc.com--dr-michael-wacker-46e45e.md) - Managing Partner at BiomedVC.
+* [Dr. Morgan Hunter](biomedvc.com--dr-morgan-hunter-a3dd99.md) - Investment Manager at BiomedVC.
+* [Dr. Olivier Morand](biomedvc.com--dr-olivier-morand-c03d1e.md) - Venture Partner at BiomedVC.
+* [Dr. Ulf Grawunder](biomedvc.com--dr-ulf-grawunder-84a9eb.md) - Entrepreneur in Residence at BiomedVC.
+* [Dr. Valentin Piëch](biomedvc.com--dr-valentin-pi-ch-c87a53.md) - Managing Partner at BiomedVC.
+* [Stefan Fäs](biomedvc.com--stefan-f-s-195887.md) - CFO, Partner at BiomedVC.
+* [Thomas Möller](biomedvc.com--thomas-m-ller-0439c0.md) - Managing Partner at BiomedVC.
+* [Anne Helfer](biotope-ventures.com--anne-helfer-28a3a6.md) - Startup support manager at biotope by VIB.
+* [Annick Verween](biotope-ventures.com--annick-verween-d5d06f.md) - Head of biotope at biotope by VIB.
+* [Emily Wilkes](biotope-ventures.com--emily-wilkes-25fbac.md) - Program Associate at biotope by VIB.
+* [Lore De Valck](biotope-ventures.com--lore-de-valck-df53cb.md) - Program manager at biotope by VIB.
+* [Peter Cauwels](biotope-ventures.com--peter-cauwels-66cba7.md) - Fund manager at biotope by VIB.
 * [Ari Wright](bison.vc--ari-wright-70d2e6.md) - Principal at Bison Ventures.
 * [Ben Hemani](bison.vc--ben-hemani-3b0ff7.md) - Founding Partner at Bison Ventures.
 * [Caleb Appleton](bison.vc--caleb-appleton-ffa190.md) - Partner at Bison Ventures.
@@ -454,9 +595,23 @@
 * [Eric Theis](blingcap.com--eric-theis-2ca7bc.md) - Partner at Bling Capital.
 * [Kyle Lui](blingcap.com--kyle-lui-463ed6.md) - General Partner at Bling Capital.
 * [Lukas Mack](blingcap.com--lukas-mack-112a2b.md) - Investor at Bling Capital.
+* [John Squire](blockchange.vc--john-squire-18d2ac.md) - General Partner at Blockchange Ventures.
+* [Jon Freedman](blockchange.vc--jon-freedman-d4b40e.md) - Co-Managing Partner and Chief Legal Officer at Blockchange Ventures.
+* [Ken Seiff](blockchange.vc--ken-seiff-616d1f.md) - Founding Managing Partner at Blockchange Ventures.
+* [Matthew Immerso](blockchange.vc--matthew-immerso-7361c5.md) - General Partner at Blockchange Ventures.
+* [Patrick Murck](blockchange.vc--patrick-murck-0db22d.md) - Co-Founder at Blockchange Ventures.
+* [Rob Schmults](blockchange.vc--rob-schmults-3faa7d.md) - General Partner at Blockchange Ventures.
+* [James Cham](bloombergbeta.com--james-cham-fea138.md) - full-time partner at Bloomberg Beta.
+* [Karin Klein](bloombergbeta.com--karin-klein-cf24a3.md) - full-time partner at Bloomberg Beta.
+* [Roy Bahat](bloombergbeta.com--roy-bahat-a1ca5f.md) - full-time partner at Bloomberg Beta.
 * [Bruce MacFadyen](blossomstreetventures.com--bruce-macfadyen-c2b607.md) - Board Member at Blossom Street Ventures.
 * [Sammy Abdullah](blossomstreetventures.com--sammy-abdullah-015f4e.md) - Co-Founder, Chair, and Managing Partner at Blossom Street Ventures.
 * [Stephanie Alsbrooks Hanson](blossomstreetventures.com--stephanie-alsbrooks-hanson-f80bde.md) - Board Member at Blossom Street Ventures.
+* [Michael Kleindl](bluehorizon.com--michael-kleindl-0ce34e.md) - Founder and Managing Partner at Blue Horizon.
+* [Emmanuel de Watteville](blueocean-ventures.com--emmanuel-de-watteville-587345.md) - Founder at BlueOcean Ventures.
+* [Faris Sabeti](blueocean-ventures.com--faris-sabeti-c62538.md) - Founder at BlueOcean Ventures.
+* [Sacha Haymoz](blueocean-ventures.com--sacha-haymoz-d37301.md) - Founder at BlueOcean Ventures.
+* [Thomas Zehnder](blueocean-ventures.com--thomas-zehnder-cabff6.md) - Founder at BlueOcean Ventures.
 * [Andreas van Bon](bmp.com--andreas-van-bon-9b2156.md) - Managing Partner at bmp Ventures AG.
 * [Carlos Figueredo](bmp.com--carlos-figueredo-8a8bc6.md) - Investment Manager at bmp Ventures AG.
 * [Dr. Jan Alberti](bmp.com--dr-jan-alberti-699fdd.md) - Managing Partner at bmp Ventures AG.
@@ -477,15 +632,40 @@
 * [Neal Bhadkamkar](boldcapitalpartners.com--neal-bhadkamkar-12b938.md) - General Partner at BOLD Capital Partners.
 * [Peter Diamandis](boldcapitalpartners.com--peter-diamandis-5be0ee.md) - Partner at BOLD Capital Partners.
 * [Teymour Boutros-Ghali](boldcapitalpartners.com--teymour-boutros-ghali-077463.md) - Managing Partner at BOLD Capital Partners.
+* [Adam Draper](boost.vc--adam-draper-7fc496.md) - Managing Director at Boost VC.
+* [Brayton Williams](boost.vc--brayton-williams-51a449.md) - Co-Founder & Partner at Boost VC.
+* [Gus Domel, PhD](boost.vc--gus-domel-phd-4a8324.md) - Partner at Boost VC.
+* [Maddie Callander](boost.vc--maddie-callander-8dffd4.md) - Partner at Boost VC.
+* [Troy Kanji](boost.vc--troy-kanji-6eabac.md) - Analyst at Boost VC.
 * [David Charbonneau](boreal.vc--david-charbonneau-16936b.md) - Co-Managing Partner at Boreal Ventures.
 * [JD Saint-Martin](boreal.vc--jd-saint-martin-eab83d.md) - Co-Managing Partner at Boreal Ventures.
 * [Samuel Jobin-Morissette](boreal.vc--samuel-jobin-morissette-4621c4.md) - Vice President at Boreal Ventures.
 * [Samuel Larivière](boreal.vc--samuel-larivi-re-e40a60.md) - Partner & CFO at Boreal Ventures.
+* [Adeline Lemaire](bpifrance.fr--adeline-lemaire-0bb3fc.md) - Executive Director, Funds of funds team at Bpifrance.
+* [Florent Debienne](bpifrance.fr--florent-debienne-6731a3.md) - Managing Director of Venture & Growth Funds Investments at Bpifrance.
+* [Gorka Gonzalez](bpifrance.fr--gorka-gonzalez-50ee0a.md) - Managing Director of Retail Funds at Bpifrance.
+* [Jean-René Jégou](bpifrance.fr--jean-ren-j-gou-026d76.md) - Managing Director of Regional Funds Investments at Bpifrance.
+* [Marianne Wlassewitch](bpifrance.fr--marianne-wlassewitch-5a2e38.md) - Managing Director of the Operating team at Bpifrance.
+* [Rémi Berteloot](bpifrance.fr--r-mi-berteloot-8d9b9b.md) - Managing Director of Small Cap Funds Investments at Bpifrance.
+* [Hilton Tam](bright-success.com--hilton-tam-22dd17.md) - CEO & Founder at Bright Success Capital.
+* [Wendel Kwan](bright-success.com--wendel-kwan-355516.md) - Managing Partner at Bright Success Capital.
+* [Yun-Fang Juan](brightercapital.com--yun-fang-juan-dbf7e4.md) - Founder of Brighter Capital at Brighter Capital.
 * [Alex Spiro Latsis](brighteyevc.com--alex-spiro-latsis-acbe3d.md) - Founding Partner at Brighteye Ventures.
 * [Ben Wirz](brighteyevc.com--ben-wirz-fa7133.md) - Founding Partner at Brighteye Ventures.
 * [David Guérin](brighteyevc.com--david-gu-rin-b50634.md) - Partner at Brighteye Ventures.
 * [Isabella Vahdati](brighteyevc.com--isabella-vahdati-68dedb.md) - Principal at Brighteye Ventures.
 * [Rhys Spence](brighteyevc.com--rhys-spence-ee9ec2.md) - Head of Platform & Research at Brighteye Ventures.
+* [Bill Snider](broadoak.com--bill-snider-d36a61.md) - Partner at BroadOak Capital Partners.
+* [D. Kyle Wilson](broadoak.com--d-kyle-wilson-d52a51.md) - Partner at BroadOak Capital Partners.
+* [Lars Hanan](broadoak.com--lars-hanan-0267a0.md) - Partner at BroadOak Capital Partners.
+* [Matt McFarland](broadoak.com--matt-mcfarland-b5212f.md) - Partner at BroadOak Capital Partners.
+* [Tim Johnson](broadoak.com--tim-johnson-307ba2.md) - Partner at BroadOak Capital Partners.
+* [Anton Oenning](buildc.com--anton-oenning-b38a2f.md) - Partner at Build Collective.
+* [Carl Casler](buildc.com--carl-casler-02b75c.md) - Managing Director at Build Collective.
+* [David Sloo](buildc.com--david-sloo-990435.md) - Partner at Build Collective.
+* [Elise M. Houren](buildc.com--elise-m-houren-1a2794.md) - Partner at Build Collective.
+* [Michael Quillinan](buildc.com--michael-quillinan-79b3a4.md) - Partner at Build Collective.
+* [Tony Fadell](buildc.com--tony-fadell-d7b76f.md) - Principal at Build Collective.
 * [Alon Kuperman](bullhoundcapital.com--alon-kuperman-00d5fc.md) - Partner at Bullhound Capital.
 * [Ben Prade](bullhoundcapital.com--ben-prade-aa2e86.md) - Partner at Bullhound Capital.
 * [Hugh Campbell](bullhoundcapital.com--hugh-campbell-9842d6.md) - Managing Partner at Bullhound Capital.
@@ -494,6 +674,9 @@
 * [Manish Madhvani](bullhoundcapital.com--manish-madhvani-0c8314.md) - Managing Partner at Bullhound Capital.
 * [Per Roman](bullhoundcapital.com--per-roman-09928b.md) - Founder & Managing Partner at Bullhound Capital.
 * [Shahril Hamdan](bullhoundcapital.com--shahril-hamdan-32ba25.md) - Head of Southeast Asia, Managing Director at Bullhound Capital.
+* [Alex Behar](buoyant.vc--alex-behar-710826.md) - Partner at Buoyant Ventures.
+* [Amy Francetic](buoyant.vc--amy-francetic-032021.md) - Managing General Partner at Buoyant Ventures.
+* [Laura Katzman](buoyant.vc--laura-katzman-688b3d.md) - Partner at Buoyant Ventures.
 * [Christine E. Boyle, PhD](burntislandventures.com--christine-e-boyle-phd-052983.md) - Partner at Burnt Island Ventures.
 * [Jennie Graham](burntislandventures.com--jennie-graham-3b52c0.md) - Senior Investment Associate at Burnt Island Ventures.
 * [Jessica Pascolini](burntislandventures.com--jessica-pascolini-d7d6f1.md) - Head of Operations at Burnt Island Ventures.
@@ -501,11 +684,20 @@
 * [Steve Kloos, PhD](burntislandventures.com--steve-kloos-phd-2ee2fa.md) - Partner at Burnt Island Ventures.
 * [Tom Ferguson](burntislandventures.com--tom-ferguson-fbc045.md) - Founder and Managing Partner at Burnt Island Ventures.
 * [Wayne Byrne](burntislandventures.com--wayne-byrne-7353f7.md) - Operating Partner at Burnt Island Ventures.
+* [Maggie Carter](bvlp.com--maggie-carter-134aab.md) - President and Chief Operating Officer at BV Investment Partners.
+* [Vikrant Raina](bvlp.com--vikrant-raina-f47113.md) - CEO at BV Investment Partners.
 * [Brian Feinstein](bvp.com--brian-feinstein-d6e859.md) - Partner at Bessemer Venture Partners.
 * [Byron Deeter](bvp.com--byron-deeter-e69842.md) - Partner at Bessemer Venture Partners.
 * [Jeremy Levine](bvp.com--jeremy-levine-3d8e41.md) - Partner at Bessemer Venture Partners.
 * [Kent Bennett](bvp.com--kent-bennett-aa4e2a.md) - Partner at Bessemer Venture Partners.
 * [Talia Goldberg](bvp.com--talia-goldberg-b415e2.md) - Partner at Bessemer Venture Partners.
+* [Jason Schoettler](calibratevc.com--jason-schoettler-540df9.md) - Co-Founder and Managing Partner at Calibrate Ventures.
+* [Katie Vasquez](calibratevc.com--katie-vasquez-76fe4f.md) - Investor at Calibrate Ventures.
+* [Kevin Dunlap](calibratevc.com--kevin-dunlap-9f65f4.md) - Co-Founder and Managing Partner at Calibrate Ventures.
+* [Nick Nolan](calibratevc.com--nick-nolan-f8ad4b.md) - VP, Capital Formation and Corporate Development at Calibrate Ventures.
+* [Casey Berman](cambercreek.com--casey-berman-87819b.md) - founder and General Partner at Camber Creek.
+* [Jake Fingert](cambercreek.com--jake-fingert-d86b13.md) - General Partner at Camber Creek.
+* [Rex Salisbury](cambrian.vc--rex-salisbury-ddc12e.md) - Solo-GP at Cambrian.
 * [Brendan Dickinson](canaan.com--brendan-dickinson-b7f11c.md) - General Partner / East Coast at Canaan.
 * [Brent Ahrens](canaan.com--brent-ahrens-f4c6b9.md) - General Partner / West Coast at Canaan.
 * [Deepak Kamra](canaan.com--deepak-kamra-bfae6d.md) - General Partner / West Coast at Canaan.
@@ -522,6 +714,7 @@
 * [Harrison Lieberfarb](canvas.vc--harrison-lieberfarb-e47c7c.md) - Partner at Canvas Ventures.
 * [Justin Pirzadeh](canvas.vc--justin-pirzadeh-880dc3.md) - Partner at Canvas Ventures.
 * [Rebecca Lynn](canvas.vc--rebecca-lynn-aa0f77.md) - Co-Founder & Managing Director at Canvas Ventures.
+* [Ina Dahm](capacura.de--ina-dahm-310466.md) - Gründer von Capacura at Capacura GmbH.
 * [David K. Gardner](capitaleleven.com--david-k-gardner-2aecc14f.md) - Managing Partner at Capital Eleven.
 * [Mason Whitt](capitaleleven.com--mason-whitt-2d273d85.md) - Principal at Capital Eleven.
 * [Travis Hawkes](capitaleleven.com--travis-hawkes-ee4cbbb1.md) - CEO + Managing Partner at Capital Eleven.
@@ -560,26 +753,54 @@
 * [Nir Falevich](cerca-partners.com--nir-falevich-97b48b7a.md) - Principal at Cerca Partners.
 * [Ofer Katz](cerca-partners.com--ofer-katz-3b841e41.md) - Founder and General Partner at Cerca Partners.
 * [Ronnie Zahavi](cerca-partners.com--ronnie-zahavi-b5373619.md) - Partner at Cerca Partners.
+* [Neeraj Gupta](cervinventures.com--neeraj-gupta-d0bf39.md) - Partner at Cervin Ventures.
+* [Shirish Sathaye](cervinventures.com--shirish-sathaye-76570c.md) - Partner at Cervin Ventures.
+* [Eduardo Rodríguez Quirós](cex.es--eduardo-rodr-guez-quir-s-b7e9df.md) - Director de Inversiones at Corporación Empresarial de Extremadura (CEX Capital).
+* [Andris K. Berzins](changeventures.com--andris-k-berzins-6144de.md) - Investment Partner at Change Ventures.
+* [Aveli Nurk](changeventures.com--aveli-nurk-133bca.md) - Operating Partner at Change Ventures.
+* [Rait Ojasaar](changeventures.com--rait-ojasaar-0be12d.md) - INVESTMENT PARTNER at Change Ventures.
+* [Yrjö Ojasaar](changeventures.com--yrj-ojasaar-aa6249.md) - Investment Partner (Fund I) at Change Ventures.
+* [Fred Sun](cittacapital.com--fred-sun-b0ced4.md) - Senior Associate at Citta Capital.
+* [Jim Mao](cittacapital.com--jim-mao-08bb22.md) - General Partner at Citta Capital.
 * [AD Mohanraj](citylight.vc--ad-mohanraj-35766f.md) - VP, Engineering at City Light Capital.
 * [Grace Cushman](citylight.vc--grace-cushman-dfd91a.md) - Senior Vice President, Operations at City Light Capital.
 * [Jeff Rinehart](citylight.vc--jeff-rinehart-e817e8.md) - Partner at City Light Capital.
 * [Josh Cohen](citylight.vc--josh-cohen-3892ba.md) - Partner at City Light Capital.
 * [Rohan Nair](citylight.vc--rohan-nair-952276.md) - Head of Product at City Light Capital.
+* [Christopher J. Rust](clear.ventures--christopher-j-rust-103b75.md) - Partner at Clear Ventures.
+* [Khalig Howard](clear.ventures--khalig-howard-76a51c.md) - Principal at Clear Ventures.
+* [Linda Liguori](clear.ventures--linda-liguori-e83388.md) - Executive Assistant and Operations Manager at Clear Ventures.
+* [Matt Herich](clear.ventures--matt-herich-42fde5.md) - Full Stack SWE at Clear Ventures.
+* [Noor Kamruddin](clear.ventures--noor-kamruddin-f2adb3.md) - Partner at Clear Ventures.
+* [Somnath Banerjee](clear.ventures--somnath-banerjee-525726.md) - Chief Data Scientist at Clear Ventures.
+* [Tina Cho](clear.ventures--tina-cho-999619.md) - Principal at Clear Ventures.
+* [Zachary Poley](clear.ventures--zachary-poley-65f130.md) - Partner & CTO at Clear Ventures.
 * [Ashish Gupta](clearvisionventures.com--ashish-gupta-64a7e5.md) - Partner at Clearvision Ventures.
 * [Dan Ahn](clearvisionventures.com--dan-ahn-41172b.md) - Managing Partner at Clearvision Ventures.
 * [Felix Zhang](clearvisionventures.com--felix-zhang-5a3111.md) - Partner at Clearvision Ventures.
 * [Shomit Ghose](clearvisionventures.com--shomit-ghose-764a14.md) - Partner at Clearvision Ventures.
 * [Thomas Englis](clearvisionventures.com--thomas-englis-90dfce.md) - Partner at Clearvision Ventures.
+* [Patrick Sieb](climatetech.partners--patrick-sieb-c54937.md) - Co-founder at Climate Tech Partners Pty Ltd (Climate Tech Partners).
 * [Jaimin Rangwalla](coatue.com--jaimin-rangwalla-03e6cc.md) - CIO of Publics at Coatue Management, L.L.C.
 * [Nathan Urquhart](coatue.com--nathan-urquhart-bd882f.md) - President & Head of Strategy at Coatue Management, L.L.C.
 * [Philippe Laffont](coatue.com--philippe-laffont-8c495a.md) - Founder & Portfolio Manager at Coatue Management, L.L.C.
 * [Thomas Laffont](coatue.com--thomas-laffont-f942d3.md) - Co-Founder & CIO of Privates at Coatue Management, L.L.C.
+* [Bo Decloedt](coformaco.be--bo-decloedt-af5694.md) - Coordination & Connection at Coformaco.
+* [Conny Vandendriessche](coformaco.be--conny-vandendriessche-47fd8b.md) - Founder & Chair(wo)man at Coformaco.
+* [Dirk De Weghe](coformaco.be--dirk-de-weghe-efe604.md) - Capital Markets & Funds at Coformaco.
+* [Eline Talboom](coformaco.be--eline-talboom-4a3d0d.md) - Private Equity at Coformaco.
+* [Lisa Dedecker](coformaco.be--lisa-dedecker-d374fb.md) - Real Estate at Coformaco.
+* [Matthijs Vanhaelemeesch](coformaco.be--matthijs-vanhaelemeesch-eedf96.md) - Managing Principal ⎮ Ventures & Innovation at Coformaco.
+* [Muriel Uytterhaegen](coformaco.be--muriel-uytterhaegen-0a9ae7.md) - Private Equity at Coformaco.
+* [Sylvie Van de Velde](coformaco.be--sylvie-van-de-velde-2e79c9.md) - Accounting & Finance at Coformaco.
+* [Wim Vanhaelemeesch](coformaco.be--wim-vanhaelemeesch-34066b.md) - Managing Principal ⎮ Ventures & Innovation at Coformaco.
 * [Andrew Montgomery](collabfund.com--andrew-montgomery-41e527.md) - Partner at Collaborative Fund.
 * [Craig Shapiro](collabfund.com--craig-shapiro-4ce29b.md) - Founder and Managing Partner at Collaborative Fund.
 * [David Cohen](collabfund.com--david-cohen-ce0657.md) - Partner & General Counsel at Collaborative Fund.
 * [Guy Vidra](collabfund.com--guy-vidra-59a78f.md) - Partner at Collaborative Fund.
 * [Parker Hayden](collabfund.com--parker-hayden-cd2f55.md) - Managing Partner, Collab Holdings at Collaborative Fund.
 * [Sophie Bakalar](collabfund.com--sophie-bakalar-d62b02.md) - Partner at Collaborative Fund.
+* [Mariana Gonzalez](collateralgood.eu--mariana-gonzalez-122a68.md) - Co-Founder & Partner at Collateral Good.
 * [Damià Tormo](columbusvp.com--dami-tormo-e762e5.md) - General Partner at Columbus Venture Partners.
 * [Javier García](columbusvp.com--javier-garc-a-e64d58.md) - General Partner at Columbus Venture Partners.
 * [José Vicente Pons](columbusvp.com--jos-vicente-pons-7763bb.md) - Operating Partner at Columbus Venture Partners.
@@ -588,6 +809,11 @@
 * [Marc Marco](columbusvp.com--marc-marco-176eb9.md) - Partner at Columbus Venture Partners.
 * [Marisol Quintero](columbusvp.com--marisol-quintero-547f06.md) - Operating Partner at Columbus Venture Partners.
 * [Robert Armstrong](columbusvp.com--robert-armstrong-cece7f.md) - Partner at Columbus Venture Partners.
+* [Alexandra Vogel](comcastventures.com--alexandra-vogel-263eff.md) - Associate at Comcast Ventures.
+* [Allison Goldberg](comcastventures.com--allison-goldberg-afb687.md) - Managing Partner at Comcast Ventures.
+* [Marc Silberman](comcastventures.com--marc-silberman-1f10c7.md) - Partner at Comcast Ventures.
+* [Mike Shapiro](comcastventures.com--mike-shapiro-8641aa.md) - Partner at Comcast Ventures.
+* [Shreya Pugalia](comcastventures.com--shreya-pugalia-4ea631.md) - Associate at Comcast Ventures.
 * [Eliza Cushman](congruentvc.com--eliza-cushman-d063de.md) - Partner at Congruent Ventures.
 * [Gray Robinson](congruentvc.com--gray-robinson-152547.md) - Partner at Congruent Ventures.
 * [Hilla Watkins](congruentvc.com--hilla-watkins-d02862.md) - Platform Partner at Congruent Ventures.
@@ -600,6 +826,10 @@
 * [Jessica Mullins Camburn](connectventures.com--jessica-mullins-camburn-7e3db9.md) - Chief Financial Officer at Connect Ventures.
 * [Mike Blank](connectventures.com--mike-blank-308866.md) - Co-Founder & Managing Partner at Connect Ventures.
 * [Nicole Quinn](connectventures.com--nicole-quinn-17ccff.md) - Co-Founder & Managing Partner at Connect Ventures.
+* [Kyle Harrison](contrary.com--kyle-harrison-91a18e.md) - Key people at Contrary, LLC.
+* [Will Robbins](contrary.com--will-robbins-322375.md) - Key people at Contrary, LLC.
+* [Mike Vernal](conviction.com--mike-vernal-a812b2.md) - General Partner at Conviction Partners.
+* [Pranav Reddy](conviction.com--pranav-reddy-77dce5.md) - Team Member at Conviction Partners.
 * [Igor Taber](cortical.vc--igor-taber-82d92f.md) - General Partner at Cortical Ventures.
 * [Jeremy Achin](cortical.vc--jeremy-achin-10a8d9.md) - General Partner at Cortical Ventures.
 * [Mike Obolonskyi](cortical.vc--mike-obolonskyi-a65e73.md) - Principal at Cortical Ventures.
@@ -621,9 +851,14 @@
 * [María Jaraiz](crbhealthtech.com--mar-a-jaraiz-c009d7.md) - Partner at CRB Health Tech.
 * [Ángel Santos](crbhealthtech.com--ngel-santos-3fb310.md) - Partner at CRB Health Tech.
 * [Tim Juergens](crbhealthtech.com--tim-juergens-8ad103.md) - Partner at CRB Health Tech.
+* [Attilio Baggerman](creadd.ch--attilio-baggerman-a048c6.md) - Partner at Creadd.
+* [Lorenzo Leoni, PhD](creadd.ch--lorenzo-leoni-phd-e64c64.md) - Managing Partner at Creadd.
+* [Paolo Orsatti, PhD](creadd.ch--paolo-orsatti-phd-99f696.md) - Managing Partner at Creadd.
+* [Rie My-Morozumi](creadd.ch--rie-my-morozumi-c40494.md) - Partner at Creadd.
 * [Cédric Köhler](creathor.com--c-dric-k-hler-19f5ca.md) - Managing Partner at Creathor Ventures.
 * [Gert Köhler](creathor.com--gert-k-hler-3316d5.md) - Founder & Chairman at Creathor Ventures.
 * [Karlheinz Schmelig](creathor.com--karlheinz-schmelig-18e184.md) - Managing Partner at Creathor Ventures.
+* [Emilie Lidome](creditmutuel-innovation.eu--emilie-lidome-088243.md) - Présidente de Crédit Mutuel Innovation at Crédit Mutuel Innovation.
 * [Bindu Sancheti](crescententerprises.com--bindu-sancheti-bbde1b.md) - Senior Analyst, CE-Ventures at CE-Ventures (Crescent Enterprises).
 * [Caroline Souchet](crescententerprises.com--caroline-souchet-87df34.md) - Investment Manager, CE-Ventures at CE-Ventures (Crescent Enterprises).
 * [Damir Illich](crescententerprises.com--damir-illich-eef217.md) - Manager, Life Sciences at CE-Ventures (Crescent Enterprises).
@@ -637,6 +872,10 @@
 * [Matt Bigge](crosslinkcapital.com--matt-bigge-24931d.md) - Partner at Crosslink Capital.
 * [Michael Stark](crosslinkcapital.com--michael-stark-535323.md) - Partner and Founder at Crosslink Capital.
 * [Phil Boyer](crosslinkcapital.com--phil-boyer-2924ea.md) - Venture Partner at Crosslink Capital.
+* [Brittany Walker](crv.com--brittany-walker-d651f6.md) - General Partner at CRV.
+* [James Green](crv.com--james-green-892427.md) - General Partner at CRV.
+* [Reid Christian](crv.com--reid-christian-ace1f0.md) - General Partner at CRV.
+* [Saar Gur](crv.com--saar-gur-5c5182.md) - General Partner at CRV.
 * [Imran Kizilbash](cslenergy.com--imran-kizilbash-855a60.md) - Managing Director and Head of CSL Ventures at CSL Capital Management, L.P.
 * [Andrée-Lise Méthot](cyclecapital.com--andr-e-lise-m-thot-7e99f2.md) - Founder and Managing Partner at Cycle Capital.
 * [Catherine Bérubé](cyclecapital.com--catherine-b-rub-b43b74.md) - Partner, Circularity/New Material at Cycle Capital.
@@ -651,10 +890,13 @@
 * [Bertrand Mueller](daacap.com--bertrand-mueller-052ffc.md) - Founding Partner of DAA Capital Partners at DAA Capital Partners.
 * [Chloé Aouad](daacap.com--chlo-aouad-17a985.md) - Operations at DAA Capital Partners.
 * [Pierre Leclézio](daacap.com--pierre-lecl-zio-38491f.md) - Venture Investment Specialist at DAA Capital Partners.
+* [Marc Simoncini](daphni.com--marc-simoncini-3911da.md) - Venture Partner at daphni.
+* [Sophie Lamparter](dart.ventures--sophie-lamparter-2599cd.md) - Founder & CEO at DART Labs.
 * [Csaba Kákosy](dayonecapital.com--csaba-k-kosy-a77bfc.md) - Managing Partner, CEO at Day One Capital.
 * [Elek Straub](dayonecapital.com--elek-straub-a009bb.md) - Partner Emeritus at Day One Capital.
 * [György Simó](dayonecapital.com--gy-rgy-sim-3cb885.md) - Managing Partner at Day One Capital.
 * [Zsolt Weiszbart](dayonecapital.com--zsolt-weiszbart-5afa67.md) - Partner at Day One Capital.
+* [Tom Alzin](dbag.com--tom-alzin-f49bd4.md) - Spokesman of the Board of Management at Deutsche Beteiligungs AG.
 * [André Levi](dcm.com--andr-levi-8707f5.md) - Chief Financial Officer & Partner at DCM.
 * [David Chao](dcm.com--david-chao-679e95.md) - Co-Founder and General Partner at DCM.
 * [Fiona Huang](dcm.com--fiona-huang-8a1f5e.md) - Partner at DCM.
@@ -678,6 +920,8 @@
 * [Julia van der Colff](decisivepoint.com--julia-van-der-colff-1867ec.md) - Principal at Decisive Point.
 * [Keeley Marrocco](decisivepoint.com--keeley-marrocco-8fed8b.md) - Operating Partner at Decisive Point.
 * [Shawn Caton](decisivepoint.com--shawn-caton-c1fbcb.md) - Principal at Decisive Point.
+* [Mike Scott](derive-ventures.com--mike-scott-56c922.md) - Managing partner & Co-Founder at Derive Ventures.
+* [Tyler Carrico](derive-ventures.com--tyler-carrico-308e2f.md) - Managing Partner & Co-Founder at Derive Ventures.
 * [Cory Tincher](detroit.vc--cory-tincher-c5de32d7.md) - Investor at Detroit Venture Partners.
 * [Dan Gilbert](detroit.vc--dan-gilbert-c8e4a306.md) - Founding Partner at Detroit Venture Partners.
 * [Delane Parnell](detroit.vc--delane-parnell-7352fc69.md) - Venture Partner at Detroit Venture Partners.
@@ -717,11 +961,14 @@
 * [Melissa Klinger](dig.ventures--melissa-klinger-db9569.md) - General Partner at DIG Ventures.
 * [Ross Mason](dig.ventures--ross-mason-d7f90f.md) - Founding Partner at DIG Ventures.
 * [Rytis Vitkauskas](dig.ventures--rytis-vitkauskas-3a5035.md) - General Partner at DIG Ventures.
+* [Malte Gooß](digitalhub.de--malte-goo-53c67d.md) - Investment Manager & KMU Manager at Digitaler Hub Region Bonn AG.
 * [Simon Barnett](dimensioncap.com--simon-barnett-7c1c76.md) - Partner & Head of Research at Dimension.
 * [Alois Flatz](direttissima.partners--alois-flatz-993f04.md) - Partner at Direttissima Growth Partners.
 * [Ben Keller](direttissima.partners--ben-keller-3bef51.md) - Analyst at Direttissima Growth Partners.
 * [Christopher Hoffmann](direttissima.partners--christopher-hoffmann-e0f362.md) - Partner at Direttissima Growth Partners.
 * [Philipp Bolliger](direttissima.partners--philipp-bolliger-059906.md) - Partner at Direttissima Growth Partners.
+* [Rob Citrone](discoverycapitalmanagement.com--rob-citrone-b47f34.md) - Founder, Principal and Portfolio Manager at Discovery Capital Management.
+* [Bart van Meurs](divisionq.nl--bart-van-meurs-27f236.md) - Founder & General Manager at Division Q.
 * [Adam Pollack](drivecapital.com--adam-pollack-f24865.md) - Partner at Drive Capital.
 * [Ben Pollack](drivecapital.com--ben-pollack-3c76a0.md) - Partner at Drive Capital.
 * [Cameron Clarke](drivecapital.com--cameron-clarke-563b61.md) - Partner at Drive Capital.
@@ -733,6 +980,12 @@
 * [Jun Murai](dronefund.vc--jun-murai-7089c6.md) - Executive Advisor at DRONE FUND.
 * [Kotaro Chiba](dronefund.vc--kotaro-chiba-03d002.md) - Co-founder / Managing Partner at DRONE FUND.
 * [Soki Ohmae](dronefund.vc--soki-ohmae-5ba0a2.md) - Co-founder / Managing Partner at DRONE FUND.
+* [Claire Calméjane](drysdale.vc--claire-calm-jane-017391.md) - Sparring Partner at Drysdale Ventures.
+* [Dalia Mahfouf](drysdale.vc--dalia-mahfouf-9ae528.md) - Associate at Drysdale Ventures.
+* [Nicolas Essayan](drysdale.vc--nicolas-essayan-416613.md) - Founder at Drysdale Ventures.
+* [Olivier Bonnet](drysdale.vc--olivier-bonnet-d827ca.md) - Sparring Partner at Drysdale Ventures.
+* [Vittorio Noury](drysdale.vc--vittorio-noury-70caa1.md) - Principal at Drysdale Ventures.
+* [Xavier Fischer](drysdale.vc--xavier-fischer-e8213d.md) - Operating Partner at Drysdale Ventures.
 * [Rahul Mehta](dst-global.com--rahul-mehta-8d74f1.md) - Co-Founder at DST Global.
 * [Saurabh Gupta](dst-global.com--saurabh-gupta-997e55.md) - Co-Founder at DST Global.
 * [Tom Stafford](dst-global.com--tom-stafford-2089bf.md) - Co-Founder at DST Global.
@@ -767,6 +1020,12 @@
 * [Sunao Nishimura](e12.ventures--sunao-nishimura-f1ce98.md) - Co-Managing Partner at E12 Ventures.
 * [Toshihiro Terada](e12.ventures--toshihiro-terada-6e7e09.md) - Principal at E12 Ventures.
 * [Yukitaka Kojima, CFA](e12.ventures--yukitaka-kojima-cfa-b763fb.md) - Principal at E12 Ventures.
+* [arin ozkula](e2.vc--arin-ozkula-04e64f.md) - general partner at e2VC.
+* [basak zorlutuna](e2.vc--basak-zorlutuna-295658.md) - principal at e2VC.
+* [dilan sisu](e2.vc--dilan-sisu-79ac76.md) - associate at e2VC.
+* [enis hulli](e2.vc--enis-hulli-cf0c72.md) - general partner at e2VC.
+* [kaan eren](e2.vc--kaan-eren-8e3d47.md) - partner at e2VC.
+* [serra alkoclar alp](e2.vc--serra-alkoclar-alp-691e94.md) - Partner, Growth at e2VC.
 * [Ben Wilkening](earlybird.com--ben-wilkening-d91cd2.md) - Vision Lab Partner at Earlybird Venture Capital.
 * [Dan Lupu](earlybird.com--dan-lupu-673a25.md) - Venture Partner at Earlybird Venture Capital.
 * [Dr. Andre Retterath](earlybird.com--dr-andre-retterath-0eb887.md) - General Partner at Earlybird Venture Capital.
@@ -775,6 +1034,7 @@
 * [Dr. Hendrik Brandis](earlybird.com--dr-hendrik-brandis-7113df.md) - Co-Founder and General Partner at Earlybird Venture Capital.
 * [Paul Klemm](earlybird.com--paul-klemm-cd7ece.md) - General Partner at Earlybird Venture Capital.
 * [Tim Rehder](earlybird.com--tim-rehder-109ba3.md) - General Partner at Earlybird Venture Capital.
+* [Michael Brandkamp](ecbf.vc--michael-brandkamp-84ecd8.md) - Managing partner at European Circular Bioeconomy Fund (ECBF).
 * [Aidan Madigan-Curtis](eclipse.capital--aidan-madigan-curtis-f8d1e8.md) - Partner at Eclipse.
 * [Angela Hayward](eclipse.capital--angela-hayward-d03eaf.md) - Partner and Head of Strategy at Eclipse.
 * [Charly Mwangi](eclipse.capital--charly-mwangi-50a260.md) - Partner at Eclipse.
@@ -789,6 +1049,17 @@
 * [Ryan Gibson](eclipse.capital--ryan-gibson-7b666d.md) - Venture Partner at Eclipse.
 * [Seth Winterroth](eclipse.capital--seth-winterroth-3a6855.md) - Partner at Eclipse.
 * [Thomas Storch](eclipse.capital--thomas-storch-2a24c0.md) - Partner and Head of Policy at Eclipse.
+* [Ashley Jogoo](edge.vc--ashley-jogoo-a88a08.md) - Investment Management at Edge VC.
+* [Emmanuel Durand](edge.vc--emmanuel-durand-bbdcc5.md) - Venture Partner at Edge VC.
+* [Fiona Dent](edge.vc--fiona-dent-f3a8fd.md) - General Partner at Edge VC.
+* [James Goode](edge.vc--james-goode-76d35f.md) - Venture Partner at Edge VC.
+* [Simon Andrews](edge.vc--simon-andrews-ba8dc3.md) - Non Executive Director at Edge VC.
+* [Ryusuke Hayashi (林 隆介)](ee-investment.jp--ryusuke-hayashi-f5cbc0.md) - Head of Mobility Business Innovation / モビリティ事業創造室長 at Energy & Environment Investments, Inc.
+* [Shuichiro Kawamura (河村 修一郎)](ee-investment.jp--shuichiro-kawamura-8547b7.md) - 代表取締役 (Representative Director) at Energy & Environment Investments, Inc.
+* [Annie Lan](egiscapitalpartners.com--annie-lan-8a0a7f.md) - Partner at EGIS Capital Partners.
+* [Christina Graziano](egiscapitalpartners.com--christina-graziano-4bf12b.md) - Chief Administrative Officer / Partner at EGIS Capital Partners.
+* [Robert Chefitz](egiscapitalpartners.com--robert-chefitz-c257b0.md) - Founder & Managing Partner at EGIS Capital Partners.
+* [Tommy Persinski](egiscapitalpartners.com--tommy-persinski-76b0c2.md) - Associate at EGIS Capital Partners.
 * [Alexis Frentz](elaia.com--alexis-frentz-b79c36.md) - Partner at Elaia.
 * [Anne-Sophie Carrese](elaia.com--anne-sophie-carrese-a81d0f.md) - Managing Partner at Elaia.
 * [Céline Passedouet](elaia.com--c-line-passedouet-38b36b.md) - Investment Director at Elaia.
@@ -801,6 +1072,19 @@
 * [Vincent Faber](elaia.com--vincent-faber-351572.md) - Investment Director at Elaia.
 * [Xavier Lazarus](elaia.com--xavier-lazarus-4a37cb.md) - Managing Partner & Co Founder at Elaia.
 * [Zeevi Michel](elaia.com--zeevi-michel-6c91e3.md) - Partner at Elaia.
+* [Peter Lee](embark.vc--peter-lee-3d42d8.md) - General Partner at Embark Ventures.
+* [Yipeng Zhao](embark.vc--yipeng-zhao-11a43a.md) - General Partner at Embark Ventures.
+* [Bill Cramsie](embedded.ventures--bill-cramsie-1c31e8.md) - Partner at Embedded Ventures.
+* [Jenna Bryant](embedded.ventures--jenna-bryant-fbee80.md) - General Partner at Embedded Ventures.
+* [Jordan Noone](embedded.ventures--jordan-noone-c07c03.md) - General Partner at Embedded Ventures.
+* [Mandy Vaughn](embedded.ventures--mandy-vaughn-fe3dfb.md) - Operating Partner at Embedded Ventures.
+* [Carlotta "Lotti" Siniscalco](emcap.com--carlotta-lotti-siniscalco-286fc0.md) - Principal at Emergence Capital Partners.
+* [Gordon Ritter](emcap.com--gordon-ritter-269bd4.md) - Founder and General Partner at Emergence Capital Partners.
+* [Jake Saper](emcap.com--jake-saper-be69cc.md) - General Partner at Emergence Capital Partners.
+* [Jason Green](emcap.com--jason-green-cabe9c.md) - Founder and General Partner at Emergence Capital Partners.
+* [Joe Floyd](emcap.com--joe-floyd-7c26ee.md) - General Partner at Emergence Capital Partners.
+* [Kevin Spain](emcap.com--kevin-spain-a45eee.md) - General Partner at Emergence Capital Partners.
+* [Santi Subotovsky](emcap.com--santi-subotovsky-357562.md) - General Partner at Emergence Capital Partners.
 * [Cédric Mutz](emerald.vc--c-dric-mutz-ebdbf8.md) - Partner, Head of Portfolio Performance at Emerald Technology Ventures.
 * [Charles Vaslet](emerald.vc--charles-vaslet-3d7636.md) - Senior Partner at Emerald Technology Ventures.
 * [Christoph Frei](emerald.vc--christoph-frei-ae7b84.md) - Partner, Head of Energy at Emerald Technology Ventures.
@@ -826,6 +1110,17 @@
 * [Telmo Pérez](encomenda.com--telmo-p-rez-d6ca3e.md) - Venture Partner at Encomenda Capital Partners.
 * [Toni Raurich](encomenda.com--toni-raurich-ae2cdf.md) - Venture Partner at Encomenda Capital Partners.
 * [Victoria Gago](encomenda.com--victoria-gago-cc690d.md) - Venture Partner at Encomenda Capital Partners.
+* [Amirteymour Moazami](eneacap.com--amirteymour-moazami-18124f.md) - General Partner at Enea Capital.
+* [Federico Dubini](eneacap.com--federico-dubini-839e1a.md) - fund manager at Enea Capital.
+* [Ashwin Shashindranath](energyimpactpartners.com--ashwin-shashindranath-683d0e.md) - Partner at Energy Impact Partners.
+* [Cassie Bowe](energyimpactpartners.com--cassie-bowe-7fbc56.md) - Partner at Energy Impact Partners.
+* [Hans Kobler](energyimpactpartners.com--hans-kobler-dacdf1.md) - Founder and Managing Partner at Energy Impact Partners.
+* [Joshua Feldman](energyimpactpartners.com--joshua-feldman-6f105a.md) - Co-founder, Partner, General Counsel & Chief Operating Officer at Energy Impact Partners.
+* [Lindsay Luger](energyimpactpartners.com--lindsay-luger-c3360a.md) - Co-founder & Partner at Energy Impact Partners.
+* [Michael Donnelly](energyimpactpartners.com--michael-donnelly-7936e6.md) - Co-founder, Partner and Chief Risk Officer at Energy Impact Partners.
+* [Sameer Reddy](energyimpactpartners.com--sameer-reddy-770659.md) - Managing Partner, Flagship at Energy Impact Partners.
+* [Shayle Kann](energyimpactpartners.com--shayle-kann-f4bc1e.md) - Managing Partner, Frontier at Energy Impact Partners.
+* [Steven Kantowitz](energyimpactpartners.com--steven-kantowitz-197c14.md) - Managing Partner at Energy Impact Partners.
 * [Anne-Elisabeth Vercruysse](entourage.io--anne-elisabeth-vercruysse-85aea5.md) - Finance and Legal at Entourage.
 * [Erwan Gardelle](entourage.io--erwan-gardelle-fd61e9.md) - Investor at Entourage.
 * [Evert Beeckman](entourage.io--evert-beeckman-2170af.md) - Partner at Entourage.
@@ -833,6 +1128,16 @@
 * [Maarten Mortier](entourage.io--maarten-mortier-0254fe.md) - Partner at Entourage.
 * [Pieterjan Bouten](entourage.io--pieterjan-bouten-e7f2dc.md) - General Partner at Entourage.
 * [Sixtine Riescher](entourage.io--sixtine-riescher-0a8358.md) - Investor at Entourage.
+* [Ana Stewart](eos-advisory.com--ana-stewart-a70158.md) - Partner at Eos Advisory LLP.
+* [Andrew Durkie](eos-advisory.com--andrew-durkie-03cbf0.md) - Partner at Eos Advisory LLP.
+* [Andrew McNeill](eos-advisory.com--andrew-mcneill-cccba0.md) - Managing Partner at Eos Advisory LLP.
+* [Anne Muir](eos-advisory.com--anne-muir-b7b253.md) - Director of Portfolio at Eos Advisory LLP.
+* [Calum Keddie](eos-advisory.com--calum-keddie-9bbaf8.md) - Investment Executive at Eos Advisory LLP.
+* [Chris Brinsmead](eos-advisory.com--chris-brinsmead-607182.md) - Partner at Eos Advisory LLP.
+* [Hettie Blampied](eos-advisory.com--hettie-blampied-7fd8b1.md) - Operations and Communications Executive at Eos Advisory LLP.
+* [Jill Arnold](eos-advisory.com--jill-arnold-3bb04d.md) - Investment Relationship Director at Eos Advisory LLP.
+* [Rick Clark](eos-advisory.com--rick-clark-3d5ebf.md) - Partner at Eos Advisory LLP.
+* [Rob Halliday](eos-advisory.com--rob-halliday-225907.md) - Investment Director at Eos Advisory LLP.
 * [Nicolas Debock](eurazeo.com--nicolas-debock-a1bfa9.md) - Partner, Eurazeo Ventures at Eurazeo.
 * [Alex Vamvakas](evercurious.vc--alex-vamvakas-3f63d9.md) - Partner at Evercurious VC.
 * [George Georgiadis](evercurious.vc--george-georgiadis-b24ff4.md) - Partner at Evercurious VC.
@@ -842,6 +1147,20 @@
 * [Theo Mastrokostopoulos](evercurious.vc--theo-mastrokostopoulos-243770.md) - Venture Partner at Evercurious VC.
 * [Vasileios Balntas](evercurious.vc--vasileios-balntas-946335.md) - Venture Partner at Evercurious VC.
 * [Wolfgang Ungerer](evercurious.vc--wolfgang-ungerer-2a0be7.md) - Venture Partner at Evercurious VC.
+* [Bryan Sivak](evidenced.com--bryan-sivak-8d6667.md) - Founding GP at Evidenced Capital Management LP (Evidenced).
+* [Sean Glass](evidenced.com--sean-glass-89b5fd.md) - Founding GP at Evidenced Capital Management LP (Evidenced).
+* [Aron Khurana](evolutionequity.com--aron-khurana-af3564.md) - Partner at Evolution Equity Partners.
+* [Dennis Smith](evolutionequity.com--dennis-smith-10851b.md) - Partner at Evolution Equity Partners.
+* [J.R. Smith](evolutionequity.com--j-r-smith-bd1641.md) - Partner at Evolution Equity Partners.
+* [Karel Obluk](evolutionequity.com--karel-obluk-286646.md) - Partner at Evolution Equity Partners.
+* [Karthik Subramanian](evolutionequity.com--karthik-subramanian-d0308c.md) - Partner at Evolution Equity Partners.
+* [Richard Seewald](evolutionequity.com--richard-seewald-74e6a1.md) - Partner at Evolution Equity Partners.
+* [Taher Elgamal](evolutionequity.com--taher-elgamal-6639b1.md) - Partner at Evolution Equity Partners.
+* [Yuval Ben-Itzhak](evolutionequity.com--yuval-ben-itzhak-bce648.md) - Partner at Evolution Equity Partners.
+* [Ewa Milewska](expeditionsfund.com--ewa-milewska-51b8b4.md) - CFO, Partner at Expeditions.
+* [Mikołaj Firlej](expeditionsfund.com--miko-aj-firlej-b6fed8.md) - Co-founder, General Partner at Expeditions.
+* [Samuel Burrell](expeditionsfund.com--samuel-burrell-dd64ca.md) - Partner at Expeditions.
+* [Stanisław Kastory](expeditionsfund.com--stanis-aw-kastory-1dfa74.md) - Co-founder, General Partner at Expeditions.
 * [Astasia Myers](felicis.com--astasia-myers-c880b8.md) - Senior Venture Partner at Felicis Ventures.
 * [Aydin Senkut](felicis.com--aydin-senkut-f2a22d.md) - Founder, Managing Partner at Felicis Ventures.
 * [Feyza Haskaraman](felicis.com--feyza-haskaraman-4212dc.md) - Partner at Felicis Ventures.
@@ -879,6 +1198,26 @@
 * [Jeff Weinstein](fjlabs.com--jeff-weinstein-1ce1ff.md) - Partner at FJ Labs.
 * [Jose Marin](fjlabs.com--jose-marin-f8343e.md) - Founding Partner at FJ Labs.
 * [William Guillouard](fjlabs.com--william-guillouard-c32fa4.md) - Operating Partner at FJ Labs.
+* [Adam Bruce](flarecapital.com--adam-bruce-02f518.md) - Partner, Chief Financial and Chief Operating Officer at Flare Capital Partners.
+* [Alyssa Tsenter](flarecapital.com--alyssa-tsenter-0ab7be.md) - Senior Associate at Flare Capital Partners.
+* [Amanda DiTrolio](flarecapital.com--amanda-ditrolio-e84b78.md) - Vice President of Marketing and Platform at Flare Capital Partners.
+* [Caroline Glen](flarecapital.com--caroline-glen-b6d2a5.md) - Vice President of Investor Relations at Flare Capital Partners.
+* [Chris Hocevar](flarecapital.com--chris-hocevar-76104b.md) - Executive Partner at Flare Capital Partners.
+* [Dan Gebremedhin, MD](flarecapital.com--dan-gebremedhin-md-8b101b.md) - Partner at Flare Capital Partners.
+* [Gary Gottlieb, MD](flarecapital.com--gary-gottlieb-md-20f262.md) - Executive Partner at Flare Capital Partners.
+* [Graham Gardner, MD](flarecapital.com--graham-gardner-md-8457b1.md) - Executive Partner at Flare Capital Partners.
+* [Ian Chiang](flarecapital.com--ian-chiang-68082f.md) - Partner at Flare Capital Partners.
+* [Jonathon George](flarecapital.com--jonathon-george-c953e1.md) - Vice President at Flare Capital Partners.
+* [Margaret Malone](flarecapital.com--margaret-malone-5048db.md) - Partner at Flare Capital Partners.
+* [Michael Greeley](flarecapital.com--michael-greeley-97de70.md) - Co-Founder and General Partner at Flare Capital Partners.
+* [Pam Walser](flarecapital.com--pam-walser-ca503f.md) - Controller at Flare Capital Partners.
+* [Parth Desai](flarecapital.com--parth-desai-3d7382.md) - Partner at Flare Capital Partners.
+* [Phyllis Gotlib](flarecapital.com--phyllis-gotlib-b9c68a.md) - Executive Partner at Flare Capital Partners.
+* [Rochelle Walensky, MD](flarecapital.com--rochelle-walensky-md-12f99b.md) - Executive Partner at Flare Capital Partners.
+* [Sara Hoffman](flarecapital.com--sara-hoffman-3fc1a2.md) - Senior Associate at Flare Capital Partners.
+* [Tara Sullivan](flarecapital.com--tara-sullivan-615a8b.md) - Principal at Flare Capital Partners.
+* [Varsha Rao](flarecapital.com--varsha-rao-2a4d04.md) - Executive Partner at Flare Capital Partners.
+* [Victor Lanio](flarecapital.com--victor-lanio-46f804.md) - Partner at Flare Capital Partners.
 * [Oshri Kaplan](flex.com--oshri-kaplan-c892e1.md) - Principal, Director of Investments at Lab IX.
 * [Rob Cronan](flex.com--rob-cronan-d285c5.md) - Legal at Lab IX.
 * [Winnie Yu](flex.com--winnie-yu-851f34.md) - Principal, Director of Development at Lab IX.
@@ -888,6 +1227,7 @@
 * [Matt Wichrowski](fly.vc--matt-wichrowski-86aa7b.md) - Partner at Fly Ventures.
 * [Meltem Tumer](fly.vc--meltem-tumer-383950.md) - Associate at Fly Ventures.
 * [Steven Tran](fly.vc--steven-tran-073223.md) - Operating Partner at Fly Ventures.
+* [Antonio Gambardella](fongit.ch--antonio-gambardella-737c4b.md) - Director at FONGIT.
 * [Chris Cheever](fontinalis.com--chris-cheever-ad842f.md) - Founder & Managing Partner at Fontinalis Partners, LLC.
 * [Chris Stallman](fontinalis.com--chris-stallman-333a61.md) - Managing Partner at Fontinalis Partners, LLC.
 * [Dan Ratliff](fontinalis.com--dan-ratliff-50ec59.md) - Partner at Fontinalis Partners, LLC.
@@ -909,8 +1249,14 @@
 * [Sam O’Donnell](forerunnerventures.com--sam-odonnell-5425e85a.md) - Investor at Forerunner Ventures.
 * [Tandis Moeini](forerunnerventures.com--tandis-moeini-ef04d54a.md) - VP, Finance at Forerunner Ventures.
 * [Tess Krensky](forerunnerventures.com--tess-krensky-96cbb001.md) - Investor at Forerunner Ventures.
+* [Frederic Wohlwend](forestaycapital.com--frederic-wohlwend-4d93bd.md) - Founding and Managing Partner at Forestay.
 * [John Patton](forteventures.com--john-patton-c89063.md) - Partner at Forté Ventures.
 * [Melanie Martin](forteventures.com--melanie-martin-9a7cde.md) - Director, Fund Administration at Forté Ventures.
+* [Sharin Fisher](fortross.vc--sharin-fisher-c92e03.md) - partner at Fort Ross.
+* [Victor Orlovski](fortross.vc--victor-orlovski-d24fc3.md) - Founder and Managing Partner at Fort Ross.
+* [Adam Zobler](foundamental.com--adam-zobler-37af93.md) - general partner at Foundamental.
+* [Patric Hellermann](foundamental.com--patric-hellermann-c0cd35.md) - general partner at Foundamental.
+* [Shub Bhattacharya](foundamental.com--shub-bhattacharya-b23505.md) - general partner at Foundamental.
 * [Alex Stöckl](founderful.com--alex-st-ckl-8c0ecc.md) - Partner at Founderful.
 * [Lukas Weder](founderful.com--lukas-weder-e56430.md) - Co-founder at Founderful.
 * [Pascal Mathis](founderful.com--pascal-mathis-54df53.md) - Co-founder at Founderful.
@@ -924,12 +1270,18 @@
 * [Ryan Beiermeister](foundersfund.com--ryan-beiermeister-53646f.md) - Partner at Founders Fund, LLC.
 * [Scott Nolan](foundersfund.com--scott-nolan-535803.md) - Partner at Founders Fund, LLC.
 * [Trae Stephens](foundersfund.com--trae-stephens-60d914.md) - Partner at Founders Fund, LLC.
+* [Farouk Ladha](fourriversgroup.com--farouk-ladha-aa63eb.md) - Managing Partner at Four Rivers Group, LLC.
+* [Pegah Ebrahimi](fpvventures.com--pegah-ebrahimi-c93489.md) - Co-founder & Managing Partner at FPV Ventures.
+* [Wesley Chan](fpvventures.com--wesley-chan-507207.md) - Co-founder & Managing Partner at FPV Ventures.
 * [Ajay Gopal](framework.vc--ajay-gopal-19275a.md) - Partner at FRAMEWORK Venture Partners.
 * [Boyang Li](framework.vc--boyang-li-753b8f.md) - Principal at FRAMEWORK Venture Partners.
 * [David Fontaine](framework.vc--david-fontaine-e3b5db.md) - Principal at FRAMEWORK Venture Partners.
 * [Jim Texier](framework.vc--jim-texier-17b792.md) - Partner & CTO at FRAMEWORK Venture Partners.
 * [Peter Misek](framework.vc--peter-misek-28d7de.md) - Managing Partner & Co-Founder at FRAMEWORK Venture Partners.
 * [Rami Sayar](framework.vc--rami-sayar-15673c.md) - Venture Partner at FRAMEWORK Venture Partners.
+* [Blake Macdonald, B.COM](franvest.ca--blake-macdonald-b-com-d0d731.md) - MANAGING PARTNER at Franvest Capital Partners Inc.
+* [David A. Hardy, MBA](franvest.ca--david-a-hardy-mba-f1b950.md) - PRINCIPAL & PRESIDENT at Franvest Capital Partners Inc.
+* [Matt Walsh, B.COM](franvest.ca--matt-walsh-b-com-972ca5.md) - Director, Investments at Franvest Capital Partners Inc.
 * [Bobby Wagner](fuse.vc--bobby-wagner-e71acb.md) - Operating Partner at FUSE Venture Partners.
 * [Brendan Wales](fuse.vc--brendan-wales-32c486.md) - General Partner at FUSE Venture Partners.
 * [Brooke Borseth](fuse.vc--brooke-borseth-702d40.md) - Senior Associate at FUSE Venture Partners.
@@ -941,9 +1293,19 @@
 * [Ryan Baker](fuse.vc--ryan-baker-1f5462.md) - CFO at FUSE Venture Partners.
 * [Satbir Khanuja](fuse.vc--satbir-khanuja-5709df.md) - Operating Partner at FUSE Venture Partners.
 * [Zane Khatib](fuse.vc--zane-khatib-0325a1.md) - Principal at FUSE Venture Partners.
+* [David Gerster](fusionfund.com--david-gerster-daf432.md) - Investment Partner at Fusion Fund.
+* [Ivneet Bhullar](fusionfund.com--ivneet-bhullar-ada112.md) - Investment Partner at Fusion Fund.
+* [Lu Zhang](fusionfund.com--lu-zhang-4665ec.md) - Founder and Managing Partner at Fusion Fund.
+* [Shane Wall](fusionfund.com--shane-wall-b5aa1c.md) - Partner at Fusion Fund.
 * [Maryanna Saenko](futureventures.com--maryanna-saenko-a5a83f.md) - Co-Founder at Future Ventures.
 * [Nico Enriquez](futureventures.com--nico-enriquez-1ab1cb.md) - Principal at Future Ventures.
 * [Steve Jurvetson](futureventures.com--steve-jurvetson-c8fc12.md) - Co-Founder at Future Ventures.
+* [Boris Michael Gutin](gcpcapital.com--boris-michael-gutin-d2b8ec.md) - Co-Managing Partner And Investment Committee Member at GCP Capital Partners.
+* [Bryan Adam Gitomer](gcpcapital.com--bryan-adam-gitomer-2ad4fb.md) - Partner at GCP Capital Partners.
+* [Cyrus Bomi Hormazdi](gcpcapital.com--cyrus-bomi-hormazdi-c4f166.md) - Chief Compliance Officer, Managing Director And Investment Committee Member at GCP Capital Partners.
+* [Jean-Paul Orillac](gcpcapital.com--jean-paul-orillac-916b05.md) - Partner at GCP Capital Partners.
+* [Robert Henry Niehaus](gcpcapital.com--robert-henry-niehaus-d185da.md) - Chairman, Co-Managing Partner And Investment Committee Member at GCP Capital Partners.
+* [Victor Frank Pottow](gcpcapital.com--victor-frank-pottow-6bf356.md) - Managing Director And Investment Committee Member at GCP Capital Partners.
 * [Beth Comstock](ge.com--beth-comstock-9e09e4.md) - SVP & CMO, GE at GE Ventures.
 * [Karen Kerr](ge.com--karen-kerr-e254e8.md) - Senior Managing Director, Advanced Manufacturing at GE Ventures.
 * [Lisa Suennen](ge.com--lisa-suennen-202b5b.md) - Senior Managing Director, Healthcare Investing at GE Ventures.
@@ -954,6 +1316,9 @@
 * [Joel Cutler](generalcatalyst.com--joel-cutler-1c7bc3.md) - Co-Founder & Managing Director at General Catalyst.
 * [Ken Chenault](generalcatalyst.com--ken-chenault-a64653.md) - Chairman & Managing Director at General Catalyst.
 * [Neeraj Arora](generalcatalyst.com--neeraj-arora-995062.md) - CEO India, MENA & Managing Director at General Catalyst.
+* [Elian Kool](gentian.investments--elian-kool-177f26.md) - Investor at Gentian Investments AG.
+* [Reif Gasper-Asaoka](geodesiccap.com--reif-gasper-asaoka-5b9c10.md) - partner at Geodesic Capital.
+* [Tom Gillespie](geodesiccap.com--tom-gillespie-2343a4.md) - partner at Geodesic Capital.
 * [David Kirk](gft.vc--david-kirk-496c3c.md) - Senior Advisor at Global Frontier Technology Ventures (GFT Ventures).
 * [Ivy Nguyen](gft.vc--ivy-nguyen-ecd0e0.md) - Partner at Global Frontier Technology Ventures (GFT Ventures).
 * [Jay Eum](gft.vc--jay-eum-1b80db.md) - Founding Managing Partner at Global Frontier Technology Ventures (GFT Ventures).
@@ -964,6 +1329,9 @@
 * [Jon Bartner](ggpfunds.com--jon-bartner-4b0f06.md) - Chief Operating Officer at GGP Funds.
 * [Lauren Spikes](ggpfunds.com--lauren-spikes-04cdda.md) - Senior Associate at GGP Funds.
 * [Shawn Rezendes](ggpfunds.com--shawn-rezendes-25d366.md) - Principal at GGP Funds.
+* [Damir Spoljaric](gi21capital.com--damir-spoljaric-efc6ec.md) - Managing Partner, CEO and Co-Founder at Gi21 Capital.
+* [Ilya Meshkov](gi21capital.com--ilya-meshkov-605d0d.md) - Investment analyst at Gi21 Capital.
+* [Jan Martinů](gi21capital.com--jan-martin-afb26b.md) - CTO and Co-Founder at Gi21 Capital.
 * [Aaron Bernstein](gigascale.com--aaron-bernstein-39974118.md) - Partnerships at Gigascale Capital.
 * [Evaline Tsai, Ph.D.](gigascale.com--evaline-tsai-ph-d-f19617a8.md) - Investing at Gigascale Capital.
 * [Haley Prout](gigascale.com--haley-prout-1a51ab38.md) - Investing at Gigascale Capital.
@@ -995,6 +1363,16 @@
 * [Jonathon Beschen](gopafund.com--jonathon-beschen-7bccae.md) - Investment Director, Tech Investment Group, Ben Franklin SEP; Fund Manager of the Global Opportunity Philadelphia Fund at Global Opportunity Pennsylvania Fund II, L.P. (GO PA Fund).
 * [Kathie Jordan, Ph.D.](gopafund.com--kathie-jordan-ph-d-955846.md) - Managing Director, Healthcare Investment Group, Ben Franklin SEP at Global Opportunity Pennsylvania Fund II, L.P. (GO PA Fund).
 * [Scott Nissenbaum](gopafund.com--scott-nissenbaum-c1dbb3.md) - Managing General Partner, GO PA Fund & GO Philly Fund; President & CEO, Ben Franklin of Southeastern Pennsylvania at Global Opportunity Pennsylvania Fund II, L.P. (GO PA Fund).
+* [Andrew Brackin](gradient.com--andrew-brackin-3b3e67.md) - Partner at Gradient.
+* [Braden Harrison](gradient.com--braden-harrison-e3c0d3.md) - Associate at Gradient.
+* [Clayton Petty](gradient.com--clayton-petty-f35b73.md) - Partner at Gradient.
+* [Darian Shirazi](gradient.com--darian-shirazi-0ed858.md) - General Partner at Gradient.
+* [Denise Teng](gradient.com--denise-teng-f42c6a.md) - Partner at Gradient.
+* [Kyle Duffy](gradient.com--kyle-duffy-5b995a.md) - Operating Partner at Gradient.
+* [Vig Sachidananda](gradient.com--vig-sachidananda-5edf12.md) - Partner at Gradient.
+* [Zach Bratun-Glennon](gradient.com--zach-bratun-glennon-add854.md) - General Partner at Gradient.
+* [Dana Settle](greycroft.com--dana-settle-838c6b.md) - co-founder at Greycroft at Greycroft.
+* [Ian Sigalow](greycroft.com--ian-sigalow-106238.md) - co-founder at Greycroft at Greycroft.
 * [Asheem Chandna](greylock.com--asheem-chandna-8e0e2e.md) - Partner at Greylock Partners.
 * [Corinne Riley](greylock.com--corinne-riley-0a5eb3.md) - Partner at Greylock Partners.
 * [Jason Risch](greylock.com--jason-risch-9c3476.md) - Partner at Greylock Partners.
@@ -1010,6 +1388,10 @@
 * [Elias Can](grishinrobotics.com--elias-can-d6cdfa.md) - Partner at Grishin Robotics.
 * [Sergey Nikulin](grishinrobotics.com--sergey-nikulin-c03728.md) - CTO at Grishin Robotics.
 * [Tatiana Klimanova](grishinrobotics.com--tatiana-klimanova-8be98e.md) - Programme Director at Grishin Robotics.
+* [孫 正義](group.softbank---1f3733.md) - 代表取締役 at SoftBank Group Corp.
+* [Alan Greenberg](gspv.vc--alan-greenberg-3436c3.md) - Co-Founder and Chairman at Greensoil PropTech Ventures.
+* [Dana Goldman Szekely](gspv.vc--dana-goldman-szekely-3d44af.md) - Partner at Greensoil PropTech Ventures.
+* [David Harris Kolada](gspv.vc--david-harris-kolada-931d3b.md) - Managing Partner at Greensoil PropTech Ventures.
 * [Kris Kaczmarek](gsv.vc--kris-kaczmarek-5aa81c.md) - Partner at Ground State Ventures.
 * [Ton van 't Noordende](gsv.vc--ton-van-t-noordende-5ecd5b.md) - Founding General Partner at Ground State Ventures.
 * [Casy van Maanen](gtmfund.com--casy-van-maanen-8b09bb.md) - Associate at GTMfund LLC.
@@ -1018,11 +1400,24 @@
 * [Paul Irving](gtmfund.com--paul-irving-b9c0fe.md) - General Partner at GTMfund LLC.
 * [Sophie Buonassisi](gtmfund.com--sophie-buonassisi-0b6b0b.md) - Partner & SVP of Marketing at GTMfund LLC.
 * [Vaibhavi Nesarikar](gtmfund.com--vaibhavi-nesarikar-31f7ca.md) - Principal at GTMfund LLC.
+* [Mike Eckert](gulfsouthangels.org--mike-eckert-8735e9.md) - Founder and Chairman at Gulf South Angels.
+* [Sam Felton](gulfsouthangels.org--sam-felton-39b5f6.md) - Investment Process Manager at Gulf South Angels.
+* [David Krane](gv.com--david-krane-83cb38.md) - CEO at GV.
+* [Promise Phelon](gwc.vc--promise-phelon-b0890c.md) - GWC founder at Growth Warrior Capital.
 * [Eric Hatzimemos](h-l.vc--eric-hatzimemos-7f4597.md) - Co-founder, Chairman and CEO at H/L Ventures.
 * [Oliver Libby](h-l.vc--oliver-libby-a42d64.md) - Co-Founding Managing Partner at H/L Ventures.
+* [Dr. Sascha Haghani](hannoverfinanz.de--dr-sascha-haghani-9687de.md) - Geschäftsführer at HANNOVER Finanz Group.
+* [Goetz Hertz-Eichenrode](hannoverfinanz.de--goetz-hertz-eichenrode-abe3df.md) - Geschäftsführer at HANNOVER Finanz Group.
+* [Robert Pauli](hannoverfinanz.de--robert-pauli-4fb9a8.md) - Geschäftsführer at HANNOVER Finanz Group.
+* [Dieter Bratschi](haute.com--dieter-bratschi-5e8e4c.md) - Member of the Board of Directors at Haute Capital Partners.
+* [Dylan Figueiredo](haute.com--dylan-figueiredo-2dbcba.md) - Chief Investment Officer at Haute Capital Partners.
+* [Rodrigo Bento Geraldes](haute.com--rodrigo-bento-geraldes-0dfd7b.md) - Chief Investor Relations Officer at Haute Capital Partners.
+* [Thibault Leroy Bürki](haute.com--thibault-leroy-b-rki-7cc30a.md) - CEO & Chairman of the Board of Directors at Haute Capital Partners.
+* [Ursula Wermeille](haute.com--ursula-wermeille-c624e3.md) - Chief Operating Officer at Haute Capital Partners.
 * [Corey Mulloy](hcp.com--corey-mulloy-828a63.md) - General Partner at Highland Capital Partners.
 * [Craig Driscoll](hcp.com--craig-driscoll-6f41f2.md) - General Partner at Highland Capital Partners.
 * [Paul Maeder](hcp.com--paul-maeder-29d981.md) - Chair and General Partner at Highland Capital Partners.
+* [Clarke Futch](hcrx.com--clarke-futch-93b63f.md) - Chairman and CEO at HealthCare Royalty (HCRx).
 * [Alexandre Flamant](hcvc.co--alexandre-flamant-8b1a4f.md) - Partner at HCVC.
 * [Alexis Houssou](hcvc.co--alexis-houssou-642b2d.md) - Founder & Managing Partner at HCVC.
 * [Aymerik Renard](hcvc.co--aymerik-renard-67eaf7.md) - General Partner at HCVC.
@@ -1032,6 +1427,7 @@
 * [Daniela Machado](heartfelt.vc--daniela-machado-f95a94.md) - Partner at HEARTFELT_ (Heartfelt Capital Management GmbH).
 * [Henric Hungerhoff](heartfelt.vc--henric-hungerhoff-7e82d9.md) - Managing Director at HEARTFELT_ (Heartfelt Capital Management GmbH).
 * [Joerg Rheinboldt](heartfelt.vc--joerg-rheinboldt-e70ba0.md) - General Partner at HEARTFELT_ (Heartfelt Capital Management GmbH).
+* [Pascal Winnen](hemex.ch--pascal-winnen-00604f.md) - CEO & Co-founder at HEMEX.
 * [Andrew Kryvorchuk](hi5.ventures--andrew-kryvorchuk-543c021c.md) - General Partner at hi5 Ventures.
 * [Leon Podobedov](hi5.ventures--leon-podobedov-28fc1cf7.md) - General Partner at hi5 Ventures.
 * [David Blyghton](highlandeurope.com--david-blyghton-bbba4c.md) - Partner at Highland Europe.
@@ -1056,10 +1452,31 @@
 * [Sir Ian Livingstone CBE](hiro.capital--sir-ian-livingstone-cbe-240fca.md) - Founder & General Partner at HIRO Capital.
 * [Sir Nick Clegg](hiro.capital--sir-nick-clegg-a351ef.md) - General Partner at HIRO Capital.
 * [Spike Laurie](hiro.capital--spike-laurie-95b7a7.md) - Partner at HIRO Capital.
+* [Stefan Gabriel](hitachi-ventures.com--stefan-gabriel-b38a15.md) - CEO & Managing Director, Hitachi Ventures at Hitachi Ventures GmbH.
 * [Beth Scheer](homebrew.co--beth-scheer-fa5165.md) - Head of Talent at Homebrew.
 * [Carly Osmonson](homebrew.co--carly-osmonson-d26357.md) - Director of Operations at Homebrew.
 * [Hunter Walk](homebrew.co--hunter-walk-e4a00e.md) - Partner at Homebrew.
 * [Satya Patel](homebrew.co--satya-patel-d2fbe3.md) - Partner at Homebrew.
+* [Debbie Chang](horizonsventures.com--debbie-chang-8c613b.md) - Co-founder at Horizons Ventures.
+* [Solina Chau](horizonsventures.com--solina-chau-149d27.md) - Co-founder and Director at Horizons Ventures.
+* [Catherine Jhung](htgc.com--catherine-jhung-bbefe7.md) - Senior Managing Director at Hercules Capital.
+* [Charlie Vandis](htgc.com--charlie-vandis-5f4373.md) - Chief Credit Officer at Hercules Capital.
+* [Cristy Barnes](htgc.com--cristy-barnes-ed4808.md) - Managing Director at Hercules Capital.
+* [Greg Peterson](htgc.com--greg-peterson-603175.md) - Managing Director at Hercules Capital.
+* [James Downing](htgc.com--james-downing-7c7e86.md) - Managing Director at Hercules Capital.
+* [John Eggbeer](htgc.com--john-eggbeer-c692c6.md) - Managing Director at Hercules Capital.
+* [Lake McGuire](htgc.com--lake-mcguire-3d2eba.md) - Managing Director at Hercules Capital.
+* [Lesya Kulchenko](htgc.com--lesya-kulchenko-d6342b.md) - Managing Director at Hercules Capital.
+* [Michael Bowden](htgc.com--michael-bowden-d1783c.md) - Managing Director, Portfolio Mgmt at Hercules Capital.
+* [Mike Dutra](htgc.com--mike-dutra-88c237.md) - Senior Managing Director and Senior Investment Officer at Hercules Capital.
+* [R. Bryan Jadot](htgc.com--r-bryan-jadot-af2686.md) - Senior Managing Director and Group Head - Life Sciences at Hercules Capital.
+* [Roy Y. Liu](htgc.com--roy-y-liu-b90fed.md) - Managing Director at Hercules Capital.
+* [Ruslan Sergeyev](htgc.com--ruslan-sergeyev-2ae4e9.md) - Managing Director at Hercules Capital.
+* [Scott Bluestein](htgc.com--scott-bluestein-cc7587.md) - Chief Executive Officer and Chief Investment Officer at Hercules Capital.
+* [Seth Meyer](htgc.com--seth-meyer-f0dec3.md) - President at Hercules Capital.
+* [Steve Kuo](htgc.com--steve-kuo-7a7415.md) - Senior Managing Director and Group Head - Technology at Hercules Capital.
+* [Thomas Harris](htgc.com--thomas-harris-31c289.md) - Senior Managing Director at Hercules Capital.
+* [Tom Hertzberg](htgc.com--tom-hertzberg-0fc85e.md) - Managing Director at Hercules Capital.
 * [Axel Nitsch](htgf.de--axel-nitsch-a5ab0e.md) - Partner at High-Tech Gründerfonds (HTGF).
 * [Dr. Angelika Vlachou](htgf.de--dr-angelika-vlachou-7295df.md) - Partnerin at High-Tech Gründerfonds (HTGF).
 * [Dr. Bernd Goergen](htgf.de--dr-bernd-goergen-0485be.md) - Partner at High-Tech Gründerfonds (HTGF).
@@ -1073,6 +1490,8 @@
 * [Marco Winzer](htgf.de--marco-winzer-30ce46.md) - Partner at High-Tech Gründerfonds (HTGF).
 * [Markus Kreßmann](htgf.de--markus-kre-mann-8dac17.md) - Partner at High-Tech Gründerfonds (HTGF).
 * [Yann Fiebig](htgf.de--yann-fiebig-98b638.md) - Partner at High-Tech Gründerfonds (HTGF).
+* [Barend Van den Brande](hummingbird.vc--barend-van-den-brande-f780df.md) - founder at Hummingbird Ventures Management NV.
+* [Firat Ileri](hummingbird.vc--firat-ileri-7e8b66.md) - Managing partner at Hummingbird Ventures Management NV.
 * [Aleksi Partanen](icebreaker.vc--aleksi-partanen-144d1e.md) - Co-founder & General Partner at Icebreaker.vc.
 * [Jesse Tinell](icebreaker.vc--jesse-tinell-6774f0.md) - Partner at Icebreaker.vc.
 * [Lasse Lehtinen](icebreaker.vc--lasse-lehtinen-5261b0.md) - Co-founder & General Partner at Icebreaker.vc.
@@ -1127,6 +1546,8 @@
 * [Sanika Bhalekar](infoedgeventures.in--sanika-bhalekar-d1c4d889.md) - AVP at InfoEdge Ventures.
 * [Sanjeev Bikhchandani](infoedgeventures.in--sanjeev-bikhchandani-aa674c26.md) - Founder, Info Edge at InfoEdge Ventures.
 * [Sparsh Bhardwaj](infoedgeventures.in--sparsh-bhardwaj-71f3907b.md) - Sr. Analyst at InfoEdge Ventures.
+* [Garry Tan](initialized.com--garry-tan-235442.md) - Co-founder & Managing Partner at Initialized Capital.
+* [Dror Berman](innovationendeavors.com--dror-berman-0f1370.md) - Founder & Managing Partner at Innovation Endeavors.
 * [Benjamin Lakhssassi](innovationsstarter.com--benjamin-lakhssassi-8ff55d.md) - Senior Investment Manager at IFB Innovationsstarter GmbH.
 * [Dörte Bunge](innovationsstarter.com--d-rte-bunge-a4e656.md) - Head of Investments at IFB Innovationsstarter GmbH.
 * [Dr. Heiko Milde](innovationsstarter.com--dr-heiko-milde-53802e.md) - Managing Director at IFB Innovationsstarter GmbH.
@@ -1151,18 +1572,51 @@
 * [Deven Parekh](insightpartners.com--deven-parekh-db6da6.md) - Managing Director at Insight Partners.
 * [Jeff Horing](insightpartners.com--jeff-horing-b96ca1.md) - Co-Founder and Managing Director at Insight Partners.
 * [Jeff Lieberman](insightpartners.com--jeff-lieberman-1ce1c6.md) - Managing Director at Insight Partners.
+* [Abdul Guefor](intelcapital.com--abdul-guefor-a658ae.md) - Managing Director Western Europe at Intel Capital.
+* [Alexandra Farmer](intelcapital.com--alexandra-farmer-e797df.md) - Principal North America at Intel Capital.
+* [Andy Fligel](intelcapital.com--andy-fligel-fb436e.md) - Senior Managing Director North America at Intel Capital.
+* [Anthony Lin](intelcapital.com--anthony-lin-972cd6.md) - Head of Intel Capital Corporate Vice President North America at Intel Capital.
+* [Arturo Litvin](intelcapital.com--arturo-litvin-e24a2e.md) - Head of Global Portfolio Development North America at Intel Capital.
+* [Assaf Araki](intelcapital.com--assaf-araki-de850f.md) - Investment Director Israel at Intel Capital.
+* [Avi Bharadwaj](intelcapital.com--avi-bharadwaj-b52830.md) - Investment Director North America at Intel Capital.
+* [Avigail Ben Zagmi](intelcapital.com--avigail-ben-zagmi-a5b11b.md) - Associate Israel at Intel Capital.
+* [Christian Buerger](intelcapital.com--christian-buerger-767716.md) - Portfolio Development North America at Intel Capital.
+* [David Johnson](intelcapital.com--david-johnson-613022.md) - Managing Director North America at Intel Capital.
+* [Diane Smith](intelcapital.com--diane-smith-39bbbe.md) - Portfolio Development North America at Intel Capital.
+* [Erica Van](intelcapital.com--erica-van-9e6830.md) - Investment Director North America at Intel Capital.
+* [Erica Wu](intelcapital.com--erica-wu-d9433c.md) - Investment Director Asia Pacific at Intel Capital.
+* [Hannah Kroot](intelcapital.com--hannah-kroot-639a1a.md) - Marketing Lead North America at Intel Capital.
+* [Jennifer Ard](intelcapital.com--jennifer-ard-8c896c.md) - Managing Director Head of Investment Operations North America at Intel Capital.
+* [John Gildea](intelcapital.com--john-gildea-91e10a.md) - Investment Director North America at Intel Capital.
+* [Lisa Cohen](intelcapital.com--lisa-cohen-3e8e76.md) - Investment Director Israel at Intel Capital.
+* [Pippa Chick](intelcapital.com--pippa-chick-aa189b.md) - Portfolio Development Western Europe at Intel Capital.
+* [Roi Bar-Kat](intelcapital.com--roi-bar-kat-0522d4.md) - Managing Director Israel at Intel Capital.
+* [Scott Shaw](intelcapital.com--scott-shaw-9d9cb2.md) - Chief of Staff North America at Intel Capital.
+* [Srini Ananth](intelcapital.com--srini-ananth-390f78.md) - Managing Director North America at Intel Capital.
+* [Sunil Kurkure](intelcapital.com--sunil-kurkure-d3a199.md) - Managing Director North America at Intel Capital.
+* [Tianlin Wang](intelcapital.com--tianlin-wang-7aa8b1.md) - Managing Director Asia Pacific at Intel Capital.
+* [Yibo Nian](intelcapital.com--yibo-nian-ebbc5b.md) - Investment Director Asia Pacific at Intel Capital.
+* [Zhenyu Tang](intelcapital.com--zhenyu-tang-cfe4d1.md) - Investment Director Asia Pacific at Intel Capital.
 * [Constantin Dogos-Docovitch](interogo-group.com--constantin-dogos-docovitch-a9e605.md) - Head of Interogo Infrastructure at Interogo Holding.
 * [Hanna Ideström](interogo-group.com--hanna-idestr-m-eec980.md) - Head of Interogo Long-Term Equity at Interogo Holding.
 * [Martin Lagerblad](interogo-group.com--martin-lagerblad-c92b39.md) - Head of Nalka Invest at Interogo Holding.
 * [Simon Faure](interogo-group.com--simon-faure-69e2e1.md) - Head of Interogo Global Private Equity at Interogo Holding.
 * [Jack Tsai](inventec.com--jack-tsai-2b064f.md) - President at Inventec Corporation.
 * [Sam Yeh](inventec.com--sam-yeh-3a6af6.md) - Chairman at Inventec Corporation.
+* [Gilbert Kamieniecky](investcorp.com--gilbert-kamieniecky-1989f4.md) - Head of European Private Equity at Investcorp.
+* [Mohammed Alardhi](investcorp.com--mohammed-alardhi-e79b51.md) - Executive Chairman at Investcorp.
+* [Alex Tang](ipdcapital.com--alex-tang-37fec2.md) - Executive Officer at IPD Capital.
+* [Howard Krass](ipdcapital.com--howard-krass-d3a465.md) - Director at IPD Capital.
+* [Malan Rampton](ipdcapital.com--malan-rampton-c0c097.md) - Executive Officer at IPD Capital.
+* [Steve Tighe](ipdcapital.com--steve-tighe-7df9c4.md) - Director at IPD Capital.
 * [Jules Maltz](ivp.com--jules-maltz-878a66.md) - Venture Partner at IVP.
 * [Somesh Dash](ivp.com--somesh-dash-f47c1a.md) - General Partner at IVP.
 * [Tamar Yehoshua](ivp.com--tamar-yehoshua-2641fe.md) - Venture Partner at IVP.
 * [July Andraous](jambaar-capital.com--july-andraous-e67dff42.md) - Managing Partner at Jambaar Capital.
 * [Nadia Seemuth](jambaar-capital.com--nadia-seemuth-77687d34.md) - Managing Partner at Jambaar Capital.
 * [Paul Breloff](jambaar-capital.com--paul-breloff-e4fe74e3.md) - Venture Partner at Jambaar Capital.
+* [Aaron Schaechterle](janushenderson.com--aaron-schaechterle-7c8c60.md) - Portfolio Manager on the US Small/Mid-Cap Growth Team at Janus Henderson Investors.
+* [Jonathan D. Coleman](janushenderson.com--jonathan-d-coleman-1f9c8e.md) - Portfolio Manager on the US Small/Mid-Cap Growth Team at Janus Henderson Investors.
 * [Alex Gurevich](javelinvp.com--alex-gurevich-5bfd7c.md) - Managing Director at Javelin Venture Partners.
 * [Jed Katz](javelinvp.com--jed-katz-7884ce.md) - Managing Director at Javelin Venture Partners.
 * [Noah J. Doyle](javelinvp.com--noah-j-doyle-f1db6d.md) - Managing Director at Javelin Venture Partners.
@@ -1177,6 +1631,26 @@
 * [Sharon Knight](jazzvp.com--sharon-knight-9adc6e.md) - Venture Partner at JAZZ Venture Partners.
 * [Stone Connell](jazzvp.com--stone-connell-4aa93d.md) - Chief Financial Officer at JAZZ Venture Partners.
 * [Zack Lynch](jazzvp.com--zack-lynch-9e6fed.md) - Managing Partner at JAZZ Venture Partners.
+* [Anastasiya Pasheyeva](jmi.com--anastasiya-pasheyeva-b69162.md) - Vice President at JMI Equity.
+* [Andy Knox](jmi.com--andy-knox-65938f.md) - Principal at JMI Equity.
+* [Bob Nye](jmi.com--bob-nye-7b7b25.md) - Partner at JMI Equity.
+* [Brian Hersman](jmi.com--brian-hersman-c3252d.md) - Partner at JMI Equity.
+* [Bryan Jangro](jmi.com--bryan-jangro-996b29.md) - Vice President at JMI Equity.
+* [David Greenberg](jmi.com--david-greenberg-1efdbd.md) - Partner at JMI Equity.
+* [Dina Berdichevsky](jmi.com--dina-berdichevsky-be83a5.md) - Vice President at JMI Equity.
+* [Jack Duane](jmi.com--jack-duane-85548e.md) - Principal at JMI Equity.
+* [Jack King](jmi.com--jack-king-d26c8d.md) - Vice President at JMI Equity.
+* [Krishna Potarazu](jmi.com--krishna-potarazu-0ee2c9.md) - Partner at JMI Equity.
+* [Larry Contrella](jmi.com--larry-contrella-559b8c.md) - Partner at JMI Equity.
+* [Margaret Meyo Sciulli](jmi.com--margaret-meyo-sciulli-fd0bfd.md) - Vice President at JMI Equity.
+* [Matt Emery](jmi.com--matt-emery-11b43d.md) - Partner at JMI Equity.
+* [Peter Arrowsmith](jmi.com--peter-arrowsmith-2b41c7.md) - Managing Partner at JMI Equity.
+* [Preston Horner](jmi.com--preston-horner-7efcf5.md) - Principal at JMI Equity.
+* [Stephen Jones](jmi.com--stephen-jones-46a625.md) - Principal at JMI Equity.
+* [Vincent Prajka](jmi.com--vincent-prajka-b70bc0.md) - Partner at JMI Equity.
+* [Peter Johnson](jumpcap.com--peter-johnson-1ae38d.md) - partner at Jump Capital.
+* [Saurabh Sharma](jumpcap.com--saurabh-sharma-b8a5bd.md) - partner at Jump Capital.
+* [Haider Alleg](kainjoo.com--haider-alleg-90e4aa.md) - Founder at Kainjoo SA (Kainjoo Group).
 * [Andrew Firman, CFA](kaleo.vc--andrew-firman-cfa-efde2856.md) - Co-Founder and Managing Partner at Kaleo Ventures.
 * [Henry Kaestner](kaleo.vc--henry-kaestner-d49dcf07.md) - Co-Founder and Partner at Kaleo Ventures.
 * [Ife Oyedele](kaleo.vc--ife-oyedele-3179973d.md) - Partner at Kaleo Ventures.
@@ -1208,9 +1682,14 @@
 * [Samir Kaul](khoslaventures.com--samir-kaul-6a57c0.md) - Founding Partner and Managing Director at Khosla Ventures.
 * [Sven Strohband](khoslaventures.com--sven-strohband-523bf4.md) - Partner and Managing Director at Khosla Ventures.
 * [Tal Broda](khoslaventures.com--tal-broda-bf8b47.md) - Investment Partner at Khosla Ventures.
+* [Beat Schillig](kickfoundation.ch--beat-schillig-4b8a61.md) - Co-Managing Director of Venture Kick at Kick Foundation.
+* [Pascale Vonmont](kickfoundation.ch--pascale-vonmont-4d0ad2.md) - Delegate of the Venture Kick Strategy Board at Kick Foundation.
 * [Angina Herrmann](kickfund.ch--angina-herrmann-573c03.md) - Marketing Manager at Kickfund.
 * [Thomas Möller](kickfund.ch--thomas-m-ller-0439c0.md) - Chief Investment Officer at Kickfund.
 * [Wanja Humanes](kickfund.ch--wanja-humanes-7cb7ea.md) - Chief Executive Officer at Kickfund.
+* [Dalton Wright](kickstartfund.com--dalton-wright-c18bd6.md) - general partner at Kickstart.
+* [Gavin Christensen](kickstartfund.com--gavin-christensen-f6455f.md) - founder and general partner at Kickstart.
+* [Kat Kennedy](kickstartfund.com--kat-kennedy-7c343b.md) - general partner at Kickstart.
 * [Adriana Martinez](kindredventures.com--adriana-martinez-00512a54.md) - Chief Financial Officer at Kindred Ventures.
 * [Alexandria Sten](kindredventures.com--alexandria-sten-558d16d5.md) - Media Producer & Editor at Kindred Ventures.
 * [Ali Youngblood](kindredventures.com--ali-youngblood-5a3ab6a2.md) - Community & Events Manager at Kindred Ventures.
@@ -1263,7 +1742,35 @@
 * [Nick Gosen](kompas.vc--nick-gosen-0d5956.md) - Principal at Kompas VC.
 * [Sebastian Peck](kompas.vc--sebastian-peck-28cb11.md) - Partner at Kompas VC.
 * [Talia Rafaeli](kompas.vc--talia-rafaeli-40feeb.md) - Partner at Kompas VC.
+* [Rémi Droller](kurmapartners.com--r-mi-droller-651b7b.md) - Managing Partner at Kurma Partners.
+* [Thierry Laugel](kurmapartners.com--thierry-laugel-16325c.md) - Managing Partner at Kurma Partners.
+* [Jake Lynch](l1d.com--jake-lynch-bcd7cf.md) - investment researcher at L1D AG (L1D).
+* [Ray Hindi](l1d.com--ray-hindi-4b72cc.md) - co-founder and chief executive officer at L1D AG (L1D).
+* [Klaus Hommels](lakestar.com--klaus-hommels-f04ffa.md) - Founder and Chairman at Lakestar.
+* [Eduardo Thiele](lanxcapital.com--eduardo-thiele-178b74.md) - Partner at LANX CAPITAL INVESTIMENTOS LTDA.
+* [Frederico Albarran](lanxcapital.com--frederico-albarran-461744.md) - Partner at LANX CAPITAL INVESTIMENTOS LTDA.
+* [Marcelo Barbará](lanxcapital.com--marcelo-barbar-91d33c.md) - Co-Founder at LANX CAPITAL INVESTIMENTOS LTDA.
+* [Marcelo Medeiros](lanxcapital.com--marcelo-medeiros-5d7e7c.md) - Co-Founder at LANX CAPITAL INVESTIMENTOS LTDA.
+* [Tulio Ribeiro](lanxcapital.com--tulio-ribeiro-397d66.md) - Partner at LANX CAPITAL INVESTIMENTOS LTDA.
+* [宁旻](legendstar.cn---0e87ae.md) - 董事长 at Legend Star.
+* [王一](legendstar.cn---57d95d.md) - 合伙人 at Legend Star.
+* [陆刚](legendstar.cn---5866db.md) - 合伙人 at Legend Star.
+* [王明耀](legendstar.cn---607e99.md) - 总裁/主管合伙人 at Legend Star.
+* [高天垚](legendstar.cn---c8e699.md) - 合伙人 at Legend Star.
+* [Dr Christian Szczesny](liberta-partners.com--dr-christian-szczesny-034151.md) - Management at Liberta Partners.
+* [Dr Peter Franke](liberta-partners.com--dr-peter-franke-a195a7.md) - Management at Liberta Partners.
+* [Florian Korp](liberta-partners.com--florian-korp-e53d9b.md) - Management at Liberta Partners.
+* [Nils von Wietzlow](liberta-partners.com--nils-von-wietzlow-33734f.md) - Management at Liberta Partners.
+* [Timo Ahopelto](lifelineventures.com--timo-ahopelto-7c69a0.md) - Founding Partner at Lifeline Ventures.
+* [Fabian Siegel](lifex.vc--fabian-siegel-588488.md) - Venture Partner at LifeX Ventures.
+* [Jon Soberg](lifex.vc--jon-soberg-6d87e0.md) - Partner at LifeX Ventures.
+* [Lisa Kleinsorge](lifex.vc--lisa-kleinsorge-d8b782.md) - Venture Partner at LifeX Ventures.
+* [Rika Christanto](lifex.vc--rika-christanto-91af32.md) - Partner at LifeX Ventures.
+* [Yue Zhao](lifex.vc--yue-zhao-7c7de2.md) - Venture Partner at LifeX Ventures.
+* [Demi Edosomwan](lightrock.com--demi-edosomwan-ba5a9d.md) - Partner and Head of Energy Access at Lightrock.
 * [Cindy Mihalova](ligopartners.com--cindy-mihalova-d1278e.md) - Chief Investment Officer at Ligo Partners.
+* [Alexander Schütz](limestone-capital.com--alexander-sch-tz-1568ce.md) - chief executive at Limestone Capital AG.
+* [Benjamin Habbel](limestone-capital.com--benjamin-habbel-8d7f66.md) - managing partner at Limestone Capital AG.
 * [Alex Gross](linsecapital.com--alex-gross-fb989d.md) - Principal at Linse Capital.
 * [Dario Constantine](linsecapital.com--dario-constantine-4abc9b.md) - Principal at Linse Capital.
 * [Dr. Ali Perez](lockheedmartin.com--dr-ali-perez-d49e13.md) - Senior Investment Manager at Lockheed Martin Ventures.
@@ -1302,6 +1809,7 @@
 * [Steven Brody](luxcapital.com--steven-brody-bea9dd.md) - Partner, Operations at Lux Capital.
 * [Tess van Stekelenburg](luxcapital.com--tess-van-stekelenburg-2bbe62.md) - Partner at Lux Capital.
 * [Tracie Rotter](luxcapital.com--tracie-rotter-9572bf.md) - Partner, Platform at Lux Capital.
+* [Michelle Gonzalez](m12.vc--michelle-gonzalez-354526.md) - Corporate Vice President and Global Head, M12 at M12, Microsoft’s venture fund.
 * [Adrian Fenty](macventurecapital.com--adrian-fenty-017d93.md) - Managing General Partner at MaC Venture Capital.
 * [Charles D. King](macventurecapital.com--charles-d-king-c8b476.md) - General Partner at MaC Venture Capital.
 * [Danny Brown](macventurecapital.com--danny-brown-15e21b.md) - Investor at MaC Venture Capital.
@@ -1312,6 +1820,8 @@
 * [Marlon Nichols](macventurecapital.com--marlon-nichols-279f72.md) - Managing General Partner at MaC Venture Capital.
 * [Michael Palank](macventurecapital.com--michael-palank-31c715.md) - Managing General Partner at MaC Venture Capital.
 * [Oceana Sweet](macventurecapital.com--oceana-sweet-364159.md) - Office Manager at MaC Venture Capital.
+* [Michael Granoff](maniv.com--michael-granoff-1d0aa2.md) - founder at Maniv Mobility.
+* [Nate Jaret](maniv.com--nate-jaret-b7590f.md) - general partner at Maniv Mobility.
 * [Erik Hammer](marqueeventures.com--erik-hammer-7d3432.md) - Managing Partner at Marquee Ventures.
 * [Roshen Karavattuveetil](marqueeventures.com--roshen-karavattuveetil-6b16b0.md) - Investor at Marquee Ventures.
 * [Anarghya Vardhana](maveron.com--anarghya-vardhana-2fba11.md) - Venture Partner at Maveron.
@@ -1322,6 +1832,8 @@
 * [Natalie Dillon](maveron.com--natalie-dillon-73399b.md) - Partner at Maveron.
 * [Nathan Apsel](maveron.com--nathan-apsel-c4d1c8.md) - COO, CFO, Partner at Maveron.
 * [Simran Suri](maveron.com--simran-suri-1a59b0.md) - Principal at Maveron.
+* [Dr. Tobias Reichmuth](maximon.com--dr-tobias-reichmuth-f2dd17.md) - Founding Partner at Maximon AG.
+* [Marc P. Bernegger](maximon.com--marc-p-bernegger-140c2c.md) - Founding Partner at Maximon AG.
 * [Matt Carbonara](mayfield.com--matt-carbonara-26060f.md) - Partner at Mayfield.
 * [Navin Chaddha](mayfield.com--navin-chaddha-514f0c.md) - Managing Partner at Mayfield.
 * [Rajeev Batra](mayfield.com--rajeev-batra-57457d.md) - Partner at Mayfield.
@@ -1330,10 +1842,17 @@
 * [Jaime Hernández Soto](mch.es--jaime-hernandez-soto-01e15876.md) - Socio Fundador at MCH Private Equity.
 * [José María Muñoz](mch.es--jose-maria-munoz-953fb015.md) - Socio Fundador at MCH Private Equity.
 * [Ramón Núñez](mch.es--ramon-nunez-161f791b.md) - Socio Senior at MCH Private Equity.
+* [André Renaison](meanings.com--andr-renaison-42da84.md) - Managing Partner at Meanings Capital Partners.
+* [François Tranié](meanings.com--fran-ois-trani-f3d34d.md) - Managing Partner at Meanings Capital Partners.
+* [Hervé Fonta](meanings.com--herv-fonta-635c9f.md) - President at Meanings Capital Partners.
 * [Philipp Große](medi.ventures--philipp-gro-e-f4ffba.md) - Managing Director, MediVentures GmbH at MEDICE - The Health Family.
 * [Ghazi Ben Othman](medin-vc.co--ghazi-ben-othman-8b79fd8a.md) - General Partner at Medin VC.
 * [Noomane Fehri](medin-vc.co--noomane-fehri-88bd5b65.md) - General Partner at Medin VC.
 * [Sami Ben Romdhane](medin-vc.co--sami-ben-romdhane-1fbd72c8.md) - Venture Partner at Medin VC.
+* [Amelie Holstein](meerkat.de--amelie-holstein-3571b2.md) - Team Member at meerkat Holding GmbH.
+* [Jörg Holstein](meerkat.de--j-rg-holstein-ebfa53.md) - Co-Founder at meerkat Holding GmbH.
+* [Klaus Kleber](meerkat.de--klaus-kleber-4b48c7.md) - Co-Founder at meerkat Holding GmbH.
+* [Susanne O'Brien](meerkat.de--susanne-o-brien-fa3003.md) - Team Member at meerkat Holding GmbH.
 * [Amy Wu Martin](menlovc.com--amy-wu-martin-c3603a.md) - Partner at Menlo Ventures.
 * [Deedy Das](menlovc.com--deedy-das-c38f3b.md) - Partner at Menlo Ventures.
 * [Joff Redfern](menlovc.com--joff-redfern-a78375.md) - Partner at Menlo Ventures.
@@ -1342,15 +1861,45 @@
 * [Shawn Carolan](menlovc.com--shawn-carolan-68eafb.md) - Partner at Menlo Ventures.
 * [Tim Tully](menlovc.com--tim-tully-cf2299.md) - Partner at Menlo Ventures.
 * [Venky Ganesan](menlovc.com--venky-ganesan-4c7cb3.md) - Partner at Menlo Ventures.
+* [Axel Harries](mercedes-benz.com--axel-harries-a60c0f.md) - Vice President at Mercedes-Benz Group AG.
 * [Alex Kurland](meritechcapital.com--alex-kurland-012fcf.md) - General Partner at Meritech.
 * [Arsham Memarzadeh](meritechcapital.com--arsham-memarzadeh-f051ee.md) - General Partner at Meritech.
 * [George Bischof](meritechcapital.com--george-bischof-bfb0a6.md) - General Partner at Meritech.
 * [Max Motschwiller](meritechcapital.com--max-motschwiller-15204c.md) - General Partner at Meritech.
 * [Rob Ward](meritechcapital.com--rob-ward-a3d513.md) - Co-Founder & General Partner at Meritech.
+* [Harry McPike](mgfo.hatcher.com--harry-mcpike-bc424f.md) - founder at MGFO Private Investments.
+* [Andreas Kastenbauer](mig.ag--andreas-kastenbauer-e9b90b.md) - Partner at MIG Capital AG.
+* [Christina Vogt-Sasse](mig.ag--christina-vogt-sasse-bda3a4.md) - Senior Associate at MIG Capital AG.
+* [Dr. Fei Tian](mig.ag--dr-fei-tian-66bbe4.md) - Principal at MIG Capital AG.
+* [Dr. Matthias Kromayer](mig.ag--dr-matthias-kromayer-d41be9.md) - Managing Partner at MIG Capital AG.
+* [Dr. Nicolas Rose-André](mig.ag--dr-nicolas-rose-andr-cf29b1.md) - Principal at MIG Capital AG.
+* [Dr. Oliver Kahl](mig.ag--dr-oliver-kahl-de1141.md) - Partner at MIG Capital AG.
+* [Frederick Michna](mig.ag--frederick-michna-2746aa.md) - Principal at MIG Capital AG.
+* [Jürgen Kosch](mig.ag--j-rgen-kosch-a4dfdf.md) - Managing Partner at MIG Capital AG.
+* [Kristian Schmidt-Garve, LL.M.](mig.ag--kristian-schmidt-garve-ll-m-433c6e.md) - Managing Partner at MIG Capital AG.
+* [Matthias Guth](mig.ag--matthias-guth-f0f447.md) - Venture Partner at MIG Capital AG.
+* [Michael Motschmann](mig.ag--michael-motschmann-74ef91.md) - Managing Partner at MIG Capital AG.
+* [Cassidy Blundell, PhD](missionbiocapital.com--cassidy-blundell-phd-4ba648.md) - Partner at Mission BioCapital.
+* [Chaya Patel, PhD](missionbiocapital.com--chaya-patel-phd-4ade0a.md) - Principal at Mission BioCapital.
+* [Clay Rowland](missionbiocapital.com--clay-rowland-bc7b45.md) - Investment Associate at Mission BioCapital.
+* [Cynthia Lavoie, PhD](missionbiocapital.com--cynthia-lavoie-phd-4524f8.md) - Partner and Head of the Canadian office. at Mission BioCapital.
+* [Douglas Crawford, PhD](missionbiocapital.com--douglas-crawford-phd-e697ed.md) - Managing General Partner at Mission BioCapital.
+* [Jennifer Griffin, PhD](missionbiocapital.com--jennifer-griffin-phd-3499ae.md) - Partner at Mission BioCapital.
+* [Johannes Fruehauf, MD PhD](missionbiocapital.com--johannes-fruehauf-md-phd-a4b1b8.md) - General Partner at Mission BioCapital.
+* [Josephine Brysting](missionbiocapital.com--josephine-brysting-3ccfc5.md) - Investment Analyst at Mission BioCapital.
+* [Michael Taylor, PhD](missionbiocapital.com--michael-taylor-phd-43e899.md) - Operating Partner at Mission BioCapital.
+* [Peter Parker](missionbiocapital.com--peter-parker-844cec.md) - Managing General Partner at Mission BioCapital.
+* [Robert Blazej, PhD](missionbiocapital.com--robert-blazej-phd-82706f.md) - Partner at Mission BioCapital.
+* [Steve Tregay, PhD](missionbiocapital.com--steve-tregay-phd-d492d1.md) - Managing General Partner at Mission BioCapital.
+* [Ulrik B. Nielsen](missionbiocapital.com--ulrik-b-nielsen-036af9.md) - General Partner at Mission BioCapital.
+* [Zach Collins, PhD](missionbiocapital.com--zach-collins-phd-5c20c6.md) - Partner at Mission BioCapital.
+* [Corinne Seton](mitsubishihccapitalamerica.com--corinne-seton-058107.md) - Senior Vice President and Head of Capital Markets at Mitsubishi Hc Capital America.
+* [Michael Ollio](mitsubishihccapitalamerica.com--michael-ollio-8738b2.md) - Director of Capital Markets at Mitsubishi Hc Capital America.
 * [Lila Trickle](moderneventures.com--lila-trickle-21db50.md) - Chief of Staff and Chief Communications Officer at Moderne Ventures.
 * [Mark Michelson](moderneventures.com--mark-michelson-4b1cd1.md) - Vice President of Finance at Moderne Ventures.
 * [Michael Ting](moderneventures.com--michael-ting-977cd2.md) - Vice President, Capital Formation & Investor Relations at Moderne Ventures.
 * [Sam Delisi](moderneventures.com--sam-delisi-060446.md) - Operating Partner at Moderne Ventures.
+* [Sahir Ali](modivc.com--sahir-ali-88ed45.md) - solo general partner at Modi Ventures.
 * [Andrew Zimmermann](moltenventures.com--andrew-zimmermann-041448.md) - CFO at Molten Ventures plc.
 * [Ben Wilkinson](moltenventures.com--ben-wilkinson-bf0147.md) - CEO at Molten Ventures plc.
 * [Franco Danesi](moltenventures.com--franco-danesi-022af3.md) - Senior Partner at Molten Ventures plc.
@@ -1375,6 +1924,14 @@
 * [Roger Krakoff](montavc.com--roger-krakoff-caff3c75.md) - General Partner at Monta Vista Capital.
 * [Venktesh Shukla](montavc.com--venktesh-shukla-3242a09f.md) - Founder & General Partner at Monta Vista Capital.
 * [Viswa Sankaranarayanan](montavc.com--viswa-sankaranarayanan-bee19381.md) - Venture Partner at Monta Vista Capital.
+* [Art Moog](moog.com--art-moog-0f77d6.md) - Co-Founder at Moog Inc.
+* [Chris LaFleur](moog.com--chris-lafleur-0a7884.md) - Director of Electrified and Automated Mobility at Moog Inc.
+* [Dietrich Diehl](moog.com--dietrich-diehl-1ba43d.md) - Sr. Program Analyst at Moog Inc.
+* [Emma Tamplin](moog.com--emma-tamplin-5c93c9.md) - Group HR Director at Moog Inc.
+* [James Allen Regenor](moog.com--james-allen-regenor-2df1c6.md) - Business Unit Director, Transformative Technologies at Moog Inc.
+* [Joseph Baldi](moog.com--joseph-baldi-c9f1c5.md) - Director of Strategy & Business Development at Moog Inc.
+* [Lou Geyer](moog.com--lou-geyer-5bac23.md) - Co-Founder at Moog Inc.
+* [William C. Moog](moog.com--william-c-moog-3a1d34.md) - Co-Founder at Moog Inc.
 * [Akshat Goenka](moonfire.com--akshat-goenka-23030c.md) - Partner at Moonfire Ventures LLP.
 * [Andrea Gurnari](moonfire.com--andrea-gurnari-f03920.md) - Partner at Moonfire Ventures LLP.
 * [Mattias Ljungman](moonfire.com--mattias-ljungman-fe7d28.md) - Founder & Managing Partner at Moonfire Ventures LLP.
@@ -1385,6 +1942,8 @@
 * [Reid Hoffman](mosaicventures.com--reid-hoffman-728b9f.md) - Advisory Partner at Mosaic Ventures.
 * [Simon Levene](mosaicventures.com--simon-levene-db03e5.md) - Co-founder and Partner at Mosaic Ventures.
 * [Toby Coppel](mosaicventures.com--toby-coppel-252266.md) - Co-founder and Partner at Mosaic Ventures.
+* [Clément Lamolinerie](motier.vc--cl-ment-lamolinerie-88016f.md) - Managing Partner at Motier Ventures.
+* [Guillaume Houzé](motier.vc--guillaume-houz-98852b.md) - Founder at Motier Ventures.
 * [Alex Roetter](moxxie.vc--alex-roetter-731b5514.md) - General partner at Moxxie.
 * [Katie Jacobs Stanton](moxxie.vc--katie-jacobs-stanton-caf04593.md) - Founder, General partner at Moxxie.
 * [Marie Drez](moxxie.vc--marie-drez-9cedea48.md) - CFO at Moxxie.
@@ -1419,11 +1978,56 @@
 * [Matthew Cowan](n47.com--matthew-cowan-577fd8.md) - General Partner at N47 (formerly Next47).
 * [Moshe Zilberstein](n47.com--moshe-zilberstein-2c4af0.md) - General Partner at N47 (formerly Next47).
 * [T.J. Rylander](n47.com--t-j-rylander-77eeca.md) - General Partner at N47 (formerly Next47).
+* [Adam Sulik](nassaustreetpartners.com--adam-sulik-7e5084.md) - Vice President at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Andy Spencer](nassaustreetpartners.com--andy-spencer-ce6425.md) - Vice President at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Ben Ambrose](nassaustreetpartners.com--ben-ambrose-4d1ddb.md) - Vice President at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Bradley Cousins](nassaustreetpartners.com--bradley-cousins-a2cbb9.md) - Associate at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Caitlin Hill](nassaustreetpartners.com--caitlin-hill-321e28.md) - Associate at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Dr. Laurent Pacheco](nassaustreetpartners.com--dr-laurent-pacheco-e6c390.md) - Board Director at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Ed Boyle](nassaustreetpartners.com--ed-boyle-edf367.md) - Managing Director at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Ethan Calvert](nassaustreetpartners.com--ethan-calvert-050827.md) - Associate at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Gary Shields](nassaustreetpartners.com--gary-shields-7f3bbb.md) - Chairman & Managing Partner at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Gavin Allinson](nassaustreetpartners.com--gavin-allinson-ca8327.md) - Vice President at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Gresham Lynn](nassaustreetpartners.com--gresham-lynn-d3f67c.md) - Vice President at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Harry Galvin](nassaustreetpartners.com--harry-galvin-f2d8e2.md) - Vice President at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Jake Ballin](nassaustreetpartners.com--jake-ballin-aa5242.md) - Vice President at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Jamie Walker](nassaustreetpartners.com--jamie-walker-e8673b.md) - Vice President at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Joe Hilsdon](nassaustreetpartners.com--joe-hilsdon-2be50c.md) - Director at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [John Chamorro](nassaustreetpartners.com--john-chamorro-80af26.md) - Senior Vice President at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Jonny Slater](nassaustreetpartners.com--jonny-slater-d2c1e0.md) - Vice President at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Josh Saunders](nassaustreetpartners.com--josh-saunders-a44f36.md) - Associate at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Juan Moreno](nassaustreetpartners.com--juan-moreno-41a72b.md) - Managing Partner at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Matt Chubb](nassaustreetpartners.com--matt-chubb-92bfb6.md) - Vice President at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Peter Davies](nassaustreetpartners.com--peter-davies-433303.md) - Vice President at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Ron Reich](nassaustreetpartners.com--ron-reich-14e3fa.md) - Managing Director & Partner at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Sam Collins](nassaustreetpartners.com--sam-collins-62e802.md) - Managing Director at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Saul Friend](nassaustreetpartners.com--saul-friend-f1d1a1.md) - Director at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Sean Dillard](nassaustreetpartners.com--sean-dillard-a16d36.md) - Managing Director at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Sebastian Kulbacki](nassaustreetpartners.com--sebastian-kulbacki-37b3c2.md) - Vice President at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Shawn Townsend](nassaustreetpartners.com--shawn-townsend-339f88.md) - Senior Advisor at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Steven Cowan](nassaustreetpartners.com--steven-cowan-bbca85.md) - Managing Director at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Tim Morgan](nassaustreetpartners.com--tim-morgan-fa0711.md) - Managing Director & Partner at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [William Snyder](nassaustreetpartners.com--william-snyder-dbb4ac.md) - Managing Director & Partner at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Zoe Jupp](nassaustreetpartners.com--zoe-jupp-6cb86c.md) - Head of Strategic Partnerships at Nassau Street Capital Markets LLC (d/b/a Nassau Street Partners).
+* [Chris Longman](navitascap.com--chris-longman-d68fcc.md) - Principal at Navitas Capital.
+* [Jenny Song](navitascap.com--jenny-song-3e76e8.md) - Partner at Navitas Capital.
+* [Louis Schotsky](navitascap.com--louis-schotsky-718a3a.md) - Managing Partner at Navitas Capital.
+* [Mike Heller](navitascap.com--mike-heller-178ee4.md) - Principal at Navitas Capital.
+* [Travis Putnam](navitascap.com--travis-putnam-fbe6ad.md) - Managing Partner at Navitas Capital.
 * [Carlos Carbó](nazca.es--carlos-carbo-40093658.md) - Executive Chairman at Nazca Capital.
 * [Celia Pérez-Beato](nazca.es--celia-perez-beato-24715027.md) - Chief Executive Officer; Managing Partner for Small Cap Funds I and II at Nazca Capital.
 * [Cristina Badenes](nazca.es--cristina-badenes-722e312c.md) - Partner and Head of Capital Formation and Investor Relations at Nazca Capital.
 * [Daniel Pascual](nazca.es--daniel-pascual-0d3c695a.md) - Managing Partner at Nazca Capital.
 * [Ignacio Portela](nazca.es--ignacio-portela-23e7de1d.md) - Managing Partner at Nazca Capital.
+* [Daniel Armali](nbif.ca--daniel-armali-1160c7.md) - Vice President of Investments at New Brunswick Innovation Foundation.
+* [Daniel Hoyles](nbif.ca--daniel-hoyles-bd6024.md) - Investment Analyst at New Brunswick Innovation Foundation.
+* [Aymeric Sallin](nd.capital--aymeric-sallin-43197e.md) - Founder at ND Capital.
+* [Eric Moessinger](nd.capital--eric-moessinger-ff715e.md) - Partner at ND Capital.
+* [Jonathan Nicholson](nd.capital--jonathan-nicholson-58ee0b.md) - General Partner executive team at ND Capital.
+* [Kirill Kuzmichev](nd.capital--kirill-kuzmichev-0ac2f3.md) - Principal at ND Capital.
+* [Patrick Aebischer](nd.capital--patrick-aebischer-277fca.md) - Senior partner at ND Capital.
+* [Peter Liddiard](nd.capital--peter-liddiard-5e3421.md) - Chief Operating Officer & Chief Financial Officer at ND Capital.
+* [Richard Coles](nd.capital--richard-coles-691c91.md) - General Partner executive team at ND Capital.
 * [Aaron Jacobson](nea.com--aaron-jacobson-04e4da.md) - Partner at New Enterprise Associates.
 * [Alex Sharata](nea.com--alex-sharata-2c2bd2.md) - Partner at New Enterprise Associates.
 * [Ali Behbahani, MD](nea.com--ali-behbahani-md-639db9.md) - Partner, Co-Head of Healthcare at New Enterprise Associates.
@@ -1449,6 +2053,7 @@
 * [Scott Sandell](nea.com--scott-sandell-6111e2.md) - Executive Chairman & Chief Investment Officer at New Enterprise Associates.
 * [Tiffany Luck](nea.com--tiffany-luck-72af82.md) - Partner at New Enterprise Associates.
 * [Tony Florence](nea.com--tony-florence-4755ec.md) - Co-CEO at New Enterprise Associates.
+* [Shane Neman](nemanventures.com--shane-neman-b9719f.md) - CIO / general partner at Neman Ventures.
 * [Neeraj Hablani](neotribe.vc--neeraj-hablani-1b6157.md) - Partner at Neotribe Ventures.
 * [Rebecca Mitchem](neotribe.vc--rebecca-mitchem-9a41fb.md) - Partner & COO at Neotribe Ventures.
 * [Swaroop 'Kittu' Kolluri](neotribe.vc--swaroop-kittu-kolluri-b2b8d9.md) - Founder & Managing Director at Neotribe Ventures.
@@ -1456,6 +2061,8 @@
 * [Connor Klein](newformcap.com--connor-klein-e39b9226.md) - Investment Partner at New Form Capital.
 * [Matt Cooper](newformcap.com--matt-cooper-0f49e70d.md) - Venture Partner at New Form Capital.
 * [Matthew Cooper](newformcap.com--matthew-cooper-55cbb78d.md) - Investment Partner at New Form Capital.
+* [Christophe Morbee](newschool.vc--christophe-morbee-4f8c2b.md) - solo-GP at NewSchool.vc.
+* [Alfred Johnson](newsystemventures.com--alfred-johnson-30a132.md) - CEO at New System Ventures.
 * [Alexis Borisy](nextechinvest.com--alexis-borisy-34e8cf.md) - Chairman at Nextech Invest Ltd.
 * [Kanishka Pothula](nextechinvest.com--kanishka-pothula-54a829.md) - Managing Partner at Nextech Invest Ltd.
 * [Marco Weibel](nextechinvest.com--marco-weibel-7da7b4.md) - Chief Financial Officer at Nextech Invest Ltd.
@@ -1465,6 +2072,9 @@
 * [Brian Rumao](nextplayventures.com--brian-rumao-816aed.md) - Managing Director at Next Play Ventures.
 * [Jeff Weiner](nextplayventures.com--jeff-weiner-3c5ee9.md) - Founding Partner at Next Play Ventures.
 * [Sean Mendy](nextplayventures.com--sean-mendy-853e52.md) - Venture Partner at Next Play Ventures.
+* [Gigi Levy-Weiss](nfx.com--gigi-levy-weiss-ee4d3e.md) - founding partner at NFX.
+* [Omri Drory](nfx.com--omri-drory-db52c8.md) - founding partner at NFX.
+* [Sarai Bronfeld](nfx.com--sarai-bronfeld-7f8d3d.md) - partner at NFX.
 * [Bo Ilsoe](ngpcap.com--bo-ilsoe-d2beef.md) - Managing Partner at NGP Capital.
 * [Christian Noske](ngpcap.com--christian-noske-1cdaf5.md) - Venture Partner at NGP Capital.
 * [Debjit Mukerji](ngpcap.com--debjit-mukerji-fb43ca.md) - Partner at NGP Capital.
@@ -1521,6 +2131,17 @@
 * [Hans Tung](notablecap.com--hans-tung-2eefa5.md) - Managing Partner at Notable Capital.
 * [Jeff Richards](notablecap.com--jeff-richards-000edd.md) - Managing Partner at Notable Capital.
 * [Oren Yunger](notablecap.com--oren-yunger-3302f6.md) - Managing Partner at Notable Capital.
+* [Carlos Fernandez Villar](noteus.com--carlos-fernandez-villar-749f8f.md) - Vice President at Noteus Partners SAS.
+* [Dylan Gokani](noteus.com--dylan-gokani-cd47dc.md) - Vice President at Noteus Partners SAS.
+* [Guillaume d’Audiffret](noteus.com--guillaume-d-audiffret-4f02da.md) - General Partner at Noteus Partners SAS.
+* [Moritz Hummel](noteus.com--moritz-hummel-a1bc7d.md) - Vice President at Noteus Partners SAS.
+* [Nathalie Kornhoff Brüls](noteus.com--nathalie-kornhoff-br-ls-6b4e5b.md) - General Partner at Noteus Partners SAS.
+* [Niccolò Saligari](noteus.com--niccol-saligari-39d733.md) - Associate at Noteus Partners SAS.
+* [Phillipp Schmitz](noteus.com--phillipp-schmitz-2d7a5d.md) - Vice President at Noteus Partners SAS.
+* [Sebastian Oechsner](noteus.com--sebastian-oechsner-0f57be.md) - Analyst at Noteus Partners SAS.
+* [Yann du Rusquec](noteus.com--yann-du-rusquec-e44b8f.md) - Chief Executive Officer at Noteus Partners SAS.
+* [Yoan Pashov](noteus.com--yoan-pashov-d11ae1.md) - Principal at Noteus Partners SAS.
+* [Zoé Fabian-Frey](noteus.com--zo-fabian-frey-3b86fb.md) - General Partner at Noteus Partners SAS.
 * [Chris Tottman](notioncapital.com--chris-tottman-4db907.md) - General Partner at Notion Capital.
 * [Itxaso del Palacio](notioncapital.com--itxaso-del-palacio-851dad.md) - General Partner at Notion Capital.
 * [Jos White](notioncapital.com--jos-white-b0ecea.md) - General Partner at Notion Capital.
@@ -1528,6 +2149,7 @@
 * [Patrick Norris](notioncapital.com--patrick-norris-4dc727.md) - General Partner at Notion Capital.
 * [Radu Bozga](notioncapital.com--radu-bozga-f4fa15.md) - Principal at Notion Capital.
 * [Stephen Chandler](notioncapital.com--stephen-chandler-5920d5.md) - Managing Partner at Notion Capital.
+* [Kasim Kutay](novoholdings.dk--kasim-kutay-fa0bd3.md) - CEO, Novo Holdings at Novo Holdings.
 * [Ankit Sud](nvc.vc--ankit-sud-a12cea.md) - Partner at NewView Capital.
 * [Chetan Chaudhary](nvc.vc--chetan-chaudhary-44edc9.md) - Venture Partner at NewView Capital.
 * [Christina Fa](nvc.vc--christina-fa-0bfea8.md) - Venture Partner at NewView Capital.
@@ -1563,7 +2185,9 @@
 * [Nate Bosshard](offline.vc--nate-bosshard-b9b79453.md) - Venture Partner at Offline Ventures.
 * [Nicole Emanuel](offline.vc--nicole-emanuel-a0e185f6.md) - Partner & CFO at Offline Ventures.
 * [Yuri Namikawa](offline.vc--yuri-namikawa-3bdc20e6.md) - Investment Partner at Offline Ventures.
+* [Brian Estes](offthechain.capital--brian-estes-011093.md) - chief executive and chief investment officer at Off The Chain Capital.
 * [Laura Lenz](omersventures.com--laura-lenz-2ef558.md) - Managing Director at OMERS Ventures.
+* [Glenn Cowan](one9.ca--glenn-cowan-76320b.md) - founder and managing director at One 9 Investments.
 * [Dawid Przybysz](onewayvc.com--dawid-przybysz-8e8424.md) - Investor at One Way Ventures.
 * [Lex Zhao](onewayvc.com--lex-zhao-f89d5e.md) - Managing Partner at One Way Ventures.
 * [Rhie Lim](onewayvc.com--rhie-lim-216e67.md) - Partner, Global Strategy at One Way Ventures.
@@ -1588,6 +2212,7 @@
 * [Tal Zaks, M.D., Ph.D.](orbimed.com--tal-zaks-m-d-ph-d-bce8ee.md) - Partner at OrbiMed.
 * [Trevor M. Polischuk, Ph.D.](orbimed.com--trevor-m-polischuk-ph-d-200fee.md) - Partner at OrbiMed.
 * [W. Carter Neild, CFA](orbimed.com--w-carter-neild-cfa-56feb8.md) - Managing Partner at OrbiMed.
+* [Brent Fulfer](outlander.vc--brent-fulfer-fb0dce.md) - Managing Partner at Outlander VC.
 * [Ali Rohde](outsetcapital.com--ali-rohde-eb7f297d.md) - Managing Partner at Outset Capital.
 * [Josh Albrecht](outsetcapital.com--josh-albrecht-5638d0b6.md) - General Partner at Outset Capital.
 * [Kanjun Qiu](outsetcapital.com--kanjun-qiu-d8e75f15.md) - General Partner at Outset Capital.
@@ -1609,10 +2234,28 @@
 * [Salmaan Hussain](palmdrive.vc--salmaan-hussain-14b40e.md) - Investment at Palm Drive Capital.
 * [Seamon Chan](palmdrive.vc--seamon-chan-43cd27.md) - Investment at Palm Drive Capital.
 * [Zachary Ewing](palmdrive.vc--zachary-ewing-90728f.md) - Investment at Palm Drive Capital.
+* [Matt Huang](paradigm.xyz--matt-huang-b8400f.md) - Co-founder at Paradigm.
+* [Anika Adzich](pareto20.com--anika-adzich-d3d303.md) - Investor at Pareto Holdings.
+* [Carson Kraycik](pareto20.com--carson-kraycik-2d1c9d.md) - Investor at Pareto Holdings.
+* [Celia Molkentin](pareto20.com--celia-molkentin-c27939.md) - Investor at Pareto Holdings.
+* [Tim Simon](pareto20.com--tim-simon-b24095.md) - Investor at Pareto Holdings.
+* [Ryan Gembala](pathbreakervc.com--ryan-gembala-ec0448.md) - Founder & Managing Partner at Pathbreaker Ventures.
+* [Blake Modersitzki](pelionvp.com--blake-modersitzki-9acddd.md) - Managing Director or Managing Partner at Pelion Venture Partners.
+* [Tyler Hogge](pelionvp.com--tyler-hogge-9c4868.md) - Partner at Pelion Venture Partners.
 * [Bryant Barr](pennyjar.com--bryant-barr-9a60cc82.md) - Founding Partner at Penny Jar Capital.
 * [Nia Pryce](pennyjar.com--nia-pryce-a563bf19.md) - Chief of Staff at Penny Jar Capital.
 * [Rich Scudellari](pennyjar.com--rich-scudellari-e372398c.md) - Founding Partner at Penny Jar Capital.
 * [Stephen Curry](pennyjar.com--stephen-curry-359ac945.md) - Special Advisor at Penny Jar Capital.
+* [Aaron Pierce](perotjain.com--aaron-pierce-0ec680.md) - Partner at Perot Jain.
+* [Andrew Minick](perotjain.com--andrew-minick-9b3402.md) - Associate at Perot Jain.
+* [Anurag Jain](perotjain.com--anurag-jain-3cc6b2.md) - CO-FOUNDER at Perot Jain.
+* [Ross Perot Jr.](perotjain.com--ross-perot-jr-bb912c.md) - CO-FOUNDER at Perot Jain.
+* [Alexander Samwer](picuscap.com--alexander-samwer-3b6430.md) - Founder at Picus Capital.
+* [Jeremias Heinrich](picuscap.com--jeremias-heinrich-39817e.md) - Founder at Picus Capital.
+* [Raphael Mukomilow](picuscap.com--raphael-mukomilow-4bee25.md) - Partner and Head of Growth at Picus Capital.
+* [Robin Godenrath](picuscap.com--robin-godenrath-dc0e3a.md) - Founding Partner and Managing Director at Picus Capital.
+* [Louise Brady](piedmontinvest.com--louise-brady-e851b0.md) - Co-Founder & Managing Partner at Piedmont Capital Investments.
+* [Matheson Weishar](piedmontinvest.com--matheson-weishar-39d5f2.md) - Principal at Piedmont Capital Investments.
 * [Dhruv Gupta](pilabs.vc--dhruv-gupta-225d63.md) - Principal at Pi Labs.
 * [Faisal Butt](pilabs.vc--faisal-butt-987a6e.md) - Managing Partner and Founder at Pi Labs.
 * [Gaurav Bassan](pilabs.vc--gaurav-bassan-e2ba6a.md) - Head of Finance at Pi Labs.
@@ -1651,6 +2294,7 @@
 * [Márk Pálfalvi](portfolion.com--m-rk-p-lfalvi-f0123f.md) - Partner at Portfolion Capital Partners.
 * [Zsolt Mihály](portfolion.com--zsolt-mih-ly-80068e.md) - Partner at Portfolion Capital Partners.
 * [Tim Woodward](preludeventures.com--tim-woodward-914684.md) - Managing Director at Prelude Ventures.
+* [Ben Sun](primary.vc--ben-sun-2cdf61.md) - co-founder and general partner at Primary Venture Partners.
 * [Anton Waitz](project-a.vc--anton-waitz-100b93.md) - Partner at Project A Ventures Management GmbH.
 * [Florian Heinemann](project-a.vc--florian-heinemann-46abec.md) - Partner at Project A Ventures Management GmbH.
 * [Jack Wang](project-a.vc--jack-wang-21a6ab.md) - Partner at Project A Ventures Management GmbH.
@@ -1658,11 +2302,21 @@
 * [Philipp Werner](project-a.vc--philipp-werner-2f9721.md) - Partner at Project A Ventures Management GmbH.
 * [Thies Sander](project-a.vc--thies-sander-7f63b2.md) - Partner at Project A Ventures Management GmbH.
 * [Uwe Horstmann](project-a.vc--uwe-horstmann-2ae086.md) - Partner at Project A Ventures Management GmbH.
+* [Bill Merchantz](promusventures.com--bill-merchantz-570993.md) - Venture Partner at Promus Ventures.
+* [John Lusk](promusventures.com--john-lusk-95538a.md) - Partner at Promus Ventures.
+* [Matthew Martorello](promusventures.com--matthew-martorello-45bb46.md) - Venture Partner at Promus Ventures.
+* [Mike Collett](promusventures.com--mike-collett-f49548.md) - Founder, Managing Partner at Promus Ventures.
+* [Sam Collett](promusventures.com--sam-collett-c88099.md) - Investment Associate at Promus Ventures.
+* [Stephane Blanc](promusventures.com--stephane-blanc-ddc8de.md) - Partner at Promus Ventures.
+* [Stephan Bank](proptech1.vc--stephan-bank-12f8e4.md) - Partner at Proptech1 Ventures.
 * [Thiago Viana](prosus.com--thiago-viana-bcc098e4.md) - Global Co-Head, Prosus Ventures at Prosus Ventures.
 * [Dr. Anne Grahl](pureosbio.com--dr-anne-grahl-2b7021.md) - Investment Manager at Pureos Bioventures.
 * [Dr. Dominik Escher](pureosbio.com--dr-dominik-escher-8b1306.md) - Managing Partner at Pureos Bioventures.
 * [Dr. Klaus Breiner](pureosbio.com--dr-klaus-breiner-1a354e.md) - Managing Partner at Pureos Bioventures.
 * [Dr. Martin Münchbach](pureosbio.com--dr-martin-m-nchbach-6513b3.md) - Managing Partner at Pureos Bioventures.
+* [Maarten van Dam](pymwymic.com--maarten-van-dam-e45a8f.md) - partner at Pymwymic.
+* [Alex Swieca](qb1ventures.com--alex-swieca-18c473.md) - Founder and Managing Partner at QB1 Ventures.
+* [Kevin Swieca](qb1ventures.com--kevin-swieca-5d796d.md) - Venture Partner at QB1 Ventures.
 * [Anne Sutanto](qbitcapital.xyz--anne-sutanto-f6a445.md) - Venture Partner at QBIT Capital.
 * [Basel Sbeini](qbitcapital.xyz--basel-sbeini-e3e58e.md) - Partner at QBIT Capital.
 * [Bernhard Grabner](qbitcapital.xyz--bernhard-grabner-6b5584.md) - Venture Partner at QBIT Capital.
@@ -1674,6 +2328,30 @@
 * [Joel Roos](qbitcapital.xyz--joel-roos-c98cee.md) - Active Investor at QBIT Capital.
 * [Lukas Platinsky](qbitcapital.xyz--lukas-platinsky-1d670e.md) - Active Investor at QBIT Capital.
 * [Walid Bounassif](qbitcapital.xyz--walid-bounassif-3d8ce8.md) - Active Investor at QBIT Capital.
+* [Aleks Noble-Campbell](quadrantpe.com.au--aleks-noble-campbell-50986b.md) - Investment Manager at Quadrant Private Equity.
+* [Alex Eady](quadrantpe.com.au--alex-eady-62cc6c.md) - Managing Partner at Quadrant Private Equity.
+* [Andrew Gale](quadrantpe.com.au--andrew-gale-be8dff.md) - Partner at Quadrant Private Equity.
+* [Chris Coates](quadrantpe.com.au--chris-coates-409e94.md) - Managing Partner at Quadrant Private Equity.
+* [Chris Hadley](quadrantpe.com.au--chris-hadley-1d2f88.md) - Executive Chairman and Founder at Quadrant Private Equity.
+* [Daniel Quinn](quadrantpe.com.au--daniel-quinn-4d92bf.md) - Associate Director at Quadrant Private Equity.
+* [Emily Kaveney](quadrantpe.com.au--emily-kaveney-7dcdb4.md) - Managing Partner at Quadrant Private Equity.
+* [Lachlan Morley](quadrantpe.com.au--lachlan-morley-8bad9b.md) - Associate Director at Quadrant Private Equity.
+* [Louis Casey](quadrantpe.com.au--louis-casey-0a4851.md) - Partner at Quadrant Private Equity.
+* [Louise Haslehurst](quadrantpe.com.au--louise-haslehurst-cc1e02.md) - Partner at Quadrant Private Equity.
+* [Marcus Darville](quadrantpe.com.au--marcus-darville-5deacd.md) - Managing Partner at Quadrant Private Equity.
+* [Michael Calabrese](quadrantpe.com.au--michael-calabrese-dfd2bf.md) - Partner at Quadrant Private Equity.
+* [Murray Osborne](quadrantpe.com.au--murray-osborne-27817e.md) - Investment Manager at Quadrant Private Equity.
+* [Nick McGarry](quadrantpe.com.au--nick-mcgarry-336d4f.md) - Investment Analyst at Quadrant Private Equity.
+* [Nick Ryan](quadrantpe.com.au--nick-ryan-9157e2.md) - Investment Analyst at Quadrant Private Equity.
+* [Nicole Loewensohn](quadrantpe.com.au--nicole-loewensohn-7db4f3.md) - Investment Director at Quadrant Private Equity.
+* [Peter Elkhouri](quadrantpe.com.au--peter-elkhouri-77f11d.md) - Partner at Quadrant Private Equity.
+* [Philippa Henry](quadrantpe.com.au--philippa-henry-672e95.md) - Associate Director at Quadrant Private Equity.
+* [Sam Archibald](quadrantpe.com.au--sam-archibald-4d008d.md) - Investment Director at Quadrant Private Equity.
+* [Taseen Rahman](quadrantpe.com.au--taseen-rahman-6860db.md) - Investment Director at Quadrant Private Equity.
+* [Varun Narayanan](quadrantpe.com.au--varun-narayanan-1cf4d1.md) - Investment Analyst at Quadrant Private Equity.
+* [Victor Ha](quadrantpe.com.au--victor-ha-709cbe.md) - Partner at Quadrant Private Equity.
+* [Yanni Plataniotis](quadrantpe.com.au--yanni-plataniotis-d653c3.md) - Investment Analyst at Quadrant Private Equity.
+* [Youngsoo Kim](quadrantpe.com.au--youngsoo-kim-098290.md) - Investment Director at Quadrant Private Equity.
 * [Albert Wang](qualcommventures.com--albert-wang-b4c3b5.md) - Senior Director at Qualcomm Ventures.
 * [Anirvan Chowdhury](qualcommventures.com--anirvan-chowdhury-51dafa.md) - Director at Qualcomm Ventures.
 * [Boaz Peer](qualcommventures.com--boaz-peer-5e4a8d.md) - Managing Director, Israel & Europe at Qualcomm Ventures.
@@ -1692,6 +2370,15 @@
 * [Emily Meads](quantonation.com--emily-meads-e0761f.md) - Principal at Quantonation.
 * [Olivier Tonneau](quantonation.com--olivier-tonneau-573797.md) - Partner at Quantonation.
 * [Will Zeng](quantonation.com--will-zeng-2245a6.md) - Partner at Quantonation.
+* [Alex Kvamme](quiet.com--alex-kvamme-8b8c46.md) - Partner at Quiet Capital.
+* [Ben Mahdavi](quiet.com--ben-mahdavi-8cce20.md) - Co-Founder & Managing Partner at Quiet Capital.
+* [Christopher Capozzi](quiet.com--christopher-capozzi-64ec01.md) - Partner & CFO at Quiet Capital.
+* [Daniel Gruneberg](quiet.com--daniel-gruneberg-e9235c.md) - Partner at Quiet Capital.
+* [David Greenbaum](quiet.com--david-greenbaum-08e276.md) - Partner at Quiet Capital.
+* [Kabir Masson](quiet.com--kabir-masson-07b7be.md) - Partner & General Counsel at Quiet Capital.
+* [Lee Linden](quiet.com--lee-linden-e994c4.md) - Co-Founder & Managing Partner at Quiet Capital.
+* [Matt Humphrey](quiet.com--matt-humphrey-eb6f07.md) - Co-Founder & Managing Partner at Quiet Capital.
+* [Michael Bloch](quiet.com--michael-bloch-3e2a50.md) - Partner at Quiet Capital.
 * [Jordan Jacobs](radical.vc--jordan-jacobs-bc31e45f.md) - Co-Founder & Managing Partner at Radical Ventures.
 * [Tomi Poutanen](radical.vc--tomi-poutanen-9a109497.md) - Co-founder, Partner at Radical Ventures.
 * [Luka Tomljenovic](radius.capital--luka-tomljenovic-78547b.md) - Partner at Radius Capital Ventures.
@@ -1722,6 +2409,11 @@
 * [Mira Kamp](redalpine.com--mira-kamp-8a3a27.md) - partner & managing director germany at redalpine.
 * [Peter Niederhauser](redalpine.com--peter-niederhauser-ddfa80.md) - founding partner at redalpine.
 * [Sebastian Becker](redalpine.com--sebastian-becker-6f89c6.md) - general partner at redalpine.
+* [David Leight](redcellpartners.com--david-leight-efd69f.md) - Investment Principal at Red Cell Partners.
+* [Eric Ossola](redcellpartners.com--eric-ossola-0d66d8.md) - Investment Principal at Red Cell Partners.
+* [Grant Verstandig](redcellpartners.com--grant-verstandig-61cac3.md) - Founder & CEO at Red Cell Partners.
+* [John Tiernan](redcellpartners.com--john-tiernan-6aa739.md) - President, Asset Management at Red Cell Partners.
+* [Roger W. Ferguson Jr.](redcellpartners.com--roger-w-ferguson-jr-6948a1.md) - Chief Investment Officer & Director at Red Cell Partners.
 * [Abel Samot](redriverwest.com--abel-samot-70a3f3.md) - Partner >commit at Red River West.
 * [Alfred Véricel](redriverwest.com--alfred-v-ricel-c33d56.md) - Founding Partner at Red River West.
 * [Antoine Boulin](redriverwest.com--antoine-boulin-4f70ac.md) - Founding Partner at Red River West.
@@ -1738,10 +2430,15 @@
 * [Andy Dunn](redswanventures.com--andy-dunn-1fb0af.md) - Founding Partner at Red Swan Ventures.
 * [Caitlin Strandberg](redswanventures.com--caitlin-strandberg-ed673f.md) - Venture Partner at Red Swan Ventures.
 * [Sandy Cass](redswanventures.com--sandy-cass-4ae24d.md) - Managing Partner at Red Swan Ventures.
+* [Jake Cassaday](relayventures.com--jake-cassaday-7a35d5.md) - Partner at Relay Ventures.
+* [Hoang Phan](rendered.vc--hoang-phan-dd813c.md) - Executive Officer at Rendered VC.
+* [Jiten Dajee](rendered.vc--jiten-dajee-5cbb4a.md) - Director at Rendered VC.
 * [Annie Duke](renegadepartners.com--annie-duke-c9995e.md) - Special Partner at Renegade Partners.
 * [Renata Quintini](renegadepartners.com--renata-quintini-cf3857.md) - Co-Founder & Managing Director at Renegade Partners.
 * [Roseanne Wincek](renegadepartners.com--roseanne-wincek-1211bc.md) - Co-Founder & Managing Director at Renegade Partners.
 * [Susan Alban](renegadepartners.com--susan-alban-d4485b.md) - Chief People Officer & Operating Partner at Renegade Partners.
+* [Bassem Mansour](resiliencecapital.com--bassem-mansour-2459a1.md) - Co-CEO at Resilience Capital Partners.
+* [Steve Rosen](resiliencecapital.com--steve-rosen-c006dd.md) - Co-CEO at Resilience Capital Partners.
 * [Andy Cloyd](revolution.com--andy-cloyd-b007a6.md) - Venture Partner, Rise of the Rest at Revolution.
 * [Clara Sieg](revolution.com--clara-sieg-d9ff59.md) - Operating Partner, Revolution Ventures at Revolution.
 * [Clint Myers](revolution.com--clint-myers-16e01b.md) - Partner, Rise of the Rest Real Estate at Revolution.
@@ -1757,12 +2454,18 @@
 * [Jason Whaley](rhapsodyvp.com--jason-whaley-e53fc5.md) - General Partner at Rhapsody Venture Partners.
 * [Jessica Freyer](rhapsodyvp.com--jessica-freyer-2f0897.md) - Partner at Rhapsody Venture Partners.
 * [Mike Fuerstman](rhapsodyvp.com--mike-fuerstman-9daaf4.md) - Partner at Rhapsody Venture Partners.
+* [Will Coffield](riot.vc--will-coffield-295c8a.md) - co-founder and general partner at Riot Ventures.
+* [Jerome Ternynck](robincap.com--jerome-ternynck-168afd.md) - venture partner at Robin Capital.
+* [Lea Vajnorsky](robincap.com--lea-vajnorsky-85e6bb.md) - venture partner at Robin Capital.
+* [Renaud Visage](robincap.com--renaud-visage-832e01.md) - venture partner at Robin Capital.
+* [Robin Haak](robincap.com--robin-haak-371729.md) - solo GP at Robin Capital.
 * [Avidan Ross](root.vc--avidan-ross-7a50ee.md) - Managing Partner at Root Ventures.
 * [Ben Lovell](root.vc--ben-lovell-27a593.md) - Head of Operations at Root Ventures.
 * [Chrissy Meyer](root.vc--chrissy-meyer-c532ff.md) - Partner at Root Ventures.
 * [Kane Hsieh](root.vc--kane-hsieh-fca5d7.md) - Partner at Root Ventures.
 * [Lee Edwards](root.vc--lee-edwards-d84409.md) - Partner at Root Ventures.
 * [Zodi Chalat](root.vc--zodi-chalat-5f3d8b.md) - Associate at Root Ventures.
+* [Pablo Legorreta](royaltypharma.com--pablo-legorreta-a326c5.md) - Founder & Chief Executive Officer at Royalty Pharma plc.
 * [Aishwarya Rane](rpsventures.com--aishwarya-rane-578d5e.md) - Investor at RPS Ventures.
 * [Keeyan Irvije](rpsventures.com--keeyan-irvije-faa930.md) - Investor at RPS Ventures.
 * [Nancy Hilliker](rpsventures.com--nancy-hilliker-d77a89.md) - Principal at RPS Ventures.
@@ -1800,6 +2503,18 @@
 * [Masud Alisoy](sabah.fund--masud-alisoy-eabbb11d.md) - Senior Investment Associate at SABAH.fund.
 * [Rahim Bayramli](sabah.fund--rahim-bayramli-90689829.md) - Co-Founding General Partner at SABAH.fund.
 * [Sultan Abdullayev](sabah.fund--sultan-abdullayev-e1d0d90e.md) - Investment Analyst at SABAH.fund.
+* [Gene Yoon](sagemount.com--gene-yoon-5cd4e9.md) - Founder and Managing Partner at Bregal Sagemount.
+* [Abe Bassan](samsaracap.com--abe-bassan-7125d6.md) - Partner at Samsara BioCapital.
+* [Clara Dong, PhD](samsaracap.com--clara-dong-phd-0480e7.md) - Senior Associate at Samsara BioCapital.
+* [Ehi Akhirome, MD, PhD](samsaracap.com--ehi-akhirome-md-phd-ab43a6.md) - Senior Associate at Samsara BioCapital.
+* [Jake Bieber-Dishart, PhD](samsaracap.com--jake-bieber-dishart-phd-b4d051.md) - Senior Associate at Samsara BioCapital.
+* [Jim P. Edwards, PhD](samsaracap.com--jim-p-edwards-phd-de2a0d.md) - Venture Partner at Samsara BioCapital.
+* [Matt Eckler, PhD](samsaracap.com--matt-eckler-phd-0c3794.md) - Principal, Public Investing at Samsara BioCapital.
+* [Mike Dybbs, PhD](samsaracap.com--mike-dybbs-phd-6bfbb9.md) - Partner at Samsara BioCapital.
+* [Mitchell Mutz, PhD](samsaracap.com--mitchell-mutz-phd-23e4ff.md) - Senior Principal at Samsara BioCapital.
+* [Srini Akkaraju, MD, PhD](samsaracap.com--srini-akkaraju-md-phd-cd2b5e.md) - Founder & Managing Partner at Samsara BioCapital.
+* [Isabelle Siegrist](sand-born.com--isabelle-siegrist-c50750.md) - Founder at Sandborn GmbH.
+* [Luca Marie Sorg](sand-born.com--luca-marie-sorg-31e303.md) - Team member at Sandborn GmbH.
 * [Barron B. Martin Jr., CFA](sandscapital.com--barron-b-martin-jr-cfa-d8e7f5.md) - Managing Partner at Sands Capital.
 * [Christopher Eng](sandscapital.com--christopher-eng-d47e89.md) - Partner at Sands Capital.
 * [Christy Steele](sandscapital.com--christy-steele-737f16.md) - Partner at Sands Capital.
@@ -1808,6 +2523,9 @@
 * [Marina Serenbetz](sandscapital.com--marina-serenbetz-d88df0.md) - Partner at Sands Capital.
 * [Mark McGovern](sandscapital.com--mark-mcgovern-ceceae.md) - Partner at Sands Capital.
 * [Michael Clarke](sandscapital.com--michael-clarke-a8a09d.md) - Managing Partner at Sands Capital.
+* [Andrew K. Smith](savoryfund.com--andrew-k-smith-13c172.md) - co-founder and managing director at Savory Fund.
+* [Clay Dover](savoryfund.com--clay-dover-790382.md) - CEO at Savory Fund.
+* [Shauna K. Smith](savoryfund.com--shauna-k-smith-32c9c1.md) - co-founder and managing director at Savory Fund.
 * [Edward Chung](sbvacorp.com--edward-chung-3da7e7e0.md) - Senior Managing Director (Head of Korea Investment Div.) at SBVA.
 * [JP Lee](sbvacorp.com--jp-lee-70a03703.md) - CEO at SBVA.
 * [Seung Lee](sbvacorp.com--seung-lee-6d5c2946.md) - Executive Managing Director (CFO · Head of Growth Equity Div.) at SBVA.
@@ -1834,6 +2552,16 @@
 * [Rory O'Driscoll](scalevp.com--rory-o-driscoll-e9611f.md) - Partner at Scale Venture Partners.
 * [Siddharth Ramakrishnan](scalevp.com--siddharth-ramakrishnan-488b60.md) - Partner at Scale Venture Partners.
 * [Stacey Bishop](scalevp.com--stacey-bishop-62a341.md) - Partner at Scale Venture Partners.
+* [Julian Counihan](schematicventures.com--julian-counihan-10d74d.md) - General Partner at Schematic Ventures.
+* [Brad Harrison](scoutventures.com--brad-harrison-a2b7f8.md) - Managing Partner at Scout Ventures.
+* [Alex](sdventures.ai--alex-db74c9.md) - asset management and investments executive at SD Ventures.
+* [Denis Borisenko](sdventures.ai--denis-borisenko-1de960.md) - Head of Real Estate at SD Ventures.
+* [Fern Srisomsup](seaxventures.vc--fern-srisomsup-24b20a.md) - Chief of Staff at SeaX Ventures.
+* [Fon Vichitmontre](seaxventures.vc--fon-vichitmontre-0c6088.md) - Analyst at SeaX Ventures.
+* [Jo Wongcharoenyai](seaxventures.vc--jo-wongcharoenyai-4c2591.md) - Partner at SeaX Ventures.
+* [Kid Parchariyanon](seaxventures.vc--kid-parchariyanon-86fa3e.md) - Founder and Managing Partner at SeaX Ventures.
+* [Poom Tanthaprabha](seaxventures.vc--poom-tanthaprabha-579718.md) - Portfolio Manager at SeaX Ventures.
+* [Sarin Vongsuwanlert](seaxventures.vc--sarin-vongsuwanlert-a0ba80.md) - Senior Associate at SeaX Ventures.
 * [Carsten Maschmeyer](seedandspeed.com--carsten-maschmeyer-6dcb6f.md) - Founder and Managing Director at seed + speed Ventures.
 * [Daniel Steffen](seedandspeed.com--daniel-steffen-690745.md) - Senior Investment Manager at seed + speed Ventures.
 * [Isabelle Thierfelder](seedandspeed.com--isabelle-thierfelder-addf4e.md) - Senior Investment Manager at seed + speed Ventures.
@@ -1846,6 +2574,9 @@
 * [Tine Lindgreen](seedcapital.dk--tine-lindgreen-1e0ee1.md) - Partner at SEED Capital.
 * [Ulla Brockenhuus-Schack](seedcapital.dk--ulla-brockenhuus-schack-be9af0.md) - General Partner at SEED Capital.
 * [David Van Tieghem](seederfund.be--david-van-tieghem-c304f0.md) - Partner at Seeder Fund.
+* [Buck Buckley](semcap.com--buck-buckley-86e931.md) - Co-Founder and CIO at SEMCAP (Seminal Capital Holdings, LLC).
+* [Cyrus Vandrevala](semcap.com--cyrus-vandrevala-6abb47.md) - Co-Founder and CIO at SEMCAP (Seminal Capital Holdings, LLC).
+* [John Haugen](semcap.com--john-haugen-04960e.md) - Managing Partner of SEMCAP Food & Nutrition at SEMCAP (Seminal Capital Holdings, LLC).
 * [Austin Meacham](sentinelglobal.xyz--austin-meacham-eeb320e9.md) - Senior Associate at Sentinel Global.
 * [Dror Sharon](sentinelglobal.xyz--dror-sharon-77c14766.md) - Partner, Sentinel Labs at Sentinel Global.
 * [Ethel Chen](sentinelglobal.xyz--ethel-chen-6c4b8dbb.md) - General Partner at Sentinel Global.
@@ -1862,12 +2593,30 @@
 * [Rob Desborough](seraphim.vc--rob-desborough-40b871.md) - General Partner and Chair of Seraphim Space Accelerator at Seraphim Space.
 * [Sarah Shackleton](seraphim.vc--sarah-shackleton-1fa541.md) - COO & Partner at Seraphim Space.
 * [Karine Arama](sghcapital.com--karine-arama-b9f753.md) - Partner at SGH Capital.
+* [Andrew Pluff](sidekickpartners.com--andrew-pluff-fd5559.md) - Chief of Staff at Sidekick Partners.
+* [Collins Ward](sidekickpartners.com--collins-ward-6ac5a6.md) - Partner at Sidekick Partners.
+* [Dylan Schuler](sidekickpartners.com--dylan-schuler-13f818.md) - Partner at Sidekick Partners.
+* [Eric Hardy](sidekickpartners.com--eric-hardy-2e39dd.md) - Director of Finance at Sidekick Partners.
+* [Hayden Kim](sidekickpartners.com--hayden-kim-bec19c.md) - Investment Associate at Sidekick Partners.
+* [Walton Ward](sidekickpartners.com--walton-ward-ede902.md) - Partner at Sidekick Partners.
 * [Ben Yu](sierraventures.com--ben-yu-925620.md) - Managing Partner at Sierra Ventures.
 * [Mark Fernandes](sierraventures.com--mark-fernandes-d2fe8b.md) - Managing Partner at Sierra Ventures.
 * [Shashank Saxena](sierraventures.com--shashank-saxena-a9f098.md) - Venture Partner at Sierra Ventures.
 * [Shomik Ghosh](sierraventures.com--shomik-ghosh-2f10c5.md) - Partner at Sierra Ventures.
 * [Tim Guleri](sierraventures.com--tim-guleri-16c81f.md) - Managing Partner at Sierra Ventures.
 * [Vignesh Ravikumar](sierraventures.com--vignesh-ravikumar-cf9a08.md) - Partner at Sierra Ventures.
+* [Chris Farmer](signalfire.com--chris-farmer-54f027.md) - Partner & CEO at SignalFire.
+* [Chris Scoggins](signalfire.com--chris-scoggins-c6951f.md) - Partner at SignalFire.
+* [Elaine Zelby](signalfire.com--elaine-zelby-e8ea78.md) - Venture Partner at SignalFire.
+* [Ellen Blix](signalfire.com--ellen-blix-dcf9c9.md) - Partner & Head of Investor Relations at SignalFire.
+* [Ilya Kirnos](signalfire.com--ilya-kirnos-55fdcb.md) - Partner & CTO at SignalFire.
+* [Jonathan Lim](signalfire.com--jonathan-lim-43394a.md) - Partner at SignalFire.
+* [Josh Constine](signalfire.com--josh-constine-d3bbcf.md) - Venture Partner at SignalFire.
+* [Sooah Cho](signalfire.com--sooah-cho-d19090.md) - AI in Health & PharmaTech Partner at SignalFire.
+* [Jeff Crisan](silversmith.com--jeff-crisan-320b12.md) - Founders and Managing Partners at Silversmith Capital Partners.
+* [Jim Quagliaroli](silversmith.com--jim-quagliaroli-cdbb47.md) - Founders and Managing Partners at Silversmith Capital Partners.
+* [Lori Whelan](silversmith.com--lori-whelan-814b2c.md) - Co-Founder and Chief Operating Partner at Silversmith Capital Partners.
+* [Todd MacLean](silversmith.com--todd-maclean-c8911c.md) - CoFounder and Managing Partner at Silversmith Capital Partners.
 * [Alyssa Dadoly](silvertonpartners.com--alyssa-dadoly-c5fc83.md) - CFO & Partner at Silverton Partners.
 * [Kip McClanahan](silvertonpartners.com--kip-mcclanahan-b3a134.md) - General Partner at Silverton Partners.
 * [Mike Dodd](silvertonpartners.com--mike-dodd-e71ffa.md) - General Partner at Silverton Partners.
@@ -1889,11 +2638,42 @@
 * [Armine Galstyan](smartgate.vc--armine-galstyan-042ec4.md) - Principal, Head of the US Operations at SmartGateVC.
 * [Hambardzum Kaghketsyan](smartgate.vc--hambardzum-kaghketsyan-6a3a74.md) - Co-founder & Partner (Fund I) at SmartGateVC.
 * [Vazgen Hakobjanyan](smartgate.vc--vazgen-hakobjanyan-e84aba.md) - Co-founder & Partner (Fund I) at SmartGateVC.
+* [Dirk Beeusaert](smile-sail.com--dirk-beeusaert-d3ae34.md) - Investment Committee Member at Smile Sail.
+* [Erik Verrijssen](smile-sail.com--erik-verrijssen-9fd8fc.md) - Investment Committee Member at Smile Sail.
+* [Julia Beij](smile-sail.com--julia-beij-7ed3fa.md) - Investment Manager at Smile Sail.
+* [Lars Zuidinga](smile-sail.com--lars-zuidinga-159f91.md) - Investment Analyst at Smile Sail.
+* [Manfred Krikke](smile-sail.com--manfred-krikke-633fb1.md) - Investment Committee Member at Smile Sail.
+* [Maxim Herbosch](smile-sail.com--maxim-herbosch-e2fdb9.md) - Investment Associate at Smile Sail.
+* [Nico Bogaerts](smile-sail.com--nico-bogaerts-8195d1.md) - Partner, Investment Committee Member at Smile Sail.
+* [Olivier Timmerman](smile-sail.com--olivier-timmerman-58378b.md) - Investment Associate at Smile Sail.
+* [Rian Zwart](smile-sail.com--rian-zwart-b6ace2.md) - Senior Investment Manager at Smile Sail.
+* [Ronald Kemmeren](smile-sail.com--ronald-kemmeren-7f633d.md) - Partner, Investment Committee Member at Smile Sail.
+* [Urbain Vandeurzen](smile-sail.com--urbain-vandeurzen-9fcb25.md) - Chairman of the Board of Directors, Chairman of the Investment Committee at Smile Sail.
+* [Keith Block](smithpointcapital.com--keith-block-a59979.md) - Founder & CEO at Smith Point Capital.
 * [Adam Koopersmith](snak.vc--adam-koopersmith-2730e6b6.md) - Founder at SNAK Venture Partners.
 * [Sonia Nagar](snak.vc--sonia-nagar-77b0abf8.md) - Founder at SNAK Venture Partners.
+* [Jean-Evrard Dominicé](snglr.vc--jean-evrard-dominic-54c335.md) - Venture Partner at SNGLR Capital Transaction at SNGLR Capital AG.
+* [Chamath Palihapitiya](socialcapital.com--chamath-palihapitiya-99bee9.md) - founder and CEO at Social+Capital.
+* [Christian Gallagher](socraticpartners.com--christian-gallagher-c4820d.md) - General Partner at Socratic Partners.
+* [Greg Waters](socraticpartners.com--greg-waters-2270bb.md) - Managing Partner at Socratic Partners.
+* [Jim Pallotta](socraticpartners.com--jim-pallotta-1a5799.md) - General Partner at Socratic Partners.
+* [Rick Clemmer](socraticpartners.com--rick-clemmer-aeaf85.md) - Founding Partner at Socratic Partners.
 * [Alex Nevinsky](somersault.vc--alex-nevinsky-19541937.md) - General Partner at Somersault Ventures.
 * [Alex Turbanov](somersault.vc--alex-turbanov-0d9f8ae0.md) - General Partner at Somersault Ventures.
 * [Julia Nechaieva](somersault.vc--julia-nechaieva-b686f64f.md) - Venture Partner at Somersault Ventures.
+* [Bert Roberts](sorensoncapital.com--bert-roberts-fb7d7d.md) - Partner, Head of Investor Relations at Sorenson Capital.
+* [Brady Broadbent](sorensoncapital.com--brady-broadbent-7f37e5.md) - Partner at Sorenson Capital.
+* [Burke Davis](sorensoncapital.com--burke-davis-761e9b.md) - Partner at Sorenson Capital.
+* [Chris Hulme](sorensoncapital.com--chris-hulme-f1b4ac.md) - Senior Associate at Sorenson Capital.
+* [Eric Hilton](sorensoncapital.com--eric-hilton-ed83f8.md) - Partner at Sorenson Capital.
+* [Grace Wang](sorensoncapital.com--grace-wang-e86d74.md) - Investor at Sorenson Capital.
+* [Jeff Todd](sorensoncapital.com--jeff-todd-dbd168.md) - Vice President at Sorenson Capital.
+* [Josh Anagnostou](sorensoncapital.com--josh-anagnostou-8bcaa5.md) - Investor at Sorenson Capital.
+* [Ken Elefant](sorensoncapital.com--ken-elefant-bca4a3.md) - Partner at Sorenson Capital.
+* [Ory Ratoviz](sorensoncapital.com--ory-ratoviz-1bf65b.md) - Investor at Sorenson Capital.
+* [PJ Marsh](sorensoncapital.com--pj-marsh-c9a03c.md) - Investor at Sorenson Capital.
+* [Rob Rueckert](sorensoncapital.com--rob-rueckert-57779f.md) - Partner at Sorenson Capital.
+* [Weston Wallin](sorensoncapital.com--weston-wallin-3d3ef9.md) - Investor at Sorenson Capital.
 * [Avra van der Zee](sosv.com--avra-van-der-zee-4cd42c.md) - SOSV GP at SOSV.
 * [Cyril Ebersweiler](sosv.com--cyril-ebersweiler-1553e3.md) - SOSV GP at SOSV.
 * [Deborah Zajac](sosv.com--deborah-zajac-f9563d.md) - SOSV GP at SOSV.
@@ -1903,6 +2683,9 @@
 * [Po Bronson](sosv.com--po-bronson-12e23a.md) - Managing Director & SOSV GP at SOSV.
 * [Sean O'Sullivan](sosv.com--sean-o-sullivan-96d9f6.md) - Managing General Partner at SOSV.
 * [Stephen Chambers, PhD](sosv.com--stephen-chambers-phd-d701fc.md) - Managing Director & SOSV GP at SOSV.
+* [Lauren MacDonald](sozoventures.com--lauren-macdonald-bbf6a1.md) - Principal at Sozo Ventures.
+* [Phil Wickham](sozoventures.com--phil-wickham-fabc6f.md) - Executive Managing Director at Sozo Ventures.
+* [Spencer Foust](sozoventures.com--spencer-foust-c03527.md) - Managing Director at Sozo Ventures.
 * [Ajey Kaushal](spark.jllt.com--ajey-kaushal-13d0c4.md) - Investment Principal at JLL Spark Global Ventures.
 * [Arnaud Bouzinac](spark.jllt.com--arnaud-bouzinac-feb5a3.md) - Growth Principal at JLL Spark Global Ventures.
 * [Carolyn Trickett](spark.jllt.com--carolyn-trickett-c79d69.md) - Growth Principal at JLL Spark Global Ventures.
@@ -1931,11 +2714,31 @@
 * [Tom Filip Lesche](speedinvest.com--tom-filip-lesche-830b07.md) - Partner at Speedinvest GmbH.
 * [Werner Zahnt](speedinvest.com--werner-zahnt-27c388.md) - Founding Partner, Corporate Development at Speedinvest GmbH.
 * [Will Wells](speedinvest.com--will-wells-f860cc.md) - Partner at Speedinvest GmbH.
+* [Andrew Parker](spero.vc--andrew-parker-d75613.md) - General Partner at Spero Ventures.
+* [Marc Tarpenning](spero.vc--marc-tarpenning-aded43.md) - Venture Partner at Spero Ventures.
+* [Nolan Shah](spero.vc--nolan-shah-4fdadd.md) - Associate at Spero Ventures.
+* [Sara Eshelman](spero.vc--sara-eshelman-a94408.md) - General Partner at Spero Ventures.
+* [Shripriya Mahesh](spero.vc--shripriya-mahesh-98b519.md) - General Partner at Spero Ventures.
+* [Stephen Wemple](spero.vc--stephen-wemple-19e160.md) - Principal at Spero Ventures.
+* [Daniel Andres](spicehaus.com--daniel-andres-261984.md) - Founding Partner at Spicehaus Partners AG.
+* [Dr. Teddy Amberg](spicehaus.com--dr-teddy-amberg-328d2c.md) - Founding Partner at Spicehaus Partners AG.
+* [Yannick Pfister](spicehaus.com--yannick-pfister-37d36c.md) - Investment Manager at Spicehaus Partners AG.
+* [Michael Neril](spidercapital.com--michael-neril-4de068.md) - Founder & Managing Partner at Spider Capital.
 * [John Cannon](springrockcapital.com--john-cannon-c88727.md) - Founding Partner at Spring Rock Capital.
 * [Roger Savage](springrockcapital.com--roger-savage-6b2a31.md) - Operating Partner at Spring Rock Capital.
+* [Dan Madden](squadra.vc--dan-madden-be7bcc.md) - Principal, National Security at Squadra Ventures.
+* [Dominic Ventimiglia](squadra.vc--dominic-ventimiglia-fd9aae.md) - Principal, Network Operations at Squadra Ventures.
+* [Guy Filippelli](squadra.vc--guy-filippelli-9edf72.md) - Managing Partner at Squadra Ventures.
+* [John Timken](squadra.vc--john-timken-7379be.md) - COO + CFO at Squadra Ventures.
+* [Margaret Roth](squadra.vc--margaret-roth-c779cb.md) - Principal at Squadra Ventures.
+* [Meghan McGee](squadra.vc--meghan-mcgee-9e7ad4.md) - Head of Platform at Squadra Ventures.
 * [Charlotte Baumhauer](squareone.vc--charlotte-baumhauer-c7ceec.md) - Principal at SquareOne.
 * [Christian Buchenau](squareone.vc--christian-buchenau-bd9975.md) - Partner at SquareOne.
 * [Georg Stockinger](squareone.vc--georg-stockinger-e2a38f.md) - Partner at SquareOne.
+* [Andreas Bezner](stableton.com--andreas-bezner-a9f7e5.md) - Co-Founder and Managing Partner at Stableton Financial AG.
+* [Konstantin Heiermann](stableton.com--konstantin-heiermann-15f836.md) - Co-Founder and Managing Partner at Stableton Financial AG.
+* [Angus Macfadyen](stac.ac--angus-macfadyen-537075.md) - head of investment at STAC Invest.
+* [Richard Thoms](starship.vc--richard-thoms-e8b572.md) - Executive Officer at Starship Ventures.
 * [Aishwarya Makkar](stellarisvp.com--aishwarya-makkar-cb6b91.md) - Investor at Stellaris Venture Partners.
 * [Alok Goyal](stellarisvp.com--alok-goyal-50447a.md) - Investor at Stellaris Venture Partners.
 * [Ishita Agarwal](stellarisvp.com--ishita-agarwal-70d163.md) - Investor at Stellaris Venture Partners.
@@ -1947,6 +2750,23 @@
 * [Swapnali Dalal](stellarisvp.com--swapnali-dalal-c6785e.md) - Investor at Stellaris Venture Partners.
 * [Vardhan Dharnidharka](stellarisvp.com--vardhan-dharnidharka-b2e2a5.md) - Investor at Stellaris Venture Partners.
 * [Varun Agarwal](stellarisvp.com--varun-agarwal-fa5324.md) - Investor at Stellaris Venture Partners.
+* [Arun Penmetsa](stormventures.com--arun-penmetsa-1ec5a9.md) - Partner at Storm Ventures.
+* [Christian Weniger](stormventures.com--christian-weniger-4b3acd.md) - Venture Partner at Storm Ventures.
+* [David Somers](stormventures.com--david-somers-7bc81a.md) - Partner at Storm Ventures.
+* [Minjoo Kim](stormventures.com--minjoo-kim-7cd92a.md) - Partner at Storm Ventures.
+* [Ryan Floyd](stormventures.com--ryan-floyd-da0cec.md) - Partner at Storm Ventures.
+* [Tae Hea Nahm](stormventures.com--tae-hea-nahm-07fb23.md) - Partner at Storm Ventures.
+* [Bertrand Camus](summaequity.com--bertrand-camus-0d5ba4.md) - Partner at Summa Equity.
+* [Christian Melby](summaequity.com--christian-melby-5db40d.md) - Partner & Chief Investment Officer at Summa Equity.
+* [Gisle Glück Evensen](summaequity.com--gisle-gl-ck-evensen-0ce024.md) - Partner at Summa Equity.
+* [Hannah Gunvor Jacobsen](summaequity.com--hannah-gunvor-jacobsen-2221c8.md) - Partner, Chief Operating Officer & Head of Investor Relations at Summa Equity.
+* [Jacob Frandsen](summaequity.com--jacob-frandsen-ce0c92.md) - Partner at Summa Equity.
+* [Johan Pietilä Holmner](summaequity.com--johan-pietil-holmner-a0af14.md) - Partner at Summa Equity.
+* [Martin Gjølme](summaequity.com--martin-gj-lme-3fda5a.md) - Partner at Summa Equity.
+* [Martin Sjölund](summaequity.com--martin-sj-lund-fee1be.md) - Partner & General Counsel at Summa Equity.
+* [Matthias Fink](summaequity.com--matthias-fink-1ef383.md) - Partner at Summa Equity.
+* [Reynir Indahl](summaequity.com--reynir-indahl-960640.md) - Founder & Managing Partner at Summa Equity.
+* [Stephanie Caspar](summaequity.com--stephanie-caspar-84f7bd.md) - Partner, Head of Portfolio & Via Summa at Summa Equity.
 * [Apurva Mehta](summitpeak.com--apurva-mehta-28aa0c.md) - Managing Partner & Co-Founder at Summit Peak Investments, LLC.
 * [Jesse Tejeda](summitpeak.com--jesse-tejeda-84d4a6.md) - Principal, Investments at Summit Peak Investments, LLC.
 * [Patrick O'Connor](summitpeak.com--patrick-o-connor-7d2ad7.md) - Managing Partner & Co-Founder at Summit Peak Investments, LLC.
@@ -1956,6 +2776,8 @@
 * [Jakob Storå](superherocapital.com--jakob-stor-d86699.md) - General Partner, Finland at Superhero Capital Oy.
 * [Juha Ruohonen](superherocapital.com--juha-ruohonen-e5a559.md) - General Partner, Finland at Superhero Capital Oy.
 * [Jussi Pyörre](superherocapital.com--jussi-py-rre-c28598.md) - CTO, Finland at Superhero Capital Oy.
+* [Laurens De Poorter](syndicate.one--laurens-de-poorter-494124.md) - Founder at Syndicate One at Syndicate One.
+* [Robin Wauters](syndicate.one--robin-wauters-0eb6f9.md) - Head of Ecosystem at Syndicate One.
 * [Ajit Nedungadi](ta.com--ajit-nedungadi-aaea31.md) - CEO and Co-Managing Partner at TA Associates.
 * [Eric Zagorski](ta.com--eric-zagorski-447095.md) - Principal at TA Associates.
 * [Giovanni Fantini](ta.com--giovanni-fantini-91230f.md) - Principal at TA Associates.
@@ -1967,13 +2789,94 @@
 * [Stefan Dandl](ta.com--stefan-dandl-31c51c.md) - Managing Director at TA Associates.
 * [Pedro Barros](targetglobal.vc--pedro-barros-b5793d.md) - Partner and Head of Fundraising & Investor Relations at Target Global.
 * [Shmuel Chafets](targetglobal.vc--shmuel-chafets-c3a454.md) - General Partner and Vice-Chairman at Target Global.
+* [Christof Neuner](tauroscapital.com--christof-neuner-436626.md) - Senior Investment Manager at TAUROS Capital Management GmbH.
+* [Thomas Bobek](tauroscapital.com--thomas-bobek-9b51eb.md) - Managing Director at TAUROS Capital Management GmbH.
+* [Werner Edlinger](tauroscapital.com--werner-edlinger-a3cb53.md) - Managing Director at TAUROS Capital Management GmbH.
 * [Jay Hoag](tcv.com--jay-hoag-1238ea.md) - Founding General Partner, Executive Committee at TCV.
 * [Rick Kimball](tcv.com--rick-kimball-8683de.md) - Founding General Partner, Senior Advisor at TCV.
+* [Ankur Saxena](tdk-ventures.com--ankur-saxena-13e8e1.md) - Investment Director at TDK Ventures, Inc.
+* [Anu Rajan](tdk-ventures.com--anu-rajan-91d361.md) - Investment Analyst at TDK Ventures, Inc.
+* [Dante Zakhidov](tdk-ventures.com--dante-zakhidov-b7bfca.md) - Investment Analyst at TDK Ventures, Inc.
+* [David Delfassy](tdk-ventures.com--david-delfassy-093047.md) - Investment Director at TDK Ventures, Inc.
+* [Handan Özgöcen](tdk-ventures.com--handan-zg-cen-0927f9.md) - Investment Analyst at TDK Ventures, Inc.
+* [Harel Lichtenstein](tdk-ventures.com--harel-lichtenstein-de4b79.md) - Investment Analyst at TDK Ventures, Inc.
+* [Jonas Höning](tdk-ventures.com--jonas-h-ning-2ab928.md) - Investment Fellow at TDK Ventures, Inc.
+* [Katherine He](tdk-ventures.com--katherine-he-e35c53.md) - Senior Investment Associate at TDK Ventures, Inc.
+* [Luca Zheng](tdk-ventures.com--luca-zheng-87a65c.md) - Investment Fellow at TDK Ventures, Inc.
+* [Maryanne Liu](tdk-ventures.com--maryanne-liu-95f057.md) - Investment Analyst at TDK Ventures, Inc.
+* [Ravi Jain](tdk-ventures.com--ravi-jain-80b26c.md) - Investment Director at TDK Ventures, Inc.
+* [Rebecca Donaldson](tdk-ventures.com--rebecca-donaldson-f1cd48.md) - Investment Analyst at TDK Ventures, Inc.
+* [Sam Hill](tdk-ventures.com--sam-hill-680e96.md) - Investment Associate at TDK Ventures, Inc.
+* [Tina Tosukhowong](tdk-ventures.com--tina-tosukhowong-a6f615.md) - Investment Director at TDK Ventures, Inc.
+* [Vasan Churchill](tdk-ventures.com--vasan-churchill-8e89f2.md) - Investment Analyst at TDK Ventures, Inc.
+* [Yan Yan](tdk-ventures.com--yan-yan-c4b506.md) - Investment Associate at TDK Ventures, Inc.
+* [Albert Bielinko](telstraventures.com--albert-bielinko-702bd7.md) - Venture Partner at Telstra Ventures.
+* [Eugin Lee](telstraventures.com--eugin-lee-392dcf.md) - Vice President at Telstra Ventures.
+* [Gurpreet Ghuliani](telstraventures.com--gurpreet-ghuliani-1e9498.md) - Operating Partner at Telstra Ventures.
+* [Jonathan Serfaty](telstraventures.com--jonathan-serfaty-e4ee78.md) - Partner, Head of Data at Telstra Ventures.
+* [Marcus Bartram](telstraventures.com--marcus-bartram-1444e8.md) - General Partner at Telstra Ventures.
+* [Mark Sherman](telstraventures.com--mark-sherman-90449b.md) - Managing Partner at Telstra Ventures.
+* [Matthew Koertge](telstraventures.com--matthew-koertge-a2070e.md) - Managing Director at Telstra Ventures.
+* [Saad Siddiqui](telstraventures.com--saad-siddiqui-590ef0.md) - General Partner at Telstra Ventures.
+* [Steve Schmidt](telstraventures.com--steve-schmidt-1270fc.md) - General Partner at Telstra Ventures.
+* [Yash Patel](telstraventures.com--yash-patel-2880f1.md) - General Partner at Telstra Ventures.
+* [Minnie Ingersoll](tenoneten.net--minnie-ingersoll-45ec1f.md) - partner at TenOneTen Ventures.
+* [Ailsa Young](thebank.scot--ailsa-young-0dd0e5.md) - Investment Director at Scottish National Investment Bank.
+* [Andy Clapp](thebank.scot--andy-clapp-c80ced.md) - Executive Director - Investment Portfolio Management at Scottish National Investment Bank.
+* [Craig Stevens](thebank.scot--craig-stevens-b0b19e.md) - Investment Director at Scottish National Investment Bank.
+* [Jane Reoch](thebank.scot--jane-reoch-3f2802.md) - Executive Director - Investment at Scottish National Investment Bank.
+* [Jimmy Williamson](thebank.scot--jimmy-williamson-be6c7c.md) - Executive Director - Investment at Scottish National Investment Bank.
+* [Laura Fidao](thebank.scot--laura-fidao-0a047d.md) - Investment Director at Scottish National Investment Bank.
+* [Mark Munro](thebank.scot--mark-munro-94c716.md) - Chief Investment Officer at Scottish National Investment Bank.
+* [Nicola Douglas](thebank.scot--nicola-douglas-ad1fbd.md) - Executive Director - Investment at Scottish National Investment Bank.
+* [Paul Callaghan](thebank.scot--paul-callaghan-fe725d.md) - Director - Innovation at Scottish National Investment Bank.
+* [Richard Skillen](thebank.scot--richard-skillen-4305d3.md) - Director - Investment Portfolio Management at Scottish National Investment Bank.
+* [Robin Tayal](thebank.scot--robin-tayal-f28e59.md) - Director - Net Zero at Scottish National Investment Bank.
+* [Susan Campbell](thebank.scot--susan-campbell-d4f129.md) - Director - Market Creation (Place) at Scottish National Investment Bank.
+* [Amanda Sheppard](thefsegroup.com--amanda-sheppard-5eb7bd.md) - Investment Manager at The FSE Group.
+* [Andrzej Bak](thefsegroup.com--andrzej-bak-354414.md) - Investment Associate at The FSE Group.
+* [Ann Marie McFadyen](thefsegroup.com--ann-marie-mcfadyen-cbc7b6.md) - Head of Funds, Yorkshire & Midlands at The FSE Group.
+* [Anna Staevska](thefsegroup.com--anna-staevska-6f998e.md) - Investment Manager at The FSE Group.
+* [Carl Bergholtz](thefsegroup.com--carl-bergholtz-94396d.md) - Investment Manager at The FSE Group.
+* [Cheryl Weeks](thefsegroup.com--cheryl-weeks-74a672.md) - Head of Funds, South East & East at The FSE Group.
+* [Chris Bailey](thefsegroup.com--chris-bailey-a0602a.md) - Investment Manager at The FSE Group.
+* [Danny Jones](thefsegroup.com--danny-jones-f25596.md) - Head of Debt, South West at The FSE Group.
+* [David Robertson](thefsegroup.com--david-robertson-3f158a.md) - Investment Manager at The FSE Group.
+* [David Young](thefsegroup.com--david-young-b51a70.md) - Investment Manager at The FSE Group.
+* [Jim Pritchard](thefsegroup.com--jim-pritchard-d7ba59.md) - Investment Manager at The FSE Group.
+* [John Thomson](thefsegroup.com--john-thomson-e63b02.md) - Associate Investment Manager at The FSE Group.
+* [Kala Desai](thefsegroup.com--kala-desai-99cb6c.md) - Head of Funds, London at The FSE Group.
+* [Laurie Felker Jones](thefsegroup.com--laurie-felker-jones-1548f5.md) - Investment Manager at The FSE Group.
+* [Lorenzo Omar](thefsegroup.com--lorenzo-omar-a548d0.md) - Investment Manager at The FSE Group.
+* [Marco Cerrone](thefsegroup.com--marco-cerrone-ce3a83.md) - Investment Manager at The FSE Group.
+* [Matt Browning](thefsegroup.com--matt-browning-e0dbec.md) - Investment Manager at The FSE Group.
+* [Matt Punter](thefsegroup.com--matt-punter-9f4687.md) - Investment Manager at The FSE Group.
+* [Mike Barber](thefsegroup.com--mike-barber-6a007e.md) - Investment Manager at The FSE Group.
+* [Mike Bowman](thefsegroup.com--mike-bowman-27c294.md) - Investment Manager at The FSE Group.
+* [Norrie Cook](thefsegroup.com--norrie-cook-92aba8.md) - Head of Fund, Scotland at The FSE Group.
+* [Patrick Burke](thefsegroup.com--patrick-burke-9329a8.md) - National Partnership and Investment Manager at The FSE Group.
+* [Paul Lyristis](thefsegroup.com--paul-lyristis-e983b3.md) - Investment Manager at The FSE Group.
+* [Ralph Singleton](thefsegroup.com--ralph-singleton-b46170.md) - Head of Equity, South West at The FSE Group.
+* [Rob Hillary](thefsegroup.com--rob-hillary-783667.md) - Investment Manager at The FSE Group.
+* [Rob Ward](thefsegroup.com--rob-ward-a3d513.md) - Investment Manager at The FSE Group.
+* [Simon Blackbourn](thefsegroup.com--simon-blackbourn-2c5e6c.md) - Investment Manager at The FSE Group.
+* [Stephen Mitchell](thefsegroup.com--stephen-mitchell-89adbb.md) - Investment Manager at The FSE Group.
+* [Annika Sten Pärson](theinnerfoundation.org--annika-sten-p-rson-9498a4.md) - Partner at The Inner Foundation.
+* [Pär-Jörgen Pärson](theinnerfoundation.org--p-r-j-rgen-p-rson-e6d0b4.md) - Non-executive board member at The Inner Foundation.
 * [Danny Samoon](thenucleusnetwork.com--danny-samoon-57bfd2.md) - Head of Growth at The Nucleus Network.
 * [Jake Fleshner](thenucleusnetwork.com--jake-fleshner-e22d78.md) - Co-Founder at The Nucleus Network.
 * [Lexa Natalie Juntado](thenucleusnetwork.com--lexa-natalie-juntado-24468a.md) - Social Media Manager at The Nucleus Network.
 * [Michael Axman](thenucleusnetwork.com--michael-axman-d1610b.md) - Co-Founder at The Nucleus Network.
 * [Nathalie Sundelin](thenucleusnetwork.com--nathalie-sundelin-889722.md) - Project Manager at The Nucleus Network.
+* [Afsaneh Mashayekhi Beschloss](therockcreekgroup.com--afsaneh-mashayekhi-beschloss-747cb4.md) - FOUNDER AND CEO at Rock Creek Group LLC (RockCreek).
+* [Roderick James Cruz](therockcreekgroup.com--roderick-james-cruz-8ca477.md) - CHIEF COMPLIANCE OFFICER & MANAGING DIRECTOR at Rock Creek Group LLC (RockCreek).
+* [Sherri Meryl Rossoff](therockcreekgroup.com--sherri-meryl-rossoff-d50fa5.md) - GENERAL COUNSEL & CHIEF OPERATING OFFICER at Rock Creek Group LLC (RockCreek).
+* [Adiel Gopas](thirdpointventures.com--adiel-gopas-c57541.md) - Associate at Third Point Ventures LLC.
+* [Curtis McKee](thirdpointventures.com--curtis-mckee-1db0e7.md) - Partner at Third Point Ventures LLC.
+* [Dan Moskowitz](thirdpointventures.com--dan-moskowitz-708b3f.md) - Partner at Third Point Ventures LLC.
+* [Daniel S. Loeb](thirdpointventures.com--daniel-s-loeb-4f2a72.md) - Founder & CEO at Third Point Ventures LLC.
+* [Robert Schwartz](thirdpointventures.com--robert-schwartz-d3a5e7.md) - Managing Partner at Third Point Ventures LLC.
+* [Sapir Harosh](thirdpointventures.com--sapir-harosh-8b9b09.md) - Partner at Third Point Ventures LLC.
 * [Miela Mayer](thirdsphere.com--miela-mayer-ef975e.md) - Operating Partner at Third Sphere (Third Sphere Management, LLC).
 * [Shaun Abrahamson](thirdsphere.com--shaun-abrahamson-86f597.md) - Co-GP at Third Sphere (Third Sphere Management, LLC).
 * [Yana Klimova](thirdsphere.com--yana-klimova-b24543.md) - CFO at Third Sphere (Third Sphere Management, LLC).
@@ -1988,6 +2891,7 @@
 * [Dave Yuan](tidemarkcap.com--dave-yuan-3768bd.md) - Founder and Partner at Tidemark.
 * [Rahul Agarwal](tidemarkcap.com--rahul-agarwal-77f293.md) - Partner at Tidemark.
 * [Rocky Gowni](tidemarkcap.com--rocky-gowni-6b92bb.md) - Partner at Tidemark.
+* [Mike Loretz](tides.vc--mike-loretz-720eac.md) - Founder and General Partner at Tides Ventures.
 * [Chase Coleman](tigerglobal.com--chase-coleman-e87390.md) - Founder at Tiger Global Management, LLC.
 * [Evan Feinberg](tigerglobal.com--evan-feinberg-210512.md) - Partner at Tiger Global Management, LLC.
 * [Griffin Schroeder](tigerglobal.com--griffin-schroeder-35a457.md) - Partner at Tiger Global Management, LLC.
@@ -2000,6 +2904,13 @@
 * [Ophelia Cai](tiny.vc--ophelia-cai-044f79.md) - Partner, Investing, Community at Tiny VC.
 * [Philipp Moehring](tiny.vc--philipp-moehring-5a1e0f.md) - Partner, Investing, Fundraising at Tiny VC.
 * [Sandra Lyness](tiny.vc--sandra-lyness-d91ce8.md) - Partner, Operations, Finance at Tiny VC.
+* [Dr. Hans-Peter Schlaudt](tion-health.com--dr-hans-peter-schlaudt-2a3317.md) - Gesellschafter & Vorstand at TION Health AG.
+* [Frank Michalak](tion-health.com--frank-michalak-b05c38.md) - Gesellschafter & Aufsichtsrat at TION Health AG.
+* [Ingo Schiller](tion-health.com--ingo-schiller-866d6f.md) - Gesellschafter & Vorstand at TION Health AG.
+* [Joachim Bovelet](tion-health.com--joachim-bovelet-21c599.md) - Gesellschafter & Aufsichtsratsvorsitzender at TION Health AG.
+* [Stefan Begemann](tion-health.com--stefan-begemann-e4fca2.md) - Gesellschafter & Aufsichtsrat at TION Health AG.
+* [Lorenzo Leoni](tiventures.ch--lorenzo-leoni-969fa7.md) - Managing partner at TiVenture SA (TiVentures).
+* [Paolo Orsatti](tiventures.ch--paolo-orsatti-fa2c90.md) - Managing partner at TiVenture SA (TiVentures).
 * [Alexander Morgulchik](tmtinvestments.com--alexander-morgulchik-1b7c30.md) - Head of Business Development at TMT Investments Plc.
 * [Alexander Pak](tmtinvestments.com--alexander-pak-890cd2.md) - Investment Director at TMT Investments Plc.
 * [Alexander Selegenev](tmtinvestments.com--alexander-selegenev-ea1c86.md) - Executive Director at TMT Investments Plc.
@@ -2011,6 +2922,34 @@
 * [Austin Echtenkamp](topology.vc--austin-echtenkamp-8eb03af7.md) - Operations & Finance at Topology Ventures.
 * [Casey Caruso](topology.vc--casey-caruso-bc78d9c7.md) - Founder and managing partner at Topology Ventures.
 * [Hunter Harloff](topology.vc--hunter-harloff-0d71e811.md) - Research at Topology Ventures.
+* [Andrew Marks](tqventures.com--andrew-marks-4b38d2.md) - Investment Team at TQ Ventures.
+* [Anna Gomez](tqventures.com--anna-gomez-f7cf12.md) - Infrastructure at TQ Ventures.
+* [Ethan Lin](tqventures.com--ethan-lin-7ac65b.md) - Venture Partners at TQ Ventures.
+* [Harshil Vejendla](tqventures.com--harshil-vejendla-569935.md) - Investment Team at TQ Ventures.
+* [Lindsay Amos](tqventures.com--lindsay-amos-068bfb.md) - Infrastructure at TQ Ventures.
+* [Olivia Bastianich](tqventures.com--olivia-bastianich-186d1a.md) - Infrastructure at TQ Ventures.
+* [Robbie Khazan](tqventures.com--robbie-khazan-a7facc.md) - Investment Team at TQ Ventures.
+* [Sal Spina](tqventures.com--sal-spina-f8e9aa.md) - Investment Team at TQ Ventures.
+* [Sandy Yao](tqventures.com--sandy-yao-1b90d2.md) - Investment Team at TQ Ventures.
+* [Sarah Hashash](tqventures.com--sarah-hashash-4319bc.md) - Venture Partners at TQ Ventures.
+* [Schuster Tanger](tqventures.com--schuster-tanger-d027e8.md) - Investment Team at TQ Ventures.
+* [Tanay Shah](tqventures.com--tanay-shah-f5b3fa.md) - Investment Team at TQ Ventures.
+* [Joel Aasmäe](trind.vc--joel-aasm-e-cf5561.md) - Managing Partner at Trind Ventures.
+* [Reima Linnanvirta](trind.vc--reima-linnanvirta-445edf.md) - Partner at Trind Ventures.
+* [Ajay Chopra](trinityventures.com--ajay-chopra-7fa141.md) - General Partner at Trinity Ventures.
+* [Larry Orr](trinityventures.com--larry-orr-17af47.md) - Partner Emeritus at Trinity Ventures.
+* [Noel Fenton](trinityventures.com--noel-fenton-182d59.md) - Founding Partner at Trinity Ventures.
+* [Patricia Nakache](trinityventures.com--patricia-nakache-5fb740.md) - General Partner at Trinity Ventures.
+* [Schwark Satyavolu](trinityventures.com--schwark-satyavolu-eab142.md) - Venture Partner at Trinity Ventures.
+* [Bernard-Louis Roques](truffle.com--bernard-louis-roques-85eee2.md) - CEO and Co-Founder at Truffle Capital.
+* [Henri Moulard](truffle.com--henri-moulard-61d7ca.md) - Chairman & Co-Founder at Truffle Capital.
+* [Philippe Pouletty, M.D.](truffle.com--philippe-pouletty-m-d-5585c5.md) - CEO and Co-Founder at Truffle Capital.
+* [Alex Carvalho](trventures.com--alex-carvalho-152d23.md) - Investor at Thomson Reuters Ventures.
+* [Jack Benedict](trventures.com--jack-benedict-52f853.md) - Principal at Thomson Reuters Ventures.
+* [Joe Dormani](trventures.com--joe-dormani-b0e91b.md) - Partner at Thomson Reuters Ventures.
+* [Josef Najm](trventures.com--josef-najm-1112af.md) - Principal at Thomson Reuters Ventures.
+* [Karen Lopez](trventures.com--karen-lopez-7fdb5f.md) - Investor at Thomson Reuters Ventures.
+* [Tamara Steffens](trventures.com--tamara-steffens-b2b896.md) - Managing Director at Thomson Reuters Ventures.
 * [Gardiner Garrard](ttvcapital.com--gardiner-garrard-4693b9.md) - Co-founder and Managing Partner at TTV Capital.
 * [Laney Lewis](ttvcapital.com--laney-lewis-7a94fe.md) - Partner at TTV Capital.
 * [Lizzie Hartley](ttvcapital.com--lizzie-hartley-dd6633.md) - Partner at TTV Capital.
@@ -2030,6 +2969,8 @@
 * [Marla Kanemitsu](tuskventures.com--marla-kanemitsu-259a71.md) - Advisor at Tusk Venture Partners.
 * [Shruti Kumar](tuskventures.com--shruti-kumar-5a4440.md) - Vice President at Tusk Venture Partners.
 * [Tim Sullivan](tuskventures.com--tim-sullivan-c2004e.md) - Advisor at Tusk Venture Partners.
+* [Colin Beirne](twosigmaventures.com--colin-beirne-7f8375.md) - partner at Two Sigma Ventures.
+* [Villi Iltchev](twosigmaventures.com--villi-iltchev-9a44b8.md) - partner at Two Sigma Ventures.
 * [Clarisse Lam](tx.ventures--clarisse-lam-7469e2.md) - Investment Manager at TX Ventures.
 * [Dr. Ulrich Schmitt](tx.ventures--dr-ulrich-schmitt-75c64a.md) - Head of TX Investment Committee at TX Ventures.
 * [Jens Schleuniger](tx.ventures--jens-schleuniger-d591c4.md) - Managing Partner at TX Ventures.
@@ -2038,6 +2979,24 @@
 * [Laurent Oberholzer](tx.ventures--laurent-oberholzer-51ea98.md) - Venture Partner at TX Ventures.
 * [Eyrin Kim](ubiquity.vc--eyrin-kim-669574.md) - Student Associate at Ubiquity Ventures.
 * [Sunil Nagaraj](ubiquity.vc--sunil-nagaraj-ff12c4.md) - Founder & Managing Partner at Ubiquity Ventures.
+* [Alice Shen](umamicap.com--alice-shen-16fa58.md) - Umami Capital venture ops is managed by at Umami Capital.
+* [James Lu Morrissey](umamicap.com--james-lu-morrissey-52f772.md) - Umami Capital is led by at Umami Capital.
+* [Costas Papaikonomou](unaterra.vc--costas-papaikonomou-330284.md) - PIPELINE & IC at Una Terra Venture Studio.
+* [Luca Zerbini](unaterra.vc--luca-zerbini-e3f892.md) - CHIEF EXECUTIVE OFFICER at Una Terra Venture Studio.
+* [Maya Poncelet](unaterra.vc--maya-poncelet-86065b.md) - PARTNERSHIPS at Una Terra Venture Studio.
+* [Natalia Eisele](unaterra.vc--natalia-eisele-07ff18.md) - DEAL MAKER at Una Terra Venture Studio.
+* [Rupen Desai](unaterra.vc--rupen-desai-6bfbf6.md) - MARKETING at Una Terra Venture Studio.
+* [Thomas Oury](unaterra.vc--thomas-oury-476457.md) - PIPELINE & IC at Una Terra Venture Studio.
+* [Amy Saper](uncorkcapital.com--amy-saper-e4622a.md) - General Partner at Uncork Capital.
+* [Andy McLoughlin](uncorkcapital.com--andy-mcloughlin-4d93fa.md) - Managing Partner at Uncork Capital.
+* [Belle Tangkuptanon](uncorkcapital.com--belle-tangkuptanon-114e06.md) - Associate at Uncork Capital.
+* [Isha Mehrotra](uncorkcapital.com--isha-mehrotra-537d62.md) - Associate at Uncork Capital.
+* [Jeff Clavier](uncorkcapital.com--jeff-clavier-e73e1f.md) - Founding Partner at Uncork Capital.
+* [Susan Liu](uncorkcapital.com--susan-liu-0fc5a8.md) - General Partner at Uncork Capital.
+* [Tripp Jones](uncorkcapital.com--tripp-jones-d1b624.md) - General Partner at Uncork Capital.
+* [Abhiram Appalaneni](unitygrowthfund.com--abhiram-appalaneni-4a856e.md) - Principal of Investments at Unity Growth Fund LLC.
+* [Rajendra Appalaneni](unitygrowthfund.com--rajendra-appalaneni-991821.md) - General Partner at Unity Growth Fund LLC.
+* [Shankar Gupta Boddu](unitygrowthfund.com--shankar-gupta-boddu-2af9a4.md) - Founder & General Partner at Unity Growth Fund LLC.
 * [Dani Tao](untapped.ventures--dani-tao-33037ae3.md) - Marketing Coordinator at Untapped Ventures.
 * [George Bandarian](untapped.ventures--george-bandarian-abb38728.md) - Founder, General Partner at Untapped Ventures.
 * [Hamlet Azarian](untapped.ventures--hamlet-azarian-2a212639.md) - Venture Partner, Growth Advisor at Untapped Ventures.
@@ -2046,6 +3005,10 @@
 * [Siva Kumar Thota](untapped.ventures--siva-kumar-thota-9f1904f1.md) - AI Engineer at Untapped Ventures.
 * [Tripp Doll](untapped.ventures--tripp-doll-34348ded.md) - Venture Associate at Untapped Ventures.
 * [Ulises Ceja](untapped.ventures--ulises-ceja-496b18e9.md) - Venture Associate at Untapped Ventures.
+* [Adam Grosser](up.partners--adam-grosser-92207e.md) - co-managing partner and chairman of the firm at UP.Partners.
+* [Ally Warson](up.partners--ally-warson-1b8b0f.md) - Principal at UP.Partners.
+* [Ben Marcus](up.partners--ben-marcus-da798c.md) - Co-founder at UP.Partners.
+* [Cyrus Sigari](up.partners--cyrus-sigari-85e1fa.md) - Co-founder at UP.Partners.
 * [Kevin Zhang](upfront.com--kevin-zhang-82fc30.md) - General Partner at Upfront Ventures.
 * [Mark Suster](upfront.com--mark-suster-e8a0c0.md) - General Partner at Upfront Ventures.
 * [Nick Kim](upfront.com--nick-kim-7e20e9.md) - General Partner at Upfront Ventures.
@@ -2079,6 +3042,12 @@
 * [Ethan Batraski](venrock.com--ethan-batraski-f87500.md) - Partner at Venrock.
 * [Nick Beim](venrock.com--nick-beim-ab6de6.md) - Partner at Venrock.
 * [Racquel Bracken](venrock.com--racquel-bracken-c6317f.md) - Partner at Venrock.
+* [Isabella Cordesmeyer](venture.baywa.com--isabella-cordesmeyer-d391e0.md) - Venture Manager, AgriFoodTech Venture Alliance at BayWa Venture.
+* [Kristal Golan](venture.baywa.com--kristal-golan-363eff.md) - Managing Director, AgriFoodTech Venture Alliance at BayWa Venture.
+* [Marie Ammann](venture.baywa.com--marie-ammann-ec46e4.md) - Senior Innovation & Startup Manager, AgriFoodTech Venture Alliance at BayWa Venture.
+* [Beat Schillig](venturekick.ch--beat-schillig-4b8a61.md) - experienced management team at Venture Kick.
+* [Jordi Montserrat](venturekick.ch--jordi-montserrat-7443f2.md) - experienced management team at Venture Kick.
+* [Philip Hassler](venturekick.ch--philip-hassler-5958ed.md) - experienced management team at Venture Kick.
 * [Alexander Schläpfer](ventures.swisscom.com--alexander-schl-pfer-e96618.md) - Managing Partner at Swisscom Ventures.
 * [Pär Lange](ventures.swisscom.com--p-r-lange-7beaa4.md) - Managing Partner at Swisscom Ventures.
 * [Semih Kaçan](ventures.swisscom.com--semih-ka-an-16b7e8.md) - Investment Director at Swisscom Ventures.
@@ -2087,6 +3056,10 @@
 * [Dolapo Morgan](venturesplatform.com--dolapo-morgan-5893a494.md) - Investment Principal at Ventures Platform.
 * [Kola Aina](venturesplatform.com--kola-aina-d8a94318.md) - Founding and Managing Partner at Ventures Platform.
 * [Yassin Tamer](venturesplatform.com--yassin-tamer-5f100809.md) - Investment Associate at Ventures Platform.
+* [Carl Nicholas Ng](verge.fund--carl-nicholas-ng-450fc5.md) - General Partner at Verge HealthTech Fund.
+* [Erki Mölder](verge.fund--erki-m-lder-759d9a.md) - Managing Partner at Verge HealthTech Fund.
+* [Joseph Mocanu](verge.fund--joseph-mocanu-6bf46e.md) - Co-Founder and Managing Partner at Verge HealthTech Fund.
+* [Scarlett Chen](verge.fund--scarlett-chen-c82189.md) - Managing Partner at Verge HealthTech Fund.
 * [Ashley Smith](vermilion.fund--ashley-smith-f4cc0598.md) - Founder, General Partner at Vermilion Cliffs Ventures.
 * [Meghan Murphy](vermilion.fund--meghan-murphy-32602b33.md) - Chief of Staff, Head of Platform at Vermilion Cliffs Ventures.
 * [Andy Weymann](verve.vc--andy-weymann-97e876.md) - Venture Partner, Frontiers in Health & Bio Investments at Verve Ventures.
@@ -2102,6 +3075,10 @@
 * [Kenneth A. Hersh](veteranventures.us--kenneth-a-hersh-70221d.md) - Anchor Investor and Advisor, Investment Committee at Veteran Ventures Capital.
 * [Paul Woolard](veteranventures.us--paul-woolard-fbce4f.md) - General Partner & Director of Engagement at Veteran Ventures Capital.
 * [Steve Kiser](veteranventures.us--steve-kiser-88f96f.md) - General Partner at Veteran Ventures Capital.
+* [George Zoidze](viaduct.vc--george-zoidze-cecab5.md) - Our Venture Partner at Viaduct Ventures.
+* [Stewart Guenther](viaduct.vc--stewart-guenther-a40511.md) - Our Team at Viaduct Ventures.
+* [Vadim Balashov](viaduct.vc--vadim-balashov-826607.md) - Our Team at Viaduct Ventures.
+* [Reid Hoffman](villageglobal.vc--reid-hoffman-728b9f.md) - Chairman at Village Global.
 * [Arnd Kaltofen](vipartners.ch--arnd-kaltofen-1fc500.md) - Managing Partner at Vi Partners.
 * [Cyrill Osterwalder](vipartners.ch--cyrill-osterwalder-39f5f6.md) - Operating Partner at Vi Partners.
 * [Daniel Gutenberg](vipartners.ch--daniel-gutenberg-54a0a4.md) - Venture Partner at Vi Partners.
@@ -2111,6 +3088,7 @@
 * [Magdalena Plotczyk](vipartners.ch--magdalena-plotczyk-174844.md) - Principal at Vi Partners.
 * [Olivier Laplace](vipartners.ch--olivier-laplace-9a0d67.md) - Managing Partner at Vi Partners.
 * [Yassine Zaied](vipartners.ch--yassine-zaied-5f14d7.md) - Operating Partner at Vi Partners.
+* [Sebastian Pollok](visionaries.vc--sebastian-pollok-7598b8.md) - co-founder at Visionaries Club.
 * [Atsushi Taira](visionnaire.vc--atsushi-taira-f8cd2b.md) - Advisor at Visionnaire Ventures.
 * [Fuyuki Yamaguchi](visionnaire.vc--fuyuki-yamaguchi-09ea03.md) - Managing Partner (Japan) at Visionnaire Ventures.
 * [Kenta Adachi](visionnaire.vc--kenta-adachi-af05d5.md) - Principal (Japan) at Visionnaire Ventures.
@@ -2180,6 +3158,7 @@
 * [Prof. Dr. Erich Schlick](wellington-partners.com--prof-dr-erich-schlick-b50d3f.md) - Venture Partner at Wellington Partners.
 * [Sabine Kannegiesser](wellington-partners.com--sabine-kannegiesser-b24122.md) - Partner at Wellington Partners.
 * [Stuart Essig, Ph.D.](wellington-partners.com--stuart-essig-ph-d-1cfcae.md) - Venture Partner at Wellington Partners.
+* [Matt Witheiler](wellington.com--matt-witheiler-b256ac.md) - Head of Late-Stage Growth at Wellington Management.
 * [Andy Cohen](wil.vc--andy-cohen-dffa94.md) - Partner at World Innovation Lab.
 * [Cheri Morohoshi](wil.vc--cheri-morohoshi-f83e33.md) - Partner, Investor Relations at World Innovation Lab.
 * [Gen Isayama](wil.vc--gen-isayama-8e09f8.md) - General Partner & CEO at World Innovation Lab.
@@ -2203,6 +3182,9 @@
 * [Markus](xdeck.vc--markus-f00b18.md) - Managing Partner at XDECK GmbH.
 * [Nik](xdeck.vc--nik-1a80b2.md) - Partner at XDECK GmbH.
 * [Oliver Steinki](xdeck.vc--oliver-steinki-b9a9da.md) - Founding Partner at XDECK GmbH.
+* [Annu Gmeiner](xista.vc--annu-gmeiner-614d02.md) - Principal at XISTA Science Ventures.
+* [Florian Resch](xista.vc--florian-resch-de1b62.md) - Managing Partner at XISTA Science Ventures.
+* [Stephan Huber](xista.vc--stephan-huber-ea48b4.md) - Venture Partner at XISTA Science Ventures.
 * [Alan Chiu](xseedcap.com--alan-chiu-d3fcf7.md) - Partner at XSeed Capital.
 * [Damon Cronkey](xseedcap.com--damon-cronkey-d062b9.md) - Partner at XSeed Capital.
 * [Michael Borrus](xseedcap.com--michael-borrus-6ef4c2.md) - Founding General Partner at XSeed Capital.
@@ -2222,3 +3204,5 @@
 * [Evan Morikawa](zeroshotfund.com--evan-morikawa-d58769e7.md) - Founding partner at Zero Shot Fund.
 * [Kelly Kovacs](zeroshotfund.com--kelly-kovacs-2bee1a79.md) - VC, joined the fund team at Zero Shot Fund.
 * [Shawn Jain](zeroshotfund.com--shawn-jain-d9e182b8.md) - Founding partner at Zero Shot Fund.
+* [Sami Abou Saab](zigzag.vc--sami-abou-saab-d95e47.md) - Founder & CEO at Zigzag Ventures.
+* [Iwan Deplazes](zkb.ch--iwan-deplazes-7a6d06.md) - Head of Asset Management at Zürcher Kantonalbank.

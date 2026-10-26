@@ -1,19 +1,21 @@
 ---
 type: Investor Firm
 title: Stellum Capital
-description: private equity; venture capital; pre-seed, seed, series A, growth; industrial,
-  services, consumer, technology, food and beverage.
+description: private equity; Food.
 resource: https://www.stellumcapital.com/en/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: stellumcapital.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 65
-status: draft
 sources:
+- id: s-93458e89
+  resource: https://mergr.com/investor/stellum-capital
+- id: s-aa4eb058
+  resource: https://stellumcapital.com/
 - id: s-fad9a726
   resource: https://www.stellumcapital.com/en/
 - id: s-ac1b261f
@@ -26,17 +28,14 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** spain (as of 2026-08-06)[^s-fad9a726]
-- **About:** Stellum Capital is a Spanish private equity manager founded in 2019 (San Sebastián/Bilbao), owned by Artizarra Fundazioa, a foundation of Basque and Navarrese entrepreneurs. It runs three vehicles , Stellum Growth (generalist SME growth/buyouts), Stellum Food & Tech (food & beverage value chain), and Easo Ventures (early-stage venture) , with roughly €250M AUM across all vehicles (as of 2026-08-06)[^s-fad9a726]
-- **Type:** private equity; venture capital (as of 2024-06)[^s-fad9a726]
-- **Investment strategies:** middle-market private equity, early-stage venture capital (as of 2024-06)[^s-fad9a726]
-- **Investment instruments:** equity, debt (as of 2024-06)[^s-fad9a726]
-- **Stages:** pre-seed, seed, series A, growth (as of 2026-09)[^s-ac1b261f]
-- **Sectors:** industrial, services, consumer, technology, food and beverage (as of 2026-07)[^s-76427336]
+- **Type:** private equity[^s-aa4eb058]
+- **HQ:** San Sebastian, Spain[^s-93458e89]
+- **Founded:** 2021[^s-93458e89]
+- **Sectors:** Food[^s-aa4eb058]
+- **AUM:** c.310M€[^s-aa4eb058]
+- **Thesis quote:** cuya vocación es la de apoyar a pequeñas y medianas empresas en el diseño y ejecución de sus planes de crecimiento[^s-aa4eb058]
+- **About:** Stellum Capital is an independent private equity fund manager supporting small and medium-sized companies in their growth plans.[^s-aa4eb058]
 - **Leads rounds:** yes (as of 2026-09)[^s-ac1b261f]
-- **AUM:** Approximately EUR 310 million (as of 2024-06) (as of 2024-06)[^s-fad9a726]
 
 ## Portfolio
 
@@ -53,6 +52,8 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 Not recorded.
 
+[^s-93458e89]: <https://mergr.com/investor/stellum-capital>
+[^s-aa4eb058]: <https://stellumcapital.com/>
 [^s-fad9a726]: <https://www.stellumcapital.com/en/>
 [^s-ac1b261f]: <https://www.stellumcapital.com/en/easo-ventures/>
 [^s-76427336]: <https://www.stellumcapital.com/en/stellum-growth/>

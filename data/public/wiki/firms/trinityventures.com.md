@@ -5,13 +5,12 @@ description: venture capital; early stage.
 resource: https://trinityventures.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: trinityventures.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 39
-status: draft
 sources:
 - id: s-f75b9fd1
   resource: https://trinityventures.com
@@ -21,19 +20,18 @@ sources:
   resource: https://www.trinityventures.com/about
 - id: s-a37f5e47
   resource: https://www.trinityventures.com/portfolio/arize
+- id: s-abd001af
+  resource: https://www.trinityventures.com/team
 ---
 
 # Trinity Ventures
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-04-19)[^s-f75b9fd1]
-- **About:** Trinity Ventures is a Bay Area early-stage investor with over 30 years of experience backing mission-driven entrepreneurs. The firm emphasizes personal engagement from day one and has supported founders of portfolio companies including Starbucks, thredUP, New Relic, Auth0, Weights & Biases, and Outreach. (as of 2026-04-19)[^s-f75b9fd1]
 - **Type:** venture capital[^s-68c39267]
-- **Investment strategies:** early-stage investing[^s-68c39267]
 - **Stages:** early stage[^s-68c39267]
+- **Thesis quote:** We invest in mission-driven entrepreneurs, not just their companies.[^s-ba070e4c]
+- **About:** Trinity Ventures is an early-stage venture investor that has backed entrepreneurs for over three decades.[^s-68c39267]
 - **Leads rounds:** yes[^s-a37f5e47]
 
 ## Portfolio
@@ -48,12 +46,22 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | thredUP[^s-f75b9fd1] | Not recorded | Not recorded | Not recorded |
 | Jive Software[^s-f75b9fd1] | Not recorded | Not recorded | Not recorded |
 | Photobucket[^s-f75b9fd1] | Not recorded | Not recorded | Not recorded |
+| Squire[^s-ba070e4c] | Not recorded | Not recorded | Not recorded |
+| Cohesity[^s-ba070e4c] | Not recorded | Not recorded | Not recorded |
+| VTS[^s-ba070e4c] | Not recorded | Not recorded | Not recorded |
+| Turo[^s-ba070e4c] | Not recorded | Not recorded | Not recorded |
+| Side[^s-ba070e4c] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
-Not recorded.
+- [Ajay Chopra](../people/trinityventures.com--ajay-chopra-7fa141.md) - General Partner
+- [Patricia Nakache](../people/trinityventures.com--patricia-nakache-5fb740.md) - General Partner
+- [Schwark Satyavolu](../people/trinityventures.com--schwark-satyavolu-eab142.md) - Venture Partner
+- [Noel Fenton](../people/trinityventures.com--noel-fenton-182d59.md) - Founding Partner
+- [Larry Orr](../people/trinityventures.com--larry-orr-17af47.md) - Partner Emeritus
 
 [^s-f75b9fd1]: <https://trinityventures.com>
 [^s-ba070e4c]: <https://www.trinityventures.com/>
 [^s-68c39267]: <https://www.trinityventures.com/about>
 [^s-a37f5e47]: <https://www.trinityventures.com/portfolio/arize>
+[^s-abd001af]: <https://www.trinityventures.com/team>

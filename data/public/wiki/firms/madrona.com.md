@@ -1,22 +1,24 @@
 ---
 type: Investor Firm
 title: Madrona
-description: venture capital firm; pre-seed, seed, Series A, Series B, Series C; Technology,
-  Intelligent Applications, AI infrastructure and agents, Low-Code/No-Code platforms,
-  AI-enabled Biotech, Consumer applications.
+description: seed, early, acceleration; applied AI, developer tools, cloud infrastructure,
+  AI-enabled biology.
 resource: https://madrona.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: madrona.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 30
-status: draft
 sources:
 - id: s-b3fc6b49
   resource: https://madrona.com
+- id: s-ae437b9f
+  resource: https://thevcpowerboard.com/firms/madrona/
+- id: s-59db4fb9
+  resource: https://www.madrona.com/
 - id: s-1acc0361
   resource: https://www.madrona.com/a-reasoning-flywheel-for-the-physical-economy-why-we-invested-in-atomic/
 - id: s-74f88b5e
@@ -29,23 +31,37 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** venture capital firm (as of 2025-01-23)[^s-80ea686c]
-- **Investment strategies:** multi-stage venture investing (as of 2025-01-23)[^s-80ea686c]
-- **Stages:** pre-seed, seed, Series A, Series B, Series C (as of 2025-01-23)[^s-80ea686c]
-- **Sectors:** Technology, Intelligent Applications, AI infrastructure and agents, Low-Code/No-Code platforms, AI-enabled Biotech, Consumer applications[^s-74f88b5e]
+- **Founded:** 1995 (as of 1995)[^s-ae437b9f]
+- **Stages:** seed, early, acceleration[^s-59db4fb9]
+- **Sectors:** applied AI, developer tools, cloud infrastructure, AI-enabled biology (as of 2025)[^s-ae437b9f]
+- **Geographies:** Seattle, Bay Area[^s-59db4fb9]
+- **AUM:** $1.6B (as of 2018)[^s-ae437b9f]
+- **Latest fund:** $770M (Fund X and Acceleration Fund IV) (as of 2025-01)[^s-ae437b9f]
+- **Thesis quote:** We are active, full-stack partners who roll up our sleeves to help founders turn ideas that are visionary into businesses that are transformational.[^s-59db4fb9]
+- **About:** Madrona is a Seattle-founded investor that backs founding teams at seed, early, and acceleration stages.[^s-59db4fb9]
 - **Leads rounds:** yes (as of 2026-09-29)[^s-1acc0361]
 
 ## Portfolio
 
-Not recorded.
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| Vinci[^s-59db4fb9] | Not recorded | Series B | 2026-10-06 |
+| Atomic[^s-59db4fb9] | Not recorded | Series A | 2026-09-29 |
+| Buywander[^s-59db4fb9] | Not recorded | Series A | 2026-09-15 |
+| Jack & Jill[^s-59db4fb9] | Not recorded | Series A | 2026-09-15 |
+| SciFin[^s-59db4fb9] | Not recorded | Not recorded | 2026-09-01 |
+| Smartsheet[^s-ae437b9f] | Not recorded | Not recorded | Not recorded |
+| Redfin[^s-ae437b9f] | Not recorded | Not recorded | Not recorded |
+| Impinj[^s-ae437b9f] | Not recorded | Not recorded | Not recorded |
+| Apptio[^s-ae437b9f] | Not recorded | Not recorded | Not recorded |
 
 ## People
 
 Not recorded.
 
 [^s-b3fc6b49]: <https://madrona.com>
+[^s-ae437b9f]: <https://thevcpowerboard.com/firms/madrona/>
+[^s-59db4fb9]: <https://www.madrona.com/>
 [^s-1acc0361]: <https://www.madrona.com/a-reasoning-flywheel-for-the-physical-economy-why-we-invested-in-atomic/>
 [^s-74f88b5e]: <https://www.madrona.com/about/>
 [^s-80ea686c]: <https://www.madrona.com/new-funds-visionary-founders-applied-ai/>

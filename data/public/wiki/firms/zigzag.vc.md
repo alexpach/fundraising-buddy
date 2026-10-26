@@ -1,18 +1,20 @@
 ---
 type: Investor Firm
 title: Zigzag Ventures
-description: startup investment program; pre-seed.
+description: venture capital; pre-seed; Financial Services, Social Entrepreneurship,
+  Venture Capital.
 resource: https://zigzag.vc/
 tags:
 - investor-firm
-- directory
+- sourced
 domain: zigzag.vc
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 28
-status: draft
 sources:
+- id: s-46ce2b1a
+  resource: https://theventurecodex.com/funds/zigzag
 - id: s-66ab34df
   resource: https://zigzag.vc/
 ---
@@ -21,20 +23,23 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe (as of 2026-08-07)[^s-66ab34df]
-- **About:** zigzag (zigzag.vc) is a London-registered early-stage investor/venture-builder ("Investment Management Company" per its UK LinkedIn listing; Crunchbase lists it as a VC firm "aiding entrepreneurs in validating and launching startups"). Its own site frames itself as a pre-seed cash-investment + hands-on-guidance programme rather than a classic fund (as of 2026-08-07)[^s-66ab34df]
-- **Type:** startup investment program[^s-66ab34df]
-- **Investment strategies:** early-stage startup support, pre-seed cash investment[^s-66ab34df]
+- **Type:** venture capital[^s-46ce2b1a]
+- **HQ:** London, United Kingdom[^s-46ce2b1a]
 - **Stages:** pre-seed[^s-66ab34df]
+- **Sectors:** Financial Services, Social Entrepreneurship, Venture Capital[^s-46ce2b1a]
+- **Geographies:** Germany[^s-46ce2b1a]
+- **Thesis quote:** A two-phase program to help you launch in four months followed by ongoing support.[^s-66ab34df]
+- **About:** Venture capital firm supporting startup validation and launch.[^s-46ce2b1a]
 
 ## Portfolio
 
-Not recorded.
+| Company | Sector | Round | Date |
+| --- | --- | --- | --- |
+| PENEMUE[^s-46ce2b1a] | Not recorded | Other Equity | Apr 2026 |
 
 ## People
 
-Not recorded.
+- [Sami Abou Saab](../people/zigzag.vc--sami-abou-saab-d95e47.md) - Founder & CEO
 
+[^s-46ce2b1a]: <https://theventurecodex.com/funds/zigzag>
 [^s-66ab34df]: <https://zigzag.vc/>

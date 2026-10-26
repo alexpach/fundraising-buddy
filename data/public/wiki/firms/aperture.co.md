@@ -1,33 +1,33 @@
 ---
 type: Investor Firm
 title: Aperture Capital
-description: vc; series-a, growth; fintech, ai.
+description: venture capital; fintech.
 resource: https://www.aperture.co
 tags:
 - investor-firm
-- directory
+- sourced
 domain: aperture.co
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 43
-status: draft
 sources:
 - id: s-7e1a1361
   resource: https://www.aperture.co
+- id: s-c416f5b4
+  resource: https://www.aperture.co/
 ---
 
 # Aperture Capital
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** vc (as of 2026-08-06)[^s-7e1a1361]
-- **Stages:** series-a, growth (as of 2026-08-06)[^s-7e1a1361]
-- **Geographies:** europe (as of 2026-08-06)[^s-7e1a1361]
-- **Sectors:** fintech, ai (as of 2026-08-06)[^s-7e1a1361]
+- **Type:** venture capital[^s-c416f5b4]
+- **Sectors:** fintech[^s-c416f5b4]
+- **Geographies:** Europe[^s-c416f5b4]
+- **Thesis quote:** Fintech is no longer a vertical. It is horizontal infrastructure.[^s-c416f5b4]
+- **About:** Aperture Capital is a fintech-focused venture investor that works hands-on with founders on strategy and go-to-market.[^s-c416f5b4]
 - **Leads rounds:** no[^s-7e1a1361]
-- **About:** Aperture Capital is a European early-growth VC firm focused on fintech and AI infrastructure, pairing capital with embedded operational execution via a 30+-person team of fintech domain experts and operators. Confirmed as a new institutional investor in Munich-based allO's $14M (€12M) Series A (led by Zigg Capital, alongside LifeX Ventures and existing investors 20VC and Keen Venture Partners) , t (as of 2026-08-06)[^s-7e1a1361]
 
 ## Portfolio
 
@@ -40,3 +40,4 @@ Directory seed with curated tags carried over from a legacy list; not independen
 Not recorded.
 
 [^s-7e1a1361]: <https://www.aperture.co>
+[^s-c416f5b4]: <https://www.aperture.co/>

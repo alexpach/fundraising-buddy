@@ -1,17 +1,22 @@
 ---
 type: Investor Firm
 title: Novo Holdings
-description: vc; seed, series-a, series-b, growth; biotech, life-sciences, healthtech.
+description: holding and investment company; all stages of development; healthcare,
+  bio-sustainability.
 resource: https://novoholdings.dk
 tags:
 - investor-firm
-- directory
+- sourced
 domain: novoholdings.dk
 generated:
   by: fundraising-buddy/catalog
+  at: '2026-10-14T00:00:00Z'
 jev-score: 40
-status: draft
 sources:
+- id: s-244f1836
+  resource: https://novoholdings.com/
+- id: s-4880d914
+  resource: https://novoholdings.com/people
 - id: s-839206db
   resource: https://novoholdings.dk
 ---
@@ -20,15 +25,14 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Type:** vc (as of 2026-08-07)[^s-839206db]
-- **Stages:** seed, series-a, series-b, growth (as of 2026-08-07)[^s-839206db]
-- **Geographies:** global (as of 2026-08-07)[^s-839206db]
-- **Sectors:** biotech, life-sciences, healthtech (as of 2026-08-07)[^s-839206db]
-- **AUM:** 93B (as of 2026-08-07)[^s-839206db]
+- **Type:** holding and investment company[^s-244f1836]
+- **HQ:** Hellerup, Denmark[^s-4880d914]
+- **Stages:** all stages of development[^s-244f1836]
+- **Sectors:** healthcare, bio-sustainability[^s-244f1836]
+- **AUM:** DKK 694 billion (EUR 93 billion) (as of 2025-12-31)[^s-244f1836]
+- **Thesis quote:** The purpose of Novo Holdings is to improve people’s health and the sustainability of society and the planet by generating attractive long-term returns on the assets of the Novo Nordisk Foundation.[^s-244f1836]
+- **About:** Novo Holdings is a holding and investment company that manages the assets of the Novo Nordisk Foundation.[^s-244f1836]
 - **Leads rounds:** unknown[^s-839206db]
-- **About:** Novo Holdings is the holding and investment company of the Novo Nordisk Foundation, controlling shareholder of Novo Nordisk and Novonesis, with DKK 694B (~EUR 93B) in total AUM as of year-end 2025. `type: vc` is an approximation , it's really a diversified foundation-owned holding company with five investment arms (Seed, Venture, Principal, Planetary Health, Capital Investments), only some of whic (as of 2026-08-07)[^s-839206db]
 
 ## Portfolio
 
@@ -43,6 +47,8 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## People
 
-Not recorded.
+- [Kasim Kutay](../people/novoholdings.dk--kasim-kutay-fa0bd3.md) - CEO, Novo Holdings
 
+[^s-244f1836]: <https://novoholdings.com/>
+[^s-4880d914]: <https://novoholdings.com/people>
 [^s-839206db]: <https://novoholdings.dk>

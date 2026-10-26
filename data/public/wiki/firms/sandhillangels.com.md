@@ -1,17 +1,16 @@
 ---
 type: Investor Firm
 title: Sand Hill Angels
-description: angel group; seed, series A, series B; Technology, Deep technology.
+description: angel syndicate; Seed, Series B; Technology.
 resource: https://sandhillangels.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: sandhillangels.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 50
-status: draft
 sources:
 - id: s-be96fe5e
   resource: https://sandhillangels.com
@@ -25,17 +24,13 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-07-02)[^s-be96fe5e]
-- **Check size min:** 50K (as of 2026-07-02)[^s-be96fe5e]
-- **Check size max:** 500K (as of 2026-07-02)[^s-be96fe5e]
-- **About:** Sand Hill Angels is one of Silicon Valley's longest-running angel groups , operating since 2000 as a member-driven organization of 145+ accredited investors, mostly technology entrepreneurs, executives, and operators with deep-technology backgrounds. The group invests Seed through Series B in "disruptive, scalable technologies," pooling member checks into a single LLC per deal (typically $200–300K (as of 2026-07-02)[^s-be96fe5e]
-- **Type:** angel group[^s-38a2cf39]
-- **Investment strategies:** early-stage angel investing[^s-38a2cf39]
-- **Legal structure:** member-led network without a fund[^s-38a2cf39]
-- **Stages:** seed, series A, series B[^s-9b72eb53]
-- **Sectors:** Technology, Deep technology[^s-38a2cf39]
+- **Type:** angel syndicate[^s-9b72eb53]
+- **Founded:** 2000[^s-9b72eb53]
+- **Stages:** Seed, Series B[^s-9b72eb53]
+- **Sectors:** Technology[^s-9b72eb53]
+- **Geographies:** Silicon Valley[^s-9b72eb53]
+- **Thesis quote:** We back founders who want more than capital: patient investors, real mentorship, and a network that opens doors — to customers, partners, talent, and whatever comes next.[^s-9b72eb53]
+- **About:** Sand Hill Angels is a member-led Silicon Valley angel group, founded in 2000, that invests from Seed through Series B.[^s-9b72eb53]
 
 ## Portfolio
 

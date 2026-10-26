@@ -10,7 +10,7 @@ tags:
 domain: tandemcap.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 52
 status: draft
 sources:
@@ -51,6 +51,14 @@ Directory seed with curated tags carried over from a legacy list; not independen
 | Vive[^s-0a9538b9] | Not recorded | Not recorded | Not recorded |
 | Prisma[^s-0a9538b9] | Not recorded | Not recorded | Not recorded |
 | SupplyPike[^s-0a9538b9] | Not recorded | Not recorded | Not recorded |
+| Bash Gaming[^s-d5d860b2] | Not recorded | Not recorded | Not recorded |
+| Boom.TV[^s-d5d860b2] | Not recorded | Not recorded | Not recorded |
+| PacketZoom[^s-d5d860b2] | Not recorded | Not recorded | Not recorded |
+| Yo Amo Media (Shoe Lovers)[^s-d5d860b2] | Not recorded | Not recorded | Not recorded |
+| Tile[^s-d5d860b2] | Not recorded | Not recorded | Not recorded |
+| Outdoorsy[^s-d5d860b2] | Not recorded | Not recorded | Not recorded |
+| Zumodrive[^s-d5d860b2] | Not recorded | Not recorded | Not recorded |
+| Flightcaster[^s-d5d860b2] | Not recorded | Not recorded | Not recorded |
 
 ## People
 

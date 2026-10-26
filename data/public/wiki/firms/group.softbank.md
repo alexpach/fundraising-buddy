@@ -10,12 +10,14 @@ tags:
 domain: group.softbank
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 31
 status: draft
 sources:
 - id: s-f225e33b
   resource: https://group.softbank
+- id: s-38f7f4b5
+  resource: https://group.softbank/
 - id: s-9b7ba9e1
   resource: https://group.softbank/en/about/profile
 - id: s-e9b1bea5
@@ -44,9 +46,10 @@ Not recorded.
 
 ## People
 
-Not recorded.
+- [孫 正義](../people/group.softbank---1f3733.md) - 代表取締役
 
 [^s-f225e33b]: <https://group.softbank>
+[^s-38f7f4b5]: <https://group.softbank/>
 [^s-9b7ba9e1]: <https://group.softbank/en/about/profile>
 [^s-e9b1bea5]: <https://group.softbank/en/ir/financials/annual_reports/2026/message/svf>
 [^s-6debf9bb]: <https://group.softbank/en/ir/financials/annual_reports/2026/who_we_are>

@@ -1,18 +1,16 @@
 ---
 type: Investor Firm
 title: TAUROS Capital Management GmbH
-description: revenue-based financing provider; scale-up, established SME; production,
-  services.
+description: revenue-based financing.
 resource: https://www.tauroscapital.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: tauroscapital.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-04T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 67
-status: draft
 sources:
 - id: s-2b98dc0e
   resource: https://www.crunchbase.com/organization/tauros-capital-management
@@ -24,23 +22,20 @@ sources:
   resource: https://www.tauroscapital.com/faq/
 - id: s-78b56684
   resource: https://www.tauroscapital.com/ueber-uns/
+- id: s-e3e0fcb5
+  resource: https://www.wienerborse.at/en/listing/going-public-ipo/capital-market-coach/tauros-capital-management/
 ---
 
 # TAUROS Capital Management GmbH
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** europe (as of 2026-08-07)[^s-2b98dc0e]
-- **Check size max:** 2M EUR (as of 2026-08-07)[^s-2b98dc0e]
-- **About:** TAUROS Capital, founded 2018 and based in Vienna, Austria, provides revenue-based financing (non-dilutive, subordinated capital, up to €2M) to growth-stage scale-ups and SMEs across the DACH region (Austria, Germany, Switzerland). 25 investments to date via 2 participation vehicles, per its own site (as of 2026-08-07)[^s-2b98dc0e]
-- **Type:** revenue-based financing provider[^s-78b56684]
-- **Investment strategies:** growth financing, revenue-based financing[^s-78b56684]
-- **Legal structure:** GmbH[^s-78b56684]
-- **Investment instruments:** revenue-based financing, subordinated capital[^s-78b56684]
-- **Stages:** scale-up, established SME[^s-78b56684]
-- **Sectors:** production, services[^s-c627b229]
+- **Type:** revenue-based financing[^s-d50fe1da]
+- **HQ:** Vienna, Austria[^s-e3e0fcb5]
+- **Geographies:** DACH[^s-d50fe1da]
+- **Check size max:** EUR 2M[^s-e3e0fcb5]
+- **Thesis quote:** TAUROS Capital provides subordinated capital in exchange for a temporary revenue participation right.[^s-e3e0fcb5]
+- **About:** TAUROS Capital Management GmbH is a Vienna-based provider of subordinated growth capital with revenue participation for SMEs.[^s-e3e0fcb5]
 
 ## Portfolio
 
@@ -55,10 +50,13 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## People
 
-Not recorded.
+- [Thomas Bobek](../people/tauroscapital.com--thomas-bobek-9b51eb.md) - Managing Director
+- [Werner Edlinger](../people/tauroscapital.com--werner-edlinger-a3cb53.md) - Managing Director
+- [Christof Neuner](../people/tauroscapital.com--christof-neuner-436626.md) - Senior Investment Manager
 
 [^s-2b98dc0e]: <https://www.crunchbase.com/organization/tauros-capital-management>
 [^s-cb42580f]: <https://www.tauroscapital.com>
 [^s-d50fe1da]: <https://www.tauroscapital.com/>
 [^s-c627b229]: <https://www.tauroscapital.com/faq/>
 [^s-78b56684]: <https://www.tauroscapital.com/ueber-uns/>
+[^s-e3e0fcb5]: <https://www.wienerborse.at/en/listing/going-public-ipo/capital-market-coach/tauros-capital-management/>

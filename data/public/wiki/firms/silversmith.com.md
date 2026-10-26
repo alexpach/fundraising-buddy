@@ -1,20 +1,24 @@
 ---
 type: Investor Firm
 title: Silversmith Capital Partners
-description: growth equity investor; growth; Technology, Healthcare.
+description: growth equity; growth equity; Software-as-a-Service (SaaS) & Information
+  Services, Healthcare Information Technology (HCIT) & Services.
 resource: https://silversmith.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: silversmith.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 67
-status: draft
 sources:
 - id: s-c3a23ff5
   resource: https://silversmith.com
+- id: s-def052f8
+  resource: https://www.monumentgroup.com/press-release/silversmith-capital-partners-closes-460-million
+- id: s-7b6a612f
+  resource: https://www.silversmith.com/
 - id: s-bb275385
   resource: https://www.silversmith.com/news/silversmith-capital-partners-closes-1-7-billion-fifth-fund
 - id: s-b7c77482
@@ -25,17 +29,17 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us, europe (as of 2026-07-02)[^s-c3a23ff5]
-- **Check size min:** 25M (as of 2026-07-02)[^s-c3a23ff5]
-- **Check size max:** 150M (as of 2026-07-02)[^s-c3a23ff5]
-- **Type:** growth equity investor (as of 2025-07-31)[^s-bb275385]
-- **Investment strategies:** growth-stage technology and healthcare investments (as of 2025-07-31)[^s-bb275385]
-- **Legal structure:** private investment firm (as of 2025-07-31)[^s-bb275385]
-- **Investment instruments:** equity (as of 2025-07-31)[^s-bb275385]
-- **Stages:** growth (as of 2025-07-31)[^s-bb275385]
-- **Sectors:** Technology, Healthcare (as of 2025-07-31)[^s-bb275385]
+- **Type:** growth equity (as of 2015-09-09)[^s-def052f8]
+- **HQ:** Boston (as of 2015-09-09)[^s-def052f8]
+- **Founded:** 2015 (as of 2015)[^s-def052f8]
+- **Stages:** growth equity (as of 2015-09-09)[^s-def052f8]
+- **Sectors:** Software-as-a-Service (SaaS) & Information Services, Healthcare Information Technology (HCIT) & Services (as of 2015-09-09)[^s-def052f8]
+- **Check size min:** $15M (as of 2015-09-09)[^s-def052f8]
+- **Check size max:** $50M (as of 2015-09-09)[^s-def052f8]
+- **AUM:** $460M (as of 2015-09-09)[^s-def052f8]
+- **Latest fund:** Silversmith Capital Partners I (SCP I), $460M (as of 2015-09-09)[^s-def052f8]
+- **Thesis quote:** We believe in collaborative, long-term partnerships.[^s-7b6a612f]
+- **About:** Boston-based growth equity firm investing in technology and healthcare companies, founded in 2015. (as of 2015-09-09)[^s-def052f8]
 - **Leads rounds:** yes (as of 2021-10-05)[^s-b7c77482]
 
 ## Portfolio
@@ -51,8 +55,13 @@ Directory seed with curated tags carried over from a legacy list; not independen
 
 ## People
 
-Not recorded.
+- [Todd MacLean](../people/silversmith.com--todd-maclean-c8911c.md) - CoFounder and Managing Partner
+- [Jeff Crisan](../people/silversmith.com--jeff-crisan-320b12.md) - Founders and Managing Partners
+- [Jim Quagliaroli](../people/silversmith.com--jim-quagliaroli-cdbb47.md) - Founders and Managing Partners
+- [Lori Whelan](../people/silversmith.com--lori-whelan-814b2c.md) - Co-Founder and Chief Operating Partner
 
 [^s-c3a23ff5]: <https://silversmith.com>
+[^s-def052f8]: <https://www.monumentgroup.com/press-release/silversmith-capital-partners-closes-460-million>
+[^s-7b6a612f]: <https://www.silversmith.com/>
 [^s-bb275385]: <https://www.silversmith.com/news/silversmith-capital-partners-closes-1-7-billion-fifth-fund>
 [^s-b7c77482]: <https://www.silversmith.com/news/tma-systems-raises-68-million-growth-investment-led-by-silversmith-capital-partners>

@@ -1,21 +1,23 @@
 ---
 type: Investor Firm
 title: DivcoWest Ventures
-description: venture capital; seed, growth; real estate technology, construction technology,
-  energy technology, critical infrastructure technology.
+description: real estate venture capital; technology.
 resource: https://divcowest.com
 tags:
 - investor-firm
-- directory
+- sourced
 domain: divcowest.com
 generated:
   by: fundraising-buddy/catalog
-  at: '2026-10-03T00:00:00Z'
+  at: '2026-10-14T00:00:00Z'
 jev-score: 63
-status: draft
 sources:
 - id: s-0a4e7171
   resource: https://divcowest.com
+- id: s-74abcae3
+  resource: https://divcowest.com/
+- id: s-74100bf9
+  resource: https://divcowest.com/company/expertise-strategy/
 - id: s-dd150cc6
   resource: https://divcowest.com/ventures/
 - id: s-c4801971
@@ -26,16 +28,12 @@ sources:
 
 ## Public research
 
-Directory seed with curated tags carried over from a legacy list; not independently sourced. Confirm identity and research fit before outreach.
-
-- **Geographies:** us (as of 2026-04-24)[^s-c4801971]
-- **Check size min:** 500K (as of 2026-04-24)[^s-c4801971]
-- **Check size max:** 10M (as of 2026-04-24)[^s-c4801971]
-- **About:** DivcoWest is a San Francisco-based vertically-integrated real-estate owner/operator/developer with ~$11B AUM and 39M+ sq ft acquired since inception. Its DivcoWest Ventures arm invests in proptech and built-world startups relevant to the firm's portfolio (office, life sciences, mixed-use) (as of 2026-04-24)[^s-c4801971]
-- **Type:** venture capital[^s-dd150cc6]
-- **Investment strategies:** early-stage, growth-stage[^s-dd150cc6]
-- **Stages:** seed, growth[^s-dd150cc6]
-- **Sectors:** real estate technology, construction technology, energy technology, critical infrastructure technology[^s-dd150cc6]
+- **Type:** real estate venture capital[^s-74100bf9]
+- **Sectors:** technology[^s-74100bf9]
+- **Geographies:** United States[^s-74100bf9]
+- **AUM:** $17.1B[^s-74abcae3]
+- **Thesis quote:** We don’t just invest in buildings; we invest in technology companies that have the potential to fundamentally transform the physical economy.[^s-74100bf9]
+- **About:** DivcoWest is a vertically-integrated real estate owner, operator, and developer with a national presence in the markets where it believes talent and innovation thrive.[^s-74abcae3]
 - **Leads rounds:** yes[^s-dd150cc6]
 
 ## Portfolio
@@ -47,5 +45,7 @@ Not recorded.
 Not recorded.
 
 [^s-0a4e7171]: <https://divcowest.com>
+[^s-74abcae3]: <https://divcowest.com/>
+[^s-74100bf9]: <https://divcowest.com/company/expertise-strategy/>
 [^s-dd150cc6]: <https://divcowest.com/ventures/>
 [^s-c4801971]: <https://www.crunchbase.com/organization/divcowest>
